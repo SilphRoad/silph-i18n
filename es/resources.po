@@ -1,0 +1,857 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-29 12:42-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 2.0.0\n"
+
+#: View/Pages/buddy_candy.ctp:3
+msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:6;13
+#: View/Pages/moves.ctp:6
+#: View/Pages/trainer_levels.ctp:6
+#: View/Pages/xp_earning.ctp:6
+msgid "The Silph Road Research group has compiled the following resources to help you on your adventures, travelers! Enjoy comprehensive species attack/defense stats, and more..."
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:12
+msgid "Pokemon GO Buddy Candy Requirements"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:69;267
+#: View/Pages/egg_distances.ctp:68
+#: View/Pages/moves.ctp:116;328
+#: View/Pages/species_stats.ctp:117
+#: View/Pages/trainer_levels.ctp:69;415
+#: View/Pages/xp_earning.ctp:61;217
+msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:81
+msgid "Buddy Pokemon KM Per Candy in Pokemon GO"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:83
+msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:93
+msgid "5 KMs Per Candy Reward"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:111;219
+#: View/Pages/egg_distances.ctp:188
+msgid "5km"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:128
+msgid "3 KMs Per Candy Reward"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:147
+msgid "3km"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:164
+msgid "1 KM Per Candy Reward"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:183
+msgid "1km"
+msgstr ""
+
+#: View/Pages/buddy_candy.ctp:200
+msgid "Unavailable KM Per Candy Rewards"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:2;11
+msgid "Pokemon GO Egg Distance Chart | The Silph Road"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:5;12
+msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:80
+msgid "Pokemon Go Egg Distance List"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:82
+msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:85
+msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:105
+msgid "10 KM Eggs"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:124
+msgid "10km"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:135;199;264
+msgid "Perfect:"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:147;211;276
+msgid "Worst:"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:169
+msgid "5 KM Eggs"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:234
+msgid "2 KM Eggs"
+msgstr ""
+
+#: View/Pages/egg_distances.ctp:253
+msgid "2km"
+msgstr ""
+
+#: View/Pages/moves.ctp:3
+msgid "Pokemon GO Moves"
+msgstr ""
+
+#: View/Pages/moves.ctp:128
+msgid "Move List in Pokemon GO"
+msgstr ""
+
+#: View/Pages/moves.ctp:130
+msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
+msgstr ""
+
+#: View/Pages/moves.ctp:139
+msgid "Quick Moves"
+msgstr ""
+
+#: View/Pages/moves.ctp:140
+msgid "Quick moves are used by 'tapping' the screen and do not require a full energy bar to use repeatedly! Quick moves do not 'critical hit.'"
+msgstr ""
+
+#: View/Pages/moves.ctp:144;217
+msgid "DPS"
+msgstr ""
+
+#: View/Pages/moves.ctp:145;218
+msgid "Move Name"
+msgstr ""
+
+#: View/Pages/moves.ctp:146;219
+msgid "Power"
+msgstr ""
+
+#: View/Pages/moves.ctp:147;220
+msgid "Duration (ms)"
+msgstr ""
+
+#: View/Pages/moves.ctp:148
+msgid "Energy Gain/Sec."
+msgstr ""
+
+#: View/Pages/moves.ctp:198
+msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
+msgstr ""
+
+#: View/Pages/moves.ctp:212
+msgid "Charge/Special Moves"
+msgstr ""
+
+#: View/Pages/moves.ctp:213
+msgid "Special moves are used by holding and pressing the screen after charging the blue 'energy' bars by inflicting damage with quick moves!"
+msgstr ""
+
+#: View/Pages/moves.ctp:223;227
+msgid "DPE"
+msgstr ""
+
+#: View/Pages/moves.ctp:224;228
+msgid "Damage (Power) From Full Energy Bar"
+msgstr ""
+
+#: View/Pages/moves.ctp:283
+msgid "No Silph Researchers have encountered a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:3;12
+msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:6;13
+msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO. Generation 2 Pokemon's base stats are able to be calculated due to..."
+msgstr ""
+
+#: View/Pages/species_stats.ctp:128
+msgid "Species Stats in Pokemon GO"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:130
+msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."
+msgstr ""
+
+#: View/Pages/species_stats.ctp:133
+msgid "Generation 2 Pokemon's base stats are able to be calculated due to the known conversion formula (discovered first by <a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbmi/exact_conversion_formula/'>/u/CustomOndo</a>) from the main series game stats.\n\t\t\t\t\t\t<b>Max Potential CP</b> is calculated from the known CP formula and the species base stats."
+msgstr ""
+
+#: View/Pages/species_stats.ctp:144
+msgid "Include Legendaries"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:148
+msgid "Include Gen 2 Pokemon"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:149
+msgid "New!"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:155
+msgid "SORT BY:"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:157
+msgid "Max Potential CP"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:158
+msgid "Species Number"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:159
+msgid "Best Attack Stat"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:160
+msgid "Best Defense Stat"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:161
+msgid "Best Stamina Stat"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:162
+msgid "Best Sum of Stats"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:163
+msgid "Best Product of Stats"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:190
+msgid "Height:"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:191
+msgid "Weight:"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:209
+msgid "Max CP"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:222
+msgid "Attack"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:234
+msgid "Defense"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:247
+msgid "Stamina"
+msgstr ""
+
+#: View/Pages/species_stats.ctp:303
+msgid "<b>Why Ads?</b> Logged-in travelers don't see ads! Join the community at <a href='https://reddit.com/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:3
+msgid "Pokemon GO Trainer Level Awards & Requirements"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:80
+msgid "Trainer Level Requirements + Bonuses"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:82
+msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:92
+msgid "Level"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:93
+msgid "XP required"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:94
+msgid "Total XP"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:95
+msgid "Unlocked items"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:96
+msgid "Rewards"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:109;110
+msgid "1,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:116
+msgid "2,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:117;123
+msgid "3,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:119;126;133
+msgid "Poke Ball"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:124;144
+msgid "6,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:130
+msgid "4,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:131;172;179;186;193
+msgid "10,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:132
+msgid "Gyms, Potions, Revives"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:133
+msgid "Potion"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:133
+msgid "Revive"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:133
+msgid "Incense"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:137
+msgid "5,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:138;200
+msgid "15,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:140
+msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incubator"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:145
+msgid "21,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:147
+msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incense"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:151
+msgid "7,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:152
+msgid "28,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:153
+msgid "Razz Berry"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:154
+msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x10), Lure Module"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:158
+msgid "8,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:159
+msgid "36,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:161
+msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x3), Lucky Egg"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:165
+msgid "9,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:166
+msgid "45,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:167
+msgid "Super Potions"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:168
+msgid "Poke Ball (x20), Super Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:173
+msgid "55,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:175
+msgid "Poke Ball (x15), Super Potion (x10), Revive (x3), Razz Berry (x3)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:180
+msgid "65,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:181
+msgid "Great Balls"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:182
+msgid "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:187;249
+msgid "75,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:189
+msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:194
+msgid "85,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:195
+msgid "Nanab Berry"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:196
+msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3), Nanab Berry (x3)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:201;256
+msgid "100,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:202
+msgid "Hyper Potions"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:203
+msgid "Great Ball (x15), Hyper Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:207;214;221
+msgid "20,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:208
+msgid "120,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:210;217
+msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:215
+msgid "140,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:222
+msgid "160,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:223
+msgid "Pinap Berry"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:224
+msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5), Pinap Berry (x5)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:228;235
+msgid "25,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:229
+msgid "185,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:231
+msgid "Great Ball (x15), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:236
+msgid "210,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:237
+msgid "Ultra Balls"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:238
+msgid "Ultra Ball (x20), Hyper Potion (x20), Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x2), Egg Incubator (x2), Lure Module (x2), Nanab Berry (x20)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:242
+msgid "50,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:243
+msgid "260,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:245
+msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Pinap Berry (x10)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:250
+msgid "335,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:252
+msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:257
+msgid "435,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:259
+msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Nanab Berry (x10)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:263
+msgid "125,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:264
+msgid "560,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:266
+msgid "Ultra Ball (x15), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:270
+msgid "150,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:271
+msgid "710,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:272
+msgid "Max Potions"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:273
+msgid "Ultra Ball (x25), Max Potion (x20), Revive (x15), Razz Berry (x15), Incense, Lucky Egg, Egg Incubator, Lure Module, Pinap Berry (x15)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:277
+msgid "190,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:278
+msgid "900,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:280;294
+msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:284
+msgid "200,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:285
+msgid "1,100,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:287
+msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:291
+msgid "250,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:292
+msgid "1,350,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:298
+msgid "300,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:299
+msgid "1,650,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:301
+msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Pinap Berry (x15)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:305
+msgid "350,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:306;354
+msgid "2,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:307
+msgid "Max Revive"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:308
+msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x3), Lucky Egg (x3), Egg Incubator (x3), Lure Module (x3)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:312;319
+msgid "500,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:313;361
+msgid "2,500,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:315
+msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:320
+msgid "3,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:322;336
+msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:326
+msgid "750,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:327
+msgid "3,750,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:329
+msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Pinap Berry (x15)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:333
+msgid "1,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:334
+msgid "4,750,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:340
+msgid "1,250,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:341
+msgid "6,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:343
+msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x1), Lure Module (x1), Nanab Berry (x20)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:347
+msgid "1,500,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:348
+msgid "7,500,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:350;364
+msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:355
+msgid "9,500,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:357
+msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20), Pinap Berry (x20)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:362
+msgid "12,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:368
+msgid ">3,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:369
+msgid "15,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:371
+msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Nanab Berry (x20)"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:375
+msgid "5,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:376
+msgid "20,000,000"
+msgstr ""
+
+#: View/Pages/trainer_levels.ctp:378
+msgid "Ultra Ball (x40), Max Potion (x40), Max Revive (x40), Razz Berry (x40), Incense (x4), Lucky Egg (x4), Egg Incubator (x4), Lure Module (x4)"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:3
+msgid "Pokemon GO - Earning XP"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:72
+msgid "How to Earn XP in Pokemon GO"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:74
+msgid "The following table and information explain XP-earning events to help you increase your Trainer Level in Pokemon GO."
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:84
+msgid "XP Award"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:85
+msgid "Action"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:91
+msgid "Curveball Bonus"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:95
+msgid "Nice! throw bonus"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:99
+msgid "Pokemon Ran Away"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:103
+msgid "Great! throw bonus"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:107
+msgid "First Throw Bonus for Catching Pokemon in One Ball"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:111
+msgid "Pokestop interaction"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:115
+msgid "10<sup>th</sup> Unique Pokestop Bonus"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:119
+msgid "Successful Pokemon Capture"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:123
+msgid "Excellent! throw bonus"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:127
+msgid "Catch your 100th Pokemon of a species"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:131
+msgid "Hatch an Egg (2 km)"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:135
+msgid "Hatch an Egg (5 km)"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:139
+msgid "Hatch an Egg (10 km)"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:143
+msgid "Add new Pokemon to Pokedex"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:147
+msgid "Evolve a Pokemon"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:151
+msgid "Use an Evolution Item"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:155
+msgid "First Pokestop Spin of the Day"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:159
+msgid "First Pokemon Catch of the Day"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:162;166
+msgid "2,500"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:163
+msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:167
+msgid "Streak Bonus for 7 Consecutive Daily Pokestop Spins"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:171
+msgid "Train at a Gym (Less for using an overpowered 'mon)"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:175
+msgid "Defeat enemy Pokemon at a Gym (per Pokemon)"
+msgstr ""
+
+#: View/Pages/xp_earning.ctp:179
+msgid "Beating every Pokemon at a gym"
+msgstr ""

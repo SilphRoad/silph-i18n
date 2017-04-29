@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2017-04-29 12:42-0400\n"
+"POT-Creation-Date: 2017-04-29 14:50-0400\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -14,68 +14,129 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
+#: View/Atlas/index.ctp:634
 #: View/Helper/TopNavHelper.php:17
 msgid "Toggle navigation"
 msgstr ""
 
+#: View/Atlas/index.ctp:660;664;717;721
 #: View/Helper/TopNavHelper.php:37;41;106;110
 msgid "Tools"
 msgstr ""
 
+#: View/Atlas/index.ctp:661;718
 #: View/Helper/TopNavHelper.php:38;107
 msgid "Resources"
 msgstr ""
 
+#: View/Atlas/index.ctp:665;722
 #: View/Helper/TopNavHelper.php:42;111
 msgid "Global Pokedex"
 msgstr ""
 
+#: View/Atlas/index.ctp:666;723
 #: View/Helper/TopNavHelper.php:43;112
 msgid "IV Rater"
 msgstr ""
 
-#: View/Helper/TopNavHelper.php:44
+#: View/Atlas/index.ctp:667;724
+#: View/Helper/TopNavHelper.php:44;113
 msgid "Reference Tables"
 msgstr ""
 
+#: View/Atlas/index.ctp:668;725
 #: View/Helper/TopNavHelper.php:45;114
 msgid "Moves By DPS"
 msgstr ""
 
+#: View/Atlas/index.ctp:669;726
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Species Base Stats"
 msgstr ""
 
+#: View/Atlas/index.ctp:670;727
 #: View/Helper/TopNavHelper.php:47;116
 msgid "Egg Distances"
 msgstr ""
 
+#: View/Atlas/index.ctp:671;728
 #: View/Helper/TopNavHelper.php:48;117
 msgid "Buddy Candy"
 msgstr ""
 
+#: View/Atlas/index.ctp:672;729
 #: View/Helper/TopNavHelper.php:49;118
 msgid "Trainer Levels"
 msgstr ""
 
+#: View/Atlas/index.ctp:673;730
 #: View/Helper/TopNavHelper.php:50;119
 msgid "Earning XP"
 msgstr ""
 
-#: View/Helper/TopNavHelper.php:56;124
-msgid "Nest Atlas"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:57;125
-msgid "Known Nest Map"
-msgstr ""
-
+#: View/Atlas/index.ctp:679;741
 #: View/Helper/TopNavHelper.php:63;130
 msgid "Tips + News"
 msgstr ""
 
+#: View/Atlas/index.ctp:680;742
 #: View/Helper/TopNavHelper.php:64;131
 msgid "For Pokemon GO"
+msgstr ""
+
+#: View/Atlas/index.ctp:686;747
+#: View/Helper/TopNavHelper.php:77;142
+msgid "Science"
+msgstr ""
+
+#: View/Atlas/index.ctp:687;748
+#: View/Helper/TopNavHelper.php:78;143
+msgid "New Research"
+msgstr ""
+
+#: View/Atlas/index.ctp:693;753
+#: View/Helper/TopNavHelper.php:148
+msgid "Field Manual"
+msgstr ""
+
+#: View/Atlas/index.ctp:694;754
+#: View/Helper/TopNavHelper.php:149
+msgid "Up-to-date Guide"
+msgstr ""
+
+#: View/Atlas/index.ctp:700;759
+#: View/Helper/TopNavHelper.php:93;154
+msgid "Log Out"
+msgstr ""
+
+#: View/Atlas/index.ctp:700;759
+#: View/Helper/TopNavHelper.php:93;154
+msgid "Authenticate"
+msgstr ""
+
+#: View/Atlas/index.ctp:700
+#: View/Helper/TopNavHelper.php:93
+msgid "Log In"
+msgstr ""
+
+#: View/Atlas/index.ctp:701;760
+#: View/Helper/TopNavHelper.php:94;155
+msgid "Time to GO!"
+msgstr ""
+
+#: View/Atlas/index.ctp:701;760
+#: View/Helper/TopNavHelper.php:94;155
+msgid "For Travelers"
+msgstr ""
+
+#: View/Atlas/index.ctp:735
+#: View/Helper/TopNavHelper.php:56;124
+msgid "Nest Atlas"
+msgstr ""
+
+#: View/Atlas/index.ctp:736
+#: View/Helper/TopNavHelper.php:57;125
+msgid "Known Nest Map"
 msgstr ""
 
 #: View/Helper/TopNavHelper.php:70;136
@@ -84,42 +145,6 @@ msgstr ""
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Tracking Aide"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:77;142
-msgid "Science"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:78;143
-msgid "New Research"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:93;154
-msgid "Log Out"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:93;154
-msgid "Authenticate"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:93
-msgid "Log In"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:94;155
-msgid "Time to GO!"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:94;155
-msgid "For Travelers"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:148
-msgid "Field Manual"
-msgstr ""
-
-#: View/Helper/TopNavHelper.php:149
-msgid "Up-to-date Guide"
 msgstr ""
 
 #: View/Users/login.ctp:15

@@ -1,0 +1,22 @@
+{
+  "name": "silph-i18n",
+  "version": "0.0.0",
+  "description": "Translations for Silph Road",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilphRoad/silph-i18n.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SilphRoad/silph-i18n/issues"
+  },
+  "homepage": "https://github.com/SilphRoad/silph-i18n#readme",
+  "dependencies": {
+    "po2json": "^0.4.5"
+  }
+}

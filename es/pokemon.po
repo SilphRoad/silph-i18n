@@ -1,6 +1,5 @@
 # Englist translation of Pokemon
 # Copyright 2017 execs@thesilphroad.com
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"

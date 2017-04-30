@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-04-29 01:13+0000\n"
-"Last-Translator: Executive Ceppi <marco@ceppi.net>\n"
+"PO-Revision-Date: 2017-04-29 20:32+0000\n"
+"Last-Translator: Executive Ceppi <marco@thesilphroad.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493428403.054473\n"
+"X-POOTLE-MTIME: 1493497975.355285\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -46,11 +46,11 @@ msgstr "squirtle"
 
 #: Pokemon/Wartortle:8
 msgid "wartortle"
-msgstr ""
+msgstr "wartortle"
 
 #: Pokemon/Blastoise:9
 msgid "blastoise"
-msgstr ""
+msgstr "blastoise"
 
 #: Pokemon/Caterpie:10
 msgid "caterpie"

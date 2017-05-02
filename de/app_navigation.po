@@ -5,161 +5,164 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 14:50-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-02 14:53+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493736834.538633\n"
 
 #: View/Atlas/index.ctp:634
 #: View/Helper/TopNavHelper.php:17
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Navigation umschalten"
 
 #: View/Atlas/index.ctp:660;664;717;721
 #: View/Helper/TopNavHelper.php:37;41;106;110
 msgid "Tools"
-msgstr ""
+msgstr "Werkzeuge"
 
 #: View/Atlas/index.ctp:661;718
 #: View/Helper/TopNavHelper.php:38;107
 msgid "Resources"
-msgstr ""
+msgstr "Ressourcen"
 
 #: View/Atlas/index.ctp:665;722
 #: View/Helper/TopNavHelper.php:42;111
 msgid "Global Pokedex"
-msgstr ""
+msgstr "Globaler Pokedex"
 
 #: View/Atlas/index.ctp:666;723
 #: View/Helper/TopNavHelper.php:43;112
 msgid "IV Rater"
-msgstr ""
+msgstr "IV-Rechner"
 
 #: View/Atlas/index.ctp:667;724
 #: View/Helper/TopNavHelper.php:44;113
 msgid "Reference Tables"
-msgstr ""
+msgstr "Vergleichstabellen"
 
 #: View/Atlas/index.ctp:668;725
 #: View/Helper/TopNavHelper.php:45;114
 msgid "Moves By DPS"
-msgstr ""
+msgstr "Angriffe nach DPS"
 
 #: View/Atlas/index.ctp:669;726
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Species Base Stats"
-msgstr ""
+msgstr "Grundwerte pro Art"
 
 #: View/Atlas/index.ctp:670;727
 #: View/Helper/TopNavHelper.php:47;116
 msgid "Egg Distances"
-msgstr ""
+msgstr "Laufdistanz für Eier"
 
 #: View/Atlas/index.ctp:671;728
 #: View/Helper/TopNavHelper.php:48;117
 msgid "Buddy Candy"
-msgstr ""
+msgstr "Kumpelbonbons"
 
 #: View/Atlas/index.ctp:672;729
 #: View/Helper/TopNavHelper.php:49;118
 msgid "Trainer Levels"
-msgstr ""
+msgstr "Trainerlevel"
 
 #: View/Atlas/index.ctp:673;730
 #: View/Helper/TopNavHelper.php:50;119
 msgid "Earning XP"
-msgstr ""
+msgstr "EP sammeln"
 
 #: View/Atlas/index.ctp:679;741
 #: View/Helper/TopNavHelper.php:63;130
 msgid "Tips + News"
-msgstr ""
+msgstr "Tips + Neuigkeiten"
 
 #: View/Atlas/index.ctp:680;742
 #: View/Helper/TopNavHelper.php:64;131
 msgid "For Pokemon GO"
-msgstr ""
+msgstr "Für Pokemon GO"
 
 #: View/Atlas/index.ctp:686;747
 #: View/Helper/TopNavHelper.php:77;142
 msgid "Science"
-msgstr ""
+msgstr "Wissenschaft"
 
 #: View/Atlas/index.ctp:687;748
 #: View/Helper/TopNavHelper.php:78;143
 msgid "New Research"
-msgstr ""
+msgstr "Neue Forschungen"
 
 #: View/Atlas/index.ctp:693;753
 #: View/Helper/TopNavHelper.php:148
 msgid "Field Manual"
-msgstr ""
+msgstr "Handbuch"
 
 #: View/Atlas/index.ctp:694;754
 #: View/Helper/TopNavHelper.php:149
 msgid "Up-to-date Guide"
-msgstr ""
+msgstr "Aktueller Leitfaden"
 
 #: View/Atlas/index.ctp:700;759
 #: View/Helper/TopNavHelper.php:93;154
 msgid "Log Out"
-msgstr ""
+msgstr "Abmelden"
 
 #: View/Atlas/index.ctp:700;759
 #: View/Helper/TopNavHelper.php:93;154
 msgid "Authenticate"
-msgstr ""
+msgstr "Verifizieren"
 
 #: View/Atlas/index.ctp:700
 #: View/Helper/TopNavHelper.php:93
 msgid "Log In"
-msgstr ""
+msgstr "Anmelden"
 
 #: View/Atlas/index.ctp:701;760
 #: View/Helper/TopNavHelper.php:94;155
 msgid "Time to GO!"
-msgstr ""
+msgstr "Los geht's!"
 
 #: View/Atlas/index.ctp:701;760
 #: View/Helper/TopNavHelper.php:94;155
 msgid "For Travelers"
-msgstr ""
+msgstr "Für Reisende"
 
 #: View/Atlas/index.ctp:735
 #: View/Helper/TopNavHelper.php:56;124
 msgid "Nest Atlas"
-msgstr ""
+msgstr "Nest-Atlas"
 
 #: View/Atlas/index.ctp:736
 #: View/Helper/TopNavHelper.php:57;125
 msgid "Known Nest Map"
-msgstr ""
+msgstr "Karte bekannter Nester"
 
 #: View/Helper/TopNavHelper.php:70;136
 msgid "Pursue"
-msgstr ""
+msgstr "Verfolgen"
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Tracking Aide"
-msgstr ""
+msgstr "Verfolgungshilfe"
 
 #: View/Users/login.ctp:15
 msgid "Your Papers, Please."
-msgstr ""
+msgstr "Papiere, bitte."
 
 #: View/Users/login.ctp:17
 msgid "The Silph Road authenticates travelers via their Reddit account.  Click \"Authenticate\" below to access the Silph Road."
 msgstr ""
+"Silph Road verifiziert Reisende über ihre Reddit-Konten.  Klicke unten auf \""
+"Verifizieren\", um Zugriff zur Silph Road zu erhalten."
 
 #: View/Users/login.ctp:19
 msgid "Authenticate &raquo;"
-msgstr ""
+msgstr "Verifizieren &raquo;"
 
 #: View/Users/login.ctp:21
 msgid "You may create a Reddit account for free at Reddit.com."
-msgstr ""
+msgstr "Du kannst dir auf reddit.com kostenlos ein Reddit-Konto einrichten."

@@ -1,0 +1,179 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-04-29 09:37:09\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: COMMENT
+msgid "Height:"
+msgstr ""
+
+#: COMMENT
+msgid "Weight:"
+msgstr ""
+
+#: COMMENT
+msgid "Attack"
+msgstr ""
+
+#: COMMENT
+msgid "Defense"
+msgstr ""
+
+#: COMMENT
+msgid "Stamina"
+msgstr ""
+
+#: COMMENT
+msgid "Nests"
+msgstr ""
+
+#: COMMENT
+msgid "Sightings"
+msgstr ""
+
+#: COMMENT
+msgid "Hold Up:"
+msgstr ""
+
+#: COMMENT
+msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
+msgstr ""
+
+#: COMMENT
+msgid "Map Loading"
+msgstr ""
+
+#: COMMENT
+msgid "Search Box"
+msgstr ""
+
+#: COMMENT
+msgid "Expand Map to Pan Or Zoom"
+msgstr ""
+
+#: COMMENT
+msgid "No Sighting Reports Yet!"
+msgstr ""
+
+#: COMMENT
+msgid "Quick Moves"
+msgstr ""
+
+#: COMMENT
+msgid "DPS"
+msgstr ""
+
+#: COMMENT
+msgid "Pow."
+msgstr ""
+
+#: COMMENT
+msgid "ms"
+msgstr ""
+
+#: COMMENT
+msgid "EPS:"
+msgstr ""
+
+#: COMMENT
+msgid "Type Bonus!"
+msgstr ""
+
+#: COMMENT
+msgid "Charge Moves"
+msgstr ""
+
+#: COMMENT
+msgid "Moves with the same"
+msgstr ""
+
+#: COMMENT
+msgid "type"
+msgstr ""
+
+#: COMMENT
+msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
+msgstr ""
+
+#: COMMENT
+msgid "No Known Moves Yet!"
+msgstr ""
+
+#: COMMENT
+msgid "No"
+msgstr ""
+
+#: COMMENT
+msgid "specimen has been captured by Silph Researchers yet!"
+msgstr ""
+
+#: COMMENT
+msgid "Go be the first!"
+msgstr ""
+
+#: COMMENT
+msgid "Buddy Distance"
+msgstr ""
+
+#: COMMENT
+msgid "Candy to Evolve"
+msgstr ""
+
+#: COMMENT
+msgid "Base Capture Rate"
+msgstr ""
+
+#: COMMENT
+msgid "Advantage Over"
+msgstr ""
+
+#: COMMENT
+msgid "Weak Against"
+msgstr ""
+
+#: COMMENT
+msgid "Offence"
+msgstr ""
+
+#: COMMENT
+msgid "None"
+msgstr ""
+
+#: COMMENT
+msgid "Defence"
+msgstr ""
+
+#: COMMENT
+msgid "*Type efficacy recommendations are under development!"
+msgstr ""
+
+#: COMMENT
+msgid "Improved recommendations coming soon."
+msgstr ""
+
+#: COMMENT
+msgid "Prominent Researchers"
+msgstr ""
+
+#: COMMENT
+msgid "Most Sightings"
+msgstr ""
+
+#: COMMENT
+msgid "Strongest Specimen"
+msgstr ""
+
+#: COMMENT
+msgid "- No Sightings -"
+msgstr ""

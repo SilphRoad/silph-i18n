@@ -1,0 +1,99 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-04-29 09:37:09\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: COMMENT
+msgid "Map"
+msgstr ""
+
+#: COMMENT
+msgid "Silph Nest: #"
+msgstr ""
+
+#: COMMENT
+msgid "Suspected Species"
+msgstr ""
+
+#: COMMENT
+msgid "???"
+msgstr ""
+
+#: COMMENT
+msgid "Unverified"
+msgstr ""
+
+#: COMMENT
+msgid "Unknown Status!"
+msgstr ""
+
+#: COMMENT
+msgid "Add your report to help identify this location's new nest species - or if it's not a nest location at all!"
+msgstr ""
+
+#: COMMENT
+msgid "Update"
+msgstr ""
+
+#: COMMENT
+msgid "Add"
+msgstr ""
+
+#: COMMENT
+msgid "My Report"
+msgstr ""
+
+#: COMMENT
+msgid "You must Authenticate to add your field report:"
+msgstr ""
+
+#: COMMENT
+msgid "Authenticate"
+msgstr ""
+
+#: COMMENT
+msgid "Scout Report"
+msgstr ""
+
+#: COMMENT
+msgid "SAW CLUSTER SPAWN"
+msgstr ""
+
+#: COMMENT
+msgid "SAW FREQUENT SPAWN AREA"
+msgstr ""
+
+#: COMMENT
+msgid "SAW FREQUENT SPAWN POINT"
+msgstr ""
+
+#: COMMENT
+msgid "No Comment"
+msgstr ""
+
+#: COMMENT
+msgid "No Nest Found!"
+msgstr ""
+
+#: COMMENT
+msgid "On"
+msgstr ""
+
+#: COMMENT
+msgid "first discovered this location and suspected it was a"
+msgstr ""
+
+#: COMMENT
+msgid "nest!"
+msgstr ""

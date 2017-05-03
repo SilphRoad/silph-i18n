@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-02 22:30-0400\n"
+"POT-Creation-Date: 2017-05-03 16:55-0400\n"
 "PO-Revision-Date: 2017-05-03 18:51+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -318,8 +318,9 @@ msgid "1,000"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:116
+#, fuzzy
 msgid "2,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:117;123
 msgid "3,000"
@@ -330,16 +331,18 @@ msgid "Poke Ball"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:124;144
+#, fuzzy
 msgid "6,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:130
 msgid "4,000"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:131;172;179;186;193
+#, fuzzy
 msgid "10,000"
-msgstr ""
+msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:132
 msgid "Gyms, Potions, Revives"
@@ -358,20 +361,23 @@ msgid "Incense"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:137
+#, fuzzy
 msgid "5,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:138;200
+#, fuzzy
 msgid "15,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:140
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incubator"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:145
+#, fuzzy
 msgid "21,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:147
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incense"
@@ -382,8 +388,9 @@ msgid "7,000"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:152
+#, fuzzy
 msgid "28,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:153
 msgid "Razz Berry"
@@ -410,8 +417,9 @@ msgid "9,000"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:166
+#, fuzzy
 msgid "45,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:167
 msgid "Super Potions"
@@ -422,8 +430,9 @@ msgid "Poke Ball (x20), Super Potion (x20), Revive (x10), Razz Berry (x10), Ince
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:173
+#, fuzzy
 msgid "55,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:175
 msgid "Poke Ball (x15), Super Potion (x10), Revive (x3), Razz Berry (x3)"
@@ -442,16 +451,18 @@ msgid "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:187;249
+#, fuzzy
 msgid "75,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:189
 msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:194
+#, fuzzy
 msgid "85,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:195
 msgid "Nanab Berry"
@@ -462,8 +473,9 @@ msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3), Nanab
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:201;256
+#, fuzzy
 msgid "100,000"
-msgstr ""
+msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:202
 msgid "Hyper Potions"
@@ -502,8 +514,9 @@ msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5), Pinap
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:228;235
+#, fuzzy
 msgid "25,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:229
 msgid "185,000"
@@ -514,8 +527,9 @@ msgid "Great Ball (x15), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:236
+#, fuzzy
 msgid "210,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:237
 msgid "Ultra Balls"
@@ -526,12 +540,14 @@ msgid "Ultra Ball (x20), Hyper Potion (x20), Revive (x20), Razz Berry (x20), Inc
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:242
+#, fuzzy
 msgid "50,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:243
+#, fuzzy
 msgid "260,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:245
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Pinap Berry (x10)"
@@ -554,20 +570,23 @@ msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Nan
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:263
+#, fuzzy
 msgid "125,000"
-msgstr ""
+msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:264
+#, fuzzy
 msgid "560,000"
-msgstr ""
+msgstr "160,000"
 
 #: View/Pages/trainer_levels.ctp:266
 msgid "Ultra Ball (x15), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:270
+#, fuzzy
 msgid "150,000"
-msgstr ""
+msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:271
 msgid "710,000"
@@ -582,8 +601,9 @@ msgid "Ultra Ball (x25), Max Potion (x20), Revive (x15), Razz Berry (x15), Incen
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:277
+#, fuzzy
 msgid "190,000"
-msgstr ""
+msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:278
 msgid "900,000"
@@ -594,8 +614,9 @@ msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:284
+#, fuzzy
 msgid "200,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:285
 msgid "1,100,000"
@@ -606,8 +627,9 @@ msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15), Nanab
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:291
+#, fuzzy
 msgid "250,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:292
 msgid "1,350,000"
@@ -618,8 +640,9 @@ msgid "300,000"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:299
+#, fuzzy
 msgid "1,650,000"
-msgstr ""
+msgstr "160,000"
 
 #: View/Pages/trainer_levels.ctp:301
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Pinap Berry (x15)"
@@ -682,8 +705,9 @@ msgid "4,750,000"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:340
+#, fuzzy
 msgid "1,250,000"
-msgstr ""
+msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:341
 msgid "6,000,000"

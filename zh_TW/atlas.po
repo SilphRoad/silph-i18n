@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-02 22:30-0400\n"
+"POT-Creation-Date: 2017-05-03 16:55-0400\n"
 "PO-Revision-Date: 2017-05-03 18:51+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -310,8 +310,10 @@ msgid "Cluster Spawn"
 msgstr ""
 
 #: View/Atlas/index.ctp:1126
+#, fuzzy
 msgid "Multiple appear on the map <span style='text-decoration: underline;'>at once</span> within a single hour (at the same time)"
 msgstr ""
+"在一小時內，同時於地圖上<span style=\"text-decoration: underline;\">一次</span>出現多隻寶可夢"
 
 #: View/Atlas/index.ctp:1150
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
@@ -490,12 +492,14 @@ msgid "Your device/browser does not support geolocation! :("
 msgstr ""
 
 #: View/Atlas/index.ctp:1611
+#, fuzzy
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
-msgstr ""
+msgstr "哇噢，旅行者，目前此高度顯示出太多巢穴，請拉近以獲得更多細節。"
 
 #: View/Atlas/index.ctp:1612
+#, fuzzy
 msgid "Whoa, traveler - There are too many nests to show at this height. Zoom in for more detail."
-msgstr ""
+msgstr "哇噢，旅行者，目前此高度顯示出太多巢穴，請拉近以獲得更多細節。"
 
 #: View/Atlas/index.ctp:1626;1627;1628;1629;1631;1633;1634;1635;1636;1637
 msgid "Retrieving Field Reports..."
@@ -582,8 +586,9 @@ msgid "Whoa, traveler - There are too many "
 msgstr ""
 
 #: View/Atlas/index.ctp:2134
+#, fuzzy
 msgid "nests"
-msgstr ""
+msgstr "巢穴"
 
 #: View/Atlas/index.ctp:2134
 msgid "sightings"

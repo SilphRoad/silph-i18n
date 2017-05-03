@@ -1,0 +1,72 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-03 16:55-0400\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Translate Toolkit 2.0.0\n"
+
+#: View/Pages/blog.ctp:2;11
+msgid "Grassroots Pokemon GO Network"
+msgstr ""
+
+#: View/Pages/blog.ctp:5
+msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
+msgstr ""
+
+#: View/Pages/blog.ctp:12
+msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
+msgstr ""
+
+#: View/Pages/blog.ctp:20
+msgid "Latest Pokemon GO Tips & News"
+msgstr ""
+
+#: View/Pages/blog.ctp:22
+msgid "Latest from the Silph Research Group"
+msgstr ""
+
+#: View/Pages/blog.ctp:40
+msgid "Trail Pointer:"
+msgstr ""
+
+#: View/Pages/blog.ctp:60
+msgid "Silph Study:"
+msgstr ""
+
+#: View/Pages/blog.ctp:64
+msgid "Field Update"
+msgstr ""
+
+#: View/Pages/blog.ctp:85
+msgid "See Full Tip &raquo;"
+msgstr ""
+
+#: View/Pages/blog.ctp:87;89
+msgid "Full Article &raquo;"
+msgstr ""
+
+#: View/Pages/blog.ctp:145
+msgid "Stay Tuned for More Tips!"
+msgstr ""
+
+#: View/Pages/blog.ctp:146
+msgid "The Silph Road will be publishing a new tips periodically on this feed.  These <code>Trail Pointers</code> will help you on your way to becoming a Pokemon GO master!"
+msgstr ""
+
+#: View/Pages/blog.ctp:151
+msgid "Stay Tuned for More Publications from the Silph Research Group"
+msgstr ""
+
+#: View/Pages/blog.ctp:152
+msgid "The Silph Research Group has been recently re-organized and will be publishing formal findings in this feed.  Stay tuned for more delicious science soon, travelers!"
+msgstr ""

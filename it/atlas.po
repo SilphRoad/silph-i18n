@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-02 22:30-0400\n"
+"POT-Creation-Date: 2017-05-03 16:55-0400\n"
 "PO-Revision-Date: 2017-05-03 20:54+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -40,8 +40,9 @@ msgid "&laquo; More"
 msgstr "&laquo; Altro"
 
 #: View/Atlas/index.ctp:599
+#, fuzzy
 msgid "Report Sighting"
-msgstr ""
+msgstr "Segnala un Avvistamento!"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
@@ -387,8 +388,12 @@ msgid "Submit Nest!"
 msgstr ""
 
 #: View/Atlas/index.ctp:1205
+#, fuzzy
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! If there is no existing nest, click below:"
 msgstr ""
+"Suggerimento: Trascina la mappa o clicca sul bottone '<b>La mia posizione</b>"
+"' per passare alla tua posizione! <b>Se non c'è nessun nido già esistente, "
+"clicca qui sotto</b>:"
 
 #: View/Atlas/index.ctp:1206
 msgid "This is a New Nest!"
@@ -539,12 +544,18 @@ msgid "Your device/browser does not support geolocation! :("
 msgstr ""
 
 #: View/Atlas/index.ctp:1611
+#, fuzzy
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
+"Ehi, viaggiatore - Ci sono troppi nidi da mostrare a questa altezza. "
+"Ingrandisci per più dettagli."
 
 #: View/Atlas/index.ctp:1612
+#, fuzzy
 msgid "Whoa, traveler - There are too many nests to show at this height. Zoom in for more detail."
 msgstr ""
+"Ehi, viaggiatore - Ci sono troppi nidi da mostrare a questa altezza. "
+"Ingrandisci per più dettagli."
 
 #: View/Atlas/index.ctp:1626;1627;1628;1629;1631;1633;1634;1635;1636;1637
 msgid "Retrieving Field Reports..."
@@ -579,8 +590,9 @@ msgid "Blowing in the Cartridge..."
 msgstr ""
 
 #: View/Atlas/index.ctp:1633
+#, fuzzy
 msgid "Reticulating Splines..."
-msgstr ""
+msgstr "Reticolazione dei Listelli..."
 
 #: View/Atlas/index.ctp:1633
 msgid "Surfing to Cinnabar Island..."
@@ -631,8 +643,9 @@ msgid "Whoa, traveler - There are too many "
 msgstr ""
 
 #: View/Atlas/index.ctp:2134
+#, fuzzy
 msgid "nests"
-msgstr ""
+msgstr "Il Nido"
 
 #: View/Atlas/index.ctp:2134
 msgid "sightings"

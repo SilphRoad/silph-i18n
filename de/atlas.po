@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 14:50-0400\n"
-"PO-Revision-Date: 2017-05-02 16:38+0000\n"
+"PO-Revision-Date: 2017-05-03 01:45+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493743128.993230\n"
+"X-POOTLE-MTIME: 1493775919.419339\n"
 
 #: View/Atlas/index.ctp:2;11;602
 msgid "The Global Nest Atlas"
@@ -350,11 +350,14 @@ msgstr "Welchen Nesttyp hast du gefunden?"
 
 #: View/Atlas/index.ctp:1116
 msgid "Cluster Spawn"
-msgstr ""
+msgstr "Gruppen-Spawn"
 
 #: View/Atlas/index.ctp:1118
 msgid "Multiple appear on the map <span style='text-decoration: underline;'>at once</span> within a single hour (at the same time)"
 msgstr ""
+"Mehrere erscheinen <span style='text-decoration: "
+"underline;'>gleichzeitig</span> innerhalb einer Stunde auf der Karte (zur "
+"selben Uhrzeit)"
 
 #: View/Atlas/index.ctp:1142
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
@@ -399,11 +402,11 @@ msgstr "Dies ist ein Neues Nest!"
 
 #: View/Atlas/index.ctp:1203
 msgid "Catalogue!"
-msgstr ""
+msgstr "Verzeichnis!"
 
 #: View/Atlas/index.ctp:1204
 msgid "Catalogue your encounter info:"
-msgstr ""
+msgstr "Verzeichne Informationen zu deiner Begegnung:"
 
 #: View/Atlas/index.ctp:1222
 msgid "Combat Points (CP)"
@@ -431,7 +434,7 @@ msgstr "Unbekannt"
 
 #: View/Atlas/index.ctp:1257
 msgid "Select Charge Move..."
-msgstr ""
+msgstr "Wähle Ladeangriff aus..."
 
 #: View/Atlas/index.ctp:1272
 msgid "Successful Capture"
@@ -455,7 +458,7 @@ msgstr "Ziehe die Karte, sodass der Pin genau auf deinem Standort ist:"
 
 #: View/Atlas/index.ctp:1306
 msgid "Set Location"
-msgstr ""
+msgstr "Standort Festlegen"
 
 #: View/Atlas/index.ctp:1311
 msgid "Describe The Terrain!"
@@ -653,7 +656,7 @@ msgstr "nester"
 
 #: View/Atlas/index.ctp:2124
 msgid "sightings"
-msgstr ""
+msgstr "Sichtungen"
 
 #: View/Atlas/index.ctp:2124
 msgid "to show at this height. Zoom in for more detail."
@@ -687,7 +690,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2517;2519
 msgid "Select a Charge Move"
-msgstr ""
+msgstr "Wähle einen Ladeangriff"
 
 #: View/Atlas/index.ctp:2528;2551
 msgid "Please select a radio button!"

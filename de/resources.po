@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 14:50-0400\n"
-"PO-Revision-Date: 2017-05-01 16:08+0000\n"
+"PO-Revision-Date: 2017-05-02 21:49+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493654915.773954\n"
+"X-POOTLE-MTIME: 1493761768.682465\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -26,6 +26,10 @@ msgstr "Pokemon GO Kumpel Bonbon Anforderungen | The Silph Road"
 #: View/Pages/xp_earning.ctp:6
 msgid "The Silph Road Research group has compiled the following resources to help you on your adventures, travelers! Enjoy comprehensive species attack/defense stats, and more..."
 msgstr ""
+"Die Forschungsgruppe von The Silph Road hat folgendes Material "
+"zusammengestellt, um euch bei euren Abenteuern zu helfen, Reisende! Genießt "
+"umfangreiche Daten über Angriffs-/Verteidigungswerte der einzelnen Arten und "
+"mehr..."
 
 #: View/Pages/buddy_candy.ctp:12
 msgid "Pokemon GO Buddy Candy Requirements"
@@ -281,7 +285,7 @@ msgstr "Höchstes WP-Potenzial"
 
 #: View/Pages/species_stats.ctp:158
 msgid "Species Number"
-msgstr ""
+msgstr "Artennummer"
 
 #: View/Pages/species_stats.ctp:159
 msgid "Best Attack Stat"

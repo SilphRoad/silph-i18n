@@ -5,1554 +5,1556 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 17:47+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493833670.207645\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
-msgstr ""
+msgstr "bulbizarre"
 
 #: Pokemon/Ivysaur:2
 msgid "ivysaur"
-msgstr ""
+msgstr "herbizarre"
 
 #: Pokemon/Venusaur:3
 msgid "venusaur"
-msgstr ""
+msgstr "florizarre"
 
 #: Pokemon/Charmander:4
 msgid "charmander"
-msgstr ""
+msgstr "salamèche"
 
 #: Pokemon/Charmeleon:5
 msgid "charmeleon"
-msgstr ""
+msgstr "reptincel"
 
 #: Pokemon/Charizard:6
 msgid "charizard"
-msgstr ""
+msgstr "dracaufeu"
 
 #: Pokemon/Squirtle:7
 msgid "squirtle"
-msgstr ""
+msgstr "carapuce"
 
 #: Pokemon/Wartortle:8
 msgid "wartortle"
-msgstr ""
+msgstr "carabaffe"
 
 #: Pokemon/Blastoise:9
 msgid "blastoise"
-msgstr ""
+msgstr "tortank"
 
 #: Pokemon/Caterpie:10
 msgid "caterpie"
-msgstr ""
+msgstr "chenipan"
 
 #: Pokemon/Metapod:11
 msgid "metapod"
-msgstr ""
+msgstr "chrysacier"
 
 #: Pokemon/Butterfree:12
 msgid "butterfree"
-msgstr ""
+msgstr "papilusion"
 
 #: Pokemon/Weedle:13
 msgid "weedle"
-msgstr ""
+msgstr "aspicot"
 
 #: Pokemon/Kakuna:14
 msgid "kakuna"
-msgstr ""
+msgstr "coconfort"
 
 #: Pokemon/Beedrill:15
 msgid "beedrill"
-msgstr ""
+msgstr "dardargnan"
 
 #: Pokemon/Pidgey:16
 msgid "pidgey"
-msgstr ""
+msgstr "roucool"
 
 #: Pokemon/Pidgeotto:17
 msgid "pidgeotto"
-msgstr ""
+msgstr "roucoups"
 
 #: Pokemon/Pidgeot:18
 msgid "pidgeot"
-msgstr ""
+msgstr "roucarnage"
 
 #: Pokemon/Rattata:19
 msgid "rattata"
-msgstr ""
+msgstr "rattata"
 
 #: Pokemon/Raticate:20
 msgid "raticate"
-msgstr ""
+msgstr "rattatac"
 
 #: Pokemon/Spearow:21
 msgid "spearow"
-msgstr ""
+msgstr "piafabec"
 
 #: Pokemon/Fearow:22
 msgid "fearow"
-msgstr ""
+msgstr "rapasdepic"
 
 #: Pokemon/Ekans:23
 msgid "ekans"
-msgstr ""
+msgstr "abo"
 
 #: Pokemon/Arbok:24
 msgid "arbok"
-msgstr ""
+msgstr "arbok"
 
 #: Pokemon/Pikachu:25
 msgid "pikachu"
-msgstr ""
+msgstr "pikachu"
 
 #: Pokemon/Raichu:26
 msgid "raichu"
-msgstr ""
+msgstr "raichu"
 
 #: Pokemon/Sandshrew:27
 msgid "sandshrew"
-msgstr ""
+msgstr "sabelette"
 
 #: Pokemon/Sandslash:28
 msgid "sandslash"
-msgstr ""
+msgstr "sablaireau"
 
 #: Pokemon/Nidoran-f:29
 msgid "nidoran-f"
-msgstr ""
+msgstr "nidoran-f"
 
 #: Pokemon/Nidorina:30
 msgid "nidorina"
-msgstr ""
+msgstr "nidorina"
 
 #: Pokemon/Nidoqueen:31
 msgid "nidoqueen"
-msgstr ""
+msgstr "nidoqueen"
 
 #: Pokemon/Nidoran-m:32
 msgid "nidoran-m"
-msgstr ""
+msgstr "nidoran-m"
 
 #: Pokemon/Nidorino:33
 msgid "nidorino"
-msgstr ""
+msgstr "nidorino"
 
 #: Pokemon/Nidoking:34
 msgid "nidoking"
-msgstr ""
+msgstr "nidoking"
 
 #: Pokemon/Clefairy:35
 msgid "clefairy"
-msgstr ""
+msgstr "mélofée"
 
 #: Pokemon/Clefable:36
 msgid "clefable"
-msgstr ""
+msgstr "mélodelfe"
 
 #: Pokemon/Vulpix:37
 msgid "vulpix"
-msgstr ""
+msgstr "goupix"
 
 #: Pokemon/Ninetales:38
 msgid "ninetales"
-msgstr ""
+msgstr "feunard"
 
 #: Pokemon/Jigglypuff:39
 msgid "jigglypuff"
-msgstr ""
+msgstr "rondoudou"
 
 #: Pokemon/Wigglytuff:40
 msgid "wigglytuff"
-msgstr ""
+msgstr "grodoudou"
 
 #: Pokemon/Zubat:41
 msgid "zubat"
-msgstr ""
+msgstr "nosferapti"
 
 #: Pokemon/Golbat:42
 msgid "golbat"
-msgstr ""
+msgstr "nosferalto"
 
 #: Pokemon/Oddish:43
 msgid "oddish"
-msgstr ""
+msgstr "mystherbe"
 
 #: Pokemon/Gloom:44
 msgid "gloom"
-msgstr ""
+msgstr "ortide"
 
 #: Pokemon/Vileplume:45
 msgid "vileplume"
-msgstr ""
+msgstr "rafflesia"
 
 #: Pokemon/Paras:46
 msgid "paras"
-msgstr ""
+msgstr "paras"
 
 #: Pokemon/Parasect:47
 msgid "parasect"
-msgstr ""
+msgstr "parasect"
 
 #: Pokemon/Venonat:48
 msgid "venonat"
-msgstr ""
+msgstr "mimitoss"
 
 #: Pokemon/Venomoth:49
 msgid "venomoth"
-msgstr ""
+msgstr "aéromite"
 
 #: Pokemon/Diglett:50
 msgid "diglett"
-msgstr ""
+msgstr "taupiqueur"
 
 #: Pokemon/Dugtrio:51
 msgid "dugtrio"
-msgstr ""
+msgstr "triopikeur"
 
 #: Pokemon/Meowth:52
 msgid "meowth"
-msgstr ""
+msgstr "miaouss"
 
 #: Pokemon/Persian:53
 msgid "persian"
-msgstr ""
+msgstr "persian"
 
 #: Pokemon/Psyduck:54
 msgid "psyduck"
-msgstr ""
+msgstr "psykokwak"
 
 #: Pokemon/Golduck:55
 msgid "golduck"
-msgstr ""
+msgstr "akwakwak"
 
 #: Pokemon/Mankey:56
 msgid "mankey"
-msgstr ""
+msgstr "férosinge"
 
 #: Pokemon/Primeape:57
 msgid "primeape"
-msgstr ""
+msgstr "colossinge"
 
 #: Pokemon/Growlithe:58
 msgid "growlithe"
-msgstr ""
+msgstr "caninos"
 
 #: Pokemon/Arcanine:59
 msgid "arcanine"
-msgstr ""
+msgstr "arcanin"
 
 #: Pokemon/Poliwag:60
 msgid "poliwag"
-msgstr ""
+msgstr "ptitard"
 
 #: Pokemon/Poliwhirl:61
 msgid "poliwhirl"
-msgstr ""
+msgstr "têtarte"
 
 #: Pokemon/Poliwrath:62
 msgid "poliwrath"
-msgstr ""
+msgstr "tartard"
 
 #: Pokemon/Abra:63
 msgid "abra"
-msgstr ""
+msgstr "abra"
 
 #: Pokemon/Kadabra:64
 msgid "kadabra"
-msgstr ""
+msgstr "kadabra"
 
 #: Pokemon/Alakazam:65
 msgid "alakazam"
-msgstr ""
+msgstr "alakazam"
 
 #: Pokemon/Machop:66
 msgid "machop"
-msgstr ""
+msgstr "machoc"
 
 #: Pokemon/Machoke:67
 msgid "machoke"
-msgstr ""
+msgstr "machopeur"
 
 #: Pokemon/Machamp:68
 msgid "machamp"
-msgstr ""
+msgstr "mackogneur"
 
 #: Pokemon/Bellsprout:69
 msgid "bellsprout"
-msgstr ""
+msgstr "chétiflor"
 
 #: Pokemon/Weepinbell:70
 msgid "weepinbell"
-msgstr ""
+msgstr "boustiflor"
 
 #: Pokemon/Victreebel:71
 msgid "victreebel"
-msgstr ""
+msgstr "empiflor"
 
 #: Pokemon/Tentacool:72
 msgid "tentacool"
-msgstr ""
+msgstr "tentacool"
 
 #: Pokemon/Tentacruel:73
 msgid "tentacruel"
-msgstr ""
+msgstr "tentacruel"
 
 #: Pokemon/Geodude:74
 msgid "geodude"
-msgstr ""
+msgstr "racaillou"
 
 #: Pokemon/Graveler:75
 msgid "graveler"
-msgstr ""
+msgstr "gravalanch"
 
 #: Pokemon/Golem:76
 msgid "golem"
-msgstr ""
+msgstr "grolem"
 
 #: Pokemon/Ponyta:77
 msgid "ponyta"
-msgstr ""
+msgstr "ponyta"
 
 #: Pokemon/Rapidash:78
 msgid "rapidash"
-msgstr ""
+msgstr "galopa"
 
 #: Pokemon/Slowpoke:79
 msgid "slowpoke"
-msgstr ""
+msgstr "ramoloss"
 
 #: Pokemon/Slowbro:80
 msgid "slowbro"
-msgstr ""
+msgstr "flagadoss"
 
 #: Pokemon/Magnemite:81
 msgid "magnemite"
-msgstr ""
+msgstr "magnéti"
 
 #: Pokemon/Magneton:82
 msgid "magneton"
-msgstr ""
+msgstr "magnéton"
 
 #: Pokemon/Farfetchd:83
 msgid "farfetchd"
-msgstr ""
+msgstr "canarticho"
 
 #: Pokemon/Doduo:84
 msgid "doduo"
-msgstr ""
+msgstr "doduo"
 
 #: Pokemon/Dodrio:85
 msgid "dodrio"
-msgstr ""
+msgstr "dodrio"
 
 #: Pokemon/Seel:86
 msgid "seel"
-msgstr ""
+msgstr "otaria"
 
 #: Pokemon/Dewgong:87
 msgid "dewgong"
-msgstr ""
+msgstr "lamantine"
 
 #: Pokemon/Grimer:88
 msgid "grimer"
-msgstr ""
+msgstr "tadmorv"
 
 #: Pokemon/Muk:89
 msgid "muk"
-msgstr ""
+msgstr "grotadmorv"
 
 #: Pokemon/Shellder:90
 msgid "shellder"
-msgstr ""
+msgstr "kokiyas"
 
 #: Pokemon/Cloyster:91
 msgid "cloyster"
-msgstr ""
+msgstr "crustabri"
 
 #: Pokemon/Gastly:92
 msgid "gastly"
-msgstr ""
+msgstr "fantominus"
 
 #: Pokemon/Haunter:93
 msgid "haunter"
-msgstr ""
+msgstr "spectrum"
 
 #: Pokemon/Gengar:94
 msgid "gengar"
-msgstr ""
+msgstr "ectoplasma"
 
 #: Pokemon/Onix:95
 msgid "onix"
-msgstr ""
+msgstr "onix"
 
 #: Pokemon/Drowzee:96
 msgid "drowzee"
-msgstr ""
+msgstr "soporifik"
 
 #: Pokemon/Hypno:97
 msgid "hypno"
-msgstr ""
+msgstr "hypnomade"
 
 #: Pokemon/Krabby:98
 msgid "krabby"
-msgstr ""
+msgstr "krabby"
 
 #: Pokemon/Kingler:99
 msgid "kingler"
-msgstr ""
+msgstr "krabboss"
 
 #: Pokemon/Voltorb:100
 msgid "voltorb"
-msgstr ""
+msgstr "voltorbe"
 
 #: Pokemon/Electrode:101
 msgid "electrode"
-msgstr ""
+msgstr "électrode"
 
 #: Pokemon/Exeggcute:102
 msgid "exeggcute"
-msgstr ""
+msgstr "nœunœuf"
 
 #: Pokemon/Exeggutor:103
 msgid "exeggutor"
-msgstr ""
+msgstr "noadkoko"
 
 #: Pokemon/Cubone:104
 msgid "cubone"
-msgstr ""
+msgstr "osselait"
 
 #: Pokemon/Marowak:105
 msgid "marowak"
-msgstr ""
+msgstr "ossatueur"
 
 #: Pokemon/Hitmonlee:106
 msgid "hitmonlee"
-msgstr ""
+msgstr "kicklee"
 
 #: Pokemon/Hitmonchan:107
 msgid "hitmonchan"
-msgstr ""
+msgstr "tygnon"
 
 #: Pokemon/Lickitung:108
 msgid "lickitung"
-msgstr ""
+msgstr "excelangue"
 
 #: Pokemon/Koffing:109
 msgid "koffing"
-msgstr ""
+msgstr "smogo"
 
 #: Pokemon/Weezing:110
 msgid "weezing"
-msgstr ""
+msgstr "smogogo"
 
 #: Pokemon/Rhyhorn:111
 msgid "rhyhorn"
-msgstr ""
+msgstr "rhinocorne"
 
 #: Pokemon/Rhydon:112
 msgid "rhydon"
-msgstr ""
+msgstr "rhinoféros"
 
 #: Pokemon/Chansey:113
 msgid "chansey"
-msgstr ""
+msgstr "leveinard"
 
 #: Pokemon/Tangela:114
 msgid "tangela"
-msgstr ""
+msgstr "saquedeneu"
 
 #: Pokemon/Kangaskhan:115
 msgid "kangaskhan"
-msgstr ""
+msgstr "kangourex"
 
 #: Pokemon/Horsea:116
 msgid "horsea"
-msgstr ""
+msgstr "hypotrempe"
 
 #: Pokemon/Seadra:117
 msgid "seadra"
-msgstr ""
+msgstr "hypocéan"
 
 #: Pokemon/Goldeen:118
 msgid "goldeen"
-msgstr ""
+msgstr "poissirène"
 
 #: Pokemon/Seaking:119
 msgid "seaking"
-msgstr ""
+msgstr "poissoroy"
 
 #: Pokemon/Staryu:120
 msgid "staryu"
-msgstr ""
+msgstr "stari"
 
 #: Pokemon/Starmie:121
 msgid "starmie"
-msgstr ""
+msgstr "staross"
 
 #: Pokemon/Mr-mime:122
 msgid "mr-mime"
-msgstr ""
+msgstr "m. mime"
 
 #: Pokemon/Scyther:123
 msgid "scyther"
-msgstr ""
+msgstr "insécateur"
 
 #: Pokemon/Jynx:124
 msgid "jynx"
-msgstr ""
+msgstr "lippoutou"
 
 #: Pokemon/Electabuzz:125
 msgid "electabuzz"
-msgstr ""
+msgstr "élektek"
 
 #: Pokemon/Magmar:126
 msgid "magmar"
-msgstr ""
+msgstr "magmar"
 
 #: Pokemon/Pinsir:127
 msgid "pinsir"
-msgstr ""
+msgstr "scarabrute"
 
 #: Pokemon/Tauros:128
 msgid "tauros"
-msgstr ""
+msgstr "tauros"
 
 #: Pokemon/Magikarp:129
 msgid "magikarp"
-msgstr ""
+msgstr "magicarpe"
 
 #: Pokemon/Gyarados:130
 msgid "gyarados"
-msgstr ""
+msgstr "léviator"
 
 #: Pokemon/Lapras:131
 msgid "lapras"
-msgstr ""
+msgstr "lokhlass"
 
 #: Pokemon/Ditto:132
 msgid "ditto"
-msgstr ""
+msgstr "métamorph"
 
 #: Pokemon/Eevee:133
 msgid "eevee"
-msgstr ""
+msgstr "évoli"
 
 #: Pokemon/Vaporeon:134
 msgid "vaporeon"
-msgstr ""
+msgstr "aquali"
 
 #: Pokemon/Jolteon:135
 msgid "jolteon"
-msgstr ""
+msgstr "voltali"
 
 #: Pokemon/Flareon:136
 msgid "flareon"
-msgstr ""
+msgstr "pyroli"
 
 #: Pokemon/Porygon:137
 msgid "porygon"
-msgstr ""
+msgstr "porygon"
 
 #: Pokemon/Omanyte:138
 msgid "omanyte"
-msgstr ""
+msgstr "amonita"
 
 #: Pokemon/Omastar:139
 msgid "omastar"
-msgstr ""
+msgstr "amonistar"
 
 #: Pokemon/Kabuto:140
 msgid "kabuto"
-msgstr ""
+msgstr "kabuto"
 
 #: Pokemon/Kabutops:141
 msgid "kabutops"
-msgstr ""
+msgstr "kabutops"
 
 #: Pokemon/Aerodactyl:142
 msgid "aerodactyl"
-msgstr ""
+msgstr "ptéra"
 
 #: Pokemon/Snorlax:143
 msgid "snorlax"
-msgstr ""
+msgstr "ronflex"
 
 #: Pokemon/Articuno:144
 msgid "articuno"
-msgstr ""
+msgstr "artikodin"
 
 #: Pokemon/Zapdos:145
 msgid "zapdos"
-msgstr ""
+msgstr "électhor"
 
 #: Pokemon/Moltres:146
 msgid "moltres"
-msgstr ""
+msgstr "sulfura"
 
 #: Pokemon/Dratini:147
 msgid "dratini"
-msgstr ""
+msgstr "minidraco"
 
 #: Pokemon/Dragonair:148
 msgid "dragonair"
-msgstr ""
+msgstr "draco"
 
 #: Pokemon/Dragonite:149
 msgid "dragonite"
-msgstr ""
+msgstr "dracolosse"
 
 #: Pokemon/Mewtwo:150
 msgid "mewtwo"
-msgstr ""
+msgstr "mewtwo"
 
 #: Pokemon/Mew:151
 msgid "mew"
-msgstr ""
+msgstr "mew"
 
 #: Pokemon/Chikorita:152
 msgid "chikorita"
-msgstr ""
+msgstr "germignon"
 
 #: Pokemon/Bayleef:153
 msgid "bayleef"
-msgstr ""
+msgstr "macronium"
 
 #: Pokemon/Meganium:154
 msgid "meganium"
-msgstr ""
+msgstr "méganium"
 
 #: Pokemon/Cyndaquil:155
 msgid "cyndaquil"
-msgstr ""
+msgstr "héricendre"
 
 #: Pokemon/Quilava:156
 msgid "quilava"
-msgstr ""
+msgstr "feurisson"
 
 #: Pokemon/Typhlosion:157
 msgid "typhlosion"
-msgstr ""
+msgstr "typhlosion"
 
 #: Pokemon/Totodile:158
 msgid "totodile"
-msgstr ""
+msgstr "kaiminus"
 
 #: Pokemon/Croconaw:159
 msgid "croconaw"
-msgstr ""
+msgstr "crocrodil"
 
 #: Pokemon/Feraligatr:160
 msgid "feraligatr"
-msgstr ""
+msgstr "aligatueur"
 
 #: Pokemon/Sentret:161
 msgid "sentret"
-msgstr ""
+msgstr "fouinette"
 
 #: Pokemon/Furret:162
 msgid "furret"
-msgstr ""
+msgstr "fouinar"
 
 #: Pokemon/Hoothoot:163
 msgid "hoothoot"
-msgstr ""
+msgstr "hoothoot"
 
 #: Pokemon/Noctowl:164
 msgid "noctowl"
-msgstr ""
+msgstr "noarfang"
 
 #: Pokemon/Ledyba:165
 msgid "ledyba"
-msgstr ""
+msgstr "coxy"
 
 #: Pokemon/Ledian:166
 msgid "ledian"
-msgstr ""
+msgstr "coxyclaque"
 
 #: Pokemon/Spinarak:167
 msgid "spinarak"
-msgstr ""
+msgstr "mimigal"
 
 #: Pokemon/Ariados:168
 msgid "ariados"
-msgstr ""
+msgstr "migalos"
 
 #: Pokemon/Crobat:169
 msgid "crobat"
-msgstr ""
+msgstr "nostenfer"
 
 #: Pokemon/Chinchou:170
 msgid "chinchou"
-msgstr ""
+msgstr "loupio"
 
 #: Pokemon/Lanturn:171
 msgid "lanturn"
-msgstr ""
+msgstr "lanturn"
 
 #: Pokemon/Pichu:172
 msgid "pichu"
-msgstr ""
+msgstr "pichu"
 
 #: Pokemon/Cleffa:173
 msgid "cleffa"
-msgstr ""
+msgstr "mélo"
 
 #: Pokemon/Igglybuff:174
 msgid "igglybuff"
-msgstr ""
+msgstr "toudoudou"
 
 #: Pokemon/Togepi:175
 msgid "togepi"
-msgstr ""
+msgstr "togepi"
 
 #: Pokemon/Togetic:176
 msgid "togetic"
-msgstr ""
+msgstr "togetic"
 
 #: Pokemon/Natu:177
 msgid "natu"
-msgstr ""
+msgstr "natu"
 
 #: Pokemon/Xatu:178
 msgid "xatu"
-msgstr ""
+msgstr "xatu"
 
 #: Pokemon/Mareep:179
 msgid "mareep"
-msgstr ""
+msgstr "wattouat"
 
 #: Pokemon/Flaaffy:180
 msgid "flaaffy"
-msgstr ""
+msgstr "lainergie"
 
 #: Pokemon/Ampharos:181
 msgid "ampharos"
-msgstr ""
+msgstr "pharamp"
 
 #: Pokemon/Bellossom:182
 msgid "bellossom"
-msgstr ""
+msgstr "joliflor"
 
 #: Pokemon/Marill:183
 msgid "marill"
-msgstr ""
+msgstr "marill"
 
 #: Pokemon/Azumarill:184
 msgid "azumarill"
-msgstr ""
+msgstr "azumarill"
 
 #: Pokemon/Sudowoodo:185
 msgid "sudowoodo"
-msgstr ""
+msgstr "simularbre"
 
 #: Pokemon/Politoed:186
 msgid "politoed"
-msgstr ""
+msgstr "tarpaud"
 
 #: Pokemon/Hoppip:187
 msgid "hoppip"
-msgstr ""
+msgstr "granivol"
 
 #: Pokemon/Skiploom:188
 msgid "skiploom"
-msgstr ""
+msgstr "floravol"
 
 #: Pokemon/Jumpluff:189
 msgid "jumpluff"
-msgstr ""
+msgstr "cotovol"
 
 #: Pokemon/Aipom:190
 msgid "aipom"
-msgstr ""
+msgstr "capumain"
 
 #: Pokemon/Sunkern:191
 msgid "sunkern"
-msgstr ""
+msgstr "tournegrin"
 
 #: Pokemon/Sunflora:192
 msgid "sunflora"
-msgstr ""
+msgstr "héliatronc"
 
 #: Pokemon/Yanma:193
 msgid "yanma"
-msgstr ""
+msgstr "yanma"
 
 #: Pokemon/Wooper:194
 msgid "wooper"
-msgstr ""
+msgstr "axoloto"
 
 #: Pokemon/Quagsire:195
 msgid "quagsire"
-msgstr ""
+msgstr "maraiste"
 
 #: Pokemon/Espeon:196
 msgid "espeon"
-msgstr ""
+msgstr "mentali"
 
 #: Pokemon/Umbreon:197
 msgid "umbreon"
-msgstr ""
+msgstr "noctali"
 
 #: Pokemon/Murkrow:198
 msgid "murkrow"
-msgstr ""
+msgstr "cornèbre"
 
 #: Pokemon/Slowking:199
 msgid "slowking"
-msgstr ""
+msgstr "roigada"
 
 #: Pokemon/Misdreavus:200
 msgid "misdreavus"
-msgstr ""
+msgstr "feuforêve"
 
 #: Pokemon/Unown:201
 msgid "unown"
-msgstr ""
+msgstr "zarbi"
 
 #: Pokemon/Wobbuffet:202
 msgid "wobbuffet"
-msgstr ""
+msgstr "qulbutoké"
 
 #: Pokemon/Girafarig:203
 msgid "girafarig"
-msgstr ""
+msgstr "girafarig"
 
 #: Pokemon/Pineco:204
 msgid "pineco"
-msgstr ""
+msgstr "pomdepik"
 
 #: Pokemon/Forretress:205
 msgid "forretress"
-msgstr ""
+msgstr "foretress"
 
 #: Pokemon/Dunsparce:206
 msgid "dunsparce"
-msgstr ""
+msgstr "insolourdo"
 
 #: Pokemon/Gligar:207
 msgid "gligar"
-msgstr ""
+msgstr "scorplane"
 
 #: Pokemon/Steelix:208
 msgid "steelix"
-msgstr ""
+msgstr "steelix"
 
 #: Pokemon/Snubbull:209
 msgid "snubbull"
-msgstr ""
+msgstr "snubbull"
 
 #: Pokemon/Granbull:210
 msgid "granbull"
-msgstr ""
+msgstr "granbull"
 
 #: Pokemon/Qwilfish:211
 msgid "qwilfish"
-msgstr ""
+msgstr "qwilfish"
 
 #: Pokemon/Scizor:212
 msgid "scizor"
-msgstr ""
+msgstr "cizayox"
 
 #: Pokemon/Shuckle:213
 msgid "shuckle"
-msgstr ""
+msgstr "caratroc"
 
 #: Pokemon/Heracross:214
 msgid "heracross"
-msgstr ""
+msgstr "scarhino"
 
 #: Pokemon/Sneasel:215
 msgid "sneasel"
-msgstr ""
+msgstr "farfuret"
 
 #: Pokemon/Teddiursa:216
 msgid "teddiursa"
-msgstr ""
+msgstr "teddiursa"
 
 #: Pokemon/Ursaring:217
 msgid "ursaring"
-msgstr ""
+msgstr "ursaring"
 
 #: Pokemon/Slugma:218
 msgid "slugma"
-msgstr ""
+msgstr "limagma"
 
 #: Pokemon/Magcargo:219
 msgid "magcargo"
-msgstr ""
+msgstr "volcaropod"
 
 #: Pokemon/Swinub:220
 msgid "swinub"
-msgstr ""
+msgstr "marcacrin"
 
 #: Pokemon/Piloswine:221
 msgid "piloswine"
-msgstr ""
+msgstr "cochignon"
 
 #: Pokemon/Corsola:222
 msgid "corsola"
-msgstr ""
+msgstr "corayon"
 
 #: Pokemon/Remoraid:223
 msgid "remoraid"
-msgstr ""
+msgstr "rémoraid"
 
 #: Pokemon/Octillery:224
 msgid "octillery"
-msgstr ""
+msgstr "octillery"
 
 #: Pokemon/Delibird:225
 msgid "delibird"
-msgstr ""
+msgstr "cadoizo"
 
 #: Pokemon/Mantine:226
 msgid "mantine"
-msgstr ""
+msgstr "démanta"
 
 #: Pokemon/Skarmory:227
 msgid "skarmory"
-msgstr ""
+msgstr "airmure"
 
 #: Pokemon/Houndour:228
 msgid "houndour"
-msgstr ""
+msgstr "malosse"
 
 #: Pokemon/Houndoom:229
 msgid "houndoom"
-msgstr ""
+msgstr "démolosse"
 
 #: Pokemon/Kingdra:230
 msgid "kingdra"
-msgstr ""
+msgstr "hyporoi"
 
 #: Pokemon/Phanpy:231
 msgid "phanpy"
-msgstr ""
+msgstr "phanpy"
 
 #: Pokemon/Donphan:232
 msgid "donphan"
-msgstr ""
+msgstr "donphan"
 
 #: Pokemon/Porygon2:233
 msgid "porygon2"
-msgstr ""
+msgstr "porygon2"
 
 #: Pokemon/Stantler:234
 msgid "stantler"
-msgstr ""
+msgstr "cerfrousse"
 
 #: Pokemon/Smeargle:235
 msgid "smeargle"
-msgstr ""
+msgstr "queulorior"
 
 #: Pokemon/Tyrogue:236
 msgid "tyrogue"
-msgstr ""
+msgstr "debugant"
 
 #: Pokemon/Hitmontop:237
 msgid "hitmontop"
-msgstr ""
+msgstr "kapoera"
 
 #: Pokemon/Smoochum:238
 msgid "smoochum"
-msgstr ""
+msgstr "lippouti"
 
 #: Pokemon/Elekid:239
 msgid "elekid"
-msgstr ""
+msgstr "élekid"
 
 #: Pokemon/Magby:240
 msgid "magby"
-msgstr ""
+msgstr "magby"
 
 #: Pokemon/Miltank:241
 msgid "miltank"
-msgstr ""
+msgstr "écrémeuh"
 
 #: Pokemon/Blissey:242
 msgid "blissey"
-msgstr ""
+msgstr "leuphorie"
 
 #: Pokemon/Raikou:243
 msgid "raikou"
-msgstr ""
+msgstr "raikou"
 
 #: Pokemon/Entei:244
 msgid "entei"
-msgstr ""
+msgstr "entei"
 
 #: Pokemon/Suicune:245
 msgid "suicune"
-msgstr ""
+msgstr "suicune"
 
 #: Pokemon/Larvitar:246
 msgid "larvitar"
-msgstr ""
+msgstr "embrylex"
 
 #: Pokemon/Pupitar:247
 msgid "pupitar"
-msgstr ""
+msgstr "ymphect"
 
 #: Pokemon/Tyranitar:248
 msgid "tyranitar"
-msgstr ""
+msgstr "tyranocif"
 
 #: Pokemon/Lugia:249
 msgid "lugia"
-msgstr ""
+msgstr "lugia"
 
 #: Pokemon/Ho-oh:250
 msgid "ho-oh"
-msgstr ""
+msgstr "ho-oh"
 
 #: Pokemon/Celebi:251
 msgid "celebi"
-msgstr ""
+msgstr "celebi"
 
 #: Pokemon/Treecko:252
 msgid "treecko"
-msgstr ""
+msgstr "arcko"
 
 #: Pokemon/Grovyle:253
 msgid "grovyle"
-msgstr ""
+msgstr "massko"
 
 #: Pokemon/Sceptile:254
 msgid "sceptile"
-msgstr ""
+msgstr "jungko"
 
 #: Pokemon/Torchic:255
 msgid "torchic"
-msgstr ""
+msgstr "poussifeu"
 
 #: Pokemon/Combusken:256
 msgid "combusken"
-msgstr ""
+msgstr "galifeu"
 
 #: Pokemon/Blaziken:257
 msgid "blaziken"
-msgstr ""
+msgstr "braségali"
 
 #: Pokemon/Mudkip:258
 msgid "mudkip"
-msgstr ""
+msgstr "gobou"
 
 #: Pokemon/Marshtomp:259
 msgid "marshtomp"
-msgstr ""
+msgstr "flobio"
 
 #: Pokemon/Swampert:260
 msgid "swampert"
-msgstr ""
+msgstr "laggron"
 
 #: Pokemon/Poochyena:261
 msgid "poochyena"
-msgstr ""
+msgstr "medhyèna"
 
 #: Pokemon/Mightyena:262
 msgid "mightyena"
-msgstr ""
+msgstr "grahyèna"
 
 #: Pokemon/Zigzagoon:263
 msgid "zigzagoon"
-msgstr ""
+msgstr "zigzaton"
 
 #: Pokemon/Linoone:264
 msgid "linoone"
-msgstr ""
+msgstr "linéon"
 
 #: Pokemon/Wurmple:265
 msgid "wurmple"
-msgstr ""
+msgstr "chenipotte"
 
 #: Pokemon/Silcoon:266
 msgid "silcoon"
-msgstr ""
+msgstr "armulys"
 
 #: Pokemon/Beautifly:267
 msgid "beautifly"
-msgstr ""
+msgstr "charmillon"
 
 #: Pokemon/Cascoon:268
 msgid "cascoon"
-msgstr ""
+msgstr "blindalys"
 
 #: Pokemon/Dustox:269
 msgid "dustox"
-msgstr ""
+msgstr "papinox"
 
 #: Pokemon/Lotad:270
 msgid "lotad"
-msgstr ""
+msgstr "nénupiot"
 
 #: Pokemon/Lombre:271
 msgid "lombre"
-msgstr ""
+msgstr "lombre"
 
 #: Pokemon/Ludicolo:272
 msgid "ludicolo"
-msgstr ""
+msgstr "ludicolo"
 
 #: Pokemon/Seedot:273
 msgid "seedot"
-msgstr ""
+msgstr "grainipiot"
 
 #: Pokemon/Nuzleaf:274
 msgid "nuzleaf"
-msgstr ""
+msgstr "pifeuil"
 
 #: Pokemon/Shiftry:275
 msgid "shiftry"
-msgstr ""
+msgstr "tengalice"
 
 #: Pokemon/Taillow:276
 msgid "taillow"
-msgstr ""
+msgstr "nirondelle"
 
 #: Pokemon/Swellow:277
 msgid "swellow"
-msgstr ""
+msgstr "hélédelle"
 
 #: Pokemon/Wingull:278
 msgid "wingull"
-msgstr ""
+msgstr "goélise"
 
 #: Pokemon/Pelipper:279
 msgid "pelipper"
-msgstr ""
+msgstr "bekipan"
 
 #: Pokemon/Ralts:280
 msgid "ralts"
-msgstr ""
+msgstr "tarsal"
 
 #: Pokemon/Kirlia:281
 msgid "kirlia"
-msgstr ""
+msgstr "kirlia"
 
 #: Pokemon/Gardevoir:282
 msgid "gardevoir"
-msgstr ""
+msgstr "gardevoir"
 
 #: Pokemon/Surskit:283
 msgid "surskit"
-msgstr ""
+msgstr "arakdo"
 
 #: Pokemon/Masquerain:284
 msgid "masquerain"
-msgstr ""
+msgstr "maskadra"
 
 #: Pokemon/Shroomish:285
 msgid "shroomish"
-msgstr ""
+msgstr "balignon"
 
 #: Pokemon/Breloom:286
 msgid "breloom"
-msgstr ""
+msgstr "chapignon"
 
 #: Pokemon/Slakoth:287
 msgid "slakoth"
-msgstr ""
+msgstr "parecool"
 
 #: Pokemon/Vigoroth:288
 msgid "vigoroth"
-msgstr ""
+msgstr "vigoroth"
 
 #: Pokemon/Slaking:289
 msgid "slaking"
-msgstr ""
+msgstr "monaflèmit"
 
 #: Pokemon/Nincada:290
 msgid "nincada"
-msgstr ""
+msgstr "ningale"
 
 #: Pokemon/Ninjask:291
 msgid "ninjask"
-msgstr ""
+msgstr "ninjask"
 
 #: Pokemon/Shedinja:292
 msgid "shedinja"
-msgstr ""
+msgstr "munja"
 
 #: Pokemon/Whismur:293
 msgid "whismur"
-msgstr ""
+msgstr "chuchmur"
 
 #: Pokemon/Loudred:294
 msgid "loudred"
-msgstr ""
+msgstr "ramboum"
 
 #: Pokemon/Exploud:295
 msgid "exploud"
-msgstr ""
+msgstr "brouhabam"
 
 #: Pokemon/Makuhita:296
 msgid "makuhita"
-msgstr ""
+msgstr "makuhita"
 
 #: Pokemon/Hariyama:297
 msgid "hariyama"
-msgstr ""
+msgstr "hariyama"
 
 #: Pokemon/Azurill:298
 msgid "azurill"
-msgstr ""
+msgstr "azurill"
 
 #: Pokemon/Nosepass:299
 msgid "nosepass"
-msgstr ""
+msgstr "tarinor"
 
 #: Pokemon/Skitty:300
 msgid "skitty"
-msgstr ""
+msgstr "skitty"
 
 #: Pokemon/Delcatty:301
 msgid "delcatty"
-msgstr ""
+msgstr "delcatty"
 
 #: Pokemon/Sableye:302
 msgid "sableye"
-msgstr ""
+msgstr "ténéfix"
 
 #: Pokemon/Mawile:303
 msgid "mawile"
-msgstr ""
+msgstr "mysdibule"
 
 #: Pokemon/Aron:304
 msgid "aron"
-msgstr ""
+msgstr "galekid"
 
 #: Pokemon/Lairon:305
 msgid "lairon"
-msgstr ""
+msgstr "galegon"
 
 #: Pokemon/Aggron:306
 msgid "aggron"
-msgstr ""
+msgstr "galeking"
 
 #: Pokemon/Meditite:307
 msgid "meditite"
-msgstr ""
+msgstr "méditikka"
 
 #: Pokemon/Medicham:308
 msgid "medicham"
-msgstr ""
+msgstr "charmina"
 
 #: Pokemon/Electrike:309
 msgid "electrike"
-msgstr ""
+msgstr "dynavolt"
 
 #: Pokemon/Manectric:310
 msgid "manectric"
-msgstr ""
+msgstr "élecsprint"
 
 #: Pokemon/Plusle:311
 msgid "plusle"
-msgstr ""
+msgstr "posipi"
 
 #: Pokemon/Minun:312
 msgid "minun"
-msgstr ""
+msgstr "négapi"
 
 #: Pokemon/Volbeat:313
 msgid "volbeat"
-msgstr ""
+msgstr "muciole"
 
 #: Pokemon/Illumise:314
 msgid "illumise"
-msgstr ""
+msgstr "lumivole"
 
 #: Pokemon/Roselia:315
 msgid "roselia"
-msgstr ""
+msgstr "rosélia"
 
 #: Pokemon/Gulpin:316
 msgid "gulpin"
-msgstr ""
+msgstr "gloupti"
 
 #: Pokemon/Swalot:317
 msgid "swalot"
-msgstr ""
+msgstr "avaltout"
 
 #: Pokemon/Carvanha:318
 msgid "carvanha"
-msgstr ""
+msgstr "carvanha"
 
 #: Pokemon/Sharpedo:319
 msgid "sharpedo"
-msgstr ""
+msgstr "sharpedo"
 
 #: Pokemon/Wailmer:320
 msgid "wailmer"
-msgstr ""
+msgstr "wailmer"
 
 #: Pokemon/Wailord:321
 msgid "wailord"
-msgstr ""
+msgstr "wailord"
 
 #: Pokemon/Numel:322
 msgid "numel"
-msgstr ""
+msgstr "chamallot"
 
 #: Pokemon/Camerupt:323
 msgid "camerupt"
-msgstr ""
+msgstr "camérupt"
 
 #: Pokemon/Torkoal:324
 msgid "torkoal"
-msgstr ""
+msgstr "chartor"
 
 #: Pokemon/Spoink:325
 msgid "spoink"
-msgstr ""
+msgstr "spoink"
 
 #: Pokemon/Grumpig:326
 msgid "grumpig"
-msgstr ""
+msgstr "groret"
 
 #: Pokemon/Spinda:327
 msgid "spinda"
-msgstr ""
+msgstr "spinda"
 
 #: Pokemon/Trapinch:328
 msgid "trapinch"
-msgstr ""
+msgstr "kraknoix"
 
 #: Pokemon/Vibrava:329
 msgid "vibrava"
-msgstr ""
+msgstr "vibraninf"
 
 #: Pokemon/Flygon:330
 msgid "flygon"
-msgstr ""
+msgstr "libégon"
 
 #: Pokemon/Cacnea:331
 msgid "cacnea"
-msgstr ""
+msgstr "cacnea"
 
 #: Pokemon/Cacturne:332
 msgid "cacturne"
-msgstr ""
+msgstr "cacturne"
 
 #: Pokemon/Swablu:333
 msgid "swablu"
-msgstr ""
+msgstr "tylton"
 
 #: Pokemon/Altaria:334
 msgid "altaria"
-msgstr ""
+msgstr "altaria"
 
 #: Pokemon/Zangoose:335
 msgid "zangoose"
-msgstr ""
+msgstr "mangriff"
 
 #: Pokemon/Seviper:336
 msgid "seviper"
-msgstr ""
+msgstr "séviper"
 
 #: Pokemon/Lunatone:337
 msgid "lunatone"
-msgstr ""
+msgstr "séléroc"
 
 #: Pokemon/Solrock:338
 msgid "solrock"
-msgstr ""
+msgstr "solaroc"
 
 #: Pokemon/Barboach:339
 msgid "barboach"
-msgstr ""
+msgstr "barloche"
 
 #: Pokemon/Whiscash:340
 msgid "whiscash"
-msgstr ""
+msgstr "barbicha"
 
 #: Pokemon/Corphish:341
 msgid "corphish"
-msgstr ""
+msgstr "écrapince"
 
 #: Pokemon/Crawdaunt:342
 msgid "crawdaunt"
-msgstr ""
+msgstr "colhomard"
 
 #: Pokemon/Baltoy:343
 msgid "baltoy"
-msgstr ""
+msgstr "balbuto"
 
 #: Pokemon/Claydol:344
 msgid "claydol"
-msgstr ""
+msgstr "kaorine"
 
 #: Pokemon/Lileep:345
 msgid "lileep"
-msgstr ""
+msgstr "lilia"
 
 #: Pokemon/Cradily:346
 msgid "cradily"
-msgstr ""
+msgstr "vacilys"
 
 #: Pokemon/Anorith:347
 msgid "anorith"
-msgstr ""
+msgstr "anorith"
 
 #: Pokemon/Armaldo:348
 msgid "armaldo"
-msgstr ""
+msgstr "armaldo"
 
 #: Pokemon/Feebas:349
 msgid "feebas"
-msgstr ""
+msgstr "barpau"
 
 #: Pokemon/Milotic:350
 msgid "milotic"
-msgstr ""
+msgstr "milobellus"
 
 #: Pokemon/Castform:351
 msgid "castform"
-msgstr ""
+msgstr "morphéo"
 
 #: Pokemon/Kecleon:352
 msgid "kecleon"
-msgstr ""
+msgstr "kecleon"
 
 #: Pokemon/Shuppet:353
 msgid "shuppet"
-msgstr ""
+msgstr "polichombr"
 
 #: Pokemon/Banette:354
 msgid "banette"
-msgstr ""
+msgstr "branette"
 
 #: Pokemon/Duskull:355
 msgid "duskull"
-msgstr ""
+msgstr "skelénox"
 
 #: Pokemon/Dusclops:356
 msgid "dusclops"
-msgstr ""
+msgstr "téraclope"
 
 #: Pokemon/Tropius:357
 msgid "tropius"
-msgstr ""
+msgstr "tropius"
 
 #: Pokemon/Chimecho:358
 msgid "chimecho"
-msgstr ""
+msgstr "éoko"
 
 #: Pokemon/Absol:359
 msgid "absol"
-msgstr ""
+msgstr "absol"
 
 #: Pokemon/Wynaut:360
 msgid "wynaut"
-msgstr ""
+msgstr "okéoké"
 
 #: Pokemon/Snorunt:361
 msgid "snorunt"
-msgstr ""
+msgstr "stalgamin"
 
 #: Pokemon/Glalie:362
 msgid "glalie"
-msgstr ""
+msgstr "oniglali"
 
 #: Pokemon/Spheal:363
 msgid "spheal"
-msgstr ""
+msgstr "obalie"
 
 #: Pokemon/Sealeo:364
 msgid "sealeo"
-msgstr ""
+msgstr "phogleur"
 
 #: Pokemon/Walrein:365
 msgid "walrein"
-msgstr ""
+msgstr "kaimorse"
 
 #: Pokemon/Clamperl:366
 msgid "clamperl"
-msgstr ""
+msgstr "coquiperl"
 
 #: Pokemon/Huntail:367
 msgid "huntail"
-msgstr ""
+msgstr "serpang"
 
 #: Pokemon/Gorebyss:368
 msgid "gorebyss"
-msgstr ""
+msgstr "rosabyss"
 
 #: Pokemon/Relicanth:369
 msgid "relicanth"
-msgstr ""
+msgstr "relicanth"
 
 #: Pokemon/Luvdisc:370
 msgid "luvdisc"
-msgstr ""
+msgstr "lovdisc"
 
 #: Pokemon/Bagon:371
 msgid "bagon"
-msgstr ""
+msgstr "draby"
 
 #: Pokemon/Shelgon:372
 msgid "shelgon"
-msgstr ""
+msgstr "drackhaus"
 
 #: Pokemon/Salamence:373
 msgid "salamence"
-msgstr ""
+msgstr "drattak"
 
 #: Pokemon/Beldum:374
 msgid "beldum"
-msgstr ""
+msgstr "terhal"
 
 #: Pokemon/Metang:375
 msgid "metang"
-msgstr ""
+msgstr "métang"
 
 #: Pokemon/Metagross:376
 msgid "metagross"
-msgstr ""
+msgstr "métalosse"
 
 #: Pokemon/Regirock:377
 msgid "regirock"
-msgstr ""
+msgstr "regirock"
 
 #: Pokemon/Regice:378
 msgid "regice"
-msgstr ""
+msgstr "regice"
 
 #: Pokemon/Registeel:379
 msgid "registeel"
-msgstr ""
+msgstr "registeel"
 
 #: Pokemon/Latias:380
 msgid "latias"
-msgstr ""
+msgstr "latias"
 
 #: Pokemon/Latios:381
 msgid "latios"
-msgstr ""
+msgstr "latios"
 
 #: Pokemon/Kyogre:382
 msgid "kyogre"
-msgstr ""
+msgstr "kyogre"
 
 #: Pokemon/Groudon:383
 msgid "groudon"
-msgstr ""
+msgstr "groudon"
 
 #: Pokemon/Rayquaza:384
 msgid "rayquaza"
-msgstr ""
+msgstr "rayquaza"
 
 #: Pokemon/Jirachi:385
 msgid "jirachi"
-msgstr ""
+msgstr "jirachi"
 
 #: Pokemon/Deoxys-normal:386
 msgid "deoxys-normal"
@@ -1560,107 +1562,107 @@ msgstr ""
 
 #: Pokemon/Turtwig:387
 msgid "turtwig"
-msgstr ""
+msgstr "tortipouss"
 
 #: Pokemon/Grotle:388
 msgid "grotle"
-msgstr ""
+msgstr "boskara"
 
 #: Pokemon/Torterra:389
 msgid "torterra"
-msgstr ""
+msgstr "torterra"
 
 #: Pokemon/Chimchar:390
 msgid "chimchar"
-msgstr ""
+msgstr "ouisticram"
 
 #: Pokemon/Monferno:391
 msgid "monferno"
-msgstr ""
+msgstr "chimpenfeu"
 
 #: Pokemon/Infernape:392
 msgid "infernape"
-msgstr ""
+msgstr "simiabraz"
 
 #: Pokemon/Piplup:393
 msgid "piplup"
-msgstr ""
+msgstr "tiplouf"
 
 #: Pokemon/Prinplup:394
 msgid "prinplup"
-msgstr ""
+msgstr "prinplouf"
 
 #: Pokemon/Empoleon:395
 msgid "empoleon"
-msgstr ""
+msgstr "pingoléon"
 
 #: Pokemon/Starly:396
 msgid "starly"
-msgstr ""
+msgstr "étourmi"
 
 #: Pokemon/Staravia:397
 msgid "staravia"
-msgstr ""
+msgstr "étourvol"
 
 #: Pokemon/Staraptor:398
 msgid "staraptor"
-msgstr ""
+msgstr "étouraptor"
 
 #: Pokemon/Bidoof:399
 msgid "bidoof"
-msgstr ""
+msgstr "keunotor"
 
 #: Pokemon/Bibarel:400
 msgid "bibarel"
-msgstr ""
+msgstr "castorno"
 
 #: Pokemon/Kricketot:401
 msgid "kricketot"
-msgstr ""
+msgstr "crikzik"
 
 #: Pokemon/Kricketune:402
 msgid "kricketune"
-msgstr ""
+msgstr "mélokrik"
 
 #: Pokemon/Shinx:403
 msgid "shinx"
-msgstr ""
+msgstr "lixy"
 
 #: Pokemon/Luxio:404
 msgid "luxio"
-msgstr ""
+msgstr "luxio"
 
 #: Pokemon/Luxray:405
 msgid "luxray"
-msgstr ""
+msgstr "luxray"
 
 #: Pokemon/Budew:406
 msgid "budew"
-msgstr ""
+msgstr "rozbouton"
 
 #: Pokemon/Roserade:407
 msgid "roserade"
-msgstr ""
+msgstr "roserade"
 
 #: Pokemon/Cranidos:408
 msgid "cranidos"
-msgstr ""
+msgstr "kranidos"
 
 #: Pokemon/Rampardos:409
 msgid "rampardos"
-msgstr ""
+msgstr "charkos"
 
 #: Pokemon/Shieldon:410
 msgid "shieldon"
-msgstr ""
+msgstr "dinoclier"
 
 #: Pokemon/Bastiodon:411
 msgid "bastiodon"
-msgstr ""
+msgstr "bastiodon"
 
 #: Pokemon/Burmy:412
 msgid "burmy"
-msgstr ""
+msgstr "cheniti"
 
 #: Pokemon/Wormadam-plant:413
 msgid "wormadam-plant"
@@ -1668,223 +1670,223 @@ msgstr ""
 
 #: Pokemon/Mothim:414
 msgid "mothim"
-msgstr ""
+msgstr "papilord"
 
 #: Pokemon/Combee:415
 msgid "combee"
-msgstr ""
+msgstr "apitrini"
 
 #: Pokemon/Vespiquen:416
 msgid "vespiquen"
-msgstr ""
+msgstr "apireine"
 
 #: Pokemon/Pachirisu:417
 msgid "pachirisu"
-msgstr ""
+msgstr "pachirisu"
 
 #: Pokemon/Buizel:418
 msgid "buizel"
-msgstr ""
+msgstr "mustébouée"
 
 #: Pokemon/Floatzel:419
 msgid "floatzel"
-msgstr ""
+msgstr "mustéflott"
 
 #: Pokemon/Cherubi:420
 msgid "cherubi"
-msgstr ""
+msgstr "ceribou"
 
 #: Pokemon/Cherrim:421
 msgid "cherrim"
-msgstr ""
+msgstr "ceriflor"
 
 #: Pokemon/Shellos:422
 msgid "shellos"
-msgstr ""
+msgstr "sancoki"
 
 #: Pokemon/Gastrodon:423
 msgid "gastrodon"
-msgstr ""
+msgstr "tritosor"
 
 #: Pokemon/Ambipom:424
 msgid "ambipom"
-msgstr ""
+msgstr "capidextre"
 
 #: Pokemon/Drifloon:425
 msgid "drifloon"
-msgstr ""
+msgstr "baudrive"
 
 #: Pokemon/Drifblim:426
 msgid "drifblim"
-msgstr ""
+msgstr "grodrive"
 
 #: Pokemon/Buneary:427
 msgid "buneary"
-msgstr ""
+msgstr "laporeille"
 
 #: Pokemon/Lopunny:428
 msgid "lopunny"
-msgstr ""
+msgstr "lockpin"
 
 #: Pokemon/Mismagius:429
 msgid "mismagius"
-msgstr ""
+msgstr "magirêve"
 
 #: Pokemon/Honchkrow:430
 msgid "honchkrow"
-msgstr ""
+msgstr "corboss"
 
 #: Pokemon/Glameow:431
 msgid "glameow"
-msgstr ""
+msgstr "chaglam"
 
 #: Pokemon/Purugly:432
 msgid "purugly"
-msgstr ""
+msgstr "chaffreux"
 
 #: Pokemon/Chingling:433
 msgid "chingling"
-msgstr ""
+msgstr "korillon"
 
 #: Pokemon/Stunky:434
 msgid "stunky"
-msgstr ""
+msgstr "moufouette"
 
 #: Pokemon/Skuntank:435
 msgid "skuntank"
-msgstr ""
+msgstr "moufflair"
 
 #: Pokemon/Bronzor:436
 msgid "bronzor"
-msgstr ""
+msgstr "archéomire"
 
 #: Pokemon/Bronzong:437
 msgid "bronzong"
-msgstr ""
+msgstr "archéodong"
 
 #: Pokemon/Bonsly:438
 msgid "bonsly"
-msgstr ""
+msgstr "manzaï"
 
 #: Pokemon/Mime-jr:439
 msgid "mime-jr"
-msgstr ""
+msgstr "mime jr."
 
 #: Pokemon/Happiny:440
 msgid "happiny"
-msgstr ""
+msgstr "ptiravi"
 
 #: Pokemon/Chatot:441
 msgid "chatot"
-msgstr ""
+msgstr "pijako"
 
 #: Pokemon/Spiritomb:442
 msgid "spiritomb"
-msgstr ""
+msgstr "spiritomb"
 
 #: Pokemon/Gible:443
 msgid "gible"
-msgstr ""
+msgstr "griknot"
 
 #: Pokemon/Gabite:444
 msgid "gabite"
-msgstr ""
+msgstr "carmache"
 
 #: Pokemon/Garchomp:445
 msgid "garchomp"
-msgstr ""
+msgstr "carchacrok"
 
 #: Pokemon/Munchlax:446
 msgid "munchlax"
-msgstr ""
+msgstr "goinfrex"
 
 #: Pokemon/Riolu:447
 msgid "riolu"
-msgstr ""
+msgstr "riolu"
 
 #: Pokemon/Lucario:448
 msgid "lucario"
-msgstr ""
+msgstr "lucario"
 
 #: Pokemon/Hippopotas:449
 msgid "hippopotas"
-msgstr ""
+msgstr "hippopotas"
 
 #: Pokemon/Hippowdon:450
 msgid "hippowdon"
-msgstr ""
+msgstr "hippodocus"
 
 #: Pokemon/Skorupi:451
 msgid "skorupi"
-msgstr ""
+msgstr "rapion"
 
 #: Pokemon/Drapion:452
 msgid "drapion"
-msgstr ""
+msgstr "drascore"
 
 #: Pokemon/Croagunk:453
 msgid "croagunk"
-msgstr ""
+msgstr "cradopaud"
 
 #: Pokemon/Toxicroak:454
 msgid "toxicroak"
-msgstr ""
+msgstr "coatox"
 
 #: Pokemon/Carnivine:455
 msgid "carnivine"
-msgstr ""
+msgstr "vortente"
 
 #: Pokemon/Finneon:456
 msgid "finneon"
-msgstr ""
+msgstr "écayon"
 
 #: Pokemon/Lumineon:457
 msgid "lumineon"
-msgstr ""
+msgstr "luminéon"
 
 #: Pokemon/Mantyke:458
 msgid "mantyke"
-msgstr ""
+msgstr "babimanta"
 
 #: Pokemon/Snover:459
 msgid "snover"
-msgstr ""
+msgstr "blizzi"
 
 #: Pokemon/Abomasnow:460
 msgid "abomasnow"
-msgstr ""
+msgstr "blizzaroi"
 
 #: Pokemon/Weavile:461
 msgid "weavile"
-msgstr ""
+msgstr "dimoret"
 
 #: Pokemon/Magnezone:462
 msgid "magnezone"
-msgstr ""
+msgstr "magnézone"
 
 #: Pokemon/Lickilicky:463
 msgid "lickilicky"
-msgstr ""
+msgstr "coudlangue"
 
 #: Pokemon/Rhyperior:464
 msgid "rhyperior"
-msgstr ""
+msgstr "rhinastoc"
 
 #: Pokemon/Tangrowth:465
 msgid "tangrowth"
-msgstr ""
+msgstr "bouldeneu"
 
 #: Pokemon/Electivire:466
 msgid "electivire"
-msgstr ""
+msgstr "élekable"
 
 #: Pokemon/Magmortar:467
 msgid "magmortar"
-msgstr ""
+msgstr "maganon"
 
 #: Pokemon/Togekiss:468
 msgid "togekiss"
-msgstr ""
+msgstr "togekiss"
 
 #: Pokemon/Yanmega:469
 msgid "yanmega"
@@ -1892,71 +1894,71 @@ msgstr ""
 
 #: Pokemon/Leafeon:470
 msgid "leafeon"
-msgstr ""
+msgstr "phyllali"
 
 #: Pokemon/Glaceon:471
 msgid "glaceon"
-msgstr ""
+msgstr "givrali"
 
 #: Pokemon/Gliscor:472
 msgid "gliscor"
-msgstr ""
+msgstr "scorvol"
 
 #: Pokemon/Mamoswine:473
 msgid "mamoswine"
-msgstr ""
+msgstr "mammochon"
 
 #: Pokemon/Porygon-z:474
 msgid "porygon-z"
-msgstr ""
+msgstr "porygon-z"
 
 #: Pokemon/Gallade:475
 msgid "gallade"
-msgstr ""
+msgstr "gallame"
 
 #: Pokemon/Probopass:476
 msgid "probopass"
-msgstr ""
+msgstr "tarinorme"
 
 #: Pokemon/Dusknoir:477
 msgid "dusknoir"
-msgstr ""
+msgstr "noctunoir"
 
 #: Pokemon/Froslass:478
 msgid "froslass"
-msgstr ""
+msgstr "momartik"
 
 #: Pokemon/Rotom:479
 msgid "rotom"
-msgstr ""
+msgstr "motisma"
 
 #: Pokemon/Uxie:480
 msgid "uxie"
-msgstr ""
+msgstr "créhelf"
 
 #: Pokemon/Mesprit:481
 msgid "mesprit"
-msgstr ""
+msgstr "créfollet"
 
 #: Pokemon/Azelf:482
 msgid "azelf"
-msgstr ""
+msgstr "créfadet"
 
 #: Pokemon/Dialga:483
 msgid "dialga"
-msgstr ""
+msgstr "dialga"
 
 #: Pokemon/Palkia:484
 msgid "palkia"
-msgstr ""
+msgstr "palkia"
 
 #: Pokemon/Heatran:485
 msgid "heatran"
-msgstr ""
+msgstr "heatran"
 
 #: Pokemon/Regigigas:486
 msgid "regigigas"
-msgstr ""
+msgstr "regigigas"
 
 #: Pokemon/Giratina-altered:487
 msgid "giratina-altered"
@@ -1964,19 +1966,19 @@ msgstr ""
 
 #: Pokemon/Cresselia:488
 msgid "cresselia"
-msgstr ""
+msgstr "cresselia"
 
 #: Pokemon/Phione:489
 msgid "phione"
-msgstr ""
+msgstr "phione"
 
 #: Pokemon/Manaphy:490
 msgid "manaphy"
-msgstr ""
+msgstr "manaphy"
 
 #: Pokemon/Darkrai:491
 msgid "darkrai"
-msgstr ""
+msgstr "darkrai"
 
 #: Pokemon/Shaymin-land:492
 msgid "shaymin-land"
@@ -1984,207 +1986,207 @@ msgstr ""
 
 #: Pokemon/Arceus:493
 msgid "arceus"
-msgstr ""
+msgstr "arceus"
 
 #: Pokemon/Victini:494
 msgid "victini"
-msgstr ""
+msgstr "victini"
 
 #: Pokemon/Snivy:495
 msgid "snivy"
-msgstr ""
+msgstr "vipélierre"
 
 #: Pokemon/Servine:496
 msgid "servine"
-msgstr ""
+msgstr "lianaja"
 
 #: Pokemon/Serperior:497
 msgid "serperior"
-msgstr ""
+msgstr "majaspic"
 
 #: Pokemon/Tepig:498
 msgid "tepig"
-msgstr ""
+msgstr "gruikui"
 
 #: Pokemon/Pignite:499
 msgid "pignite"
-msgstr ""
+msgstr "grotichon"
 
 #: Pokemon/Emboar:500
 msgid "emboar"
-msgstr ""
+msgstr "roitiflam"
 
 #: Pokemon/Oshawott:501
 msgid "oshawott"
-msgstr ""
+msgstr "moustillon"
 
 #: Pokemon/Dewott:502
 msgid "dewott"
-msgstr ""
+msgstr "mateloutre"
 
 #: Pokemon/Samurott:503
 msgid "samurott"
-msgstr ""
+msgstr "clamiral"
 
 #: Pokemon/Patrat:504
 msgid "patrat"
-msgstr ""
+msgstr "ratentif"
 
 #: Pokemon/Watchog:505
 msgid "watchog"
-msgstr ""
+msgstr "miradar"
 
 #: Pokemon/Lillipup:506
 msgid "lillipup"
-msgstr ""
+msgstr "ponchiot"
 
 #: Pokemon/Herdier:507
 msgid "herdier"
-msgstr ""
+msgstr "ponchien"
 
 #: Pokemon/Stoutland:508
 msgid "stoutland"
-msgstr ""
+msgstr "mastouffe"
 
 #: Pokemon/Purrloin:509
 msgid "purrloin"
-msgstr ""
+msgstr "chacripan"
 
 #: Pokemon/Liepard:510
 msgid "liepard"
-msgstr ""
+msgstr "léopardus"
 
 #: Pokemon/Pansage:511
 msgid "pansage"
-msgstr ""
+msgstr "feuillajou"
 
 #: Pokemon/Simisage:512
 msgid "simisage"
-msgstr ""
+msgstr "feuiloutan"
 
 #: Pokemon/Pansear:513
 msgid "pansear"
-msgstr ""
+msgstr "flamajou"
 
 #: Pokemon/Simisear:514
 msgid "simisear"
-msgstr ""
+msgstr "flamoutan"
 
 #: Pokemon/Panpour:515
 msgid "panpour"
-msgstr ""
+msgstr "flotajou"
 
 #: Pokemon/Simipour:516
 msgid "simipour"
-msgstr ""
+msgstr "flotoutan"
 
 #: Pokemon/Munna:517
 msgid "munna"
-msgstr ""
+msgstr "munna"
 
 #: Pokemon/Musharna:518
 msgid "musharna"
-msgstr ""
+msgstr "mushana"
 
 #: Pokemon/Pidove:519
 msgid "pidove"
-msgstr ""
+msgstr "poichigeon"
 
 #: Pokemon/Tranquill:520
 msgid "tranquill"
-msgstr ""
+msgstr "colombeau"
 
 #: Pokemon/Unfezant:521
 msgid "unfezant"
-msgstr ""
+msgstr "déflaisan"
 
 #: Pokemon/Blitzle:522
 msgid "blitzle"
-msgstr ""
+msgstr "zébibron"
 
 #: Pokemon/Zebstrika:523
 msgid "zebstrika"
-msgstr ""
+msgstr "zéblitz"
 
 #: Pokemon/Roggenrola:524
 msgid "roggenrola"
-msgstr ""
+msgstr "nodulithe"
 
 #: Pokemon/Boldore:525
 msgid "boldore"
-msgstr ""
+msgstr "géolithe"
 
 #: Pokemon/Gigalith:526
 msgid "gigalith"
-msgstr ""
+msgstr "gigalithe"
 
 #: Pokemon/Woobat:527
 msgid "woobat"
-msgstr ""
+msgstr "chovsourir"
 
 #: Pokemon/Swoobat:528
 msgid "swoobat"
-msgstr ""
+msgstr "rhinolove"
 
 #: Pokemon/Drilbur:529
 msgid "drilbur"
-msgstr ""
+msgstr "rototaupe"
 
 #: Pokemon/Excadrill:530
 msgid "excadrill"
-msgstr ""
+msgstr "minotaupe"
 
 #: Pokemon/Audino:531
 msgid "audino"
-msgstr ""
+msgstr "nanméouïe"
 
 #: Pokemon/Timburr:532
 msgid "timburr"
-msgstr ""
+msgstr "charpenti"
 
 #: Pokemon/Gurdurr:533
 msgid "gurdurr"
-msgstr ""
+msgstr "ouvrifier"
 
 #: Pokemon/Conkeldurr:534
 msgid "conkeldurr"
-msgstr ""
+msgstr "bétochef"
 
 #: Pokemon/Tympole:535
 msgid "tympole"
-msgstr ""
+msgstr "tritonde"
 
 #: Pokemon/Palpitoad:536
 msgid "palpitoad"
-msgstr ""
+msgstr "batracné"
 
 #: Pokemon/Seismitoad:537
 msgid "seismitoad"
-msgstr ""
+msgstr "crapustule"
 
 #: Pokemon/Throh:538
 msgid "throh"
-msgstr ""
+msgstr "judokrak"
 
 #: Pokemon/Sawk:539
 msgid "sawk"
-msgstr ""
+msgstr "karaclée"
 
 #: Pokemon/Sewaddle:540
 msgid "sewaddle"
-msgstr ""
+msgstr "larveyette"
 
 #: Pokemon/Swadloon:541
 msgid "swadloon"
-msgstr ""
+msgstr "couverdure"
 
 #: Pokemon/Leavanny:542
 msgid "leavanny"
-msgstr ""
+msgstr "manternel"
 
 #: Pokemon/Venipede:543
 msgid "venipede"
-msgstr ""
+msgstr "venipatte"
 
 #: Pokemon/Whirlipede:544
 msgid "whirlipede"
@@ -2192,23 +2194,23 @@ msgstr ""
 
 #: Pokemon/Scolipede:545
 msgid "scolipede"
-msgstr ""
+msgstr "brutapode"
 
 #: Pokemon/Cottonee:546
 msgid "cottonee"
-msgstr ""
+msgstr "doudouvet"
 
 #: Pokemon/Whimsicott:547
 msgid "whimsicott"
-msgstr ""
+msgstr "farfaduvet"
 
 #: Pokemon/Petilil:548
 msgid "petilil"
-msgstr ""
+msgstr "chlorobule"
 
 #: Pokemon/Lilligant:549
 msgid "lilligant"
-msgstr ""
+msgstr "fragilady"
 
 #: Pokemon/Basculin-red-striped:550
 msgid "basculin-red-striped"
@@ -2216,599 +2218,599 @@ msgstr ""
 
 #: Pokemon/Sandile:551
 msgid "sandile"
-msgstr ""
+msgstr "mascaïman"
 
 #: Pokemon/Krokorok:552
 msgid "krokorok"
-msgstr ""
+msgstr "escroco"
 
 #: Pokemon/Krookodile:553
 msgid "krookodile"
-msgstr ""
+msgstr "crocorible"
 
 #: Pokemon/Darumaka:554
 msgid "darumaka"
-msgstr ""
+msgstr "darumarond"
 
 #: Pokemon/Darmanitan-standard:555
 msgid "darmanitan-standard"
-msgstr ""
+msgstr "darumacho"
 
 #: Pokemon/Maractus:556
 msgid "maractus"
-msgstr ""
+msgstr "maracachi"
 
 #: Pokemon/Dwebble:557
 msgid "dwebble"
-msgstr ""
+msgstr "crabicoque"
 
 #: Pokemon/Crustle:558
 msgid "crustle"
-msgstr ""
+msgstr "crabaraque"
 
 #: Pokemon/Scraggy:559
 msgid "scraggy"
-msgstr ""
+msgstr "braggiguane"
 
 #: Pokemon/Scrafty:560
 msgid "scrafty"
-msgstr ""
+msgstr "baggaïd"
 
 #: Pokemon/Sigilyph:561
 msgid "sigilyph"
-msgstr ""
+msgstr "cryptéro"
 
 #: Pokemon/Yamask:562
 msgid "yamask"
-msgstr ""
+msgstr "tutafeh"
 
 #: Pokemon/Cofagrigus:563
 msgid "cofagrigus"
-msgstr ""
+msgstr "tutankafer"
 
 #: Pokemon/Tirtouga:564
 msgid "tirtouga"
-msgstr ""
+msgstr "carapagos"
 
 #: Pokemon/Carracosta:565
 msgid "carracosta"
-msgstr ""
+msgstr "mégapagos"
 
 #: Pokemon/Archen:566
 msgid "archen"
-msgstr ""
+msgstr "arkéapti"
 
 #: Pokemon/Archeops:567
 msgid "archeops"
-msgstr ""
+msgstr "aéroptéryx"
 
 #: Pokemon/Trubbish:568
 msgid "trubbish"
-msgstr ""
+msgstr "miamiasme"
 
 #: Pokemon/Garbodor:569
 msgid "garbodor"
-msgstr ""
+msgstr "miasmax"
 
 #: Pokemon/Zorua:570
 msgid "zorua"
-msgstr ""
+msgstr "zorua"
 
 #: Pokemon/Zoroark:571
 msgid "zoroark"
-msgstr ""
+msgstr "zoroark"
 
 #: Pokemon/Minccino:572
 msgid "minccino"
-msgstr ""
+msgstr "chinchidou"
 
 #: Pokemon/Cinccino:573
 msgid "cinccino"
-msgstr ""
+msgstr "pashmilla"
 
 #: Pokemon/Gothita:574
 msgid "gothita"
-msgstr ""
+msgstr "scrutella"
 
 #: Pokemon/Gothorita:575
 msgid "gothorita"
-msgstr ""
+msgstr "mesmérella"
 
 #: Pokemon/Gothitelle:576
 msgid "gothitelle"
-msgstr ""
+msgstr "sidérella"
 
 #: Pokemon/Solosis:577
 msgid "solosis"
-msgstr ""
+msgstr "nucléos"
 
 #: Pokemon/Duosion:578
 msgid "duosion"
-msgstr ""
+msgstr "méios"
 
 #: Pokemon/Reuniclus:579
 msgid "reuniclus"
-msgstr ""
+msgstr "symbios"
 
 #: Pokemon/Ducklett:580
 msgid "ducklett"
-msgstr ""
+msgstr "couaneton"
 
 #: Pokemon/Swanna:581
 msgid "swanna"
-msgstr ""
+msgstr "lakmécygne"
 
 #: Pokemon/Vanillite:582
 msgid "vanillite"
-msgstr ""
+msgstr "sorbébé"
 
 #: Pokemon/Vanillish:583
 msgid "vanillish"
-msgstr ""
+msgstr "sorboul"
 
 #: Pokemon/Vanilluxe:584
 msgid "vanilluxe"
-msgstr ""
+msgstr "sorbouboul"
 
 #: Pokemon/Deerling:585
 msgid "deerling"
-msgstr ""
+msgstr "vivaldaim"
 
 #: Pokemon/Sawsbuck:586
 msgid "sawsbuck"
-msgstr ""
+msgstr "haydaim"
 
 #: Pokemon/Emolga:587
 msgid "emolga"
-msgstr ""
+msgstr "emolga"
 
 #: Pokemon/Karrablast:588
 msgid "karrablast"
-msgstr ""
+msgstr "carabing"
 
 #: Pokemon/Escavalier:589
 msgid "escavalier"
-msgstr ""
+msgstr "lançargot"
 
 #: Pokemon/Foongus:590
 msgid "foongus"
-msgstr ""
+msgstr "trompignon"
 
 #: Pokemon/Amoonguss:591
 msgid "amoonguss"
-msgstr ""
+msgstr "gaulet"
 
 #: Pokemon/Frillish:592
 msgid "frillish"
-msgstr ""
+msgstr "viskuse"
 
 #: Pokemon/Jellicent:593
 msgid "jellicent"
-msgstr ""
+msgstr "moyade"
 
 #: Pokemon/Alomomola:594
 msgid "alomomola"
-msgstr ""
+msgstr "mamanbo"
 
 #: Pokemon/Joltik:595
 msgid "joltik"
-msgstr ""
+msgstr "statitik"
 
 #: Pokemon/Galvantula:596
 msgid "galvantula"
-msgstr ""
+msgstr "mygavolt"
 
 #: Pokemon/Ferroseed:597
 msgid "ferroseed"
-msgstr ""
+msgstr "grindur"
 
 #: Pokemon/Ferrothorn:598
 msgid "ferrothorn"
-msgstr ""
+msgstr "noacier"
 
 #: Pokemon/Klink:599
 msgid "klink"
-msgstr ""
+msgstr "tic"
 
 #: Pokemon/Klang:600
 msgid "klang"
-msgstr ""
+msgstr "clic"
 
 #: Pokemon/Klinklang:601
 msgid "klinklang"
-msgstr ""
+msgstr "cliticlic"
 
 #: Pokemon/Tynamo:602
 msgid "tynamo"
-msgstr ""
+msgstr "anchwatt"
 
 #: Pokemon/Eelektrik:603
 msgid "eelektrik"
-msgstr ""
+msgstr "lampéroie"
 
 #: Pokemon/Eelektross:604
 msgid "eelektross"
-msgstr ""
+msgstr "ohmassacre"
 
 #: Pokemon/Elgyem:605
 msgid "elgyem"
-msgstr ""
+msgstr "lewsor"
 
 #: Pokemon/Beheeyem:606
 msgid "beheeyem"
-msgstr ""
+msgstr "neitram"
 
 #: Pokemon/Litwick:607
 msgid "litwick"
-msgstr ""
+msgstr "funécire"
 
 #: Move/Wrap:13
 msgid "WRAP"
-msgstr ""
+msgstr "LIGOTAGE"
 
 #: Move/Hyper Beam:14
 msgid "HYPER BEAM"
-msgstr ""
+msgstr "ULTRALASER"
 
 #: Move/Dark Pulse:16
 msgid "DARK PULSE"
-msgstr ""
+msgstr "VIBROSCUR"
 
 #: Move/Sludge:18
 msgid "SLUDGE"
-msgstr ""
+msgstr "BOMB-BEURK"
 
 #: Move/Vice Grip:20
 msgid "VICE GRIP"
-msgstr ""
+msgstr "FORCE POIGNE"
 
 #: Move/Flame Wheel:21
 msgid "FLAME WHEEL"
-msgstr ""
+msgstr "ROUE DE FEU"
 
 #: Move/Megahorn:22
 msgid "MEGAHORN"
-msgstr ""
+msgstr "MEGACORNE"
 
 #: Move/Flamethrower:24
 msgid "FLAMETHROWER"
-msgstr ""
+msgstr "LANCE-FLAMMES"
 
 #: Move/Dig:26
 msgid "DIG"
-msgstr ""
+msgstr "TUNNEL"
 
 #: Move/Cross Chop:28
 msgid "CROSS CHOP"
-msgstr ""
+msgstr "COUP-CROIX"
 
 #: Move/Psybeam:30
 msgid "PSYBEAM"
-msgstr ""
+msgstr "RAFALE PSY"
 
 #: Move/Earthquake:31
 msgid "EARTHQUAKE"
-msgstr ""
+msgstr "SEISME"
 
 #: Move/Stone Edge:32
 msgid "STONE EDGE"
-msgstr ""
+msgstr "LAME DE ROC"
 
 #: Move/Ice Punch:33
 msgid "ICE PUNCH"
-msgstr ""
+msgstr "LASER GLACE"
 
 #: Move/Heart Stamp:34
 msgid "HEART STAMP"
-msgstr ""
+msgstr "CREVECOEUR"
 
 #: Move/Discharge:35
 msgid "DISCHARGE"
-msgstr ""
+msgstr "COUP D'JUS"
 
 #: Move/Flash Cannon:36
 msgid "FLASH CANNON"
-msgstr ""
+msgstr "LUMINOCANON"
 
 #: Move/Drill Peck:38
 msgid "DRILL PECK"
-msgstr ""
+msgstr "BEC VRILLE"
 
 #: Move/Ice Beam:39
 msgid "ICE BEAM"
-msgstr ""
+msgstr "LASER GLACE"
 
 #: Move/Blizzard:40
 msgid "BLIZZARD"
-msgstr ""
+msgstr "BLIZZARD"
 
 #: Move/Heat Wave:42
 msgid "HEAT WAVE"
-msgstr ""
+msgstr "CANICULE"
 
 #: Move/Aerial Ace:45
 msgid "AERIAL ACE"
-msgstr ""
+msgstr "AEROPIQUE"
 
 #: Move/Drill Run:46
 msgid "DRILL RUN"
-msgstr ""
+msgstr "TUNNELIER"
 
 #: Move/Petal Blizzard:47
 msgid "PETAL BLIZZARD"
-msgstr ""
+msgstr "TEMPETE FLORALE"
 
 #: Move/Mega Drain:48
 msgid "MEGA DRAIN"
-msgstr ""
+msgstr "MEGA-SANGSUE"
 
 #: Move/Bug Buzz:49
 msgid "BUG BUZZ"
-msgstr ""
+msgstr "BOURDON"
 
 #: Move/Poison Fang:50
 msgid "POISON FANG"
-msgstr ""
+msgstr "CROCHET VENIN"
 
 #: Move/Night Slash:51
 msgid "NIGHT SLASH"
-msgstr ""
+msgstr "TRANCH-NUIT"
 
 #: Move/Bubble Beam:53
 msgid "BUBBLE BEAM"
-msgstr ""
+msgstr "BULLES D'O"
 
 #: Move/Submission:54
 msgid "SUBMISSION"
-msgstr ""
+msgstr "SACRIFICE"
 
 #: Move/Low Sweep:56
 msgid "LOW SWEEP"
-msgstr ""
+msgstr "BALAYETTE"
 
 #: Move/Aqua Jet:57
 msgid "AQUA JET"
-msgstr ""
+msgstr "AQUA-JET"
 
 #: Move/Aqua Tail:58
 msgid "AQUA TAIL"
-msgstr ""
+msgstr "HYDROQUEUE"
 
 #: Move/Seed Bomb:59
 msgid "SEED BOMB"
-msgstr ""
+msgstr "CANON GRAINE"
 
 #: Move/Psyshock:60
 msgid "PSYSHOCK"
-msgstr ""
+msgstr "CHOC MENTAL"
 
 #: Move/Ancient Power:62
 msgid "ANCIENT POWER"
-msgstr ""
+msgstr "POUVOIR ANTIQUE"
 
 #: Move/Rock Tomb:63
 msgid "ROCK TOMB"
-msgstr ""
+msgstr "TOMBEROCHE"
 
 #: Move/Rock Slide:64
 msgid "ROCK SLIDE"
-msgstr ""
+msgstr "EBOULEMENT"
 
 #: Move/Power Gem:65
 msgid "POWER GEM"
-msgstr ""
+msgstr "RAYON GEMME"
 
 #: Move/Shadow Sneak:66
 msgid "SHADOW SNEAK"
-msgstr ""
+msgstr "OMBRE PORTEE"
 
 #: Move/Shadow Punch:67
 msgid "SHADOW PUNCH"
-msgstr ""
+msgstr "POING OMBRE"
 
 #: Move/Ominous Wind:69
 msgid "OMINOUS WIND"
-msgstr ""
+msgstr "VENT MAUVAIS"
 
 #: Move/Shadow Ball:70
 msgid "SHADOW BALL"
-msgstr ""
+msgstr "BALL'OMBRE"
 
 #: Move/Magnet Bomb:72
 msgid "MAGNET BOMB"
-msgstr ""
+msgstr "BOMBAIMANT"
 
 #: Move/Iron Head:74
 msgid "IRON HEAD"
-msgstr ""
+msgstr "TETE DE FER"
 
 #: Move/Parabolic Charge:75
 msgid "PARABOLIC CHARGE"
-msgstr ""
+msgstr "PARABOCHARGE"
 
 #: Move/Thunder Punch:77
 msgid "THUNDER PUNCH"
-msgstr ""
+msgstr "POING-ECLAIR"
 
 #: Move/Thunder:78
 msgid "THUNDER"
-msgstr ""
+msgstr "FATAL-FOUDRE"
 
 #: Move/Thunderbolt:79
 msgid "THUNDERBOLT"
-msgstr ""
+msgstr "TONERRE"
 
 #: Move/Twister:80
 msgid "TWISTER"
-msgstr ""
+msgstr "OURAGAN"
 
 #: Move/Dragon Pulse:82
 msgid "DRAGON PULSE"
-msgstr ""
+msgstr "DRACOCHOC"
 
 #: Move/Dragon Claw:83
 msgid "DRAGON CLAW"
-msgstr ""
+msgstr "DRACOGRIFFE"
 
 #: Move/Disarming Voice:84
 msgid "DISARMING VOICE"
-msgstr ""
+msgstr "VOIX ENJOLEUSE"
 
 #: Move/Draining Kiss:85
 msgid "DRAINING KISS"
-msgstr ""
+msgstr "VAMPIBAISER"
 
 #: Move/Dazzling Gleam:86
 msgid "DAZZLING GLEAM"
-msgstr ""
+msgstr "ECLAT MAGIQUE "
 
 #: Move/Moonblast:87
 msgid "MOONBLAST"
-msgstr ""
+msgstr "POUVOIR LUNAIRE"
 
 #: Move/Play Rough:88
 msgid "PLAY ROUGH"
-msgstr ""
+msgstr "CALINERIE"
 
 #: Move/Cross Poison:89
 msgid "CROSS POISON"
-msgstr ""
+msgstr "POISON CROIX"
 
 #: Move/Sludge Bomb:90
 msgid "SLUDGE BOMB"
-msgstr ""
+msgstr "BOMB-BEURK"
 
 #: Move/Sludge Wave:91
 msgid "SLUDGE WAVE"
-msgstr ""
+msgstr "CRADOVAGUE"
 
 #: Move/Gunk Shot:92
 msgid "GUNK SHOT"
-msgstr ""
+msgstr "DETRICANON"
 
 #: Move/Bone Club:94
 msgid "BONE CLUB"
-msgstr ""
+msgstr "MASSD'OS"
 
 #: Move/Bulldoze:95
 msgid "BULLDOZE"
-msgstr ""
+msgstr "PIETISOL"
 
 #: Move/Mud Bomb:96
 msgid "MUD BOMB"
-msgstr ""
+msgstr "BOUE-BOMBE"
 
 #: Move/Signal Beam:99
 msgid "SIGNAL BEAM"
-msgstr ""
+msgstr "RAYON SIGNAL"
 
 #: Move/X Scissor:100
 msgid "X SCISSOR"
-msgstr ""
+msgstr "PLAIE CROIX"
 
 #: Move/Flame Charge:101
 msgid "FLAME CHARGE"
-msgstr ""
+msgstr "NITROCHARGE"
 
 #: Move/Flame Burst:102
 msgid "FLAME BURST"
-msgstr ""
+msgstr "REBONDIFEU"
 
 #: Move/Fire Blast:103
 msgid "FIRE BLAST"
-msgstr ""
+msgstr "DEFLAGRATION"
 
 #: Move/Brine:104
 msgid "BRINE"
-msgstr ""
+msgstr "SAUMURE"
 
 #: Move/Water Pulse:105
 msgid "WATER PULSE"
-msgstr ""
+msgstr "VIBRAQUA"
 
 #: Move/Scald:106
 msgid "SCALD"
-msgstr ""
+msgstr "EBULLITION"
 
 #: Move/Hydro Pump:107
 msgid "HYDRO PUMP"
-msgstr ""
+msgstr "HYDROCANON"
 
 #: Move/Psychic:108
 msgid "PSYCHIC"
-msgstr ""
+msgstr "PSYCHO"
 
 #: Move/Psystrike:109
 msgid "PSYSTRIKE"
-msgstr ""
+msgstr "FRAPPE PSY"
 
 #: Move/Icy Wind:111
 msgid "ICY WIND"
-msgstr ""
+msgstr "VENT GLACE"
 
 #: Move/Giga Drain:114
 msgid "GIGA DRAIN"
-msgstr ""
+msgstr "GIGA-SANGSUE"
 
 #: Move/Fire Punch:115
 msgid "FIRE PUNCH"
-msgstr ""
+msgstr "POING DE FEU"
 
 #: Move/Solar Beam:116
 msgid "SOLAR BEAM"
-msgstr ""
+msgstr "LANCE-SOLEIL"
 
 #: Move/Leaf Blade:117
 msgid "LEAF BLADE"
-msgstr ""
+msgstr "LAME-FEUILLE"
 
 #: Move/Power Whip:118
 msgid "POWER WHIP"
-msgstr ""
+msgstr "MEGAFOUET"
 
 #: Move/Air Cutter:121
 msgid "AIR CUTTER"
-msgstr ""
+msgstr "TRANCH'AIR"
 
 #: Move/Hurricane:122
 msgid "HURRICANE"
-msgstr ""
+msgstr "VENT VIOLENT"
 
 #: Move/Brick Break:123
 msgid "BRICK BREAK"
-msgstr ""
+msgstr "CASSE-BRIQUE"
 
 #: Move/Swift:125
 msgid "SWIFT"
-msgstr ""
+msgstr "METEORES"
 
 #: Move/Horn Attack:126
 msgid "HORN ATTACK"
-msgstr ""
+msgstr "KOUD'KORNE"
 
 #: Move/Stomp:127
 msgid "STOMP"
-msgstr ""
+msgstr "ECRASEMENT"
 
 #: Move/Hyper Fang:129
 msgid "HYPER FANG"
-msgstr ""
+msgstr "CROC DE MORT"
 
 #: Move/Body Slam:131
 msgid "BODY SLAM"
-msgstr ""
+msgstr "PLAQUAGE"
 
 #: Move/Rest:132
 msgid "REST"
-msgstr ""
+msgstr "RESTES"
 
 #: Move/Struggle:133
 msgid "STRUGGLE"
-msgstr ""
+msgstr "LUTTE"
 
 #: Move/Scald Blastoise:134
 msgid "SCALD BLASTOISE"
-msgstr ""
+msgstr "EBULLITION TORTANK"
 
 #: Move/Hydro Pump Blastoise:135
 msgid "HYDRO PUMP BLASTOISE"
@@ -2816,15 +2818,15 @@ msgstr ""
 
 #: Move/Wrap Green:136
 msgid "WRAP GREEN"
-msgstr ""
+msgstr "LIGOTAGE VERT"
 
 #: Move/Wrap Pink:137
 msgid "WRAP PINK"
-msgstr ""
+msgstr "LIGOTAGE ROSE"
 
 #: Move/Fury Cutter:200
 msgid "FURY CUTTER"
-msgstr ""
+msgstr "TAILLADE"
 
 #: Move/Bug Bite:201
 msgid "BUG BITE"
@@ -2832,175 +2834,175 @@ msgstr ""
 
 #: Move/Bite:202
 msgid "BITE"
-msgstr ""
+msgstr "MORSURE"
 
 #: Move/Sucker Punch:203
 msgid "SUCKER PUNCH"
-msgstr ""
+msgstr "COUP BAS"
 
 #: Move/Dragon Breath:204
 msgid "DRAGON BREATH"
-msgstr ""
+msgstr "DRACOSOUFFLE"
 
 #: Move/Thunder Shock:205
 msgid "THUNDER SHOCK"
-msgstr ""
+msgstr "ECLAIR"
 
 #: Move/Spark:206
 msgid "SPARK"
-msgstr ""
+msgstr "ETINCELLE"
 
 #: Move/Low Kick:207
 msgid "LOW KICK"
-msgstr ""
+msgstr "BALAYAGE"
 
 #: Move/Karate Chop:208
 msgid "KARATE CHOP"
-msgstr ""
+msgstr "POING KARATE"
 
 #: Move/Ember:209
 msgid "EMBER"
-msgstr ""
+msgstr "FLAMMECHE"
 
 #: Move/Wing Attack:210
 msgid "WING ATTACK"
-msgstr ""
+msgstr "CRU-AILE"
 
 #: Move/Peck:211
 msgid "PECK"
-msgstr ""
+msgstr "PICPIC"
 
 #: Move/Lick:212
 msgid "LICK"
-msgstr ""
+msgstr "LECHOUILLE"
 
 #: Move/Shadow Claw:213
 msgid "SHADOW CLAW"
-msgstr ""
+msgstr "GRIFFE OMBRE"
 
 #: Move/Vine Whip:214
 msgid "VINE WHIP"
-msgstr ""
+msgstr "FOUET LIANES"
 
 #: Move/Razor Leaf:215
 msgid "RAZOR LEAF"
-msgstr ""
+msgstr "TRANCH'HERBES"
 
 #: Move/Mud Shot:216
 msgid "MUD SHOT"
-msgstr ""
+msgstr "TIR DE BOUE"
 
 #: Move/Ice Shard:217
 msgid "ICE SHARD"
-msgstr ""
+msgstr "ECLATS GLACE"
 
 #: Move/Frost Breath:218
 msgid "FROST BREATH"
-msgstr ""
+msgstr "SOUFFLE GLACE"
 
 #: Move/Quick Attack:219
 msgid "QUICK ATTACK"
-msgstr ""
+msgstr "VIVE-ATTAQUE"
 
 #: Move/Scratch:220
 msgid "SCRATCH"
-msgstr ""
+msgstr "GRIFFE"
 
 #: Move/Tackle:221
 msgid "TACKLE"
-msgstr ""
+msgstr "CHARGE"
 
 #: Move/Pound:222
 msgid "POUND"
-msgstr ""
+msgstr "ECRAS'FACE"
 
 #: Move/Cut:223
 msgid "CUT"
-msgstr ""
+msgstr "COUPE"
 
 #: Move/Poison Jab:224
 msgid "POISON JAB"
-msgstr ""
+msgstr "DIRECT TOXIK"
 
 #: Move/Acid:225
 msgid "ACID"
-msgstr ""
+msgstr "ACIDE"
 
 #: Move/Psycho Cut:226
 msgid "PSYCHO CUT"
-msgstr ""
+msgstr "COUPE PSYCHO"
 
 #: Move/Rock Throw:227
 msgid "ROCK THROW"
-msgstr ""
+msgstr "JET-PIERRES"
 
 #: Move/Metal Claw:228
 msgid "METAL CLAW"
-msgstr ""
+msgstr "GRIFFE ACIER"
 
 #: Move/Bullet Punch:229
 msgid "BULLET PUNCH"
-msgstr ""
+msgstr "PISTO-POING"
 
 #: Move/Water Gun:230
 msgid "WATER GUN"
-msgstr ""
+msgstr "PISTOLET A EAU"
 
 #: Move/Splash:231
 msgid "SPLASH"
-msgstr ""
+msgstr "TREMPETTE"
 
 #: Move/Water Gun Blastoise:232
 msgid "WATER GUN BLASTOISE"
-msgstr ""
+msgstr "PISTOLET A EAU TORTANK"
 
 #: Move/Mud Slap:233
 msgid "MUD SLAP"
-msgstr ""
+msgstr "COUD'BOUE"
 
 #: Move/Zen Headbutt:234
 msgid "ZEN HEADBUTT"
-msgstr ""
+msgstr "PSYKOUD'BOUL"
 
 #: Move/Confusion:235
 msgid "CONFUSION"
-msgstr ""
+msgstr "CHOC MENTAL"
 
 #: Move/Poison Sting:236
 msgid "POISON STING"
-msgstr ""
+msgstr "DARD-VENIN"
 
 #: Move/Bubble:237
 msgid "BUBBLE"
-msgstr ""
+msgstr "ECUME"
 
 #: Move/Feint Attack:238
 msgid "FEINT ATTACK"
-msgstr ""
+msgstr "FEINTE"
 
 #: Move/Steel Wing:239
 msgid "STEEL WING"
-msgstr ""
+msgstr "AILE D'ACIER"
 
 #: Move/Fire Fang:240
 msgid "FIRE FANG"
-msgstr ""
+msgstr "ROUE DE FEU"
 
 #: Move/Rock Smash:241
 msgid "ROCK SMASH"
-msgstr ""
+msgstr "ÉCLATE-ROC"
 
 #: Move/Transform:242
 msgid "TRANSFORM"
-msgstr ""
+msgstr "MORPHING"
 
 #: Move/Counter:243
 msgid "COUNTER"
-msgstr ""
+msgstr "RIPOSTE"
 
 #: Move/Powder Snow:244
 msgid "POWDER SNOW"
-msgstr ""
+msgstr "POUDREUSE"
 
 #: Move/Close Combat:245
 msgid "CLOSE COMBAT"
@@ -3008,107 +3010,107 @@ msgstr ""
 
 #: Move/Dynamic Punch:246
 msgid "DYNAMIC PUNCH"
-msgstr ""
+msgstr "DYNAMOPOING"
 
 #: Move/Focus Blast:247
 msgid "FOCUS BLAST"
-msgstr ""
+msgstr "EXPLOFORCE"
 
 #: Move/Aurora Beam:248
 msgid "AURORA BEAM"
-msgstr ""
+msgstr "ONDE BORÉALE"
 
 #: Move/Charge Beam:249
 msgid "CHARGE BEAM"
-msgstr ""
+msgstr "RAYON CHARGÉ"
 
 #: Move/Volt Switch:250
 msgid "VOLT SWITCH"
-msgstr ""
+msgstr "CHANGE ECLAIR"
 
 #: Move/Wild Charge:251
 msgid "WILD CHARGE"
-msgstr ""
+msgstr "ECLAIR FOU"
 
 #: Move/Zap Cannon:252
 msgid "ZAP CANNON"
-msgstr ""
+msgstr "ELECANON"
 
 #: Move/Dragon Tail:253
 msgid "DRAGON TAIL"
-msgstr ""
+msgstr "DRACO-QUEUE"
 
 #: Move/Avalanche:254
 msgid "AVALANCHE"
-msgstr ""
+msgstr "AVALANCHE"
 
 #: Move/Air Slash:255
 msgid "AIR SLASH"
-msgstr ""
+msgstr "LAME D'AIR"
 
 #: Move/Brave Bird:256
 msgid "BRAVE BIRD"
-msgstr ""
+msgstr "RAPACE"
 
 #: Move/Sky Attack:257
 msgid "SKY ATTACK"
-msgstr ""
+msgstr "PIQUÉ"
 
 #: Move/Sand Tomb:258
 msgid "SAND TOMB"
-msgstr ""
+msgstr "TOURBI-SABLE"
 
 #: Move/Rock Blast:259
 msgid "ROCK BLAST"
-msgstr ""
+msgstr "BOULE ROC"
 
 #: Move/Infestation:260
 msgid "INFESTATION"
-msgstr ""
+msgstr "HARCELEMENT"
 
 #: Move/Struggle Bug:261
 msgid "STRUGGLE BUG"
-msgstr ""
+msgstr "SURVINSECTE"
 
 #: Move/Silver Wind:262
 msgid "SILVER WIND"
-msgstr ""
+msgstr "VENT ARGENTE"
 
 #: Move/Astonish:263
 msgid "ASTONISH"
-msgstr ""
+msgstr "ETONNEMENT"
 
 #: Move/Hex:264
 msgid "HEX"
-msgstr ""
+msgstr "CHATIMENT"
 
 #: Move/Night Shade:265
 msgid "NIGHT SHADE"
-msgstr ""
+msgstr "OMBRE NOCTURNE"
 
 #: Move/Iron Tail:266
 msgid "IRON TAIL"
-msgstr ""
+msgstr "QUEUE DE FER"
 
 #: Move/Gyro Ball:267
 msgid "GYRO BALL"
-msgstr ""
+msgstr "GYROBALLE"
 
 #: Move/Heavy Slam:268
 msgid "HEAVY SLAM"
-msgstr ""
+msgstr "TACLE LOURD"
 
 #: Move/Fire Spin:269
 msgid "FIRE SPIN"
-msgstr ""
+msgstr "DANSE FLAMME"
 
 #: Move/Overheat:270
 msgid "OVERHEAT"
-msgstr ""
+msgstr "SURCHAUFFE"
 
 #: Move/Bullet Seed:271
 msgid "BULLET SEED"
-msgstr ""
+msgstr "BALLE GRAINE"
 
 #: Move/Grass Knot:272
 msgid "GRASS KNOT"
@@ -3116,108 +3118,108 @@ msgstr ""
 
 #: Move/Energy Ball:273
 msgid "ENERGY BALL"
-msgstr ""
+msgstr "ECO-SPHERE"
 
 #: Move/Extrasensory:274
 msgid "EXTRASENSORY"
-msgstr ""
+msgstr "EXTRASENSEUR"
 
 #: Move/Futuresight:275
 msgid "FUTURESIGHT"
-msgstr ""
+msgstr "PRESCIENCE"
 
 #: Move/Mirror Coat:276
 msgid "MIRROR COAT"
-msgstr ""
+msgstr "VOILE MIROIR"
 
 #: Move/Outrage:277
 msgid "OUTRAGE"
-msgstr ""
+msgstr "COLERE"
 
 #: Move/Snarl:278
 msgid "SNARL"
-msgstr ""
+msgstr "ABOIEMENT"
 
 #: Move/Crunch:279
 msgid "CRUNCH"
-msgstr ""
+msgstr "MACHOUILLE"
 
 #: Move/Foul Play:280
 msgid "FOUL PLAY"
-msgstr ""
+msgstr "TRICHERIE"
 
 #: Move/Hidden Power:281
 msgid "HIDDEN POWER"
-msgstr ""
+msgstr "PUISSANCE CACHEE"
 
 #: Type/Normal:1
 msgid "normal"
-msgstr ""
+msgstr "normal"
 
 #: Type/Fighting:2
 msgid "fighting"
-msgstr ""
+msgstr "combat"
 
 #: Type/Flying:3
 msgid "flying"
-msgstr ""
+msgstr "vol"
 
 #: Type/Poison:4
 msgid "poison"
-msgstr ""
+msgstr "poison"
 
 #: Type/Ground:5
 msgid "ground"
-msgstr ""
+msgstr "sol"
 
 #: Type/Rock:6
 msgid "rock"
-msgstr ""
+msgstr "roche"
 
 #: Type/Bug:7
 msgid "bug"
-msgstr ""
+msgstr "insecte"
 
 #: Type/Ghost:8
 msgid "ghost"
-msgstr ""
+msgstr "spectre"
 
 #: Type/Steel:9
 msgid "steel"
-msgstr ""
+msgstr "acier"
 
 #: Type/Fire:10
 msgid "fire"
-msgstr ""
+msgstr "feu"
 
 #: Type/Water:11
 msgid "water"
-msgstr ""
+msgstr "eau"
 
 #: Type/Grass:12
 msgid "grass"
-msgstr ""
+msgstr "plante"
 
 #: Type/Electric:13
 msgid "electric"
-msgstr ""
+msgstr "électrik"
 
 #: Type/Psychic:14
 msgid "psychic"
-msgstr ""
+msgstr "psy"
 
 #: Type/Ice:15
 msgid "ice"
-msgstr ""
+msgstr "glace"
 
 #: Type/Dragon:16
 msgid "dragon"
-msgstr ""
+msgstr "dragon"
 
 #: Type/Dark:17
 msgid "dark"
-msgstr ""
+msgstr "ténèbres"
 
 #: Type/Fairy:18
 msgid "fairy"
-msgstr ""
+msgstr "fée"

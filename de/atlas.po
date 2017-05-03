@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-02 22:30-0400\n"
-"PO-Revision-Date: 2017-05-03 01:45+0000\n"
+"PO-Revision-Date: 2017-05-03 20:28+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493775919.419339\n"
+"X-POOTLE-MTIME: 1493843312.052365\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -54,6 +54,9 @@ msgstr "Pokemon GO-Nester"
 #: View/Atlas/index.ctp:611
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
+"<a href=\"%s\">Tritt the Road bei</a> und hilf mit, deine örtlichen Nester "
+"ausfindig zu machen!  Der globale Nestatlas ist eine Sammlung von "
+"Feldberichten der Silph Road Reisenden. "
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
@@ -425,7 +428,7 @@ msgstr "Rauch oder Lockmodul benutzen"
 
 #: View/Atlas/index.ctp:1252
 msgid "Select Quick Move..."
-msgstr "Wähle einen Schnellangriff aus..."
+msgstr "Wähle Standard-Attacke..."
 
 #: View/Atlas/index.ctp:1253;1266
 msgid "Unknown"
@@ -433,7 +436,7 @@ msgstr "Unbekannt"
 
 #: View/Atlas/index.ctp:1265
 msgid "Select Charge Move..."
-msgstr "Wähle Ladeangriff aus..."
+msgstr "Wähle Spezialattacke..."
 
 #: View/Atlas/index.ctp:1280
 msgid "Successful Capture"
@@ -689,7 +692,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2527;2529
 msgid "Select a Charge Move"
-msgstr "Wähle einen Ladeangriff"
+msgstr "Wähle eine Spezialattacke"
 
 #: View/Atlas/index.ctp:2538;2561
 msgid "Please select a radio button!"

@@ -5,3220 +5,3221 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 17:45+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493833538.465812\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
-msgstr ""
+msgstr "妙蛙種子"
 
 #: Pokemon/Ivysaur:2
 msgid "ivysaur"
-msgstr ""
+msgstr "妙蛙草"
 
 #: Pokemon/Venusaur:3
 msgid "venusaur"
-msgstr ""
+msgstr "妙蛙花"
 
 #: Pokemon/Charmander:4
 msgid "charmander"
-msgstr ""
+msgstr "小火龍"
 
 #: Pokemon/Charmeleon:5
 msgid "charmeleon"
-msgstr ""
+msgstr "火恐龍"
 
 #: Pokemon/Charizard:6
 msgid "charizard"
-msgstr ""
+msgstr "噴火龍"
 
 #: Pokemon/Squirtle:7
 msgid "squirtle"
-msgstr ""
+msgstr "傑尼龜"
 
 #: Pokemon/Wartortle:8
 msgid "wartortle"
-msgstr ""
+msgstr "卡咪龜"
 
 #: Pokemon/Blastoise:9
 msgid "blastoise"
-msgstr ""
+msgstr "水箭龜"
 
 #: Pokemon/Caterpie:10
 msgid "caterpie"
-msgstr ""
+msgstr "綠毛蟲"
 
 #: Pokemon/Metapod:11
 msgid "metapod"
-msgstr ""
+msgstr "鐵甲蛹"
 
 #: Pokemon/Butterfree:12
 msgid "butterfree"
-msgstr ""
+msgstr "巴大蝶"
 
 #: Pokemon/Weedle:13
 msgid "weedle"
-msgstr ""
+msgstr "獨角蟲"
 
 #: Pokemon/Kakuna:14
 msgid "kakuna"
-msgstr ""
+msgstr "鐵殼蛹"
 
 #: Pokemon/Beedrill:15
 msgid "beedrill"
-msgstr ""
+msgstr "大針蜂"
 
 #: Pokemon/Pidgey:16
 msgid "pidgey"
-msgstr ""
+msgstr "波波"
 
 #: Pokemon/Pidgeotto:17
 msgid "pidgeotto"
-msgstr ""
+msgstr "比比鳥"
 
 #: Pokemon/Pidgeot:18
 msgid "pidgeot"
-msgstr ""
+msgstr "大比鳥"
 
 #: Pokemon/Rattata:19
 msgid "rattata"
-msgstr ""
+msgstr "小拉達"
 
 #: Pokemon/Raticate:20
 msgid "raticate"
-msgstr ""
+msgstr "拉達"
 
 #: Pokemon/Spearow:21
 msgid "spearow"
-msgstr ""
+msgstr "烈雀"
 
 #: Pokemon/Fearow:22
 msgid "fearow"
-msgstr ""
+msgstr "大嘴雀"
 
 #: Pokemon/Ekans:23
 msgid "ekans"
-msgstr ""
+msgstr "阿柏蛇"
 
 #: Pokemon/Arbok:24
 msgid "arbok"
-msgstr ""
+msgstr "阿柏怪"
 
 #: Pokemon/Pikachu:25
 msgid "pikachu"
-msgstr ""
+msgstr "皮卡丘"
 
 #: Pokemon/Raichu:26
 msgid "raichu"
-msgstr ""
+msgstr "雷丘"
 
 #: Pokemon/Sandshrew:27
 msgid "sandshrew"
-msgstr ""
+msgstr "穿山鼠"
 
 #: Pokemon/Sandslash:28
 msgid "sandslash"
-msgstr ""
+msgstr "穿山王"
 
 #: Pokemon/Nidoran-f:29
 msgid "nidoran-f"
-msgstr ""
+msgstr "尼多蘭"
 
 #: Pokemon/Nidorina:30
 msgid "nidorina"
-msgstr ""
+msgstr "尼多娜"
 
 #: Pokemon/Nidoqueen:31
 msgid "nidoqueen"
-msgstr ""
+msgstr "尼多后"
 
 #: Pokemon/Nidoran-m:32
 msgid "nidoran-m"
-msgstr ""
+msgstr "尼多朗"
 
 #: Pokemon/Nidorino:33
 msgid "nidorino"
-msgstr ""
+msgstr "尼多力諾"
 
 #: Pokemon/Nidoking:34
 msgid "nidoking"
-msgstr ""
+msgstr "尼多王"
 
 #: Pokemon/Clefairy:35
 msgid "clefairy"
-msgstr ""
+msgstr "皮皮"
 
 #: Pokemon/Clefable:36
 msgid "clefable"
-msgstr ""
+msgstr "皮可西"
 
 #: Pokemon/Vulpix:37
 msgid "vulpix"
-msgstr ""
+msgstr "六尾"
 
 #: Pokemon/Ninetales:38
 msgid "ninetales"
-msgstr ""
+msgstr "九尾"
 
 #: Pokemon/Jigglypuff:39
 msgid "jigglypuff"
-msgstr ""
+msgstr "胖丁"
 
 #: Pokemon/Wigglytuff:40
 msgid "wigglytuff"
-msgstr ""
+msgstr "胖可丁"
 
 #: Pokemon/Zubat:41
 msgid "zubat"
-msgstr ""
+msgstr "超音蝠"
 
 #: Pokemon/Golbat:42
 msgid "golbat"
-msgstr ""
+msgstr "大嘴蝠"
 
 #: Pokemon/Oddish:43
 msgid "oddish"
-msgstr ""
+msgstr "走路草"
 
 #: Pokemon/Gloom:44
 msgid "gloom"
-msgstr ""
+msgstr "臭臭花"
 
 #: Pokemon/Vileplume:45
 msgid "vileplume"
-msgstr ""
+msgstr "霸王花"
 
 #: Pokemon/Paras:46
 msgid "paras"
-msgstr ""
+msgstr "派拉斯"
 
 #: Pokemon/Parasect:47
 msgid "parasect"
-msgstr ""
+msgstr "派拉斯特"
 
 #: Pokemon/Venonat:48
 msgid "venonat"
-msgstr ""
+msgstr "毛球"
 
 #: Pokemon/Venomoth:49
 msgid "venomoth"
-msgstr ""
+msgstr "摩魯蛾"
 
 #: Pokemon/Diglett:50
 msgid "diglett"
-msgstr ""
+msgstr "地鼠"
 
 #: Pokemon/Dugtrio:51
 msgid "dugtrio"
-msgstr ""
+msgstr "三地鼠"
 
 #: Pokemon/Meowth:52
 msgid "meowth"
-msgstr ""
+msgstr "喵喵"
 
 #: Pokemon/Persian:53
 msgid "persian"
-msgstr ""
+msgstr "貓老大"
 
 #: Pokemon/Psyduck:54
 msgid "psyduck"
-msgstr ""
+msgstr "可達鴨"
 
 #: Pokemon/Golduck:55
 msgid "golduck"
-msgstr ""
+msgstr "哥達鴨"
 
 #: Pokemon/Mankey:56
 msgid "mankey"
-msgstr ""
+msgstr "猴怪"
 
 #: Pokemon/Primeape:57
 msgid "primeape"
-msgstr ""
+msgstr "火爆猴"
 
 #: Pokemon/Growlithe:58
 msgid "growlithe"
-msgstr ""
+msgstr "卡蒂狗"
 
 #: Pokemon/Arcanine:59
 msgid "arcanine"
-msgstr ""
+msgstr "風速狗"
 
 #: Pokemon/Poliwag:60
 msgid "poliwag"
-msgstr ""
+msgstr "蚊香蝌蚪"
 
 #: Pokemon/Poliwhirl:61
 msgid "poliwhirl"
-msgstr ""
+msgstr "蚊香君"
 
 #: Pokemon/Poliwrath:62
 msgid "poliwrath"
-msgstr ""
+msgstr "蚊香泳士"
 
 #: Pokemon/Abra:63
 msgid "abra"
-msgstr ""
+msgstr "凱西"
 
 #: Pokemon/Kadabra:64
 msgid "kadabra"
-msgstr ""
+msgstr "勇基拉"
 
 #: Pokemon/Alakazam:65
 msgid "alakazam"
-msgstr ""
+msgstr "胡地"
 
 #: Pokemon/Machop:66
 msgid "machop"
-msgstr ""
+msgstr "腕力"
 
 #: Pokemon/Machoke:67
 msgid "machoke"
-msgstr ""
+msgstr "豪力"
 
 #: Pokemon/Machamp:68
 msgid "machamp"
-msgstr ""
+msgstr "怪力"
 
 #: Pokemon/Bellsprout:69
 msgid "bellsprout"
-msgstr ""
+msgstr "喇叭芽"
 
 #: Pokemon/Weepinbell:70
 msgid "weepinbell"
-msgstr ""
+msgstr "口呆花"
 
 #: Pokemon/Victreebel:71
 msgid "victreebel"
-msgstr ""
+msgstr "大食花"
 
 #: Pokemon/Tentacool:72
 msgid "tentacool"
-msgstr ""
+msgstr "瑪瑙水母"
 
 #: Pokemon/Tentacruel:73
 msgid "tentacruel"
-msgstr ""
+msgstr "毒刺水母"
 
 #: Pokemon/Geodude:74
 msgid "geodude"
-msgstr ""
+msgstr "小拳石"
 
 #: Pokemon/Graveler:75
 msgid "graveler"
-msgstr ""
+msgstr "隆隆石"
 
 #: Pokemon/Golem:76
 msgid "golem"
-msgstr ""
+msgstr "隆隆岩"
 
 #: Pokemon/Ponyta:77
 msgid "ponyta"
-msgstr ""
+msgstr "小火馬"
 
 #: Pokemon/Rapidash:78
 msgid "rapidash"
-msgstr ""
+msgstr "烈焰馬"
 
 #: Pokemon/Slowpoke:79
 msgid "slowpoke"
-msgstr ""
+msgstr "呆呆獸"
 
 #: Pokemon/Slowbro:80
 msgid "slowbro"
-msgstr ""
+msgstr "呆殼獸"
 
 #: Pokemon/Magnemite:81
 msgid "magnemite"
-msgstr ""
+msgstr "小磁怪"
 
 #: Pokemon/Magneton:82
 msgid "magneton"
-msgstr ""
+msgstr "三合一磁怪"
 
 #: Pokemon/Farfetchd:83
 msgid "farfetchd"
-msgstr ""
+msgstr "大蔥鴨"
 
 #: Pokemon/Doduo:84
 msgid "doduo"
-msgstr ""
+msgstr "嘟嘟"
 
 #: Pokemon/Dodrio:85
 msgid "dodrio"
-msgstr ""
+msgstr "嘟嘟利"
 
 #: Pokemon/Seel:86
 msgid "seel"
-msgstr ""
+msgstr "小海獅"
 
 #: Pokemon/Dewgong:87
 msgid "dewgong"
-msgstr ""
+msgstr "白海獅"
 
 #: Pokemon/Grimer:88
 msgid "grimer"
-msgstr ""
+msgstr "臭泥"
 
 #: Pokemon/Muk:89
 msgid "muk"
-msgstr ""
+msgstr "臭臭泥"
 
 #: Pokemon/Shellder:90
 msgid "shellder"
-msgstr ""
+msgstr "大舌貝"
 
 #: Pokemon/Cloyster:91
 msgid "cloyster"
-msgstr ""
+msgstr "刺甲貝"
 
 #: Pokemon/Gastly:92
 msgid "gastly"
-msgstr ""
+msgstr "鬼斯"
 
 #: Pokemon/Haunter:93
 msgid "haunter"
-msgstr ""
+msgstr "鬼斯通"
 
 #: Pokemon/Gengar:94
 msgid "gengar"
-msgstr ""
+msgstr "耿鬼"
 
 #: Pokemon/Onix:95
 msgid "onix"
-msgstr ""
+msgstr "大岩蛇"
 
 #: Pokemon/Drowzee:96
 msgid "drowzee"
-msgstr ""
+msgstr "催眠貘"
 
 #: Pokemon/Hypno:97
 msgid "hypno"
-msgstr ""
+msgstr "引夢貘人"
 
 #: Pokemon/Krabby:98
 msgid "krabby"
-msgstr ""
+msgstr "大鉗蟹"
 
 #: Pokemon/Kingler:99
 msgid "kingler"
-msgstr ""
+msgstr "巨鉗蟹"
 
 #: Pokemon/Voltorb:100
 msgid "voltorb"
-msgstr ""
+msgstr "霹靂電球"
 
 #: Pokemon/Electrode:101
 msgid "electrode"
-msgstr ""
+msgstr "頑皮雷彈"
 
 #: Pokemon/Exeggcute:102
 msgid "exeggcute"
-msgstr ""
+msgstr "蛋蛋"
 
 #: Pokemon/Exeggutor:103
 msgid "exeggutor"
-msgstr ""
+msgstr "椰蛋樹"
 
 #: Pokemon/Cubone:104
 msgid "cubone"
-msgstr ""
+msgstr "卡拉卡拉"
 
 #: Pokemon/Marowak:105
 msgid "marowak"
-msgstr ""
+msgstr "嘎啦嘎啦"
 
 #: Pokemon/Hitmonlee:106
 msgid "hitmonlee"
-msgstr ""
+msgstr "飛腿郎"
 
 #: Pokemon/Hitmonchan:107
 msgid "hitmonchan"
-msgstr ""
+msgstr "快拳郎"
 
 #: Pokemon/Lickitung:108
 msgid "lickitung"
-msgstr ""
+msgstr "大舌頭"
 
 #: Pokemon/Koffing:109
 msgid "koffing"
-msgstr ""
+msgstr "瓦斯彈"
 
 #: Pokemon/Weezing:110
 msgid "weezing"
-msgstr ""
+msgstr "雙彈瓦斯"
 
 #: Pokemon/Rhyhorn:111
 msgid "rhyhorn"
-msgstr ""
+msgstr "獨角犀牛"
 
 #: Pokemon/Rhydon:112
 msgid "rhydon"
-msgstr ""
+msgstr "鑽角犀獸"
 
 #: Pokemon/Chansey:113
 msgid "chansey"
-msgstr ""
+msgstr "吉利蛋"
 
 #: Pokemon/Tangela:114
 msgid "tangela"
-msgstr ""
+msgstr "蔓藤怪"
 
 #: Pokemon/Kangaskhan:115
 msgid "kangaskhan"
-msgstr ""
+msgstr "袋獸"
 
 #: Pokemon/Horsea:116
 msgid "horsea"
-msgstr ""
+msgstr "墨海馬"
 
 #: Pokemon/Seadra:117
 msgid "seadra"
-msgstr ""
+msgstr "海刺龍"
 
 #: Pokemon/Goldeen:118
 msgid "goldeen"
-msgstr ""
+msgstr "角金魚"
 
 #: Pokemon/Seaking:119
 msgid "seaking"
-msgstr ""
+msgstr "金魚王"
 
 #: Pokemon/Staryu:120
 msgid "staryu"
-msgstr ""
+msgstr "海星星"
 
 #: Pokemon/Starmie:121
 msgid "starmie"
-msgstr ""
+msgstr "寶石海星"
 
 #: Pokemon/Mr-mime:122
 msgid "mr-mime"
-msgstr ""
+msgstr "魔牆人偶"
 
 #: Pokemon/Scyther:123
 msgid "scyther"
-msgstr ""
+msgstr "飛天螳螂"
 
 #: Pokemon/Jynx:124
 msgid "jynx"
-msgstr ""
+msgstr "迷唇姐"
 
 #: Pokemon/Electabuzz:125
 msgid "electabuzz"
-msgstr ""
+msgstr "電擊獸"
 
 #: Pokemon/Magmar:126
 msgid "magmar"
-msgstr ""
+msgstr "鴨嘴火獸"
 
 #: Pokemon/Pinsir:127
 msgid "pinsir"
-msgstr ""
+msgstr "凱羅斯"
 
 #: Pokemon/Tauros:128
 msgid "tauros"
-msgstr ""
+msgstr "肯泰羅"
 
 #: Pokemon/Magikarp:129
 msgid "magikarp"
-msgstr ""
+msgstr "鯉魚王"
 
 #: Pokemon/Gyarados:130
 msgid "gyarados"
-msgstr ""
+msgstr "暴鯉龍"
 
 #: Pokemon/Lapras:131
 msgid "lapras"
-msgstr ""
+msgstr "拉普拉斯"
 
 #: Pokemon/Ditto:132
 msgid "ditto"
-msgstr ""
+msgstr "百變怪"
 
 #: Pokemon/Eevee:133
 msgid "eevee"
-msgstr ""
+msgstr "伊布"
 
 #: Pokemon/Vaporeon:134
 msgid "vaporeon"
-msgstr ""
+msgstr "水伊布"
 
 #: Pokemon/Jolteon:135
 msgid "jolteon"
-msgstr ""
+msgstr "雷伊布"
 
 #: Pokemon/Flareon:136
 msgid "flareon"
-msgstr ""
+msgstr "火伊布"
 
 #: Pokemon/Porygon:137
 msgid "porygon"
-msgstr ""
+msgstr "多邊獸"
 
 #: Pokemon/Omanyte:138
 msgid "omanyte"
-msgstr ""
+msgstr "菊石獸"
 
 #: Pokemon/Omastar:139
 msgid "omastar"
-msgstr ""
+msgstr "多刺菊石獸"
 
 #: Pokemon/Kabuto:140
 msgid "kabuto"
-msgstr ""
+msgstr "化石盔"
 
 #: Pokemon/Kabutops:141
 msgid "kabutops"
-msgstr ""
+msgstr "鐮刀盔"
 
 #: Pokemon/Aerodactyl:142
 msgid "aerodactyl"
-msgstr ""
+msgstr "化石翼龍"
 
 #: Pokemon/Snorlax:143
 msgid "snorlax"
-msgstr ""
+msgstr "卡比獸"
 
 #: Pokemon/Articuno:144
 msgid "articuno"
-msgstr ""
+msgstr "急凍鳥"
 
 #: Pokemon/Zapdos:145
 msgid "zapdos"
-msgstr ""
+msgstr "閃電鳥"
 
 #: Pokemon/Moltres:146
 msgid "moltres"
-msgstr ""
+msgstr "火焰鳥"
 
 #: Pokemon/Dratini:147
 msgid "dratini"
-msgstr ""
+msgstr "迷你龍"
 
 #: Pokemon/Dragonair:148
 msgid "dragonair"
-msgstr ""
+msgstr "哈克龍"
 
 #: Pokemon/Dragonite:149
 msgid "dragonite"
-msgstr ""
+msgstr "快龍"
 
 #: Pokemon/Mewtwo:150
 msgid "mewtwo"
-msgstr ""
+msgstr "超夢"
 
 #: Pokemon/Mew:151
 msgid "mew"
-msgstr ""
+msgstr "夢幻"
 
 #: Pokemon/Chikorita:152
 msgid "chikorita"
-msgstr ""
+msgstr "菊草葉"
 
 #: Pokemon/Bayleef:153
 msgid "bayleef"
-msgstr ""
+msgstr "月桂葉"
 
 #: Pokemon/Meganium:154
 msgid "meganium"
-msgstr ""
+msgstr "大竺葵"
 
 #: Pokemon/Cyndaquil:155
 msgid "cyndaquil"
-msgstr ""
+msgstr "火球鼠"
 
 #: Pokemon/Quilava:156
 msgid "quilava"
-msgstr ""
+msgstr "火岩鼠"
 
 #: Pokemon/Typhlosion:157
 msgid "typhlosion"
-msgstr ""
+msgstr "火爆獸"
 
 #: Pokemon/Totodile:158
 msgid "totodile"
-msgstr ""
+msgstr "小鋸鱷"
 
 #: Pokemon/Croconaw:159
 msgid "croconaw"
-msgstr ""
+msgstr "藍鱷"
 
 #: Pokemon/Feraligatr:160
 msgid "feraligatr"
-msgstr ""
+msgstr "大力鱷"
 
 #: Pokemon/Sentret:161
 msgid "sentret"
-msgstr ""
+msgstr "尾立"
 
 #: Pokemon/Furret:162
 msgid "furret"
-msgstr ""
+msgstr "大尾立"
 
 #: Pokemon/Hoothoot:163
 msgid "hoothoot"
-msgstr ""
+msgstr "咕咕"
 
 #: Pokemon/Noctowl:164
 msgid "noctowl"
-msgstr ""
+msgstr "貓頭夜鷹"
 
 #: Pokemon/Ledyba:165
 msgid "ledyba"
-msgstr ""
+msgstr "芭瓢蟲"
 
 #: Pokemon/Ledian:166
 msgid "ledian"
-msgstr ""
+msgstr "安瓢蟲"
 
 #: Pokemon/Spinarak:167
 msgid "spinarak"
-msgstr ""
+msgstr "圓絲蛛"
 
 #: Pokemon/Ariados:168
 msgid "ariados"
-msgstr ""
+msgstr "阿利多斯"
 
 #: Pokemon/Crobat:169
 msgid "crobat"
-msgstr ""
+msgstr "叉字蝠"
 
 #: Pokemon/Chinchou:170
 msgid "chinchou"
-msgstr ""
+msgstr "燈籠魚"
 
 #: Pokemon/Lanturn:171
 msgid "lanturn"
-msgstr ""
+msgstr "電燈怪"
 
 #: Pokemon/Pichu:172
 msgid "pichu"
-msgstr ""
+msgstr "皮丘"
 
 #: Pokemon/Cleffa:173
 msgid "cleffa"
-msgstr ""
+msgstr "皮寶寶"
 
 #: Pokemon/Igglybuff:174
 msgid "igglybuff"
-msgstr ""
+msgstr "寶寶丁"
 
 #: Pokemon/Togepi:175
 msgid "togepi"
-msgstr ""
+msgstr "波克比"
 
 #: Pokemon/Togetic:176
 msgid "togetic"
-msgstr ""
+msgstr "波克基古"
 
 #: Pokemon/Natu:177
 msgid "natu"
-msgstr ""
+msgstr "天然雀"
 
 #: Pokemon/Xatu:178
 msgid "xatu"
-msgstr ""
+msgstr "天然鳥"
 
 #: Pokemon/Mareep:179
 msgid "mareep"
-msgstr ""
+msgstr "咩利羊"
 
 #: Pokemon/Flaaffy:180
 msgid "flaaffy"
-msgstr ""
+msgstr "茸茸羊"
 
 #: Pokemon/Ampharos:181
 msgid "ampharos"
-msgstr ""
+msgstr "電龍"
 
 #: Pokemon/Bellossom:182
 msgid "bellossom"
-msgstr ""
+msgstr "美麗花"
 
 #: Pokemon/Marill:183
 msgid "marill"
-msgstr ""
+msgstr "瑪力露"
 
 #: Pokemon/Azumarill:184
 msgid "azumarill"
-msgstr ""
+msgstr "瑪力露麗"
 
 #: Pokemon/Sudowoodo:185
 msgid "sudowoodo"
-msgstr ""
+msgstr "樹才怪"
 
 #: Pokemon/Politoed:186
 msgid "politoed"
-msgstr ""
+msgstr "蚊香蛙皇"
 
 #: Pokemon/Hoppip:187
 msgid "hoppip"
-msgstr ""
+msgstr "毽子草"
 
 #: Pokemon/Skiploom:188
 msgid "skiploom"
-msgstr ""
+msgstr "毽子花"
 
 #: Pokemon/Jumpluff:189
 msgid "jumpluff"
-msgstr ""
+msgstr "毽子棉"
 
 #: Pokemon/Aipom:190
 msgid "aipom"
-msgstr ""
+msgstr "長尾怪手"
 
 #: Pokemon/Sunkern:191
 msgid "sunkern"
-msgstr ""
+msgstr "向日種子"
 
 #: Pokemon/Sunflora:192
 msgid "sunflora"
-msgstr ""
+msgstr "向日花怪"
 
 #: Pokemon/Yanma:193
 msgid "yanma"
-msgstr ""
+msgstr "蜻蜻蜓"
 
 #: Pokemon/Wooper:194
 msgid "wooper"
-msgstr ""
+msgstr "烏波"
 
 #: Pokemon/Quagsire:195
 msgid "quagsire"
-msgstr ""
+msgstr "沼王"
 
 #: Pokemon/Espeon:196
 msgid "espeon"
-msgstr ""
+msgstr "太陽伊布"
 
 #: Pokemon/Umbreon:197
 msgid "umbreon"
-msgstr ""
+msgstr "月亮伊布"
 
 #: Pokemon/Murkrow:198
 msgid "murkrow"
-msgstr ""
+msgstr "黑暗鴉"
 
 #: Pokemon/Slowking:199
 msgid "slowking"
-msgstr ""
+msgstr "呆呆王"
 
 #: Pokemon/Misdreavus:200
 msgid "misdreavus"
-msgstr ""
+msgstr "夢妖"
 
 #: Pokemon/Unown:201
 msgid "unown"
-msgstr ""
+msgstr "未知圖騰"
 
 #: Pokemon/Wobbuffet:202
 msgid "wobbuffet"
-msgstr ""
+msgstr "果然翁"
 
 #: Pokemon/Girafarig:203
 msgid "girafarig"
-msgstr ""
+msgstr "麒麟奇"
 
 #: Pokemon/Pineco:204
 msgid "pineco"
-msgstr ""
+msgstr "榛果球"
 
 #: Pokemon/Forretress:205
 msgid "forretress"
-msgstr ""
+msgstr "佛烈托斯"
 
 #: Pokemon/Dunsparce:206
 msgid "dunsparce"
-msgstr ""
+msgstr "土龍弟弟"
 
 #: Pokemon/Gligar:207
 msgid "gligar"
-msgstr ""
+msgstr "天蠍"
 
 #: Pokemon/Steelix:208
 msgid "steelix"
-msgstr ""
+msgstr "大鋼蛇"
 
 #: Pokemon/Snubbull:209
 msgid "snubbull"
-msgstr ""
+msgstr "布魯"
 
 #: Pokemon/Granbull:210
 msgid "granbull"
-msgstr ""
+msgstr "布魯皇"
 
 #: Pokemon/Qwilfish:211
 msgid "qwilfish"
-msgstr ""
+msgstr "千針魚"
 
 #: Pokemon/Scizor:212
 msgid "scizor"
-msgstr ""
+msgstr "巨鉗螳螂"
 
 #: Pokemon/Shuckle:213
 msgid "shuckle"
-msgstr ""
+msgstr "壺壺"
 
 #: Pokemon/Heracross:214
 msgid "heracross"
-msgstr ""
+msgstr "赫拉克羅斯"
 
 #: Pokemon/Sneasel:215
 msgid "sneasel"
-msgstr ""
+msgstr "狃拉"
 
 #: Pokemon/Teddiursa:216
 msgid "teddiursa"
-msgstr ""
+msgstr "熊寶寶"
 
 #: Pokemon/Ursaring:217
 msgid "ursaring"
-msgstr ""
+msgstr "圈圈熊"
 
 #: Pokemon/Slugma:218
 msgid "slugma"
-msgstr ""
+msgstr "熔岩蟲"
 
 #: Pokemon/Magcargo:219
 msgid "magcargo"
-msgstr ""
+msgstr "熔岩蝸牛"
 
 #: Pokemon/Swinub:220
 msgid "swinub"
-msgstr ""
+msgstr "小山豬"
 
 #: Pokemon/Piloswine:221
 msgid "piloswine"
-msgstr ""
+msgstr "長毛豬"
 
 #: Pokemon/Corsola:222
 msgid "corsola"
-msgstr ""
+msgstr "太陽珊瑚"
 
 #: Pokemon/Remoraid:223
 msgid "remoraid"
-msgstr ""
+msgstr "鐵炮魚"
 
 #: Pokemon/Octillery:224
 msgid "octillery"
-msgstr ""
+msgstr "章魚桶"
 
 #: Pokemon/Delibird:225
 msgid "delibird"
-msgstr ""
+msgstr "信使鳥"
 
 #: Pokemon/Mantine:226
 msgid "mantine"
-msgstr ""
+msgstr "巨翅飛魚"
 
 #: Pokemon/Skarmory:227
 msgid "skarmory"
-msgstr ""
+msgstr "盔甲鳥"
 
 #: Pokemon/Houndour:228
 msgid "houndour"
-msgstr ""
+msgstr "戴魯比"
 
 #: Pokemon/Houndoom:229
 msgid "houndoom"
-msgstr ""
+msgstr "黑魯加"
 
 #: Pokemon/Kingdra:230
 msgid "kingdra"
-msgstr ""
+msgstr "刺龍王"
 
 #: Pokemon/Phanpy:231
 msgid "phanpy"
-msgstr ""
+msgstr "小小象"
 
 #: Pokemon/Donphan:232
 msgid "donphan"
-msgstr ""
+msgstr "頓甲"
 
 #: Pokemon/Porygon2:233
 msgid "porygon2"
-msgstr ""
+msgstr "多邊獸Ⅱ"
 
 #: Pokemon/Stantler:234
 msgid "stantler"
-msgstr ""
+msgstr "驚角鹿"
 
 #: Pokemon/Smeargle:235
 msgid "smeargle"
-msgstr ""
+msgstr "圖圖犬"
 
 #: Pokemon/Tyrogue:236
 msgid "tyrogue"
-msgstr ""
+msgstr "無畏小子"
 
 #: Pokemon/Hitmontop:237
 msgid "hitmontop"
-msgstr ""
+msgstr "戰舞郎"
 
 #: Pokemon/Smoochum:238
 msgid "smoochum"
-msgstr ""
+msgstr "迷唇娃"
 
 #: Pokemon/Elekid:239
 msgid "elekid"
-msgstr ""
+msgstr "電擊怪"
 
 #: Pokemon/Magby:240
 msgid "magby"
-msgstr ""
+msgstr "鴨嘴寶寶"
 
 #: Pokemon/Miltank:241
 msgid "miltank"
-msgstr ""
+msgstr "大奶罐"
 
 #: Pokemon/Blissey:242
 msgid "blissey"
-msgstr ""
+msgstr "幸福蛋"
 
 #: Pokemon/Raikou:243
 msgid "raikou"
-msgstr ""
+msgstr "雷公"
 
 #: Pokemon/Entei:244
 msgid "entei"
-msgstr ""
+msgstr "炎帝"
 
 #: Pokemon/Suicune:245
 msgid "suicune"
-msgstr ""
+msgstr "水君"
 
 #: Pokemon/Larvitar:246
 msgid "larvitar"
-msgstr ""
+msgstr "幼基拉斯"
 
 #: Pokemon/Pupitar:247
 msgid "pupitar"
-msgstr ""
+msgstr "沙基拉斯"
 
 #: Pokemon/Tyranitar:248
 msgid "tyranitar"
-msgstr ""
+msgstr "班基拉斯"
 
 #: Pokemon/Lugia:249
 msgid "lugia"
-msgstr ""
+msgstr "洛奇亞"
 
 #: Pokemon/Ho-oh:250
 msgid "ho-oh"
-msgstr ""
+msgstr "鳳王"
 
 #: Pokemon/Celebi:251
 msgid "celebi"
-msgstr ""
+msgstr "時拉比"
 
 #: Pokemon/Treecko:252
 msgid "treecko"
-msgstr ""
+msgstr "木守宮"
 
 #: Pokemon/Grovyle:253
 msgid "grovyle"
-msgstr ""
+msgstr "森林蜥蜴"
 
 #: Pokemon/Sceptile:254
 msgid "sceptile"
-msgstr ""
+msgstr "蜥蜴王"
 
 #: Pokemon/Torchic:255
 msgid "torchic"
-msgstr ""
+msgstr "火稚雞"
 
 #: Pokemon/Combusken:256
 msgid "combusken"
-msgstr ""
+msgstr "力壯雞"
 
 #: Pokemon/Blaziken:257
 msgid "blaziken"
-msgstr ""
+msgstr "火焰雞"
 
 #: Pokemon/Mudkip:258
 msgid "mudkip"
-msgstr ""
+msgstr "水躍魚"
 
 #: Pokemon/Marshtomp:259
 msgid "marshtomp"
-msgstr ""
+msgstr "沼躍魚"
 
 #: Pokemon/Swampert:260
 msgid "swampert"
-msgstr ""
+msgstr "巨沼怪"
 
 #: Pokemon/Poochyena:261
 msgid "poochyena"
-msgstr ""
+msgstr "土狼犬"
 
 #: Pokemon/Mightyena:262
 msgid "mightyena"
-msgstr ""
+msgstr "大狼犬"
 
 #: Pokemon/Zigzagoon:263
 msgid "zigzagoon"
-msgstr ""
+msgstr "蛇紋熊"
 
 #: Pokemon/Linoone:264
 msgid "linoone"
-msgstr ""
+msgstr "直衝熊"
 
 #: Pokemon/Wurmple:265
 msgid "wurmple"
-msgstr ""
+msgstr "刺尾蟲"
 
 #: Pokemon/Silcoon:266
 msgid "silcoon"
-msgstr ""
+msgstr "甲殼繭"
 
 #: Pokemon/Beautifly:267
 msgid "beautifly"
-msgstr ""
+msgstr "狩獵鳳蝶"
 
 #: Pokemon/Cascoon:268
 msgid "cascoon"
-msgstr ""
+msgstr "盾甲繭"
 
 #: Pokemon/Dustox:269
 msgid "dustox"
-msgstr ""
+msgstr "毒粉蛾"
 
 #: Pokemon/Lotad:270
 msgid "lotad"
-msgstr ""
+msgstr "蓮葉童子"
 
 #: Pokemon/Lombre:271
 msgid "lombre"
-msgstr ""
+msgstr "蓮帽小童"
 
 #: Pokemon/Ludicolo:272
 msgid "ludicolo"
-msgstr ""
+msgstr "樂天河童"
 
 #: Pokemon/Seedot:273
 msgid "seedot"
-msgstr ""
+msgstr "橡實果"
 
 #: Pokemon/Nuzleaf:274
 msgid "nuzleaf"
-msgstr ""
+msgstr "長鼻葉"
 
 #: Pokemon/Shiftry:275
 msgid "shiftry"
-msgstr ""
+msgstr "狡猾天狗"
 
 #: Pokemon/Taillow:276
 msgid "taillow"
-msgstr ""
+msgstr "傲骨燕"
 
 #: Pokemon/Swellow:277
 msgid "swellow"
-msgstr ""
+msgstr "大王燕"
 
 #: Pokemon/Wingull:278
 msgid "wingull"
-msgstr ""
+msgstr "長翅鷗"
 
 #: Pokemon/Pelipper:279
 msgid "pelipper"
-msgstr ""
+msgstr "大嘴鷗"
 
 #: Pokemon/Ralts:280
 msgid "ralts"
-msgstr ""
+msgstr "拉魯拉絲"
 
 #: Pokemon/Kirlia:281
 msgid "kirlia"
-msgstr ""
+msgstr "奇魯莉安"
 
 #: Pokemon/Gardevoir:282
 msgid "gardevoir"
-msgstr ""
+msgstr "沙奈朵"
 
 #: Pokemon/Surskit:283
 msgid "surskit"
-msgstr ""
+msgstr "溜溜糖球"
 
 #: Pokemon/Masquerain:284
 msgid "masquerain"
-msgstr ""
+msgstr "雨翅蛾"
 
 #: Pokemon/Shroomish:285
 msgid "shroomish"
-msgstr ""
+msgstr "蘑蘑菇"
 
 #: Pokemon/Breloom:286
 msgid "breloom"
-msgstr ""
+msgstr "斗笠菇"
 
 #: Pokemon/Slakoth:287
 msgid "slakoth"
-msgstr ""
+msgstr "懶人獺"
 
 #: Pokemon/Vigoroth:288
 msgid "vigoroth"
-msgstr ""
+msgstr "過動猿"
 
 #: Pokemon/Slaking:289
 msgid "slaking"
-msgstr ""
+msgstr "請假王"
 
 #: Pokemon/Nincada:290
 msgid "nincada"
-msgstr ""
+msgstr "土居忍士"
 
 #: Pokemon/Ninjask:291
 msgid "ninjask"
-msgstr ""
+msgstr "鐵面忍者"
 
 #: Pokemon/Shedinja:292
 msgid "shedinja"
-msgstr ""
+msgstr "脫殼忍者"
 
 #: Pokemon/Whismur:293
 msgid "whismur"
-msgstr ""
+msgstr "咕妞妞"
 
 #: Pokemon/Loudred:294
 msgid "loudred"
-msgstr ""
+msgstr "吼爆彈"
 
 #: Pokemon/Exploud:295
 msgid "exploud"
-msgstr ""
+msgstr "爆音怪"
 
 #: Pokemon/Makuhita:296
 msgid "makuhita"
-msgstr ""
+msgstr "幕下力士"
 
 #: Pokemon/Hariyama:297
 msgid "hariyama"
-msgstr ""
+msgstr "鐵掌力士"
 
 #: Pokemon/Azurill:298
 msgid "azurill"
-msgstr ""
+msgstr "露力麗"
 
 #: Pokemon/Nosepass:299
 msgid "nosepass"
-msgstr ""
+msgstr "朝北鼻"
 
 #: Pokemon/Skitty:300
 msgid "skitty"
-msgstr ""
+msgstr "向尾喵"
 
 #: Pokemon/Delcatty:301
 msgid "delcatty"
-msgstr ""
+msgstr "優雅貓"
 
 #: Pokemon/Sableye:302
 msgid "sableye"
-msgstr ""
+msgstr "勾魂眼"
 
 #: Pokemon/Mawile:303
 msgid "mawile"
-msgstr ""
+msgstr "大嘴娃"
 
 #: Pokemon/Aron:304
 msgid "aron"
-msgstr ""
+msgstr "可可多拉"
 
 #: Pokemon/Lairon:305
 msgid "lairon"
-msgstr ""
+msgstr "可多拉"
 
 #: Pokemon/Aggron:306
 msgid "aggron"
-msgstr ""
+msgstr "波士可多拉"
 
 #: Pokemon/Meditite:307
 msgid "meditite"
-msgstr ""
+msgstr "瑪沙那"
 
 #: Pokemon/Medicham:308
 msgid "medicham"
-msgstr ""
+msgstr "恰雷姆"
 
 #: Pokemon/Electrike:309
 msgid "electrike"
-msgstr ""
+msgstr "落雷獸"
 
 #: Pokemon/Manectric:310
 msgid "manectric"
-msgstr ""
+msgstr "雷電獸"
 
 #: Pokemon/Plusle:311
 msgid "plusle"
-msgstr ""
+msgstr "正電拍拍"
 
 #: Pokemon/Minun:312
 msgid "minun"
-msgstr ""
+msgstr "負電拍拍"
 
 #: Pokemon/Volbeat:313
 msgid "volbeat"
-msgstr ""
+msgstr "電螢蟲"
 
 #: Pokemon/Illumise:314
 msgid "illumise"
-msgstr ""
+msgstr "甜甜螢"
 
 #: Pokemon/Roselia:315
 msgid "roselia"
-msgstr ""
+msgstr "毒薔薇"
 
 #: Pokemon/Gulpin:316
 msgid "gulpin"
-msgstr ""
+msgstr "溶食獸"
 
 #: Pokemon/Swalot:317
 msgid "swalot"
-msgstr ""
+msgstr "吞食獸"
 
 #: Pokemon/Carvanha:318
 msgid "carvanha"
-msgstr ""
+msgstr "利牙魚"
 
 #: Pokemon/Sharpedo:319
 msgid "sharpedo"
-msgstr ""
+msgstr "巨牙鯊"
 
 #: Pokemon/Wailmer:320
 msgid "wailmer"
-msgstr ""
+msgstr "吼吼鯨"
 
 #: Pokemon/Wailord:321
 msgid "wailord"
-msgstr ""
+msgstr "吼鯨王"
 
 #: Pokemon/Numel:322
 msgid "numel"
-msgstr ""
+msgstr "呆火駝"
 
 #: Pokemon/Camerupt:323
 msgid "camerupt"
-msgstr ""
+msgstr "噴火駝"
 
 #: Pokemon/Torkoal:324
 msgid "torkoal"
-msgstr ""
+msgstr "煤炭龜"
 
 #: Pokemon/Spoink:325
 msgid "spoink"
-msgstr ""
+msgstr "跳跳豬"
 
 #: Pokemon/Grumpig:326
 msgid "grumpig"
-msgstr ""
+msgstr "噗噗豬"
 
 #: Pokemon/Spinda:327
 msgid "spinda"
-msgstr ""
+msgstr "晃晃斑"
 
 #: Pokemon/Trapinch:328
 msgid "trapinch"
-msgstr ""
+msgstr "大顎蟻"
 
 #: Pokemon/Vibrava:329
 msgid "vibrava"
-msgstr ""
+msgstr "超音波幼蟲"
 
 #: Pokemon/Flygon:330
 msgid "flygon"
-msgstr ""
+msgstr "沙漠蜻蜓"
 
 #: Pokemon/Cacnea:331
 msgid "cacnea"
-msgstr ""
+msgstr "刺球仙人掌"
 
 #: Pokemon/Cacturne:332
 msgid "cacturne"
-msgstr ""
+msgstr "夢歌仙人掌"
 
 #: Pokemon/Swablu:333
 msgid "swablu"
-msgstr ""
+msgstr "青綿鳥"
 
 #: Pokemon/Altaria:334
 msgid "altaria"
-msgstr ""
+msgstr "七夕青鳥"
 
 #: Pokemon/Zangoose:335
 msgid "zangoose"
-msgstr ""
+msgstr "貓鼬斬"
 
 #: Pokemon/Seviper:336
 msgid "seviper"
-msgstr ""
+msgstr "飯匙蛇"
 
 #: Pokemon/Lunatone:337
 msgid "lunatone"
-msgstr ""
+msgstr "月石"
 
 #: Pokemon/Solrock:338
 msgid "solrock"
-msgstr ""
+msgstr "太陽岩"
 
 #: Pokemon/Barboach:339
 msgid "barboach"
-msgstr ""
+msgstr "泥泥鰍"
 
 #: Pokemon/Whiscash:340
 msgid "whiscash"
-msgstr ""
+msgstr "鯰魚王"
 
 #: Pokemon/Corphish:341
 msgid "corphish"
-msgstr ""
+msgstr "龍蝦小兵"
 
 #: Pokemon/Crawdaunt:342
 msgid "crawdaunt"
-msgstr ""
+msgstr "鐵螯龍蝦"
 
 #: Pokemon/Baltoy:343
 msgid "baltoy"
-msgstr ""
+msgstr "天秤偶"
 
 #: Pokemon/Claydol:344
 msgid "claydol"
-msgstr ""
+msgstr "念力土偶"
 
 #: Pokemon/Lileep:345
 msgid "lileep"
-msgstr ""
+msgstr "觸手百合"
 
 #: Pokemon/Cradily:346
 msgid "cradily"
-msgstr ""
+msgstr "搖籃百合"
 
 #: Pokemon/Anorith:347
 msgid "anorith"
-msgstr ""
+msgstr "太古羽蟲"
 
 #: Pokemon/Armaldo:348
 msgid "armaldo"
-msgstr ""
+msgstr "太古盔甲"
 
 #: Pokemon/Feebas:349
 msgid "feebas"
-msgstr ""
+msgstr "醜醜魚"
 
 #: Pokemon/Milotic:350
 msgid "milotic"
-msgstr ""
+msgstr "美納斯"
 
 #: Pokemon/Castform:351
 msgid "castform"
-msgstr ""
+msgstr "飄浮泡泡"
 
 #: Pokemon/Kecleon:352
 msgid "kecleon"
-msgstr ""
+msgstr "變隱龍"
 
 #: Pokemon/Shuppet:353
 msgid "shuppet"
-msgstr ""
+msgstr "怨影娃娃"
 
 #: Pokemon/Banette:354
 msgid "banette"
-msgstr ""
+msgstr "詛咒娃娃"
 
 #: Pokemon/Duskull:355
 msgid "duskull"
-msgstr ""
+msgstr "夜巡靈"
 
 #: Pokemon/Dusclops:356
 msgid "dusclops"
-msgstr ""
+msgstr "彷徨夜靈"
 
 #: Pokemon/Tropius:357
 msgid "tropius"
-msgstr ""
+msgstr "熱帶龍"
 
 #: Pokemon/Chimecho:358
 msgid "chimecho"
-msgstr ""
+msgstr "風鈴鈴"
 
 #: Pokemon/Absol:359
 msgid "absol"
-msgstr ""
+msgstr "阿勃梭魯"
 
 #: Pokemon/Wynaut:360
 msgid "wynaut"
-msgstr ""
+msgstr "小果然"
 
 #: Pokemon/Snorunt:361
 msgid "snorunt"
-msgstr ""
+msgstr "雪童子"
 
 #: Pokemon/Glalie:362
 msgid "glalie"
-msgstr ""
+msgstr "冰鬼護"
 
 #: Pokemon/Spheal:363
 msgid "spheal"
-msgstr ""
+msgstr "海豹球"
 
 #: Pokemon/Sealeo:364
 msgid "sealeo"
-msgstr ""
+msgstr "海魔獅"
 
 #: Pokemon/Walrein:365
 msgid "walrein"
-msgstr ""
+msgstr "帝牙海獅"
 
 #: Pokemon/Clamperl:366
 msgid "clamperl"
-msgstr ""
+msgstr "珍珠貝"
 
 #: Pokemon/Huntail:367
 msgid "huntail"
-msgstr ""
+msgstr "獵斑魚"
 
 #: Pokemon/Gorebyss:368
 msgid "gorebyss"
-msgstr ""
+msgstr "櫻花魚"
 
 #: Pokemon/Relicanth:369
 msgid "relicanth"
-msgstr ""
+msgstr "古空棘魚"
 
 #: Pokemon/Luvdisc:370
 msgid "luvdisc"
-msgstr ""
+msgstr "愛心魚"
 
 #: Pokemon/Bagon:371
 msgid "bagon"
-msgstr ""
+msgstr "寶貝龍"
 
 #: Pokemon/Shelgon:372
 msgid "shelgon"
-msgstr ""
+msgstr "甲殼龍"
 
 #: Pokemon/Salamence:373
 msgid "salamence"
-msgstr ""
+msgstr "暴飛龍"
 
 #: Pokemon/Beldum:374
 msgid "beldum"
-msgstr ""
+msgstr "鐵啞鈴"
 
 #: Pokemon/Metang:375
 msgid "metang"
-msgstr ""
+msgstr "金屬怪"
 
 #: Pokemon/Metagross:376
 msgid "metagross"
-msgstr ""
+msgstr "巨金怪"
 
 #: Pokemon/Regirock:377
 msgid "regirock"
-msgstr ""
+msgstr "雷吉洛克"
 
 #: Pokemon/Regice:378
 msgid "regice"
-msgstr ""
+msgstr "雷吉艾斯"
 
 #: Pokemon/Registeel:379
 msgid "registeel"
-msgstr ""
+msgstr "雷吉斯奇魯"
 
 #: Pokemon/Latias:380
 msgid "latias"
-msgstr ""
+msgstr "拉帝亞斯"
 
 #: Pokemon/Latios:381
 msgid "latios"
-msgstr ""
+msgstr "拉帝歐斯"
 
 #: Pokemon/Kyogre:382
 msgid "kyogre"
-msgstr ""
+msgstr "蓋歐卡"
 
 #: Pokemon/Groudon:383
 msgid "groudon"
-msgstr ""
+msgstr "固拉多"
 
 #: Pokemon/Rayquaza:384
 msgid "rayquaza"
-msgstr ""
+msgstr "烈空坐"
 
 #: Pokemon/Jirachi:385
 msgid "jirachi"
-msgstr ""
+msgstr "基拉祈"
 
 #: Pokemon/Deoxys-normal:386
 msgid "deoxys-normal"
-msgstr ""
+msgstr "代歐奇希斯"
 
 #: Pokemon/Turtwig:387
 msgid "turtwig"
-msgstr ""
+msgstr "草苗龜"
 
 #: Pokemon/Grotle:388
 msgid "grotle"
-msgstr ""
+msgstr "樹林龜"
 
 #: Pokemon/Torterra:389
 msgid "torterra"
-msgstr ""
+msgstr "土台龜"
 
 #: Pokemon/Chimchar:390
 msgid "chimchar"
-msgstr ""
+msgstr "小火焰猴"
 
 #: Pokemon/Monferno:391
 msgid "monferno"
-msgstr ""
+msgstr "猛火猴"
 
 #: Pokemon/Infernape:392
 msgid "infernape"
-msgstr ""
+msgstr "烈焰猴"
 
 #: Pokemon/Piplup:393
 msgid "piplup"
-msgstr ""
+msgstr "波加曼"
 
 #: Pokemon/Prinplup:394
 msgid "prinplup"
-msgstr ""
+msgstr "波皇子"
 
 #: Pokemon/Empoleon:395
 msgid "empoleon"
-msgstr ""
+msgstr "帝王拿波"
 
 #: Pokemon/Starly:396
 msgid "starly"
-msgstr ""
+msgstr "姆克兒"
 
 #: Pokemon/Staravia:397
 msgid "staravia"
-msgstr ""
+msgstr "姆克鳥"
 
 #: Pokemon/Staraptor:398
 msgid "staraptor"
-msgstr ""
+msgstr "姆克鷹"
 
 #: Pokemon/Bidoof:399
 msgid "bidoof"
-msgstr ""
+msgstr "大牙狸"
 
 #: Pokemon/Bibarel:400
 msgid "bibarel"
-msgstr ""
+msgstr "大尾狸"
 
 #: Pokemon/Kricketot:401
 msgid "kricketot"
-msgstr ""
+msgstr "圓法師"
 
 #: Pokemon/Kricketune:402
 msgid "kricketune"
-msgstr ""
+msgstr "音箱蟀"
 
 #: Pokemon/Shinx:403
 msgid "shinx"
-msgstr ""
+msgstr "小貓怪"
 
 #: Pokemon/Luxio:404
 msgid "luxio"
-msgstr ""
+msgstr "勒克貓"
 
 #: Pokemon/Luxray:405
 msgid "luxray"
-msgstr ""
+msgstr "倫琴貓"
 
 #: Pokemon/Budew:406
 msgid "budew"
-msgstr ""
+msgstr "含羞苞"
 
 #: Pokemon/Roserade:407
 msgid "roserade"
-msgstr ""
+msgstr "羅絲雷朵"
 
 #: Pokemon/Cranidos:408
 msgid "cranidos"
-msgstr ""
+msgstr "頭蓋龍"
 
 #: Pokemon/Rampardos:409
 msgid "rampardos"
-msgstr ""
+msgstr "戰槌龍"
 
 #: Pokemon/Shieldon:410
 msgid "shieldon"
-msgstr ""
+msgstr "盾甲龍"
 
 #: Pokemon/Bastiodon:411
 msgid "bastiodon"
-msgstr ""
+msgstr "護城龍"
 
 #: Pokemon/Burmy:412
 msgid "burmy"
-msgstr ""
+msgstr "結草兒"
 
 #: Pokemon/Wormadam-plant:413
 msgid "wormadam-plant"
-msgstr ""
+msgstr "結草貴婦"
 
 #: Pokemon/Mothim:414
 msgid "mothim"
-msgstr ""
+msgstr "紳士蛾"
 
 #: Pokemon/Combee:415
 msgid "combee"
-msgstr ""
+msgstr "三蜜蜂"
 
 #: Pokemon/Vespiquen:416
 msgid "vespiquen"
-msgstr ""
+msgstr "蜂女王"
 
 #: Pokemon/Pachirisu:417
 msgid "pachirisu"
-msgstr ""
+msgstr "帕奇利茲"
 
 #: Pokemon/Buizel:418
 msgid "buizel"
-msgstr ""
+msgstr "泳圈鼬"
 
 #: Pokemon/Floatzel:419
 msgid "floatzel"
-msgstr ""
+msgstr "浮潛鼬"
 
 #: Pokemon/Cherubi:420
 msgid "cherubi"
-msgstr ""
+msgstr "櫻花寶"
 
 #: Pokemon/Cherrim:421
 msgid "cherrim"
-msgstr ""
+msgstr "櫻花兒"
 
 #: Pokemon/Shellos:422
 msgid "shellos"
-msgstr ""
+msgstr "無殼海兔"
 
 #: Pokemon/Gastrodon:423
 msgid "gastrodon"
-msgstr ""
+msgstr "海兔獸"
 
 #: Pokemon/Ambipom:424
 msgid "ambipom"
-msgstr ""
+msgstr "雙尾怪手"
 
 #: Pokemon/Drifloon:425
 msgid "drifloon"
-msgstr ""
+msgstr "飄飄球"
 
 #: Pokemon/Drifblim:426
 msgid "drifblim"
-msgstr ""
+msgstr "隨風球"
 
 #: Pokemon/Buneary:427
 msgid "buneary"
-msgstr ""
+msgstr "捲捲耳"
 
 #: Pokemon/Lopunny:428
 msgid "lopunny"
-msgstr ""
+msgstr "長耳兔"
 
 #: Pokemon/Mismagius:429
 msgid "mismagius"
-msgstr ""
+msgstr "夢妖魔"
 
 #: Pokemon/Honchkrow:430
 msgid "honchkrow"
-msgstr ""
+msgstr "烏鴉頭頭"
 
 #: Pokemon/Glameow:431
 msgid "glameow"
-msgstr ""
+msgstr "魅力喵"
 
 #: Pokemon/Purugly:432
 msgid "purugly"
-msgstr ""
+msgstr "東施喵"
 
 #: Pokemon/Chingling:433
 msgid "chingling"
-msgstr ""
+msgstr "鈴鐺響"
 
 #: Pokemon/Stunky:434
 msgid "stunky"
-msgstr ""
+msgstr "臭鼬噗"
 
 #: Pokemon/Skuntank:435
 msgid "skuntank"
-msgstr ""
+msgstr "坦克臭鼬"
 
 #: Pokemon/Bronzor:436
 msgid "bronzor"
-msgstr ""
+msgstr "銅鏡怪"
 
 #: Pokemon/Bronzong:437
 msgid "bronzong"
-msgstr ""
+msgstr "青銅鐘"
 
 #: Pokemon/Bonsly:438
 msgid "bonsly"
-msgstr ""
+msgstr "盆才怪"
 
 #: Pokemon/Mime-jr:439
 msgid "mime-jr"
-msgstr ""
+msgstr "魔尼尼"
 
 #: Pokemon/Happiny:440
 msgid "happiny"
-msgstr ""
+msgstr "小福蛋"
 
 #: Pokemon/Chatot:441
 msgid "chatot"
-msgstr ""
+msgstr "聒噪鳥"
 
 #: Pokemon/Spiritomb:442
 msgid "spiritomb"
-msgstr ""
+msgstr "花岩怪"
 
 #: Pokemon/Gible:443
 msgid "gible"
-msgstr ""
+msgstr "圓陸鯊"
 
 #: Pokemon/Gabite:444
 msgid "gabite"
-msgstr ""
+msgstr "尖牙陸鯊"
 
 #: Pokemon/Garchomp:445
 msgid "garchomp"
-msgstr ""
+msgstr "烈咬陸鯊"
 
 #: Pokemon/Munchlax:446
 msgid "munchlax"
-msgstr ""
+msgstr "小卡比獸"
 
 #: Pokemon/Riolu:447
 msgid "riolu"
-msgstr ""
+msgstr "利歐路"
 
 #: Pokemon/Lucario:448
 msgid "lucario"
-msgstr ""
+msgstr "路卡利歐"
 
 #: Pokemon/Hippopotas:449
 msgid "hippopotas"
-msgstr ""
+msgstr "沙河馬"
 
 #: Pokemon/Hippowdon:450
 msgid "hippowdon"
-msgstr ""
+msgstr "河馬獸"
 
 #: Pokemon/Skorupi:451
 msgid "skorupi"
-msgstr ""
+msgstr "鉗尾蠍"
 
 #: Pokemon/Drapion:452
 msgid "drapion"
-msgstr ""
+msgstr "龍王蠍"
 
 #: Pokemon/Croagunk:453
 msgid "croagunk"
-msgstr ""
+msgstr "不良蛙"
 
 #: Pokemon/Toxicroak:454
 msgid "toxicroak"
-msgstr ""
+msgstr "毒骷蛙"
 
 #: Pokemon/Carnivine:455
 msgid "carnivine"
-msgstr ""
+msgstr "尖牙籠"
 
 #: Pokemon/Finneon:456
 msgid "finneon"
-msgstr ""
+msgstr "螢光魚"
 
 #: Pokemon/Lumineon:457
 msgid "lumineon"
-msgstr ""
+msgstr "霓虹魚"
 
 #: Pokemon/Mantyke:458
 msgid "mantyke"
-msgstr ""
+msgstr "小球飛魚"
 
 #: Pokemon/Snover:459
 msgid "snover"
-msgstr ""
+msgstr "雪笠怪"
 
 #: Pokemon/Abomasnow:460
 msgid "abomasnow"
-msgstr ""
+msgstr "暴雪王"
 
 #: Pokemon/Weavile:461
 msgid "weavile"
-msgstr ""
+msgstr "瑪狃拉"
 
 #: Pokemon/Magnezone:462
 msgid "magnezone"
-msgstr ""
+msgstr "自爆磁怪"
 
 #: Pokemon/Lickilicky:463
 msgid "lickilicky"
-msgstr ""
+msgstr "大舌舔"
 
 #: Pokemon/Rhyperior:464
 msgid "rhyperior"
-msgstr ""
+msgstr "超甲狂犀"
 
 #: Pokemon/Tangrowth:465
 msgid "tangrowth"
-msgstr ""
+msgstr "巨蔓藤"
 
 #: Pokemon/Electivire:466
 msgid "electivire"
-msgstr ""
+msgstr "電擊魔獸"
 
 #: Pokemon/Magmortar:467
 msgid "magmortar"
-msgstr ""
+msgstr "鴨嘴炎獸"
 
 #: Pokemon/Togekiss:468
 msgid "togekiss"
-msgstr ""
+msgstr "波克基斯"
 
 #: Pokemon/Yanmega:469
 msgid "yanmega"
-msgstr ""
+msgstr "遠古巨蜓"
 
 #: Pokemon/Leafeon:470
 msgid "leafeon"
-msgstr ""
+msgstr "葉伊布"
 
 #: Pokemon/Glaceon:471
 msgid "glaceon"
-msgstr ""
+msgstr "冰伊布"
 
 #: Pokemon/Gliscor:472
 msgid "gliscor"
-msgstr ""
+msgstr "天蠍王"
 
 #: Pokemon/Mamoswine:473
 msgid "mamoswine"
-msgstr ""
+msgstr "象牙豬"
 
 #: Pokemon/Porygon-z:474
 msgid "porygon-z"
-msgstr ""
+msgstr "多邊獸Ｚ"
 
 #: Pokemon/Gallade:475
 msgid "gallade"
-msgstr ""
+msgstr "艾路雷朵"
 
 #: Pokemon/Probopass:476
 msgid "probopass"
-msgstr ""
+msgstr "大朝北鼻"
 
 #: Pokemon/Dusknoir:477
 msgid "dusknoir"
-msgstr ""
+msgstr "黑夜魔靈"
 
 #: Pokemon/Froslass:478
 msgid "froslass"
-msgstr ""
+msgstr "雪妖女"
 
 #: Pokemon/Rotom:479
 msgid "rotom"
-msgstr ""
+msgstr "洛托姆"
 
 #: Pokemon/Uxie:480
 msgid "uxie"
-msgstr ""
+msgstr "由克希"
 
 #: Pokemon/Mesprit:481
 msgid "mesprit"
-msgstr ""
+msgstr "艾姆利多"
 
 #: Pokemon/Azelf:482
 msgid "azelf"
-msgstr ""
+msgstr "亞克諾姆"
 
 #: Pokemon/Dialga:483
 msgid "dialga"
-msgstr ""
+msgstr "帝牙盧卡"
 
 #: Pokemon/Palkia:484
 msgid "palkia"
-msgstr ""
+msgstr "帕路奇亞"
 
 #: Pokemon/Heatran:485
 msgid "heatran"
-msgstr ""
+msgstr "席多藍恩"
 
 #: Pokemon/Regigigas:486
 msgid "regigigas"
-msgstr ""
+msgstr "雷吉奇卡斯"
 
 #: Pokemon/Giratina-altered:487
 msgid "giratina-altered"
-msgstr ""
+msgstr "騎拉帝納"
 
 #: Pokemon/Cresselia:488
 msgid "cresselia"
-msgstr ""
+msgstr "克雷色利亞"
 
 #: Pokemon/Phione:489
 msgid "phione"
-msgstr ""
+msgstr "霏歐納"
 
 #: Pokemon/Manaphy:490
 msgid "manaphy"
-msgstr ""
+msgstr "瑪納霏"
 
 #: Pokemon/Darkrai:491
 msgid "darkrai"
-msgstr ""
+msgstr "達克萊伊"
 
 #: Pokemon/Shaymin-land:492
 msgid "shaymin-land"
-msgstr ""
+msgstr "謝米"
 
 #: Pokemon/Arceus:493
 msgid "arceus"
-msgstr ""
+msgstr "阿爾宙斯"
 
 #: Pokemon/Victini:494
 msgid "victini"
-msgstr ""
+msgstr "比克提尼"
 
 #: Pokemon/Snivy:495
 msgid "snivy"
-msgstr ""
+msgstr "藤藤蛇"
 
 #: Pokemon/Servine:496
 msgid "servine"
-msgstr ""
+msgstr "青藤蛇"
 
 #: Pokemon/Serperior:497
 msgid "serperior"
-msgstr ""
+msgstr "君主蛇"
 
 #: Pokemon/Tepig:498
 msgid "tepig"
-msgstr ""
+msgstr "暖暖豬"
 
 #: Pokemon/Pignite:499
 msgid "pignite"
-msgstr ""
+msgstr "炒炒豬"
 
 #: Pokemon/Emboar:500
 msgid "emboar"
-msgstr ""
+msgstr "炎武王"
 
 #: Pokemon/Oshawott:501
 msgid "oshawott"
-msgstr ""
+msgstr "水水獺"
 
 #: Pokemon/Dewott:502
 msgid "dewott"
-msgstr ""
+msgstr "雙刃丸"
 
 #: Pokemon/Samurott:503
 msgid "samurott"
-msgstr ""
+msgstr "大劍鬼"
 
 #: Pokemon/Patrat:504
 msgid "patrat"
-msgstr ""
+msgstr "探探鼠"
 
 #: Pokemon/Watchog:505
 msgid "watchog"
-msgstr ""
+msgstr "步哨鼠"
 
 #: Pokemon/Lillipup:506
 msgid "lillipup"
-msgstr ""
+msgstr "小約克"
 
 #: Pokemon/Herdier:507
 msgid "herdier"
-msgstr ""
+msgstr "哈約克"
 
 #: Pokemon/Stoutland:508
 msgid "stoutland"
-msgstr ""
+msgstr "長毛狗"
 
 #: Pokemon/Purrloin:509
 msgid "purrloin"
-msgstr ""
+msgstr "扒手貓"
 
 #: Pokemon/Liepard:510
 msgid "liepard"
-msgstr ""
+msgstr "酷豹"
 
 #: Pokemon/Pansage:511
 msgid "pansage"
-msgstr ""
+msgstr "花椰猴"
 
 #: Pokemon/Simisage:512
 msgid "simisage"
-msgstr ""
+msgstr "花椰猿"
 
 #: Pokemon/Pansear:513
 msgid "pansear"
-msgstr ""
+msgstr "爆香猴"
 
 #: Pokemon/Simisear:514
 msgid "simisear"
-msgstr ""
+msgstr "爆香猿"
 
 #: Pokemon/Panpour:515
 msgid "panpour"
-msgstr ""
+msgstr "冷水猴"
 
 #: Pokemon/Simipour:516
 msgid "simipour"
-msgstr ""
+msgstr "冷水猿"
 
 #: Pokemon/Munna:517
 msgid "munna"
-msgstr ""
+msgstr "食夢夢"
 
 #: Pokemon/Musharna:518
 msgid "musharna"
-msgstr ""
+msgstr "夢夢蝕"
 
 #: Pokemon/Pidove:519
 msgid "pidove"
-msgstr ""
+msgstr "豆豆鴿"
 
 #: Pokemon/Tranquill:520
 msgid "tranquill"
-msgstr ""
+msgstr "咕咕鴿"
 
 #: Pokemon/Unfezant:521
 msgid "unfezant"
-msgstr ""
+msgstr "高傲雉雞"
 
 #: Pokemon/Blitzle:522
 msgid "blitzle"
-msgstr ""
+msgstr "斑斑馬"
 
 #: Pokemon/Zebstrika:523
 msgid "zebstrika"
-msgstr ""
+msgstr "雷電斑馬"
 
 #: Pokemon/Roggenrola:524
 msgid "roggenrola"
-msgstr ""
+msgstr "石丸子"
 
 #: Pokemon/Boldore:525
 msgid "boldore"
-msgstr ""
+msgstr "地幔岩"
 
 #: Pokemon/Gigalith:526
 msgid "gigalith"
-msgstr ""
+msgstr "龐岩怪"
 
 #: Pokemon/Woobat:527
 msgid "woobat"
-msgstr ""
+msgstr "滾滾蝙蝠"
 
 #: Pokemon/Swoobat:528
 msgid "swoobat"
-msgstr ""
+msgstr "心蝙蝠"
 
 #: Pokemon/Drilbur:529
 msgid "drilbur"
-msgstr ""
+msgstr "螺釘地鼠"
 
 #: Pokemon/Excadrill:530
 msgid "excadrill"
-msgstr ""
+msgstr "龍頭地鼠"
 
 #: Pokemon/Audino:531
 msgid "audino"
-msgstr ""
+msgstr "差不多娃娃"
 
 #: Pokemon/Timburr:532
 msgid "timburr"
-msgstr ""
+msgstr "搬運小匠"
 
 #: Pokemon/Gurdurr:533
 msgid "gurdurr"
-msgstr ""
+msgstr "鐵骨土人"
 
 #: Pokemon/Conkeldurr:534
 msgid "conkeldurr"
-msgstr ""
+msgstr "修建老匠"
 
 #: Pokemon/Tympole:535
 msgid "tympole"
-msgstr ""
+msgstr "圓蝌蚪"
 
 #: Pokemon/Palpitoad:536
 msgid "palpitoad"
-msgstr ""
+msgstr "藍蟾蜍"
 
 #: Pokemon/Seismitoad:537
 msgid "seismitoad"
-msgstr ""
+msgstr "蟾蜍王"
 
 #: Pokemon/Throh:538
 msgid "throh"
-msgstr ""
+msgstr "投摔鬼"
 
 #: Pokemon/Sawk:539
 msgid "sawk"
-msgstr ""
+msgstr "打擊鬼"
 
 #: Pokemon/Sewaddle:540
 msgid "sewaddle"
-msgstr ""
+msgstr "蟲寶包"
 
 #: Pokemon/Swadloon:541
 msgid "swadloon"
-msgstr ""
+msgstr "寶包繭"
 
 #: Pokemon/Leavanny:542
 msgid "leavanny"
-msgstr ""
+msgstr "保母蟲"
 
 #: Pokemon/Venipede:543
 msgid "venipede"
-msgstr ""
+msgstr "百足蜈蚣"
 
 #: Pokemon/Whirlipede:544
 msgid "whirlipede"
-msgstr ""
+msgstr "車輪毬"
 
 #: Pokemon/Scolipede:545
 msgid "scolipede"
-msgstr ""
+msgstr "蜈蚣王"
 
 #: Pokemon/Cottonee:546
 msgid "cottonee"
-msgstr ""
+msgstr "木棉球"
 
 #: Pokemon/Whimsicott:547
 msgid "whimsicott"
-msgstr ""
+msgstr "風妖精"
 
 #: Pokemon/Petilil:548
 msgid "petilil"
-msgstr ""
+msgstr "百合根娃娃"
 
 #: Pokemon/Lilligant:549
 msgid "lilligant"
-msgstr ""
+msgstr "裙兒小姐"
 
 #: Pokemon/Basculin-red-striped:550
 msgid "basculin-red-striped"
-msgstr ""
+msgstr "野蠻鱸魚"
 
 #: Pokemon/Sandile:551
 msgid "sandile"
-msgstr ""
+msgstr "黑眼鱷"
 
 #: Pokemon/Krokorok:552
 msgid "krokorok"
-msgstr ""
+msgstr "混混鱷"
 
 #: Pokemon/Krookodile:553
 msgid "krookodile"
-msgstr ""
+msgstr "流氓鱷"
 
 #: Pokemon/Darumaka:554
 msgid "darumaka"
-msgstr ""
+msgstr "火紅不倒翁"
 
 #: Pokemon/Darmanitan-standard:555
 msgid "darmanitan-standard"
-msgstr ""
+msgstr "達摩狒狒"
 
 #: Pokemon/Maractus:556
 msgid "maractus"
-msgstr ""
+msgstr "沙鈴仙人掌"
 
 #: Pokemon/Dwebble:557
 msgid "dwebble"
-msgstr ""
+msgstr "石居蟹"
 
 #: Pokemon/Crustle:558
 msgid "crustle"
-msgstr ""
+msgstr "岩殿居蟹"
 
 #: Pokemon/Scraggy:559
 msgid "scraggy"
-msgstr ""
+msgstr "滑滑小子"
 
 #: Pokemon/Scrafty:560
 msgid "scrafty"
-msgstr ""
+msgstr "頭巾混混"
 
 #: Pokemon/Sigilyph:561
 msgid "sigilyph"
-msgstr ""
+msgstr "象徵鳥"
 
 #: Pokemon/Yamask:562
 msgid "yamask"
-msgstr ""
+msgstr "哭哭面具"
 
 #: Pokemon/Cofagrigus:563
 msgid "cofagrigus"
-msgstr ""
+msgstr "死神棺"
 
 #: Pokemon/Tirtouga:564
 msgid "tirtouga"
-msgstr ""
+msgstr "原蓋海龜"
 
 #: Pokemon/Carracosta:565
 msgid "carracosta"
-msgstr ""
+msgstr "肋骨海龜"
 
 #: Pokemon/Archen:566
 msgid "archen"
-msgstr ""
+msgstr "始祖小鳥"
 
 #: Pokemon/Archeops:567
 msgid "archeops"
-msgstr ""
+msgstr "始祖大鳥"
 
 #: Pokemon/Trubbish:568
 msgid "trubbish"
-msgstr ""
+msgstr "破破袋"
 
 #: Pokemon/Garbodor:569
 msgid "garbodor"
-msgstr ""
+msgstr "灰塵山"
 
 #: Pokemon/Zorua:570
 msgid "zorua"
-msgstr ""
+msgstr "索羅亞"
 
 #: Pokemon/Zoroark:571
 msgid "zoroark"
-msgstr ""
+msgstr "索羅亞克"
 
 #: Pokemon/Minccino:572
 msgid "minccino"
-msgstr ""
+msgstr "泡沫栗鼠"
 
 #: Pokemon/Cinccino:573
 msgid "cinccino"
-msgstr ""
+msgstr "奇諾栗鼠"
 
 #: Pokemon/Gothita:574
 msgid "gothita"
-msgstr ""
+msgstr "哥德寶寶"
 
 #: Pokemon/Gothorita:575
 msgid "gothorita"
-msgstr ""
+msgstr "哥德小童"
 
 #: Pokemon/Gothitelle:576
 msgid "gothitelle"
-msgstr ""
+msgstr "哥德小姐"
 
 #: Pokemon/Solosis:577
 msgid "solosis"
-msgstr ""
+msgstr "單卵細胞球"
 
 #: Pokemon/Duosion:578
 msgid "duosion"
-msgstr ""
+msgstr "雙卵細胞球"
 
 #: Pokemon/Reuniclus:579
 msgid "reuniclus"
-msgstr ""
+msgstr "人造細胞卵"
 
 #: Pokemon/Ducklett:580
 msgid "ducklett"
-msgstr ""
+msgstr "鴨寶寶"
 
 #: Pokemon/Swanna:581
 msgid "swanna"
-msgstr ""
+msgstr "舞天鵝"
 
 #: Pokemon/Vanillite:582
 msgid "vanillite"
-msgstr ""
+msgstr "迷你冰"
 
 #: Pokemon/Vanillish:583
 msgid "vanillish"
-msgstr ""
+msgstr "多多冰"
 
 #: Pokemon/Vanilluxe:584
 msgid "vanilluxe"
-msgstr ""
+msgstr "雙倍多多冰"
 
 #: Pokemon/Deerling:585
 msgid "deerling"
-msgstr ""
+msgstr "四季鹿"
 
 #: Pokemon/Sawsbuck:586
 msgid "sawsbuck"
-msgstr ""
+msgstr "萌芽鹿"
 
 #: Pokemon/Emolga:587
 msgid "emolga"
-msgstr ""
+msgstr "電飛鼠"
 
 #: Pokemon/Karrablast:588
 msgid "karrablast"
-msgstr ""
+msgstr "蓋蓋蟲"
 
 #: Pokemon/Escavalier:589
 msgid "escavalier"
-msgstr ""
+msgstr "騎士蝸牛"
 
 #: Pokemon/Foongus:590
 msgid "foongus"
-msgstr ""
+msgstr "哎呀球菇"
 
 #: Pokemon/Amoonguss:591
 msgid "amoonguss"
-msgstr ""
+msgstr "敗露球菇"
 
 #: Pokemon/Frillish:592
 msgid "frillish"
-msgstr ""
+msgstr "輕飄飄"
 
 #: Pokemon/Jellicent:593
 msgid "jellicent"
-msgstr ""
+msgstr "胖嘟嘟"
 
 #: Pokemon/Alomomola:594
 msgid "alomomola"
-msgstr ""
+msgstr "保母曼波"
 
 #: Pokemon/Joltik:595
 msgid "joltik"
-msgstr ""
+msgstr "電電蟲"
 
 #: Pokemon/Galvantula:596
 msgid "galvantula"
-msgstr ""
+msgstr "電蜘蛛"
 
 #: Pokemon/Ferroseed:597
 msgid "ferroseed"
-msgstr ""
+msgstr "種子鐵球"
 
 #: Pokemon/Ferrothorn:598
 msgid "ferrothorn"
-msgstr ""
+msgstr "堅果啞鈴"
 
 #: Pokemon/Klink:599
 msgid "klink"
-msgstr ""
+msgstr "齒輪兒"
 
 #: Pokemon/Klang:600
 msgid "klang"
-msgstr ""
+msgstr "齒輪組"
 
 #: Pokemon/Klinklang:601
 msgid "klinklang"
-msgstr ""
+msgstr "齒輪怪"
 
 #: Pokemon/Tynamo:602
 msgid "tynamo"
-msgstr ""
+msgstr "麻麻小魚"
 
 #: Pokemon/Eelektrik:603
 msgid "eelektrik"
-msgstr ""
+msgstr "麻麻鰻"
 
 #: Pokemon/Eelektross:604
 msgid "eelektross"
-msgstr ""
+msgstr "麻麻鰻魚王"
 
 #: Pokemon/Elgyem:605
 msgid "elgyem"
-msgstr ""
+msgstr "小灰怪"
 
 #: Pokemon/Beheeyem:606
 msgid "beheeyem"
-msgstr ""
+msgstr "大宇怪"
 
 #: Pokemon/Litwick:607
 msgid "litwick"
-msgstr ""
+msgstr "燭光靈"
 
 #: Move/Wrap:13
 msgid "WRAP"
-msgstr ""
+msgstr "緊束"
 
 #: Move/Hyper Beam:14
 msgid "HYPER BEAM"
-msgstr ""
+msgstr "破壞光線"
 
 #: Move/Dark Pulse:16
 msgid "DARK PULSE"
-msgstr ""
+msgstr "惡之波動"
 
 #: Move/Sludge:18
 msgid "SLUDGE"
-msgstr ""
+msgstr "污泥攻擊"
 
 #: Move/Vice Grip:20
 msgid "VICE GRIP"
-msgstr ""
+msgstr "夾住"
 
 #: Move/Flame Wheel:21
 msgid "FLAME WHEEL"
-msgstr ""
+msgstr "火焰輪"
 
 #: Move/Megahorn:22
 msgid "MEGAHORN"
-msgstr ""
+msgstr "超級角擊"
 
 #: Move/Flamethrower:24
 msgid "FLAMETHROWER"
-msgstr ""
+msgstr "噴射火焰"
 
 #: Move/Dig:26
 msgid "DIG"
-msgstr ""
+msgstr "挖洞"
 
 #: Move/Cross Chop:28
 msgid "CROSS CHOP"
-msgstr ""
+msgstr "十字劈"
 
 #: Move/Psybeam:30
 msgid "PSYBEAM"
-msgstr ""
+msgstr "幻象光線"
 
 #: Move/Earthquake:31
 msgid "EARTHQUAKE"
-msgstr ""
+msgstr "地震"
 
 #: Move/Stone Edge:32
 msgid "STONE EDGE"
-msgstr ""
+msgstr "尖石攻擊"
 
 #: Move/Ice Punch:33
 msgid "ICE PUNCH"
-msgstr ""
+msgstr "冰凍拳"
 
 #: Move/Heart Stamp:34
 msgid "HEART STAMP"
-msgstr ""
+msgstr "愛心印章"
 
 #: Move/Discharge:35
 msgid "DISCHARGE"
-msgstr ""
+msgstr "放電"
 
 #: Move/Flash Cannon:36
 msgid "FLASH CANNON"
-msgstr ""
+msgstr "加農光炮"
 
 #: Move/Drill Peck:38
 msgid "DRILL PECK"
-msgstr ""
+msgstr "啄鑽"
 
 #: Move/Ice Beam:39
 msgid "ICE BEAM"
-msgstr ""
+msgstr "冰凍光束"
 
 #: Move/Blizzard:40
 msgid "BLIZZARD"
-msgstr ""
+msgstr "暴風雪"
 
 #: Move/Heat Wave:42
 msgid "HEAT WAVE"
-msgstr ""
+msgstr "熱風"
 
 #: Move/Aerial Ace:45
 msgid "AERIAL ACE"
-msgstr ""
+msgstr "燕返"
 
 #: Move/Drill Run:46
 msgid "DRILL RUN"
-msgstr ""
+msgstr "直衝鑽"
 
 #: Move/Petal Blizzard:47
 msgid "PETAL BLIZZARD"
-msgstr ""
+msgstr "落英繽紛"
 
 #: Move/Mega Drain:48
 msgid "MEGA DRAIN"
-msgstr ""
+msgstr "超級吸取"
 
 #: Move/Bug Buzz:49
 msgid "BUG BUZZ"
-msgstr ""
+msgstr "蟲鳴"
 
 #: Move/Poison Fang:50
 msgid "POISON FANG"
-msgstr ""
+msgstr "劇毒牙"
 
 #: Move/Night Slash:51
 msgid "NIGHT SLASH"
-msgstr ""
+msgstr "暗襲要害"
 
 #: Move/Bubble Beam:53
 msgid "BUBBLE BEAM"
-msgstr ""
+msgstr "泡沫光線"
 
 #: Move/Submission:54
 msgid "SUBMISSION"
-msgstr ""
+msgstr "地獄翻滾"
 
 #: Move/Low Sweep:56
 msgid "LOW SWEEP"
-msgstr ""
+msgstr "下盤踢"
 
 #: Move/Aqua Jet:57
 msgid "AQUA JET"
-msgstr ""
+msgstr "水流噴射"
 
 #: Move/Aqua Tail:58
 msgid "AQUA TAIL"
-msgstr ""
+msgstr "水流尾"
 
 #: Move/Seed Bomb:59
 msgid "SEED BOMB"
-msgstr ""
+msgstr "種子炸彈"
 
 #: Move/Psyshock:60
 msgid "PSYSHOCK"
-msgstr ""
+msgstr "精神衝擊"
 
 #: Move/Ancient Power:62
 msgid "ANCIENT POWER"
-msgstr ""
+msgstr "原始之力"
 
 #: Move/Rock Tomb:63
 msgid "ROCK TOMB"
-msgstr ""
+msgstr "岩石封鎖"
 
 #: Move/Rock Slide:64
 msgid "ROCK SLIDE"
-msgstr ""
+msgstr "岩崩"
 
 #: Move/Power Gem:65
 msgid "POWER GEM"
-msgstr ""
+msgstr "力量寶石"
 
 #: Move/Shadow Sneak:66
 msgid "SHADOW SNEAK"
-msgstr ""
+msgstr "影子偷襲"
 
 #: Move/Shadow Punch:67
 msgid "SHADOW PUNCH"
-msgstr ""
+msgstr "暗影拳"
 
 #: Move/Ominous Wind:69
 msgid "OMINOUS WIND"
-msgstr ""
+msgstr "奇異之風"
 
 #: Move/Shadow Ball:70
 msgid "SHADOW BALL"
-msgstr ""
+msgstr "暗影球"
 
 #: Move/Magnet Bomb:72
 msgid "MAGNET BOMB"
-msgstr ""
+msgstr "磁鐵炸彈"
 
 #: Move/Iron Head:74
 msgid "IRON HEAD"
-msgstr ""
+msgstr "鐵頭"
 
 #: Move/Parabolic Charge:75
 msgid "PARABOLIC CHARGE"
-msgstr ""
+msgstr "拋物面充電"
 
 #: Move/Thunder Punch:77
 msgid "THUNDER PUNCH"
-msgstr ""
+msgstr "雷電拳"
 
 #: Move/Thunder:78
 msgid "THUNDER"
-msgstr ""
+msgstr "打雷"
 
 #: Move/Thunderbolt:79
 msgid "THUNDERBOLT"
-msgstr ""
+msgstr "十萬伏特"
 
 #: Move/Twister:80
 msgid "TWISTER"
-msgstr ""
+msgstr "龍捲風"
 
 #: Move/Dragon Pulse:82
 msgid "DRAGON PULSE"
-msgstr ""
+msgstr "龍之波動"
 
 #: Move/Dragon Claw:83
 msgid "DRAGON CLAW"
-msgstr ""
+msgstr "龍爪"
 
 #: Move/Disarming Voice:84
 msgid "DISARMING VOICE"
-msgstr ""
+msgstr "魅惑之聲"
 
 #: Move/Draining Kiss:85
 msgid "DRAINING KISS"
-msgstr ""
+msgstr "吸取之吻"
 
 #: Move/Dazzling Gleam:86
 msgid "DAZZLING GLEAM"
-msgstr ""
+msgstr "魔法閃耀"
 
 #: Move/Moonblast:87
 msgid "MOONBLAST"
-msgstr ""
+msgstr "月亮之力"
 
 #: Move/Play Rough:88
 msgid "PLAY ROUGH"
-msgstr ""
+msgstr "嬉鬧"
 
 #: Move/Cross Poison:89
 msgid "CROSS POISON"
-msgstr ""
+msgstr "十字毒刃"
 
 #: Move/Sludge Bomb:90
 msgid "SLUDGE BOMB"
-msgstr ""
+msgstr "污泥炸彈"
 
 #: Move/Sludge Wave:91
 msgid "SLUDGE WAVE"
-msgstr ""
+msgstr "污泥波"
 
 #: Move/Gunk Shot:92
 msgid "GUNK SHOT"
-msgstr ""
+msgstr "垃圾射擊"
 
 #: Move/Bone Club:94
 msgid "BONE CLUB"
-msgstr ""
+msgstr "骨棒"
 
 #: Move/Bulldoze:95
 msgid "BULLDOZE"
-msgstr ""
+msgstr "重踏"
 
 #: Move/Mud Bomb:96
 msgid "MUD BOMB"
-msgstr ""
+msgstr "泥巴炸彈"
 
 #: Move/Signal Beam:99
 msgid "SIGNAL BEAM"
-msgstr ""
+msgstr "信號光束"
 
 #: Move/X Scissor:100
 msgid "X SCISSOR"
-msgstr ""
+msgstr "十字剪"
 
 #: Move/Flame Charge:101
 msgid "FLAME CHARGE"
-msgstr ""
+msgstr "蓄能焰襲"
 
 #: Move/Flame Burst:102
 msgid "FLAME BURST"
-msgstr ""
+msgstr "烈焰濺射"
 
 #: Move/Fire Blast:103
 msgid "FIRE BLAST"
-msgstr ""
+msgstr "大字爆炎"
 
 #: Move/Brine:104
 msgid "BRINE"
-msgstr ""
+msgstr "鹽水"
 
 #: Move/Water Pulse:105
 msgid "WATER PULSE"
-msgstr ""
+msgstr "水之波動"
 
 #: Move/Scald:106
 msgid "SCALD"
-msgstr ""
+msgstr "熱水"
 
 #: Move/Hydro Pump:107
 msgid "HYDRO PUMP"
-msgstr ""
+msgstr "水炮"
 
 #: Move/Psychic:108
 msgid "PSYCHIC"
-msgstr ""
+msgstr "精神強念"
 
 #: Move/Psystrike:109
 msgid "PSYSTRIKE"
-msgstr ""
+msgstr "精神擊破"
 
 #: Move/Icy Wind:111
 msgid "ICY WIND"
-msgstr ""
+msgstr "冰凍之風"
 
 #: Move/Giga Drain:114
 msgid "GIGA DRAIN"
-msgstr ""
+msgstr "終極吸取"
 
 #: Move/Fire Punch:115
 msgid "FIRE PUNCH"
-msgstr ""
+msgstr "火焰拳"
 
 #: Move/Solar Beam:116
 msgid "SOLAR BEAM"
-msgstr ""
+msgstr "日光束"
 
 #: Move/Leaf Blade:117
 msgid "LEAF BLADE"
-msgstr ""
+msgstr "葉刃"
 
 #: Move/Power Whip:118
 msgid "POWER WHIP"
-msgstr ""
+msgstr "強力鞭打"
 
 #: Move/Air Cutter:121
 msgid "AIR CUTTER"
-msgstr ""
+msgstr "空氣利刃"
 
 #: Move/Hurricane:122
 msgid "HURRICANE"
-msgstr ""
+msgstr "暴風"
 
 #: Move/Brick Break:123
 msgid "BRICK BREAK"
-msgstr ""
+msgstr "劈瓦"
 
 #: Move/Swift:125
 msgid "SWIFT"
-msgstr ""
+msgstr "高速星星"
 
 #: Move/Horn Attack:126
 msgid "HORN ATTACK"
-msgstr ""
+msgstr "角撞"
 
 #: Move/Stomp:127
 msgid "STOMP"
-msgstr ""
+msgstr "踩踏"
 
 #: Move/Hyper Fang:129
 msgid "HYPER FANG"
-msgstr ""
+msgstr "必殺門牙"
 
 #: Move/Body Slam:131
 msgid "BODY SLAM"
-msgstr ""
+msgstr "泰山壓頂"
 
 #: Move/Rest:132
 msgid "REST"
-msgstr ""
+msgstr "睡覺"
 
 #: Move/Struggle:133
 msgid "STRUGGLE"
-msgstr ""
+msgstr "掙扎"
 
 #: Move/Scald Blastoise:134
 msgid "SCALD BLASTOISE"
-msgstr ""
+msgstr "熱水 水箭龜"
 
 #: Move/Hydro Pump Blastoise:135
 msgid "HYDRO PUMP BLASTOISE"
-msgstr ""
+msgstr "水炮 水箭龜"
 
 #: Move/Wrap Green:136
 msgid "WRAP GREEN"
-msgstr ""
+msgstr "緊束 綠"
 
 #: Move/Wrap Pink:137
 msgid "WRAP PINK"
-msgstr ""
+msgstr "緊束 粉紅"
 
 #: Move/Fury Cutter:200
 msgid "FURY CUTTER"
-msgstr ""
+msgstr "連斬"
 
 #: Move/Bug Bite:201
 msgid "BUG BITE"
-msgstr ""
+msgstr "蟲咬"
 
 #: Move/Bite:202
 msgid "BITE"
-msgstr ""
+msgstr "咬住"
 
 #: Move/Sucker Punch:203
 msgid "SUCKER PUNCH"
-msgstr ""
+msgstr "突襲"
 
 #: Move/Dragon Breath:204
 msgid "DRAGON BREATH"
-msgstr ""
+msgstr "龍息"
 
 #: Move/Thunder Shock:205
 msgid "THUNDER SHOCK"
-msgstr ""
+msgstr "電擊"
 
 #: Move/Spark:206
 msgid "SPARK"
-msgstr ""
+msgstr "電光"
 
 #: Move/Low Kick:207
 msgid "LOW KICK"
-msgstr ""
+msgstr "踢倒"
 
 #: Move/Karate Chop:208
 msgid "KARATE CHOP"
-msgstr ""
+msgstr "空手劈"
 
 #: Move/Ember:209
 msgid "EMBER"
-msgstr ""
+msgstr "火花"
 
 #: Move/Wing Attack:210
 msgid "WING ATTACK"
-msgstr ""
+msgstr "翅膀攻擊"
 
 #: Move/Peck:211
 msgid "PECK"
-msgstr ""
+msgstr "啄"
 
 #: Move/Lick:212
 msgid "LICK"
-msgstr ""
+msgstr "舌舔"
 
 #: Move/Shadow Claw:213
 msgid "SHADOW CLAW"
-msgstr ""
+msgstr "暗影爪"
 
 #: Move/Vine Whip:214
 msgid "VINE WHIP"
-msgstr ""
+msgstr "藤鞭"
 
 #: Move/Razor Leaf:215
 msgid "RAZOR LEAF"
-msgstr ""
+msgstr "飛葉快刀"
 
 #: Move/Mud Shot:216
 msgid "MUD SHOT"
-msgstr ""
+msgstr "泥巴射擊"
 
 #: Move/Ice Shard:217
 msgid "ICE SHARD"
-msgstr ""
+msgstr "冰礫"
 
 #: Move/Frost Breath:218
 msgid "FROST BREATH"
-msgstr ""
+msgstr "冰息"
 
 #: Move/Quick Attack:219
 msgid "QUICK ATTACK"
-msgstr ""
+msgstr "電光一閃"
 
 #: Move/Scratch:220
 msgid "SCRATCH"
-msgstr ""
+msgstr "抓"
 
 #: Move/Tackle:221
 msgid "TACKLE"
-msgstr ""
+msgstr "撞擊"
 
 #: Move/Pound:222
 msgid "POUND"
-msgstr ""
+msgstr "拍擊"
 
 #: Move/Cut:223
 msgid "CUT"
-msgstr ""
+msgstr "居合斬"
 
 #: Move/Poison Jab:224
 msgid "POISON JAB"
-msgstr ""
+msgstr "毒擊"
 
 #: Move/Acid:225
 msgid "ACID"
-msgstr ""
+msgstr "溶解液"
 
 #: Move/Psycho Cut:226
 msgid "PSYCHO CUT"
-msgstr ""
+msgstr "精神利刃"
 
 #: Move/Rock Throw:227
 msgid "ROCK THROW"
-msgstr ""
+msgstr "落石"
 
 #: Move/Metal Claw:228
 msgid "METAL CLAW"
-msgstr ""
+msgstr "金屬爪"
 
 #: Move/Bullet Punch:229
 msgid "BULLET PUNCH"
-msgstr ""
+msgstr "子彈拳"
 
 #: Move/Water Gun:230
 msgid "WATER GUN"
-msgstr ""
+msgstr "水槍"
 
 #: Move/Splash:231
 msgid "SPLASH"
-msgstr ""
+msgstr "躍起"
 
 #: Move/Water Gun Blastoise:232
 msgid "WATER GUN BLASTOISE"
-msgstr ""
+msgstr "水槍 水箭龜"
 
 #: Move/Mud Slap:233
 msgid "MUD SLAP"
-msgstr ""
+msgstr "擲泥"
 
 #: Move/Zen Headbutt:234
 msgid "ZEN HEADBUTT"
-msgstr ""
+msgstr "意念頭錘"
 
 #: Move/Confusion:235
 msgid "CONFUSION"
-msgstr ""
+msgstr "念力"
 
 #: Move/Poison Sting:236
 msgid "POISON STING"
-msgstr ""
+msgstr "毒針"
 
 #: Move/Bubble:237
 msgid "BUBBLE"
-msgstr ""
+msgstr "泡沫"
 
 #: Move/Feint Attack:238
 msgid "FEINT ATTACK"
-msgstr ""
+msgstr "出奇一擊"
 
 #: Move/Steel Wing:239
 msgid "STEEL WING"
-msgstr ""
+msgstr "鋼翼"
 
 #: Move/Fire Fang:240
 msgid "FIRE FANG"
-msgstr ""
+msgstr "火焰牙"
 
 #: Move/Rock Smash:241
 msgid "ROCK SMASH"
-msgstr ""
+msgstr "碎岩"
 
 #: Move/Transform:242
 msgid "TRANSFORM"
-msgstr ""
+msgstr "變身"
 
 #: Move/Counter:243
 msgid "COUNTER"
-msgstr ""
+msgstr "雙倍奉還"
 
 #: Move/Powder Snow:244
 msgid "POWDER SNOW"
-msgstr ""
+msgstr "細雪"
 
 #: Move/Close Combat:245
 msgid "CLOSE COMBAT"
-msgstr ""
+msgstr "近身戰"
 
 #: Move/Dynamic Punch:246
 msgid "DYNAMIC PUNCH"
-msgstr ""
+msgstr "爆裂拳"
 
 #: Move/Focus Blast:247
 msgid "FOCUS BLAST"
-msgstr ""
+msgstr "真氣彈"
 
 #: Move/Aurora Beam:248
 msgid "AURORA BEAM"
-msgstr ""
+msgstr "極光束"
 
 #: Move/Charge Beam:249
 msgid "CHARGE BEAM"
-msgstr ""
+msgstr "充電光束"
 
 #: Move/Volt Switch:250
 msgid "VOLT SWITCH"
-msgstr ""
+msgstr "伏特替換"
 
 #: Move/Wild Charge:251
 msgid "WILD CHARGE"
-msgstr ""
+msgstr "瘋狂伏特"
 
 #: Move/Zap Cannon:252
 msgid "ZAP CANNON"
-msgstr ""
+msgstr "電磁炮"
 
 #: Move/Dragon Tail:253
 msgid "DRAGON TAIL"
-msgstr ""
+msgstr "龍尾"
 
 #: Move/Avalanche:254
 msgid "AVALANCHE"
-msgstr ""
+msgstr "雪崩"
 
 #: Move/Air Slash:255
 msgid "AIR SLASH"
-msgstr ""
+msgstr "空氣斬"
 
 #: Move/Brave Bird:256
 msgid "BRAVE BIRD"
-msgstr ""
+msgstr "勇鳥猛攻"
 
 #: Move/Sky Attack:257
 msgid "SKY ATTACK"
-msgstr ""
+msgstr "神鳥猛擊"
 
 #: Move/Sand Tomb:258
 msgid "SAND TOMB"
-msgstr ""
+msgstr "流沙地獄"
 
 #: Move/Rock Blast:259
 msgid "ROCK BLAST"
-msgstr ""
+msgstr "岩石爆擊"
 
 #: Move/Infestation:260
 msgid "INFESTATION"
-msgstr ""
+msgstr "死纏爛打"
 
 #: Move/Struggle Bug:261
 msgid "STRUGGLE BUG"
-msgstr ""
+msgstr "蟲之抵抗"
 
 #: Move/Silver Wind:262
 msgid "SILVER WIND"
-msgstr ""
+msgstr "銀色旋風"
 
 #: Move/Astonish:263
 msgid "ASTONISH"
-msgstr ""
+msgstr "驚嚇"
 
 #: Move/Hex:264
 msgid "HEX"
-msgstr ""
+msgstr "禍不單行"
 
 #: Move/Night Shade:265
 msgid "NIGHT SHADE"
-msgstr ""
+msgstr "黑夜魔影"
 
 #: Move/Iron Tail:266
 msgid "IRON TAIL"
-msgstr ""
+msgstr "鐵尾"
 
 #: Move/Gyro Ball:267
 msgid "GYRO BALL"
-msgstr ""
+msgstr "陀螺球"
 
 #: Move/Heavy Slam:268
 msgid "HEAVY SLAM"
-msgstr ""
+msgstr "重磅衝撞"
 
 #: Move/Fire Spin:269
 msgid "FIRE SPIN"
-msgstr ""
+msgstr "火焰漩渦"
 
 #: Move/Overheat:270
 msgid "OVERHEAT"
-msgstr ""
+msgstr "過熱"
 
 #: Move/Bullet Seed:271
 msgid "BULLET SEED"
-msgstr ""
+msgstr "種子機關槍"
 
 #: Move/Grass Knot:272
 msgid "GRASS KNOT"
-msgstr ""
+msgstr "打草結"
 
 #: Move/Energy Ball:273
 msgid "ENERGY BALL"
-msgstr ""
+msgstr "能量球"
 
 #: Move/Extrasensory:274
 msgid "EXTRASENSORY"
-msgstr ""
+msgstr "神通力"
 
 #: Move/Futuresight:275
 msgid "FUTURESIGHT"
-msgstr ""
+msgstr "預知未來"
 
 #: Move/Mirror Coat:276
 msgid "MIRROR COAT"
-msgstr ""
+msgstr "鏡面反射"
 
 #: Move/Outrage:277
 msgid "OUTRAGE"
-msgstr ""
+msgstr "逆鱗"
 
 #: Move/Snarl:278
 msgid "SNARL"
-msgstr ""
+msgstr "大聲咆哮"
 
 #: Move/Crunch:279
 msgid "CRUNCH"
-msgstr ""
+msgstr "咬碎"
 
 #: Move/Foul Play:280
 msgid "FOUL PLAY"
-msgstr ""
+msgstr "欺詐"
 
 #: Move/Hidden Power:281
 msgid "HIDDEN POWER"
-msgstr ""
+msgstr "覺醒力量"
 
 #: Type/Normal:1
 msgid "normal"
-msgstr ""
+msgstr "一般"
 
 #: Type/Fighting:2
 msgid "fighting"
-msgstr ""
+msgstr "格鬥"
 
 #: Type/Flying:3
 msgid "flying"
-msgstr ""
+msgstr "飛行"
 
 #: Type/Poison:4
 msgid "poison"
-msgstr ""
+msgstr "毒"
 
 #: Type/Ground:5
 msgid "ground"
-msgstr ""
+msgstr "地面"
 
 #: Type/Rock:6
 msgid "rock"
-msgstr ""
+msgstr "岩石"
 
 #: Type/Bug:7
 msgid "bug"
-msgstr ""
+msgstr "蟲"
 
 #: Type/Ghost:8
 msgid "ghost"
-msgstr ""
+msgstr "幽靈"
 
 #: Type/Steel:9
 msgid "steel"
-msgstr ""
+msgstr "鋼"
 
 #: Type/Fire:10
 msgid "fire"
-msgstr ""
+msgstr "火"
 
 #: Type/Water:11
 msgid "water"
-msgstr ""
+msgstr "水"
 
 #: Type/Grass:12
 msgid "grass"
-msgstr ""
+msgstr "草"
 
 #: Type/Electric:13
 msgid "electric"
-msgstr ""
+msgstr "電"
 
 #: Type/Psychic:14
 msgid "psychic"
-msgstr ""
+msgstr "超能力"
 
 #: Type/Ice:15
 msgid "ice"
-msgstr ""
+msgstr "冰"
 
 #: Type/Dragon:16
 msgid "dragon"
-msgstr ""
+msgstr "龍"
 
 #: Type/Dark:17
 msgid "dark"
-msgstr ""
+msgstr "惡"
 
 #: Type/Fairy:18
 msgid "fairy"
-msgstr ""
+msgstr "妖精"

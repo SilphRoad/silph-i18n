@@ -5,31 +5,32 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 15:57+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493827065.292373\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr ""
+msgstr "身高："
 
 #: COMMENT
 msgid "Weight:"
-msgstr ""
+msgstr "體重："
 
 #: COMMENT
 msgid "Attack"
-msgstr ""
+msgstr "攻擊"
 
 #: COMMENT
 msgid "Defense"
-msgstr ""
+msgstr "防禦"
 
 #: COMMENT
 msgid "Stamina"
@@ -37,7 +38,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Nests"
-msgstr ""
+msgstr "巢穴"
 
 #: COMMENT
 msgid "Sightings"
@@ -49,15 +50,15 @@ msgstr ""
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
-msgstr ""
+msgstr "全球的巢穴正進行更動！請密切關注以獲得更多資訊。"
 
 #: COMMENT
 msgid "Map Loading"
-msgstr ""
+msgstr "讀取地圖"
 
 #: COMMENT
 msgid "Search Box"
-msgstr ""
+msgstr "搜尋方塊"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
@@ -73,23 +74,23 @@ msgstr ""
 
 #: COMMENT
 msgid "DPS"
-msgstr ""
+msgstr "每秒輸出傷害"
 
 #: COMMENT
 msgid "Pow."
-msgstr ""
+msgstr "砰。"
 
 #: COMMENT
 msgid "ms"
-msgstr ""
+msgstr "毫秒"
 
 #: COMMENT
 msgid "EPS:"
-msgstr ""
+msgstr "每秒累積能量："
 
 #: COMMENT
 msgid "Type Bonus!"
-msgstr ""
+msgstr "屬性獎勵！"
 
 #: COMMENT
 msgid "Charge Moves"
@@ -113,7 +114,7 @@ msgstr ""
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "無"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
@@ -125,19 +126,19 @@ msgstr ""
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr ""
+msgstr "夥伴里程數"
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr ""
+msgstr "進化所需糖果數"
 
 #: COMMENT
 msgid "Base Capture Rate"
-msgstr ""
+msgstr "基礎捕獲率"
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr ""
+msgstr "優於"
 
 #: COMMENT
 msgid "Weak Against"
@@ -149,23 +150,23 @@ msgstr ""
 
 #: COMMENT
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: COMMENT
 msgid "Defence"
-msgstr ""
+msgstr "防禦"
 
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"
-msgstr ""
+msgstr "※正在開發屬性相剋建議！"
 
 #: COMMENT
 msgid "Improved recommendations coming soon."
-msgstr ""
+msgstr "即將推出改進的建議。"
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr ""
+msgstr "著名研究員"
 
 #: COMMENT
 msgid "Most Sightings"

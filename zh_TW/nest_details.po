@@ -5,87 +5,88 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 18:47+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493837260.564584\n"
 
 #: COMMENT
 msgid "Map"
-msgstr ""
+msgstr "地圖"
 
 #: COMMENT
 msgid "Silph Nest: #"
-msgstr ""
+msgstr "Silph 巢穴：#"
 
 #: COMMENT
 msgid "Suspected Species"
-msgstr ""
+msgstr "疑似物種"
 
 #: COMMENT
 msgid "???"
-msgstr ""
+msgstr "？？？"
 
 #: COMMENT
 msgid "Unverified"
-msgstr ""
+msgstr "未經證實"
 
 #: COMMENT
 msgid "Unknown Status!"
-msgstr ""
+msgstr "未知狀態！"
 
 #: COMMENT
 msgid "Add your report to help identify this location's new nest species - or if it's not a nest location at all!"
-msgstr ""
+msgstr "新增報告以幫助確認此地點的新巢穴物種，或者回報此地點並非巢穴！"
 
 #: COMMENT
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: COMMENT
 msgid "Add"
-msgstr ""
+msgstr "新增"
 
 #: COMMENT
 msgid "My Report"
-msgstr ""
+msgstr "我的報告"
 
 #: COMMENT
 msgid "You must Authenticate to add your field report:"
-msgstr ""
+msgstr "您必須驗證身份才可新增實地考察報告："
 
 #: COMMENT
 msgid "Authenticate"
-msgstr ""
+msgstr "驗證"
 
 #: COMMENT
 msgid "Scout Report"
-msgstr ""
+msgstr "偵察報告"
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
-msgstr ""
+msgstr "目睹群集出怪"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN AREA"
-msgstr ""
+msgstr "目睹頻繁出怪區域"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN POINT"
-msgstr ""
+msgstr "目睹頻繁出怪點"
 
 #: COMMENT
 msgid "No Comment"
-msgstr ""
+msgstr "無評論"
 
 #: COMMENT
 msgid "No Nest Found!"
-msgstr ""
+msgstr "未發現巢穴！"
 
 #: COMMENT
 msgid "On"

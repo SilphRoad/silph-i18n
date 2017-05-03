@@ -5,34 +5,36 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 13:31+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493818283.314741\n"
 
 #: COMMENT
 msgid "Map"
-msgstr ""
+msgstr "Carte"
 
 #: COMMENT
 msgid "Silph Nest: #"
-msgstr ""
+msgstr "Nid Silph: #"
 
 #: COMMENT
 msgid "Suspected Species"
-msgstr ""
+msgstr "Espèces Soupçonnées"
 
 #: COMMENT
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: COMMENT
 msgid "Unverified"
-msgstr ""
+msgstr "Non vérifié"
 
 #: COMMENT
 msgid "Unknown Status!"
@@ -41,26 +43,28 @@ msgstr ""
 #: COMMENT
 msgid "Add your report to help identify this location's new nest species - or if it's not a nest location at all!"
 msgstr ""
+"Ajouter votre rapport pour aider à identifier les espèces de ce nouveau nid "
+"à cet endroit - ou si ce n'est pas un nid du tout !"
 
 #: COMMENT
 msgid "Update"
-msgstr ""
+msgstr "Mettre à jour"
 
 #: COMMENT
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #: COMMENT
 msgid "My Report"
-msgstr ""
+msgstr "Mon Rapport"
 
 #: COMMENT
 msgid "You must Authenticate to add your field report:"
-msgstr ""
+msgstr "Vous devez vous Identifier pour ajouter votre rapport :"
 
 #: COMMENT
 msgid "Authenticate"
-msgstr ""
+msgstr "Identification"
 
 #: COMMENT
 msgid "Scout Report"
@@ -68,32 +72,34 @@ msgstr ""
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
-msgstr ""
+msgstr "GROUPE D'APPARITION DÉTECTÉ"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN AREA"
-msgstr ""
+msgstr "ZONE D'APPARITION FRÉQUENTE DÉTECTÉ"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN POINT"
-msgstr ""
+msgstr "POINT D'APPARITION FRÉQUENTE DÉTECTÉ"
 
 #: COMMENT
 msgid "No Comment"
-msgstr ""
+msgstr "Aucun commentaire"
 
 #: COMMENT
 msgid "No Nest Found!"
-msgstr ""
+msgstr "Aucun Nid Trouvé !"
 
 #: COMMENT
 msgid "On"
-msgstr ""
+msgstr "Le"
 
 #: COMMENT
 msgid "first discovered this location and suspected it was a"
 msgstr ""
+"a découvert cet endroit pour la première fois et a supposé qu'il s'agissait "
+"d'un Nid de"
 
 #: COMMENT
 msgid "nest!"
-msgstr ""
+msgstr " !"

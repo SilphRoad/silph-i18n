@@ -5,176 +5,183 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 17:02+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493830972.886810\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr ""
+msgstr "Altezza:"
 
 #: COMMENT
 msgid "Weight:"
-msgstr ""
+msgstr "Peso:"
 
 #: COMMENT
 msgid "Attack"
-msgstr ""
+msgstr "Attacco"
 
 #: COMMENT
 msgid "Defense"
-msgstr ""
+msgstr "Difesa"
 
 #: COMMENT
 msgid "Stamina"
-msgstr ""
+msgstr "Resistenza"
 
 #: COMMENT
 msgid "Nests"
-msgstr ""
+msgstr "Nidi"
 
 #: COMMENT
 msgid "Sightings"
-msgstr ""
+msgstr "Avvistamenti"
 
 #: COMMENT
 msgid "Hold Up:"
-msgstr ""
+msgstr "Attendi:"
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
+"I nidi stanno cambiando in tutto il mondo! Rimani connesso per maggiori "
+"informazioni."
 
 #: COMMENT
 msgid "Map Loading"
-msgstr ""
+msgstr "Mappa in caricamento"
 
 #: COMMENT
 msgid "Search Box"
-msgstr ""
+msgstr "Casella di Ricerca"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
-msgstr ""
+msgstr "Espandi la Mappa per Spostarla o Ingrandirla"
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "Nessun avvistamento è stato riferito!"
 
 #: COMMENT
 msgid "Quick Moves"
-msgstr ""
+msgstr "Mosse Rapide"
 
 #: COMMENT
 msgid "DPS"
-msgstr ""
+msgstr "DPS"
 
 #: COMMENT
 msgid "Pow."
-msgstr ""
+msgstr "Pot."
 
 #: COMMENT
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: COMMENT
 msgid "EPS:"
-msgstr ""
+msgstr "EPS:"
 
 #: COMMENT
 msgid "Type Bonus!"
-msgstr ""
+msgstr "Bonus Tipo!"
 
 #: COMMENT
 msgid "Charge Moves"
-msgstr ""
+msgstr "Mosse Speciali"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr ""
+msgstr "Mosse dello stesso"
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "tipo"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
+"del Pokemon ricevono un potenziamento del 25% chiamato \"Same-Type Attack "
+"Bonus\" (STAB), Bonus Attacco dello Stesso Tipo! Questi bonus sono già stati "
+"inclusi nel calcolo!"
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr ""
+msgstr "Nessuna Mossa Nota al Momento!"
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "Nessun"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
 msgstr ""
+"esemplare di questa specie è stato ancora catturato dai Ricercatori Silph!"
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "Vai! Sii il primo!"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr ""
+msgstr "Distanza Percorsa dal Compagno"
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr ""
+msgstr "Caramelle necessarie per Evolvere "
 
 #: COMMENT
 msgid "Base Capture Rate"
-msgstr ""
+msgstr "Tasso di Cattura Base"
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr ""
+msgstr "Vantaggio Su"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr ""
+msgstr "Debole Contro"
 
 #: COMMENT
 msgid "Offence"
-msgstr ""
+msgstr "Attacco"
 
 #: COMMENT
 msgid "None"
-msgstr ""
+msgstr "Nessuno"
 
 #: COMMENT
 msgid "Defence"
-msgstr ""
+msgstr "Difesa"
 
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"
-msgstr ""
+msgstr "*Stiamo sviluppando i consigli sull'efficacia dei tipi!"
 
 #: COMMENT
 msgid "Improved recommendations coming soon."
-msgstr ""
+msgstr "Presto in arrivo migliori suggerimenti."
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr ""
+msgstr "Ricercatori Illustri"
 
 #: COMMENT
 msgid "Most Sightings"
-msgstr ""
+msgstr "La Maggior Parte Degli Avvistamenti"
 
 #: COMMENT
 msgid "Strongest Specimen"
-msgstr ""
+msgstr "Esemplare Più Forte"
 
 #: COMMENT
 msgid "- No Sightings -"
-msgstr ""
+msgstr "- Nessun Avvistamento -"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-02 22:30-0400\n"
-"PO-Revision-Date: 2017-05-02 21:49+0000\n"
+"PO-Revision-Date: 2017-05-03 20:16+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493761768.682465\n"
+"X-POOTLE-MTIME: 1493842582.823016\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -153,29 +153,29 @@ msgstr "2km"
 
 #: View/Pages/moves.ctp:3
 msgid "Pokemon GO Moves"
-msgstr "Pokemon GO Angriffe"
+msgstr "Pokemon GO Attacken"
 
 #: View/Pages/moves.ctp:128
 msgid "Move List in Pokemon GO"
-msgstr "Liste der Angriffe in Pokemon GO"
+msgstr "Liste der Attacken in Pokemon GO"
 
 #: View/Pages/moves.ctp:130
 msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
 msgstr ""
 "In den nachfolgenden Tabellen findest du die vollständige Liste aller "
-"Angriffe in Pokemon GO, zusammen mit ihrem Typ, Stärke, Dauer, und dem "
+"Attacken in Pokemon GO, zusammen mit ihrem Typ, Stärke, Dauer, und dem "
 "zugefügten Schaden pro Sekunde (DPS)."
 
 #: View/Pages/moves.ctp:139
 msgid "Quick Moves"
-msgstr "Schnellangriffe"
+msgstr "Standard-Attacken"
 
 #: View/Pages/moves.ctp:140
 msgid "Quick moves are used by 'tapping' the screen and do not require a full energy bar to use repeatedly! Quick moves do not 'critical hit.'"
 msgstr ""
-"Schnellangriffe benutzt man, indem man auf den Bildschirm tippt. Sie "
-"benötigen keine volle Energieleiste, um sie wiederholt zu benutzen! "
-"Schnellangriffe könnten nicht 'kritisch treffen.'"
+"Standard-Attacken benutzt man, indem man auf den Bildschirm tippt. Sie "
+"benötigen keine volle Energieleiste, um sie wiederholt zu benutzen! Standard-"
+"Attacken können nicht 'kritisch treffen.'"
 
 #: View/Pages/moves.ctp:144;217
 msgid "DPS"
@@ -183,7 +183,7 @@ msgstr "DPS"
 
 #: View/Pages/moves.ctp:145;218
 msgid "Move Name"
-msgstr "Angriffsname"
+msgstr "Attackenname"
 
 #: View/Pages/moves.ctp:146;219
 msgid "Power"
@@ -200,20 +200,20 @@ msgstr "Energiegewinn/Sek."
 #: View/Pages/moves.ctp:198
 msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
-"Die Silph-Forscher haben noch kein wildes Pokemon mit diesem Angriff "
-"dokumentiert! (Einige Spezies könnten in der Lage sein, diesen Angriff durch "
+"Die Silph-Forscher haben noch kein wildes Pokemon mit dieser Attacke "
+"dokumentiert! (Einige Spezies könnten in der Lage sein, diese Attacke durch "
 "Entwicklung oder Ausbrüten zu lernen!)"
 
 #: View/Pages/moves.ctp:212
 msgid "Charge/Special Moves"
-msgstr "Lade-/Spezialangriff"
+msgstr "Lade-/Spezialattacke"
 
 #: View/Pages/moves.ctp:213
 msgid "Special moves are used by holding and pressing the screen after charging the blue 'energy' bars by inflicting damage with quick moves!"
 msgstr ""
 "Spezialattacken werden eingesetzt, indem man auf den Bildschirm tippt und "
 "gedrückt halt, nachdem die blauen 'Energie'-Leisten durch das Austeilen von "
-"Schaden durch Schnellangriffe aufgeladen wurden!"
+"Schaden durch Standard-Attacken aufgeladen wurden!"
 
 #: View/Pages/moves.ctp:223;227
 msgid "DPE"
@@ -226,9 +226,9 @@ msgstr "Schaden (Stärke) Durch Eine Volle Energieleiste"
 #: View/Pages/moves.ctp:283
 msgid "No Silph Researchers have encountered a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
-"Bisher hat kein Silph-Forscher ein wildes Pokemon mit diesem Angriff "
-"gefunden! (Manche Arten können durch Schlüpfen oder Entwicklung diesen "
-"Angriff erhalten!)"
+"Bisher hat kein Silph-Forscher ein wildes Pokemon mit dieser Attacke "
+"gefunden! (Manche Arten können durch Schlüpfen oder Entwicklung diese "
+"Attacke erhalten!)"
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
@@ -259,7 +259,7 @@ msgstr ""
 "Basiswerte der Gen 2 Pokemon können durch bekannte Umrechnungsformeln ("
 "herausgefunden von <a target='_blank' href='https://www.reddit.com/r/TheSilph"
 "Road/comments/5ecbmi/exact_conversion_formula/'>/u/CustomOndo</a>) aus den "
-"Werten der Spiele der Hauptserie errechnet werden\n"
+"Werten der Spiele der Hauptserie errechnet werden.\n"
 "\t\t\t\t\t\t<b>Höchstes WP-Potenzial</b> wird aus der bekannten WP-Formel "
 "und den Basiswerten der Arten errechnet."
 

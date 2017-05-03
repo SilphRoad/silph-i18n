@@ -5,30 +5,31 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-02 22:30-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 18:51+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493837502.906997\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
-msgstr ""
+msgstr "Pokemon GO 夥伴糖果需求 | The Silph Road"
 
 #: View/Pages/buddy_candy.ctp:6;13
 #: View/Pages/moves.ctp:6
 #: View/Pages/trainer_levels.ctp:6
 #: View/Pages/xp_earning.ctp:6
 msgid "The Silph Road Research group has compiled the following resources to help you on your adventures, travelers! Enjoy comprehensive species attack/defense stats, and more..."
-msgstr ""
+msgstr "各位旅行者，the Silph Road 研究團隊彙整出以下資源，以協助您冒險！享受綜合的物種攻防數據，以及更多資訊…"
 
 #: View/Pages/buddy_candy.ctp:12
 msgid "Pokemon GO Buddy Candy Requirements"
-msgstr ""
+msgstr "Pokemon GO 夥伴糖果需求"
 
 #: View/Pages/buddy_candy.ctp:69;267
 #: View/Pages/egg_distances.ctp:68
@@ -37,7 +38,7 @@ msgstr ""
 #: View/Pages/trainer_levels.ctp:69;415
 #: View/Pages/xp_earning.ctp:61;217
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
-msgstr ""
+msgstr "<b>為何有廣告？</b>TheSilphRoad.com 的研究工具會產生大量的流量，故需要資金才能維繫 Silph 的營運！"
 
 #: View/Pages/buddy_candy.ctp:81
 msgid "Buddy Pokemon KM Per Candy in Pokemon GO"
@@ -54,7 +55,7 @@ msgstr ""
 #: View/Pages/buddy_candy.ctp:111;219
 #: View/Pages/egg_distances.ctp:188
 msgid "5km"
-msgstr ""
+msgstr "5 公里"
 
 #: View/Pages/buddy_candy.ctp:128
 msgid "3 KMs Per Candy Reward"
@@ -62,7 +63,7 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:147
 msgid "3km"
-msgstr ""
+msgstr "3 公里"
 
 #: View/Pages/buddy_candy.ctp:164
 msgid "1 KM Per Candy Reward"
@@ -70,7 +71,7 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:183
 msgid "1km"
-msgstr ""
+msgstr "1 公里"
 
 #: View/Pages/buddy_candy.ctp:200
 msgid "Unavailable KM Per Candy Rewards"
@@ -78,7 +79,7 @@ msgstr ""
 
 #: View/Pages/egg_distances.ctp:2;11
 msgid "Pokemon GO Egg Distance Chart | The Silph Road"
-msgstr ""
+msgstr "Pokemon GO 孵蛋里程數圖表 | The Silph Road"
 
 #: View/Pages/egg_distances.ctp:5;12
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
@@ -98,31 +99,31 @@ msgstr ""
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
-msgstr ""
+msgstr "10 公里蛋"
 
 #: View/Pages/egg_distances.ctp:124
 msgid "10km"
-msgstr ""
+msgstr "10 公里"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
-msgstr ""
+msgstr "完美："
 
 #: View/Pages/egg_distances.ctp:147;211;276
 msgid "Worst:"
-msgstr ""
+msgstr "最糟："
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
-msgstr ""
+msgstr "5 公里蛋"
 
 #: View/Pages/egg_distances.ctp:234
 msgid "2 KM Eggs"
-msgstr ""
+msgstr "2 公里蛋"
 
 #: View/Pages/egg_distances.ctp:253
 msgid "2km"
-msgstr ""
+msgstr "2 公里"
 
 #: View/Pages/moves.ctp:3
 msgid "Pokemon GO Moves"
@@ -146,7 +147,7 @@ msgstr ""
 
 #: View/Pages/moves.ctp:144;217
 msgid "DPS"
-msgstr ""
+msgstr "每秒輸出傷害"
 
 #: View/Pages/moves.ctp:145;218
 msgid "Move Name"
@@ -158,7 +159,7 @@ msgstr ""
 
 #: View/Pages/moves.ctp:147;220
 msgid "Duration (ms)"
-msgstr ""
+msgstr "期間（毫秒）"
 
 #: View/Pages/moves.ctp:148
 msgid "Energy Gain/Sec."
@@ -430,11 +431,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:180
 msgid "65,000"
-msgstr ""
+msgstr "65,000"
 
 #: View/Pages/trainer_levels.ctp:181
 msgid "Great Balls"
-msgstr ""
+msgstr "超級球"
 
 #: View/Pages/trainer_levels.ctp:182
 msgid "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
@@ -474,11 +475,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:207;214;221
 msgid "20,000"
-msgstr ""
+msgstr "20,000"
 
 #: View/Pages/trainer_levels.ctp:208
 msgid "120,000"
-msgstr ""
+msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:210;217
 msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
@@ -486,15 +487,15 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:215
 msgid "140,000"
-msgstr ""
+msgstr "140,000"
 
 #: View/Pages/trainer_levels.ctp:222
 msgid "160,000"
-msgstr ""
+msgstr "160,000"
 
 #: View/Pages/trainer_levels.ctp:223
 msgid "Pinap Berry"
-msgstr ""
+msgstr "凰梨果"
 
 #: View/Pages/trainer_levels.ctp:224
 msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5), Pinap Berry (x5)"

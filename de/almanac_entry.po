@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-02 14:13+0000\n"
+"PO-Revision-Date: 2017-05-03 18:40+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493734413.835489\n"
+"X-POOTLE-MTIME: 1493836837.434103\n"
 
 #: COMMENT
 msgid "Height:"
@@ -72,7 +72,7 @@ msgstr "Bisher noch keine Sichtungen!"
 
 #: COMMENT
 msgid "Quick Moves"
-msgstr "Schnellangriffe"
+msgstr "Standard-Attacken"
 
 #: COMMENT
 msgid "DPS"
@@ -96,11 +96,11 @@ msgstr "Typ-Bonus!"
 
 #: COMMENT
 msgid "Charge Moves"
-msgstr "Ladeangriff"
+msgstr "Spezialattacken"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr "Angriffe mit dem selben"
+msgstr "Attacken mit dem selben"
 
 #: COMMENT
 msgid "type"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr "Noch keine bekannten Angriffe!"
+msgstr "Noch keine bekannten Attacken!"
 
 #: COMMENT
 msgid "No"

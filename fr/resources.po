@@ -5,14 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-02 22:30-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 20:51+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493844687.425313\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -24,10 +26,14 @@ msgstr ""
 #: View/Pages/xp_earning.ctp:6
 msgid "The Silph Road Research group has compiled the following resources to help you on your adventures, travelers! Enjoy comprehensive species attack/defense stats, and more..."
 msgstr ""
+"Le groupe de Recherche de The Silph Road a compilé les ressources suivantes "
+"pour vous aider dans vos aventures, voyageurs ! Bénéficiez d'informations "
+"détaillées sur les statistiques d'attaque/défense d'une espèce, et plus "
+"encore..."
 
 #: View/Pages/buddy_candy.ctp:12
 msgid "Pokemon GO Buddy Candy Requirements"
-msgstr ""
+msgstr "Exigences pour les Bonbons du Copain de Pokémon GO"
 
 #: View/Pages/buddy_candy.ctp:69;267
 #: View/Pages/egg_distances.ctp:68
@@ -37,47 +43,55 @@ msgstr ""
 #: View/Pages/xp_earning.ctp:61;217
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Pourquoi des Publicités?</b> Les outils de recherches de TheSilphRoad.com "
+"génèrent un trafic important - et cela a un certain coût pour garantir un "
+"bon fonctionnement !"
 
 #: View/Pages/buddy_candy.ctp:81
 msgid "Buddy Pokemon KM Per Candy in Pokemon GO"
-msgstr ""
+msgstr "Km requis par Bonbon du Copain dans Pokémon GO"
 
 #: View/Pages/buddy_candy.ctp:83
 msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."
 msgstr ""
+"Le tableau ci-dessous présente une liste claire des kilomètres (km) que vous "
+"devez parcourir pour gagner un bonbon pour votre Copain Pokémon. <br>\n"
+"\t\t\t\t\t\t<em>Note :</em> Cette liste est en cours de finalisation ! Elle "
+"sera mise à jour au fur et à mesure que de nouvelles informations sont "
+"confirmées."
 
 #: View/Pages/buddy_candy.ctp:93
 msgid "5 KMs Per Candy Reward"
-msgstr ""
+msgstr "5km par Bonbon Récompense"
 
 #: View/Pages/buddy_candy.ctp:111;219
 #: View/Pages/egg_distances.ctp:188
 msgid "5km"
-msgstr ""
+msgstr "5km"
 
 #: View/Pages/buddy_candy.ctp:128
 msgid "3 KMs Per Candy Reward"
-msgstr ""
+msgstr "3km par Bonbon Récompense"
 
 #: View/Pages/buddy_candy.ctp:147
 msgid "3km"
-msgstr ""
+msgstr "3km"
 
 #: View/Pages/buddy_candy.ctp:164
 msgid "1 KM Per Candy Reward"
-msgstr ""
+msgstr "1km par Bonbon Récompense"
 
 #: View/Pages/buddy_candy.ctp:183
 msgid "1km"
-msgstr ""
+msgstr "1km"
 
 #: View/Pages/buddy_candy.ctp:200
 msgid "Unavailable KM Per Candy Rewards"
-msgstr ""
+msgstr "Km par Bonbon Récompense Inconnu"
 
 #: View/Pages/egg_distances.ctp:2;11
 msgid "Pokemon GO Egg Distance Chart | The Silph Road"
-msgstr ""
+msgstr "Tableau de Distance par Œuf dans Pokémon GO | The Silph Road"
 
 #: View/Pages/egg_distances.ctp:5;12
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."

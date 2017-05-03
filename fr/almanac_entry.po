@@ -5,38 +5,40 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 19:58+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493841526.573352\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr ""
+msgstr "Taille :"
 
 #: COMMENT
 msgid "Weight:"
-msgstr ""
+msgstr "Poids :"
 
 #: COMMENT
 msgid "Attack"
-msgstr ""
+msgstr "Attaque"
 
 #: COMMENT
 msgid "Defense"
-msgstr ""
+msgstr "Défense"
 
 #: COMMENT
 msgid "Stamina"
-msgstr ""
+msgstr "Endurance"
 
 #: COMMENT
 msgid "Nests"
-msgstr ""
+msgstr "Nids"
 
 #: COMMENT
 msgid "Sightings"
@@ -44,19 +46,21 @@ msgstr ""
 
 #: COMMENT
 msgid "Hold Up:"
-msgstr ""
+msgstr "Attendez :"
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
+"Les Nids du monde entier sont actuellement en train de changer ! Restez à "
+"l'écoute pour plus d'information !"
 
 #: COMMENT
 msgid "Map Loading"
-msgstr ""
+msgstr "Chargement de la Carte"
 
 #: COMMENT
 msgid "Search Box"
-msgstr ""
+msgstr "Barre de Recherche"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
@@ -64,83 +68,86 @@ msgstr ""
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "Pas Encore de Rapport d'Observation !"
 
 #: COMMENT
 msgid "Quick Moves"
-msgstr ""
+msgstr "Attaques Rapides"
 
 #: COMMENT
 msgid "DPS"
-msgstr ""
+msgstr "DPS"
 
 #: COMMENT
 msgid "Pow."
-msgstr ""
+msgstr "Puiss."
 
 #: COMMENT
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: COMMENT
 msgid "EPS:"
-msgstr ""
+msgstr "EPS :"
 
 #: COMMENT
 msgid "Type Bonus!"
-msgstr ""
+msgstr "Bonus de Type !"
 
 #: COMMENT
 msgid "Charge Moves"
-msgstr ""
+msgstr "Attaques Chargées"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr ""
+msgstr "Les Attaques ayant le même"
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "type"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
+"que le Pokémon reçoivent un bonus de 25% appelé Same-Type Attack Bonus (STAB)"
+" ! Ces bonus ont déjà été pris en compte pour le calcul des dégâts ci-dessus "
+"!"
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr ""
+msgstr "Encore Aucune Attaque Connue !"
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "Aucun spécimen de"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr ""
+msgstr "n'a été capturé par des chercheurs de Silph Road pour le moment."
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "Sois le premier !"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr ""
+msgstr "Distance en Copain"
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr ""
+msgstr "Bonbons pour Évoluer"
 
 #: COMMENT
 msgid "Base Capture Rate"
-msgstr ""
+msgstr "Taux de Capture de Base"
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr ""
+msgstr "Avantagé contre"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr ""
+msgstr "Faible Contre"
 
 #: COMMENT
 msgid "Offence"
@@ -148,23 +155,25 @@ msgstr ""
 
 #: COMMENT
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #: COMMENT
 msgid "Defence"
-msgstr ""
+msgstr "Défenseur"
 
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"
 msgstr ""
+"*Les recommendations concernant l'efficacité des types sont en cours de "
+"développement !"
 
 #: COMMENT
 msgid "Improved recommendations coming soon."
-msgstr ""
+msgstr "Des recommendations plus poussées arrivent bientôt."
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr ""
+msgstr "Chercheurs Reconnus"
 
 #: COMMENT
 msgid "Most Sightings"

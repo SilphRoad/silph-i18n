@@ -5,15 +5,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-02 22:30-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 18:51+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493837469.264625\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -29,7 +30,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:583
 msgid "&laquo; More"
-msgstr ""
+msgstr "&laquo; 更多資訊"
 
 #: View/Atlas/index.ctp:599
 msgid "Report Sighting"
@@ -37,11 +38,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
-msgstr ""
+msgstr "回報<br>巢穴"
 
 #: View/Atlas/index.ctp:609
 msgid "Pokemon GO Nests"
-msgstr ""
+msgstr "Pokemon GO 巢穴"
 
 #: View/Atlas/index.ctp:611
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
@@ -49,19 +50,19 @@ msgstr ""
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
-msgstr ""
+msgstr "<b>為何有廣告？</b>TheSilphRoad.com 的研究工具會產生大量的流量，故需要資金才能維繫 Silph 的營運！"
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
-msgstr ""
+msgstr "關於 the Silph Road 之巢穴分類："
 
 #: View/Atlas/index.ctp:628
 msgid "Video Explanation"
-msgstr ""
+msgstr "解說影片"
 
 #: View/Atlas/index.ctp:662
 msgid "Add Report"
-msgstr ""
+msgstr "新增報告"
 
 #: View/Atlas/index.ctp:720
 msgid "Report Sighting/Nest"
@@ -69,7 +70,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
-msgstr ""
+msgstr "哇噢，旅行者，目前此高度顯示出太多巢穴，請拉近以獲得更多細節。"
 
 #: View/Atlas/index.ctp:785
 msgid "Reticulating splines..."
@@ -77,7 +78,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:793
 msgid "A Call for Beta Testers"
-msgstr ""
+msgstr "召集 Beta 測試員"
 
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
@@ -85,15 +86,15 @@ msgstr ""
 
 #: View/Atlas/index.ctp:795
 msgid "No Thanks"
-msgstr ""
+msgstr "不了，感謝"
 
 #: View/Atlas/index.ctp:796
 msgid "Learn More »"
-msgstr ""
+msgstr "深入瞭解»"
 
 #: View/Atlas/index.ctp:804
 msgid "Predictable Nests"
-msgstr ""
+msgstr "可預測之巢穴"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
@@ -101,11 +102,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:832
 msgid "Verified"
-msgstr ""
+msgstr "已證實"
 
 #: View/Atlas/index.ctp:833
 msgid "Unverified"
-msgstr ""
+msgstr "未證實"
 
 #: View/Atlas/index.ctp:834
 msgid "Refuted"
@@ -113,31 +114,31 @@ msgstr ""
 
 #: View/Atlas/index.ctp:835
 msgid "Outdated"
-msgstr ""
+msgstr "已過時"
 
 #: View/Atlas/index.ctp:838
 msgid "Cluster"
-msgstr ""
+msgstr "叢集"
 
 #: View/Atlas/index.ctp:839
 msgid "Frequent Spawn Area"
-msgstr ""
+msgstr "頻繁出怪地區"
 
 #: View/Atlas/index.ctp:840
 msgid "Frequent Spawn Point"
-msgstr ""
+msgstr "頻繁出怪點"
 
 #: View/Atlas/index.ctp:841
 msgid "(Unknown Spawn Type)"
-msgstr ""
+msgstr "（未知的出怪屬性）"
 
 #: View/Atlas/index.ctp:864
 msgid "Loading Nest Data..."
-msgstr ""
+msgstr "讀取巢穴資料⋯"
 
 #: View/Atlas/index.ctp:873
 msgid "Loading Camp Data..."
-msgstr ""
+msgstr "讀取營地資料⋯"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
@@ -149,39 +150,40 @@ msgstr ""
 
 #: View/Atlas/index.ctp:900
 msgid "Nothing out of the ordinary! :("
-msgstr ""
+msgstr "沒有不尋常之處！ :("
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing!"
-msgstr ""
+msgstr "沒有！"
 
 #: View/Atlas/index.ctp:904
 msgid "Yes! I found a species here:"
-msgstr ""
+msgstr "是的！我在此找到物種："
 
 #: View/Atlas/index.ctp:913
 msgid "Report!"
-msgstr ""
+msgstr "報告！"
 
 #: View/Atlas/index.ctp:923
 msgid "What Type of Nest Did You Find Here?"
-msgstr ""
+msgstr "您在此找到何種屬性的巢穴？"
 
 #: View/Atlas/index.ctp:933
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
 msgstr ""
+"在一小時內，同時於地圖上<span style=\"text-decoration: underline;\">一次</span>出現多隻寶可夢"
 
 #: View/Atlas/index.ctp:943;1136
 msgid "Frequent Spawn <em>Area</em>"
-msgstr ""
+msgstr "頻繁出怪<em>地區</em>"
 
 #: View/Atlas/index.ctp:945;1138
 msgid "Semi-frequent spawning over a small area (typically non-concurrent) <br>Examples: riverbanks/piers, a large golfcourse, 3-5 city blocks, etc"
-msgstr ""
+msgstr "於小範圍地區內較不頻繁出怪（通常並非同時）<br>例如：河岸／碼頭、大型高爾夫球場、3至5個城市街區等"
 
 #: View/Atlas/index.ctp:955;1148
 msgid "Frequent Spawn <em>Point</em>"
-msgstr ""
+msgstr "頻繁出怪<em>點</em>"
 
 #: View/Atlas/index.ctp:957
 msgid "A single location that frequently spawns a rare/uncommon species <span style='text-decoration:underline'>multiple times a day"
@@ -189,43 +191,43 @@ msgstr ""
 
 #: View/Atlas/index.ctp:963;1001
 msgid "&laquo; Back"
-msgstr ""
+msgstr "&laquo; 返回"
 
 #: View/Atlas/index.ctp:964
 msgid "Continue &raquo;"
-msgstr ""
+msgstr "繼續 &raquo;"
 
 #: View/Atlas/index.ctp:971
 msgid "Helpful information for future travelers?"
-msgstr ""
+msgstr "有實用資訊想提供給將來的旅行者嗎？"
 
 #: View/Atlas/index.ctp:973
 msgid "For example, how many did you encounter? How long were you there? What specific spot did you see a spawn? What exact times did you observe spawns?  Etc.  Anything that might be useful to future travelers!"
-msgstr ""
+msgstr "例如：您遇到幾隻？在此地待多久？在哪個特定地點目睹出怪？於哪個精確的時間點觀察到出怪？　諸如此類，　任何可能對將來的旅行者有幫助的資訊！"
 
 #: View/Atlas/index.ctp:974
 msgid "Helpful comments for future travelers..."
-msgstr ""
+msgstr "提供有用的建議給將來的旅行者…"
 
 #: View/Atlas/index.ctp:977
 msgid "Finally, confirm the date of your report, traveler:"
-msgstr ""
+msgstr "最後，請確認您的報告日期："
 
 #: View/Atlas/index.ctp:1000
 msgid "Submit My Report!"
-msgstr ""
+msgstr "提交報告！"
 
 #: View/Atlas/index.ctp:1017;2190
 msgid "Confirmed!"
-msgstr ""
+msgstr "已確認！"
 
 #: View/Atlas/index.ctp:1018
 msgid "Nest Unverified!"
-msgstr ""
+msgstr "巢穴未證實！"
 
 #: View/Atlas/index.ctp:1019;2192
 msgid "Click Marker to See Field Reports"
-msgstr ""
+msgstr "點選標記以閱讀實地考察報告"
 
 #: View/Atlas/index.ctp:1032
 msgid "Report a Sighting!"
@@ -233,15 +235,15 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1033
 msgid "Select the Pokemon you've spotted:"
-msgstr ""
+msgstr "請選擇您發現的寶可夢："
 
 #: View/Atlas/index.ctp:1037
 msgid "Search"
-msgstr ""
+msgstr "搜尋"
 
 #: View/Atlas/index.ctp:1060
 msgid "what have you found, traveler?"
-msgstr ""
+msgstr "旅行者，您發現什麼？"
 
 #: View/Atlas/index.ctp:1062
 msgid "Sighting Report &raquo;"
@@ -249,7 +251,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1063
 msgid "A Nest (Multiple) &raquo;"
-msgstr ""
+msgstr "巢穴（多個） &raquo;"
 
 #: View/Atlas/index.ctp:1064
 msgid "Sighting Reports"
@@ -261,7 +263,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1066
 msgid "Nests"
-msgstr ""
+msgstr "巢穴"
 
 #: View/Atlas/index.ctp:1067
 msgid "are our term for <em>repeat spawns</em> or <em>clustered spawns</em> of the same species. Only report a 'Nest' if you see multiples of an uncommon species at once (or a consistently spawning rare 'mon)!"
@@ -269,7 +271,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1072;1194
 msgid "Existing Nest?"
-msgstr ""
+msgstr "現有的巢穴？"
 
 #: View/Atlas/index.ctp:1074;1196
 msgid "Double check that another traveler hasn't already added this nest location to the map! \n\t\t\t\t\t\t\tIf there is already an existing nest report for your location, <b>click on it</b>!"

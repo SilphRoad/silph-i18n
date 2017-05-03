@@ -1,6 +1,5 @@
 # LANGUAGE translation of CakePHP Application
 # Copyright YEAR NAME <EMAIL@ADDRESS>
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -155,8 +154,9 @@ msgid "None"
 msgstr ""
 
 #: COMMENT
+#, fuzzy
 msgid "Defence"
-msgstr ""
+msgstr "Obrona"
 
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"

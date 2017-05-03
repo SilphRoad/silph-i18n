@@ -2969,16 +2969,18 @@ msgid "CONFUSION"
 msgstr ""
 
 #: Move/Poison Sting:236
+#, fuzzy
 msgid "POISON STING"
-msgstr ""
+msgstr "GIFTZAHN"
 
 #: Move/Bubble:237
 msgid "BUBBLE"
 msgstr ""
 
 #: Move/Feint Attack:238
+#, fuzzy
 msgid "FEINT ATTACK"
-msgstr ""
+msgstr "FLÜGELSCHLAG"
 
 #: Move/Steel Wing:239
 msgid "STEEL WING"
@@ -3185,8 +3187,9 @@ msgid "ghost"
 msgstr ""
 
 #: Type/Steel:9
+#, fuzzy
 msgid "steel"
-msgstr ""
+msgstr "jurob"
 
 #: Type/Fire:10
 msgid "fire"
@@ -3201,8 +3204,9 @@ msgid "grass"
 msgstr ""
 
 #: Type/Electric:13
+#, fuzzy
 msgid "electric"
-msgstr ""
+msgstr "frizelbliz"
 
 #: Type/Psychic:14
 msgid "psychic"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-29 14:50-0400\n"
+"POT-Creation-Date: 2017-05-02 22:30-0400\n"
 "PO-Revision-Date: 2017-05-02 22:39+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -16,127 +16,127 @@ msgstr ""
 "X-Generator: Pootle 2.8\n"
 "X-POOTLE-MTIME: 1493764770.281856\n"
 
-#: View/Atlas/index.ctp:634
+#: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
 msgid "Toggle navigation"
 msgstr "Navigation umschalten"
 
-#: View/Atlas/index.ctp:660;664;717;721
+#: View/Atlas/index.ctp:668;672;725;729
 #: View/Helper/TopNavHelper.php:37;41;106;110
 msgid "Tools"
 msgstr "Werkzeuge"
 
-#: View/Atlas/index.ctp:661;718
+#: View/Atlas/index.ctp:669;726
 #: View/Helper/TopNavHelper.php:38;107
 msgid "Resources"
 msgstr "Ressourcen"
 
-#: View/Atlas/index.ctp:665;722
+#: View/Atlas/index.ctp:673;730
 #: View/Helper/TopNavHelper.php:42;111
 msgid "Global Pokedex"
 msgstr "Globaler Pokedex"
 
-#: View/Atlas/index.ctp:666;723
+#: View/Atlas/index.ctp:674;731
 #: View/Helper/TopNavHelper.php:43;112
 msgid "IV Rater"
 msgstr "IV-Rechner"
 
-#: View/Atlas/index.ctp:667;724
+#: View/Atlas/index.ctp:675;732
 #: View/Helper/TopNavHelper.php:44;113
 msgid "Reference Tables"
 msgstr "Vergleichstabellen"
 
-#: View/Atlas/index.ctp:668;725
+#: View/Atlas/index.ctp:676;733
 #: View/Helper/TopNavHelper.php:45;114
 msgid "Moves By DPS"
 msgstr "Angriffe nach DPS"
 
-#: View/Atlas/index.ctp:669;726
+#: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Species Base Stats"
 msgstr "Grundwerte pro Art"
 
-#: View/Atlas/index.ctp:670;727
+#: View/Atlas/index.ctp:678;735
 #: View/Helper/TopNavHelper.php:47;116
 msgid "Egg Distances"
 msgstr "Laufdistanz für Eier"
 
-#: View/Atlas/index.ctp:671;728
+#: View/Atlas/index.ctp:679;736
 #: View/Helper/TopNavHelper.php:48;117
 msgid "Buddy Candy"
 msgstr "Kumpelbonbons"
 
-#: View/Atlas/index.ctp:672;729
+#: View/Atlas/index.ctp:680;737
 #: View/Helper/TopNavHelper.php:49;118
 msgid "Trainer Levels"
 msgstr "Trainerlevel"
 
-#: View/Atlas/index.ctp:673;730
+#: View/Atlas/index.ctp:681;738
 #: View/Helper/TopNavHelper.php:50;119
 msgid "Earning XP"
 msgstr "EP sammeln"
 
-#: View/Atlas/index.ctp:679;741
+#: View/Atlas/index.ctp:687;749
 #: View/Helper/TopNavHelper.php:63;130
 msgid "Tips + News"
 msgstr "Tips + Neuigkeiten"
 
-#: View/Atlas/index.ctp:680;742
+#: View/Atlas/index.ctp:688;750
 #: View/Helper/TopNavHelper.php:64;131
 msgid "For Pokemon GO"
 msgstr "Für Pokemon GO"
 
-#: View/Atlas/index.ctp:686;747
+#: View/Atlas/index.ctp:694;755
 #: View/Helper/TopNavHelper.php:77;142
 msgid "Science"
 msgstr "Wissenschaft"
 
-#: View/Atlas/index.ctp:687;748
+#: View/Atlas/index.ctp:695;756
 #: View/Helper/TopNavHelper.php:78;143
 msgid "New Research"
 msgstr "Neue Forschungen"
 
-#: View/Atlas/index.ctp:693;753
+#: View/Atlas/index.ctp:701;761
 #: View/Helper/TopNavHelper.php:148
 msgid "Field Manual"
 msgstr "Handbuch"
 
-#: View/Atlas/index.ctp:694;754
+#: View/Atlas/index.ctp:702;762
 #: View/Helper/TopNavHelper.php:149
 msgid "Up-to-date Guide"
 msgstr "Aktueller Leitfaden"
 
-#: View/Atlas/index.ctp:700;759
+#: View/Atlas/index.ctp:708;767
 #: View/Helper/TopNavHelper.php:93;154
 msgid "Log Out"
 msgstr "Abmelden"
 
-#: View/Atlas/index.ctp:700;759
+#: View/Atlas/index.ctp:708;767
 #: View/Helper/TopNavHelper.php:93;154
 msgid "Authenticate"
 msgstr "Verifizieren"
 
-#: View/Atlas/index.ctp:700
+#: View/Atlas/index.ctp:708
 #: View/Helper/TopNavHelper.php:93
 msgid "Log In"
 msgstr "Anmelden"
 
-#: View/Atlas/index.ctp:701;760
+#: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:94;155
 msgid "Time to GO!"
 msgstr "Los geht's!"
 
-#: View/Atlas/index.ctp:701;760
+#: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:94;155
 msgid "For Travelers"
 msgstr "Für Reisende"
 
-#: View/Atlas/index.ctp:735
+#: View/Atlas/index.ctp:743
 #: View/Helper/TopNavHelper.php:56;124
 msgid "Nest Atlas"
 msgstr "Nest-Atlas"
 
-#: View/Atlas/index.ctp:736
+#: View/Atlas/index.ctp:744
 #: View/Helper/TopNavHelper.php:57;125
 msgid "Known Nest Map"
 msgstr "Karte bekannter Nester"

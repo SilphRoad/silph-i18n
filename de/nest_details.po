@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-02 15:06+0000\n"
+"PO-Revision-Date: 2017-05-04 17:05+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493737614.003304\n"
+"X-POOTLE-MTIME: 1493917508.463801\n"
 
 #: COMMENT
 msgid "Map"
@@ -99,6 +99,7 @@ msgstr "An"
 msgid "first discovered this location and suspected it was a"
 msgstr "hat diesen Ort zu erst entdeckt und vermutet, es sei ein"
 
+# This seems to be the end of a normal sentence, so in this special case we need a capitalisation in the translation.
 #: COMMENT
 msgid "nest!"
-msgstr "nest!"
+msgstr "Nest!"

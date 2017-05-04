@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-03 23:39+0000\n"
+"PO-Revision-Date: 2017-05-04 16:55+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493854766.403795\n"
+"X-POOTLE-MTIME: 1493916950.081536\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -248,83 +248,88 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:144
 msgid "Include Legendaries"
-msgstr ""
+msgstr "Légendaires Inclus"
 
 #: View/Pages/species_stats.ctp:148
 msgid "Include Gen 2 Pokemon"
-msgstr ""
+msgstr "Pokemon de la Gen 2 Inclus"
 
 #: View/Pages/species_stats.ctp:149
 msgid "New!"
-msgstr ""
+msgstr "Nouveau !"
 
 #: View/Pages/species_stats.ctp:155
 msgid "SORT BY:"
-msgstr ""
+msgstr "TRIER PAR :"
 
 #: View/Pages/species_stats.ctp:157
 msgid "Max Potential CP"
-msgstr ""
+msgstr "PC Max Potentiel"
 
 #: View/Pages/species_stats.ctp:158
 msgid "Species Number"
-msgstr ""
+msgstr "Numéro du Pokédex"
 
 #: View/Pages/species_stats.ctp:159
 msgid "Best Attack Stat"
-msgstr ""
+msgstr "Meilleure Stat d'Attaque"
 
 #: View/Pages/species_stats.ctp:160
 msgid "Best Defense Stat"
-msgstr ""
+msgstr "Meilleure Stat de Défense"
 
 #: View/Pages/species_stats.ctp:161
 msgid "Best Stamina Stat"
-msgstr ""
+msgstr "Meilleure Stat d'Endurance"
 
 #: View/Pages/species_stats.ctp:162
 msgid "Best Sum of Stats"
-msgstr ""
+msgstr "Meilleure Somme des Stats"
 
 #: View/Pages/species_stats.ctp:163
 msgid "Best Product of Stats"
-msgstr ""
+msgstr "Meilleur Produit des Stats"
 
 #: View/Pages/species_stats.ctp:190
 msgid "Height:"
-msgstr ""
+msgstr "Taille :"
 
 #: View/Pages/species_stats.ctp:191
 msgid "Weight:"
-msgstr ""
+msgstr "Poids :"
 
 #: View/Pages/species_stats.ctp:209
 msgid "Max CP"
-msgstr ""
+msgstr "PC Max"
 
 #: View/Pages/species_stats.ctp:222
 msgid "Attack"
-msgstr ""
+msgstr "Attaque"
 
 #: View/Pages/species_stats.ctp:234
 msgid "Defense"
-msgstr ""
+msgstr "Défense"
 
 #: View/Pages/species_stats.ctp:247
 msgid "Stamina"
-msgstr ""
+msgstr "Endurance"
 
 #: View/Pages/species_stats.ctp:303
 msgid "<b>Why Ads?</b> Logged-in travelers don't see ads! Join the community at <a href='https://reddit.com/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Pourquoi des publicités?</b> Les voyageurs connectés ne voient pas "
+"d'annonces ! Rejoins la communauté sur <a href='https://reddit.com/r/"
+"TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> Les outils de "
+"recherches de TheSilphRoad.com génèrent un trafic important - et cela a un "
+"certain coût pour garantir un bon fonctionnement !"
 
 #: View/Pages/trainer_levels.ctp:3
 msgid "Pokemon GO Trainer Level Awards & Requirements"
-msgstr ""
+msgstr "Récompenses & exigences des Niveaux de Dresseur dans Pokémon GO"
 
 #: View/Pages/trainer_levels.ctp:80
 msgid "Trainer Level Requirements + Bonuses"
-msgstr ""
+msgstr "Exigence Requise par Niveau de Dresseur + Bonus"
 
 #: View/Pages/trainer_levels.ctp:82
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
@@ -332,7 +337,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:92
 msgid "Level"
-msgstr ""
+msgstr "Niveau"
 
 #: View/Pages/trainer_levels.ctp:93
 msgid "XP required"
@@ -344,439 +349,472 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:95
 msgid "Unlocked items"
-msgstr ""
+msgstr "Objets Débloqués"
 
 #: View/Pages/trainer_levels.ctp:96
 msgid "Rewards"
-msgstr ""
+msgstr "Récompenses"
 
 #: View/Pages/trainer_levels.ctp:109;110
 msgid "1,000"
-msgstr ""
+msgstr "1 000"
 
 #: View/Pages/trainer_levels.ctp:116
 msgid "2,000"
-msgstr ""
+msgstr "2 000"
 
 #: View/Pages/trainer_levels.ctp:117;123
 msgid "3,000"
-msgstr ""
+msgstr "3 000"
 
 #: View/Pages/trainer_levels.ctp:119;126;133
 msgid "Poke Ball"
-msgstr ""
+msgstr "Poké Ball"
 
 #: View/Pages/trainer_levels.ctp:124;144
 msgid "6,000"
-msgstr ""
+msgstr "6 000"
 
 #: View/Pages/trainer_levels.ctp:130
 msgid "4,000"
-msgstr ""
+msgstr "4 000"
 
 #: View/Pages/trainer_levels.ctp:131;172;179;186;193
 msgid "10,000"
-msgstr ""
+msgstr "10 000"
 
 #: View/Pages/trainer_levels.ctp:132
 msgid "Gyms, Potions, Revives"
-msgstr ""
+msgstr "Arènes, Potions, Rappels"
 
 #: View/Pages/trainer_levels.ctp:133
 msgid "Potion"
-msgstr ""
+msgstr "Potion"
 
 #: View/Pages/trainer_levels.ctp:133
 msgid "Revive"
-msgstr ""
+msgstr "Rappel"
 
 #: View/Pages/trainer_levels.ctp:133
 msgid "Incense"
-msgstr ""
+msgstr "Encens"
 
 #: View/Pages/trainer_levels.ctp:137
 msgid "5,000"
-msgstr ""
+msgstr "5 000"
 
 #: View/Pages/trainer_levels.ctp:138;200
 msgid "15,000"
-msgstr ""
+msgstr "15 000"
 
 #: View/Pages/trainer_levels.ctp:140
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incubator"
-msgstr ""
+msgstr "Poké Ball (x15), Potion (x10), Rappel (x5), Incubateur"
 
 #: View/Pages/trainer_levels.ctp:145
 msgid "21,000"
-msgstr ""
+msgstr "21 000"
 
 #: View/Pages/trainer_levels.ctp:147
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incense"
-msgstr ""
+msgstr "Poké Ball (x15), Potion (x10), Rappel (x5), Encens"
 
 #: View/Pages/trainer_levels.ctp:151
 msgid "7,000"
-msgstr ""
+msgstr "7 000"
 
 #: View/Pages/trainer_levels.ctp:152
 msgid "28,000"
-msgstr ""
+msgstr "28 000"
 
 #: View/Pages/trainer_levels.ctp:153
 msgid "Razz Berry"
-msgstr ""
+msgstr "Baie Framby"
 
 #: View/Pages/trainer_levels.ctp:154
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x10), Lure Module"
 msgstr ""
+"Poké Ball (x15), Potion (x10), Rappel (x5), Baie Framby (x10), Module Leurre"
 
 #: View/Pages/trainer_levels.ctp:158
 msgid "8,000"
-msgstr ""
+msgstr "8 000"
 
 #: View/Pages/trainer_levels.ctp:159
 msgid "36,000"
-msgstr ""
+msgstr "36 000"
 
 #: View/Pages/trainer_levels.ctp:161
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x3), Lucky Egg"
 msgstr ""
+"Poké Ball (x15), Potion (x10), Rappel (x5), Baie Framby (x3), Oeuf Chance"
 
 #: View/Pages/trainer_levels.ctp:165
 msgid "9,000"
-msgstr ""
+msgstr "9 000"
 
 #: View/Pages/trainer_levels.ctp:166
 msgid "45,000"
-msgstr ""
+msgstr "45 000"
 
 #: View/Pages/trainer_levels.ctp:167
 msgid "Super Potions"
-msgstr ""
+msgstr "Super Potions"
 
 #: View/Pages/trainer_levels.ctp:168
 msgid "Poke Ball (x20), Super Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
 msgstr ""
+"Poké Ball (x20), Super Potion (x20), Rappel (x10), Baie Framby (x10), "
+"Encens, Oeuf Chance, Incubateur, Module Leurre"
 
 #: View/Pages/trainer_levels.ctp:173
 msgid "55,000"
-msgstr ""
+msgstr "55 000"
 
 #: View/Pages/trainer_levels.ctp:175
 msgid "Poke Ball (x15), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "Poké Ball (x15), Super Potion (x10), Rappel (x3), Baie Framby (x3)"
 
 #: View/Pages/trainer_levels.ctp:180
 msgid "65,000"
-msgstr ""
+msgstr "65 000"
 
 #: View/Pages/trainer_levels.ctp:181
 msgid "Great Balls"
-msgstr ""
+msgstr "Super Balls"
 
 #: View/Pages/trainer_levels.ctp:182
 msgid "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "Super Ball (x20), Super Potion (x10), Rappel (x3), Baie Framby (x3)"
 
 #: View/Pages/trainer_levels.ctp:187;249
 msgid "75,000"
-msgstr ""
+msgstr "75 000"
 
 #: View/Pages/trainer_levels.ctp:189
 msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "Super Ball (x10), Super Potion (x10), Rappel (x3), Baie Framby (x3)"
 
 #: View/Pages/trainer_levels.ctp:194
 msgid "85,000"
-msgstr ""
+msgstr "85 000"
 
 #: View/Pages/trainer_levels.ctp:195
 msgid "Nanab Berry"
-msgstr ""
+msgstr "Baie Nanab"
 
 #: View/Pages/trainer_levels.ctp:196
 msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3), Nanab Berry (x3)"
 msgstr ""
+"Super Ball (x10), Super Potion (x10), Rappel (x3), Baie Framby (x3), Baie "
+"Nanab (x3)"
 
 #: View/Pages/trainer_levels.ctp:201;256
 msgid "100,000"
-msgstr ""
+msgstr "100 000"
 
 #: View/Pages/trainer_levels.ctp:202
 msgid "Hyper Potions"
-msgstr ""
+msgstr "Hyper Potions"
 
 #: View/Pages/trainer_levels.ctp:203
 msgid "Great Ball (x15), Hyper Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
 msgstr ""
+"Super Ball (x15), Hyper Potion (x20), Rappel (x10), Baie Framby (x10), "
+"Encens, Oeuf Chance, Incubateur, Module Leurre"
 
 #: View/Pages/trainer_levels.ctp:207;214;221
 msgid "20,000"
-msgstr ""
+msgstr "20 000"
 
 #: View/Pages/trainer_levels.ctp:208
 msgid "120,000"
-msgstr ""
+msgstr "120 000"
 
 #: View/Pages/trainer_levels.ctp:210;217
 msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
-msgstr ""
+msgstr "Super Ball (x10), Hyper Potion (x10), Rappel (x5), Baie Framby (x5)"
 
 #: View/Pages/trainer_levels.ctp:215
 msgid "140,000"
-msgstr ""
+msgstr "140 000"
 
 #: View/Pages/trainer_levels.ctp:222
 msgid "160,000"
-msgstr ""
+msgstr "160 000"
 
 #: View/Pages/trainer_levels.ctp:223
 msgid "Pinap Berry"
-msgstr ""
+msgstr "Baie Nanana"
 
 #: View/Pages/trainer_levels.ctp:224
 msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5), Pinap Berry (x5)"
 msgstr ""
+"Super Ball (x10), Hyper Potion (x10), Rappel (x5), Baie Framby (x5), Baie "
+"Nanana (x5)"
 
 #: View/Pages/trainer_levels.ctp:228;235
 msgid "25,000"
-msgstr ""
+msgstr "25 000"
 
 #: View/Pages/trainer_levels.ctp:229
 msgid "185,000"
-msgstr ""
+msgstr "185 000"
 
 #: View/Pages/trainer_levels.ctp:231
 msgid "Great Ball (x15), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
-msgstr ""
+msgstr "Super Ball (x15), Hyper Potion (x10), Rappel (x5), Baie Framby (x5)"
 
 #: View/Pages/trainer_levels.ctp:236
 msgid "210,000"
-msgstr ""
+msgstr "210 000"
 
 #: View/Pages/trainer_levels.ctp:237
 msgid "Ultra Balls"
-msgstr ""
+msgstr "Hyper Balls"
 
 #: View/Pages/trainer_levels.ctp:238
 msgid "Ultra Ball (x20), Hyper Potion (x20), Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x2), Egg Incubator (x2), Lure Module (x2), Nanab Berry (x20)"
 msgstr ""
+"Hyper Ball (x20), Hyper Potion (x20), Rappel (x20), Baie Framby (x20), "
+"Encens (x2), Oeuf Chance (x2), Incubateur (x2), Module Leurre (x2), Baie "
+"Nanab (x20)"
 
 #: View/Pages/trainer_levels.ctp:242
 msgid "50,000"
-msgstr ""
+msgstr "50 000"
 
 #: View/Pages/trainer_levels.ctp:243
 msgid "260,000"
-msgstr ""
+msgstr "260 000"
 
 #: View/Pages/trainer_levels.ctp:245
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Pinap Berry (x10)"
 msgstr ""
+"Hyper Ball (x10), Hyper Potion (x10), Rappel (x10), Baie Framby (x10), Baie "
+"Nanana (x10)"
 
 #: View/Pages/trainer_levels.ctp:250
 msgid "335,000"
-msgstr ""
+msgstr "335 000"
 
 #: View/Pages/trainer_levels.ctp:252
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
-msgstr ""
+msgstr "Hyper Ball (x10), Hyper Potion (x10), Rappel (x10), Baie Framby (x10)"
 
 #: View/Pages/trainer_levels.ctp:257
 msgid "435,000"
-msgstr ""
+msgstr "435 000"
 
 #: View/Pages/trainer_levels.ctp:259
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Nanab Berry (x10)"
 msgstr ""
+"Hyper Ball (x10), Hyper Potion (x10), Rappel (x10), Baie Framby (x10), Baie "
+"Nanab (x10)"
 
 #: View/Pages/trainer_levels.ctp:263
 msgid "125,000"
-msgstr ""
+msgstr "125 000"
 
 #: View/Pages/trainer_levels.ctp:264
 msgid "560,000"
-msgstr ""
+msgstr "560 000"
 
 #: View/Pages/trainer_levels.ctp:266
 msgid "Ultra Ball (x15), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
-msgstr ""
+msgstr "Hyper Ball (x15), Hyper Potion (x10), Rappel (x10), Baie Framby (x10)"
 
 #: View/Pages/trainer_levels.ctp:270
 msgid "150,000"
-msgstr ""
+msgstr "150 000"
 
 #: View/Pages/trainer_levels.ctp:271
 msgid "710,000"
-msgstr ""
+msgstr "710 000"
 
 #: View/Pages/trainer_levels.ctp:272
 msgid "Max Potions"
-msgstr ""
+msgstr "Potions Max"
 
 #: View/Pages/trainer_levels.ctp:273
 msgid "Ultra Ball (x25), Max Potion (x20), Revive (x15), Razz Berry (x15), Incense, Lucky Egg, Egg Incubator, Lure Module, Pinap Berry (x15)"
 msgstr ""
+"Hyper Ball (x25), Potions Max (x20), Rappel (x15), Baie Framby (x15), "
+"Encens, Oeuf Chance, Incubateur, Module Leurre, Baie Nanana (x15)"
 
 #: View/Pages/trainer_levels.ctp:277
 msgid "190,000"
-msgstr ""
+msgstr "190 000"
 
 #: View/Pages/trainer_levels.ctp:278
 msgid "900,000"
-msgstr ""
+msgstr "900 000"
 
 #: View/Pages/trainer_levels.ctp:280;294
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15)"
-msgstr ""
+msgstr "Hyper Ball (x10), Potion Max (x15), Rappel (x10), Baie Framby (x15)"
 
 #: View/Pages/trainer_levels.ctp:284
 msgid "200,000"
-msgstr ""
+msgstr "200 000"
 
 #: View/Pages/trainer_levels.ctp:285
 msgid "1,100,000"
-msgstr ""
+msgstr "1 100 000"
 
 #: View/Pages/trainer_levels.ctp:287
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
 msgstr ""
+"Hyper Ball (x10), Potion Max (x15), Rappel (x10), Baie Framby (x15), Baie "
+"Nanab (x15)"
 
 #: View/Pages/trainer_levels.ctp:291
 msgid "250,000"
-msgstr ""
+msgstr "250 000"
 
 #: View/Pages/trainer_levels.ctp:292
 msgid "1,350,000"
-msgstr ""
+msgstr "1 350 000"
 
 #: View/Pages/trainer_levels.ctp:298
 msgid "300,000"
-msgstr ""
+msgstr "300 000"
 
 #: View/Pages/trainer_levels.ctp:299
 msgid "1,650,000"
-msgstr ""
+msgstr "1 650 000"
 
 #: View/Pages/trainer_levels.ctp:301
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Pinap Berry (x15)"
-msgstr ""
+msgstr "Hyper Ball (x10), Potion Max (x15), Rappel (x10), Baie Nanana (x15)"
 
 #: View/Pages/trainer_levels.ctp:305
 msgid "350,000"
-msgstr ""
+msgstr "350 000"
 
 #: View/Pages/trainer_levels.ctp:306;354
 msgid "2,000,000"
-msgstr ""
+msgstr "2 000 000"
 
 #: View/Pages/trainer_levels.ctp:307
 msgid "Max Revive"
-msgstr ""
+msgstr "Rappel Max"
 
 #: View/Pages/trainer_levels.ctp:308
 msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x3), Lucky Egg (x3), Egg Incubator (x3), Lure Module (x3)"
 msgstr ""
+"Hyper Ball (x30), Potion Max (x20), Rappel Max (x20), Baie Framby (x20), "
+"Encens (x3), Incubateur (x3), Module Leurre (x3)"
 
 #: View/Pages/trainer_levels.ctp:312;319
 msgid "500,000"
-msgstr ""
+msgstr "500 000"
 
 #: View/Pages/trainer_levels.ctp:313;361
 msgid "2,500,000"
-msgstr ""
+msgstr "2 500 000"
 
 #: View/Pages/trainer_levels.ctp:315
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
 msgstr ""
+"Hyper Ball (x10), Potion Max (x15), Rappel Max (x10), Baie Framby (x15), "
+"Baie Nanab (x15)"
 
 #: View/Pages/trainer_levels.ctp:320
 msgid "3,000,000"
-msgstr ""
+msgstr "3 000 000"
 
 #: View/Pages/trainer_levels.ctp:322;336
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15)"
-msgstr ""
+msgstr "Hyper Ball (x10), Potion Max (x15), Rappel Max (x10), Baie Framby (x15)"
 
 #: View/Pages/trainer_levels.ctp:326
 msgid "750,000"
-msgstr ""
+msgstr "750 000"
 
 #: View/Pages/trainer_levels.ctp:327
 msgid "3,750,000"
-msgstr ""
+msgstr "3 750 000"
 
 #: View/Pages/trainer_levels.ctp:329
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Pinap Berry (x15)"
 msgstr ""
+"Hyper Ball (x10), Potion Max (x15), Rappel Max (x10), Baie Framby (x15), "
+"Baie Nanana (x15)"
 
 #: View/Pages/trainer_levels.ctp:333
 msgid "1,000,000"
-msgstr ""
+msgstr "1 000 000"
 
 #: View/Pages/trainer_levels.ctp:334
 msgid "4,750,000"
-msgstr ""
+msgstr "4 750 000"
 
 #: View/Pages/trainer_levels.ctp:340
 msgid "1,250,000"
-msgstr ""
+msgstr "1 250 000"
 
 #: View/Pages/trainer_levels.ctp:341
 msgid "6,000,000"
-msgstr ""
+msgstr "6 000 000"
 
 #: View/Pages/trainer_levels.ctp:343
 msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x1), Lure Module (x1), Nanab Berry (x20)"
 msgstr ""
+"Hyper Ball (x30), Potion Max (x20), Rappel Max (x20), Baie Framby (x20), "
+"Encens (x2), Œuf Chance, Module Leurre, Baie Nanab (x20)"
 
 #: View/Pages/trainer_levels.ctp:347
 msgid "1,500,000"
-msgstr ""
+msgstr "1 500 000"
 
 #: View/Pages/trainer_levels.ctp:348
 msgid "7,500,000"
-msgstr ""
+msgstr "7 500 000"
 
 #: View/Pages/trainer_levels.ctp:350;364
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20)"
-msgstr ""
+msgstr "Hyper Ball (x20), Potion Max (x20), Rappel Max (x10), Baie Framby (x20)"
 
 #: View/Pages/trainer_levels.ctp:355
 msgid "9,500,000"
-msgstr ""
+msgstr "9 500 000"
 
 #: View/Pages/trainer_levels.ctp:357
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20), Pinap Berry (x20)"
 msgstr ""
+"Hyper Ball (x20), Potion Max (x20), Rappel Max (x10), Baie Framby (x20), "
+"Baie Nanana (x20)"
 
 #: View/Pages/trainer_levels.ctp:362
 msgid "12,000,000"
-msgstr ""
+msgstr "12 000 000"
 
 #: View/Pages/trainer_levels.ctp:368
 msgid ">3,000,000"
-msgstr ""
+msgstr ">3 000 000"
 
 #: View/Pages/trainer_levels.ctp:369
 msgid "15,000,000"
-msgstr ""
+msgstr "15 000 000"
 
 #: View/Pages/trainer_levels.ctp:371
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Nanab Berry (x20)"
-msgstr ""
+msgstr "Hyper Ball (x20), Potion Max (x20), Rappel Max (x10), Baie Nanab (x20)"
 
 #: View/Pages/trainer_levels.ctp:375
 msgid "5,000,000"
-msgstr ""
+msgstr "5 000 000"
 
 #: View/Pages/trainer_levels.ctp:376
 msgid "20,000,000"
-msgstr ""
+msgstr "20 000 000"
 
 #: View/Pages/trainer_levels.ctp:378
 msgid "Ultra Ball (x40), Max Potion (x40), Max Revive (x40), Razz Berry (x40), Incense (x4), Lucky Egg (x4), Egg Incubator (x4), Lure Module (x4)"
 msgstr ""
+"Hyper Ball (x40), Potion Max (x40), Rappel Max (x40), Baie Framby (x40), "
+"Encens (x4), Oeuf Chance (x4), Incubateur (x4), Module Leurre (x4)"
 
 #: View/Pages/xp_earning.ctp:3
 msgid "Pokemon GO - Earning XP"
@@ -796,100 +834,100 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:85
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #: View/Pages/xp_earning.ctp:91
 msgid "Curveball Bonus"
-msgstr ""
+msgstr "Bonus de Lancer à Effet"
 
 #: View/Pages/xp_earning.ctp:95
 msgid "Nice! throw bonus"
-msgstr ""
+msgstr "Bonus de lancer \"Joli !\""
 
 #: View/Pages/xp_earning.ctp:99
 msgid "Pokemon Ran Away"
-msgstr ""
+msgstr "Le Pokémon s'est Enfui"
 
 #: View/Pages/xp_earning.ctp:103
 msgid "Great! throw bonus"
-msgstr ""
+msgstr "Bonus de Lancer \"Génial !\""
 
 #: View/Pages/xp_earning.ctp:107
 msgid "First Throw Bonus for Catching Pokemon in One Ball"
-msgstr ""
+msgstr "Bonus de Lancer pour Avoir Attrapé le Pokémon dès la Première Pokéball"
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
-msgstr ""
+msgstr "Interaction avec un Pokéstop"
 
 #: View/Pages/xp_earning.ctp:115
 msgid "10<sup>th</sup> Unique Pokestop Bonus"
-msgstr ""
+msgstr "Bonus du 10<sup>ème</sup> Pokéstop Unique"
 
 #: View/Pages/xp_earning.ctp:119
 msgid "Successful Pokemon Capture"
-msgstr ""
+msgstr "Capture du Pokémon Réussie"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
-msgstr ""
+msgstr "Bonus de Lancer \"Excellent !\""
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
-msgstr ""
+msgstr "Capture ton 100<sup>ème</sup> Pokémon d'une espèce"
 
 #: View/Pages/xp_earning.ctp:131
 msgid "Hatch an Egg (2 km)"
-msgstr ""
+msgstr "Éclosion d'un Oeuf (2 km)"
 
 #: View/Pages/xp_earning.ctp:135
 msgid "Hatch an Egg (5 km)"
-msgstr ""
+msgstr "Éclosion d'un Oeuf (5 km)"
 
 #: View/Pages/xp_earning.ctp:139
 msgid "Hatch an Egg (10 km)"
-msgstr ""
+msgstr "Éclosion d'un Oeuf (10 km)"
 
 #: View/Pages/xp_earning.ctp:143
 msgid "Add new Pokemon to Pokedex"
-msgstr ""
+msgstr "Ajout d'un nouveau Pokémon au Pokédex"
 
 #: View/Pages/xp_earning.ctp:147
 msgid "Evolve a Pokemon"
-msgstr ""
+msgstr "Evolution d'un Pokemon"
 
 #: View/Pages/xp_earning.ctp:151
 msgid "Use an Evolution Item"
-msgstr ""
+msgstr "Utilisation d'un Objet d'Évolution"
 
 #: View/Pages/xp_earning.ctp:155
 msgid "First Pokestop Spin of the Day"
-msgstr ""
+msgstr "Premier Pokéstop du Jour"
 
 #: View/Pages/xp_earning.ctp:159
 msgid "First Pokemon Catch of the Day"
-msgstr ""
+msgstr "Première Capture d'un Pokemon de la Journée"
 
 #: View/Pages/xp_earning.ctp:162;166
 msgid "2,500"
-msgstr ""
+msgstr "2 500"
 
 #: View/Pages/xp_earning.ctp:163
 msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
-msgstr ""
+msgstr "Bonus de Série pour 7 Captures Quotidiennes Consécutives de Pokémon"
 
 #: View/Pages/xp_earning.ctp:167
 msgid "Streak Bonus for 7 Consecutive Daily Pokestop Spins"
-msgstr ""
+msgstr "Bonus de Série pour avoir Tourné un Pokéstop 7 Jours Consécutifs"
 
 #: View/Pages/xp_earning.ctp:171
 msgid "Train at a Gym (Less for using an overpowered 'mon)"
-msgstr ""
+msgstr "S'entraîner à une Arène (Moins en utilisant un Pokémon trop puissant)"
 
 #: View/Pages/xp_earning.ctp:175
 msgid "Defeat enemy Pokemon at a Gym (per Pokemon)"
-msgstr ""
+msgstr "Battre un Pokémon ennemi dans une Arène (par Pokémon)"
 
 #: View/Pages/xp_earning.ctp:179
 msgid "Beating every Pokemon at a gym"
-msgstr ""
+msgstr "Battre tous les Pokémon d'une Arène"

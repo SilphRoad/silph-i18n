@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-03 22:50+0000\n"
+"PO-Revision-Date: 2017-05-04 15:04+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493851858.777910\n"
+"X-POOTLE-MTIME: 1493910260.960544\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -360,7 +360,7 @@ msgstr ""
 #: View/Atlas/index.ctp:1150
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
 msgstr ""
-"Un unique emplacement où apparait une espèce rare/peu commune <span style"
+"Un unique emplacement où apparaît une espèce rare/peu commune <span style"
 "='text-decoration:underline'>aux mêmes heures chaque jour"
 
 #: View/Atlas/index.ctp:1160;1299;1421

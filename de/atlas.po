@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-03 20:28+0000\n"
+"PO-Revision-Date: 2017-05-03 22:25+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493843312.052365\n"
+"X-POOTLE-MTIME: 1493850318.735750\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -23,16 +23,16 @@ msgstr "Der Globale Nest-Atlas"
 #: View/Atlas/index.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
 msgstr ""
-"Der globale Nest-Atlas von Silph Road ist die größte Sammlung von bekannten "
-"Pokemon GO-Nestern auf der ganzen Welt.  Reisende auf der ganzen Welt halten "
-"ihn auf dem neusten Stand, Nester werden erkundet und ihre Position samt "
-"ihrer Geschichte festgehalten..."
+"Der globale Nest-Atlas von The Silph Road ist die größte Sammlung von "
+"bekannten Pokemon GO Nest-Standorten auf der ganzen Welt.  Reisende auf der "
+"ganzen Welt halten ihn auf dem neusten Stand, Nester werden erkundet und "
+"ihre Position samt ihrer Geschichte festgehalten..."
 
 #: View/Atlas/index.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
 msgstr ""
-"Der globale Nest-Atlas von Silph Road ist die größte Sammlung von bekannten "
-"Pokemon GO Nest-Standorten auf der ganzen Welt, komplett mit ihrer "
+"Der globale Nest-Atlas von The Silph Road ist die größte Sammlung von "
+"bekannten Pokemon GO Nest-Standorten auf der ganzen Welt, komplett mit ihrer "
 "Geschichte von Reisenden rund um den Globus..."
 
 #: View/Atlas/index.ctp:583
@@ -55,7 +55,7 @@ msgstr "Pokemon GO-Nester"
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
 "<a href=\"%s\">Tritt the Road bei</a> und hilf mit, deine örtlichen Nester "
-"ausfindig zu machen!  Der globale Nestatlas ist eine Sammlung von "
+"ausfindig zu machen!  Der globale Nest-Atlas ist eine Sammlung von "
 "Feldberichten der Silph Road Reisenden. "
 
 #: View/Atlas/index.ctp:622
@@ -658,12 +658,12 @@ msgstr "nester"
 
 #: View/Atlas/index.ctp:2134
 msgid "sightings"
-msgstr "Sichtungen"
+msgstr "sichtungen"
 
 #: View/Atlas/index.ctp:2134
 msgid "to show at this height. Zoom in for more detail."
 msgstr ""
-", um sie auf dieser Entfernung anzuziegen. Zoom ran, um mehr Details "
+", um sie auf dieser Entfernung anzuzeigen. Zoom ran, um mehr Details "
 "sichtbar zu machen."
 
 #: View/Atlas/index.ctp:2190

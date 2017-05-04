@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-03 17:47+0000\n"
+"PO-Revision-Date: 2017-05-03 22:59+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493833670.207645\n"
+"X-POOTLE-MTIME: 1493852388.245024\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -1558,7 +1558,7 @@ msgstr "jirachi"
 
 #: Pokemon/Deoxys-normal:386
 msgid "deoxys-normal"
-msgstr ""
+msgstr "deoxys-normal"
 
 #: Pokemon/Turtwig:387
 msgid "turtwig"
@@ -1666,7 +1666,7 @@ msgstr "cheniti"
 
 #: Pokemon/Wormadam-plant:413
 msgid "wormadam-plant"
-msgstr ""
+msgstr "cheniselle-plante"
 
 #: Pokemon/Mothim:414
 msgid "mothim"
@@ -1890,7 +1890,7 @@ msgstr "togekiss"
 
 #: Pokemon/Yanmega:469
 msgid "yanmega"
-msgstr ""
+msgstr "yanmega"
 
 #: Pokemon/Leafeon:470
 msgid "leafeon"
@@ -1962,7 +1962,7 @@ msgstr "regigigas"
 
 #: Pokemon/Giratina-altered:487
 msgid "giratina-altered"
-msgstr ""
+msgstr "giratina-alternatif"
 
 #: Pokemon/Cresselia:488
 msgid "cresselia"
@@ -1982,7 +1982,7 @@ msgstr "darkrai"
 
 #: Pokemon/Shaymin-land:492
 msgid "shaymin-land"
-msgstr ""
+msgstr "shaymin-terrestre"
 
 #: Pokemon/Arceus:493
 msgid "arceus"
@@ -2190,7 +2190,7 @@ msgstr "venipatte"
 
 #: Pokemon/Whirlipede:544
 msgid "whirlipede"
-msgstr ""
+msgstr "scobolide"
 
 #: Pokemon/Scolipede:545
 msgid "scolipede"
@@ -2214,7 +2214,7 @@ msgstr "fragilady"
 
 #: Pokemon/Basculin-red-striped:550
 msgid "basculin-red-striped"
-msgstr ""
+msgstr "bargantua-motif-rouge"
 
 #: Pokemon/Sandile:551
 msgid "sandile"
@@ -2814,7 +2814,7 @@ msgstr "EBULLITION TORTANK"
 
 #: Move/Hydro Pump Blastoise:135
 msgid "HYDRO PUMP BLASTOISE"
-msgstr ""
+msgstr "HYDROCANON TORTANK"
 
 #: Move/Wrap Green:136
 msgid "WRAP GREEN"
@@ -2830,7 +2830,7 @@ msgstr "TAILLADE"
 
 #: Move/Bug Bite:201
 msgid "BUG BITE"
-msgstr ""
+msgstr "PIQÛRE"
 
 #: Move/Bite:202
 msgid "BITE"
@@ -3006,7 +3006,7 @@ msgstr "POUDREUSE"
 
 #: Move/Close Combat:245
 msgid "CLOSE COMBAT"
-msgstr ""
+msgstr "CLOSE COMBAT"
 
 #: Move/Dynamic Punch:246
 msgid "DYNAMIC PUNCH"
@@ -3114,7 +3114,7 @@ msgstr "BALLE GRAINE"
 
 #: Move/Grass Knot:272
 msgid "GRASS KNOT"
-msgstr ""
+msgstr "NŒUD'HERBE"
 
 #: Move/Energy Ball:273
 msgid "ENERGY BALL"

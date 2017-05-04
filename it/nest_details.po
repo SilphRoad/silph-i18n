@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-03 20:49+0000\n"
+"PO-Revision-Date: 2017-05-03 21:04+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493844584.116585\n"
+"X-POOTLE-MTIME: 1493845466.471146\n"
 
 #: COMMENT
 msgid "Map"
@@ -43,6 +43,8 @@ msgstr "Stato Sconosciuto!"
 #: COMMENT
 msgid "Add your report to help identify this location's new nest species - or if it's not a nest location at all!"
 msgstr ""
+"Aggiungi la tua segnalazione per aiutarci a scoprire se questo è un nuovo "
+"nido di una specie - o se il nido non esiste affatto!"
 
 #: COMMENT
 msgid "Update"
@@ -54,11 +56,11 @@ msgstr "Aggiungi"
 
 #: COMMENT
 msgid "My Report"
-msgstr ""
+msgstr "La Mia Segnalazione"
 
 #: COMMENT
 msgid "You must Authenticate to add your field report:"
-msgstr ""
+msgstr "Devi Autenticarti per aggiungere la tua segnalazione:"
 
 #: COMMENT
 msgid "Authenticate"
@@ -66,19 +68,19 @@ msgstr "Autenticati"
 
 #: COMMENT
 msgid "Scout Report"
-msgstr ""
+msgstr "Resoconto dell'Esplorazione"
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
-msgstr ""
+msgstr "OSSERVATA APPARIZIONE DI GRUPPO"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN AREA"
-msgstr ""
+msgstr "OSSERVATA ZIONA CON APPARIZIONI FREQUENTI"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN POINT"
-msgstr ""
+msgstr "OSSERVATO PUNTO DI APPARIZIONI FREQUENTI"
 
 #: COMMENT
 msgid "No Comment"
@@ -98,4 +100,4 @@ msgstr "ha scoperto per primo questo posto e ha sospettato che fosse un"
 
 #: COMMENT
 msgid "nest!"
-msgstr ""
+msgstr "nido!"

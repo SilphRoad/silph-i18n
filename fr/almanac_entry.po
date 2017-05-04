@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-03 19:58+0000\n"
+"PO-Revision-Date: 2017-05-03 23:13+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493841526.573352\n"
+"X-POOTLE-MTIME: 1493853228.806699\n"
 
 #: COMMENT
 msgid "Height:"
@@ -42,7 +42,7 @@ msgstr "Nids"
 
 #: COMMENT
 msgid "Sightings"
-msgstr ""
+msgstr "Observations"
 
 #: COMMENT
 msgid "Hold Up:"
@@ -64,7 +64,7 @@ msgstr "Barre de Recherche"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
-msgstr ""
+msgstr "Agrandissez la carte pour l'explorer"
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
@@ -151,7 +151,7 @@ msgstr "Faible Contre"
 
 #: COMMENT
 msgid "Offence"
-msgstr ""
+msgstr "Attaquant"
 
 #: COMMENT
 msgid "None"
@@ -177,12 +177,12 @@ msgstr "Chercheurs Reconnus"
 
 #: COMMENT
 msgid "Most Sightings"
-msgstr ""
+msgstr "Le Plus d'Observations"
 
 #: COMMENT
 msgid "Strongest Specimen"
-msgstr ""
+msgstr "Spécimen le Plus Fort"
 
 #: COMMENT
 msgid "- No Sightings -"
-msgstr ""
+msgstr "- Aucune Observation -"

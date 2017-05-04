@@ -1,52 +1,59 @@
 # LANGUAGE translation of CakePHP Application
 # Copyright YEAR NAME <EMAIL@ADDRESS>
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-03 21:19+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493846366.451126\n"
 
 #: View/Catalog/index.ctp:350
 msgid "The Global Pokedex"
-msgstr ""
+msgstr "Pokedex Globale"
 
 #: View/Catalog/index.ctp:351
 msgid "The Silph Global Pokedex contains data on species found by travelers around the world. Select a species to learn more!"
 msgstr ""
+"Il Pokedex Globale contiene informazioni e dati sulle specie trovate dagli "
+"allenatori nel mondo. Seleziona una specie per saperne di più!"
 
 #: View/Catalog/index.ctp:354
 msgid "Kanto (Gen 1) Species"
-msgstr ""
+msgstr "Specie della regione di Kanto (Gen 1)"
 
 #: View/Catalog/index.ctp:372
 msgid "Johto (Gen 2) Species"
-msgstr ""
+msgstr "Specie della regione di Johto (Gen 2)"
 
 #: View/Catalog/index.ctp:520
 msgid "The Silph Road | All Rights Reserved"
-msgstr ""
+msgstr "The Silph Road | Tutti I Diritti Riservati"
 
 #: View/Catalog/index.ctp:522
 msgid "Pokémon And All Respective Names are Trademark & &copy; of Nintendo 1996-%s"
 msgstr ""
+"Pokémon E Tutti I Relativi Nomi e Marchio & &copy; sono proprietà di Nitendo "
+"1996-%s"
 
 #: View/Catalog/index.ctp:524
 msgid "Pokémon GO is Trademark & &copy; of Niantic, Inc."
-msgstr ""
+msgstr "Pokémon GO è un Marchio di proprietà di Niantic &copy;, Inc."
 
 #: View/Catalog/index.ctp:526
 msgid "This Silph Road is not affiliated with Niantic Inc., The Pokemon Company, or Nintendo."
 msgstr ""
+"The Silph Road non è affiliato con Niantic Inc, The Pokemon Company o "
+"Nintendo."
 
 #: View/Catalog/index.ctp:528
 msgid "For inquiries, contact TheSilphRoad@gmail.com"
-msgstr ""
+msgstr "Per richieste, contatta TheSilphRoad@gmail.com"

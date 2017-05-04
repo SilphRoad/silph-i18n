@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-03 20:51+0000\n"
+"PO-Revision-Date: 2017-05-03 23:39+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493844687.425313\n"
+"X-POOTLE-MTIME: 1493854766.403795\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -96,91 +96,111 @@ msgstr "Tableau de Distance par Œuf dans Pokémon GO | The Silph Road"
 #: View/Pages/egg_distances.ctp:5;12
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
 msgstr ""
+"Ci-dessous sont listées toutes les espèces obtenables par œuf dans Pokémon "
+"GO, classées par distance par œuf. Nous avons également listé le 'meilleur' "
+"et le 'pire' PC qu'un œuf peut donner à l'éclosion..."
 
 #: View/Pages/egg_distances.ctp:80
 msgid "Pokemon Go Egg Distance List"
-msgstr ""
+msgstr "Liste des Œufs par Distance dans Pokemon GO"
 
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
 msgstr ""
+"Ci-dessous sont listées toutes les espèces obtenables par œuf dans Pokémon "
+"GO, classées par distance d'œuf."
 
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
 msgstr ""
+"Nous avons aussi fais la liste des \"meilleurs\" et \"pires\" PC qui peuvent "
+"être obtenus avec un œuf <em>si votre niveau de dresseur est supérieur à "
+"20</em>. Tous les œufs obtenus après le niveau 20 vont éclore en un Pokémon "
+"de niveau 20. Cela signifie que la variation de PC à l'éclosion est le "
+"résultat d'IV différents. Des IV parfaits (15/15/15) donneront lieu à un PC "
+"\"parfait\", alors que la plus petite combinaison d'IV possible (10/10/10) "
+"donnera le \"pire\" PC !  (Toutes les éclosions donnent des valeurs d'IV "
+"entre 10 et 15 en attaque, défense et PV.)"
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
-msgstr ""
+msgstr "Oeufs de 10 km"
 
 #: View/Pages/egg_distances.ctp:124
-#, fuzzy
 msgid "10km"
-msgstr "1km"
+msgstr "10km"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
-msgstr ""
+msgstr "Parfait :"
 
 #: View/Pages/egg_distances.ctp:147;211;276
 msgid "Worst:"
-msgstr ""
+msgstr "Pire :"
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
-msgstr ""
+msgstr "Oeufs de 5 km"
 
 #: View/Pages/egg_distances.ctp:234
 msgid "2 KM Eggs"
-msgstr ""
+msgstr "Oeufs de 2 km"
 
 #: View/Pages/egg_distances.ctp:253
 msgid "2km"
-msgstr ""
+msgstr "2km"
 
 #: View/Pages/moves.ctp:3
 msgid "Pokemon GO Moves"
-msgstr ""
+msgstr "Attaques dans Pokemon GO"
 
 #: View/Pages/moves.ctp:128
 msgid "Move List in Pokemon GO"
-msgstr ""
+msgstr "Listes des Attaques dans Pokémon GO"
 
 #: View/Pages/moves.ctp:130
 msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
 msgstr ""
+"Dans le tableau ci-dessous, vous trouverez une liste de toutes les attaques "
+"dans Pokemon GO, avec leurs types, énergie générée, durée, et dégâts par "
+"seconde (DPS)."
 
 #: View/Pages/moves.ctp:139
 msgid "Quick Moves"
-msgstr ""
+msgstr "Attaques Rapides"
 
 #: View/Pages/moves.ctp:140
 msgid "Quick moves are used by 'tapping' the screen and do not require a full energy bar to use repeatedly! Quick moves do not 'critical hit.'"
 msgstr ""
+"Les attaques rapides s'utilisent par une pression rapide sur l'écran, et ne "
+"nécessitent pas le remplissage de la barre d'énergie pour être utilisées à "
+"répétition ! Les attaques rapides ne provoquent pas de \"dégâts critiques\"."
 
 #: View/Pages/moves.ctp:144;217
 msgid "DPS"
-msgstr ""
+msgstr "DPS"
 
 #: View/Pages/moves.ctp:145;218
 msgid "Move Name"
-msgstr ""
+msgstr "Nom de l'Attaque"
 
 #: View/Pages/moves.ctp:146;219
 msgid "Power"
-msgstr ""
+msgstr "Puissance"
 
 #: View/Pages/moves.ctp:147;220
 msgid "Duration (ms)"
-msgstr ""
+msgstr "Durée (ms)"
 
 #: View/Pages/moves.ctp:148
 msgid "Energy Gain/Sec."
-msgstr ""
+msgstr "Energie Générée/Sec."
 
 #: View/Pages/moves.ctp:198
 msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
+"Aucun Chercheur de Silph Road n'a enregistré un pokémon sauvage avec cette "
+"attaque! (Certaines espèces peuvent évoluer ou éclore avec cette attaque!)"
 
 #: View/Pages/moves.ctp:212
 msgid "Charge/Special Moves"
@@ -204,15 +224,19 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
-msgstr ""
+msgstr "Classement des Stats des Pokémons : Gen 1 & 2 | The Silph Road"
 
 #: View/Pages/species_stats.ctp:6;13
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO. Generation 2 Pokemon's base stats are able to be calculated due to..."
 msgstr ""
+"Les caractéristiques des espèces suivantes aident à illustrer leurs forces "
+"et leurs faiblesses relative aux différents Pokémons dans Pokémon Go. Les "
+"stats de base des Pokémons de la Génération 2 peuvent être calculées grâce "
+"à..."
 
 #: View/Pages/species_stats.ctp:128
 msgid "Species Stats in Pokemon GO"
-msgstr ""
+msgstr "Stats des espèces dans Pokémon GO"
 
 #: View/Pages/species_stats.ctp:130
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."

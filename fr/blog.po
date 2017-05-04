@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-03 23:26+0000\n"
+"PO-Revision-Date: 2017-05-04 19:36+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -14,11 +14,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493853985.399671\n"
+"X-POOTLE-MTIME: 1493926613.877555\n"
 
 #: View/Pages/blog.ctp:2;11
 msgid "Grassroots Pokemon GO Network"
-msgstr ""
+msgstr "Réseau Local de Pokémon GO"
 
 #: View/Pages/blog.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."

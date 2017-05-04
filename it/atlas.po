@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-04 14:54+0000\n"
+"PO-Revision-Date: 2017-05-04 18:35+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493909650.319675\n"
+"X-POOTLE-MTIME: 1493922937.115037\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -571,7 +571,7 @@ msgstr "Recupero Dei Dati..."
 
 #: View/Atlas/index.ctp:1630
 msgid "Consulting Silph Scope..."
-msgstr "Consultando la Silphsonda..."
+msgstr "Consultando la Spettrosonda..."
 
 #: View/Atlas/index.ctp:1630;1637
 msgid "Learning PokeFlute..."

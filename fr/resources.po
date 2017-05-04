@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-04 16:55+0000\n"
+"PO-Revision-Date: 2017-05-04 20:53+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,11 +14,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493916950.081536\n"
+"X-POOTLE-MTIME: 1493931189.197085\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
-msgstr ""
+msgstr "Exigences pour le Bonbon du Copain de Pokémon GO | The Silph Road"
 
 #: View/Pages/buddy_candy.ctp:6;13
 #: View/Pages/moves.ctp:6
@@ -204,23 +204,28 @@ msgstr ""
 
 #: View/Pages/moves.ctp:212
 msgid "Charge/Special Moves"
-msgstr ""
+msgstr "Attaques Chargées/Spéciales"
 
 #: View/Pages/moves.ctp:213
 msgid "Special moves are used by holding and pressing the screen after charging the blue 'energy' bars by inflicting damage with quick moves!"
 msgstr ""
+"Les Attaques spéciales sont utilisables en maintenant une pression sur "
+"l'écran après avoir chargé la bar bleue d'énergie en infligeant des dégâts "
+"avec les attaques rapides !"
 
 #: View/Pages/moves.ctp:223;227
 msgid "DPE"
-msgstr ""
+msgstr "DPE"
 
 #: View/Pages/moves.ctp:224;228
 msgid "Damage (Power) From Full Energy Bar"
-msgstr ""
+msgstr "Dégat (Puissance) Pour une Barre d'Energie Complète"
 
 #: View/Pages/moves.ctp:283
 msgid "No Silph Researchers have encountered a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
+"Aucun Chercheur de Silph Road n'a rencontré un pokémon sauvage avec cette "
+"attaque ! (Certaines espèces peuvent évoluer ou éclore avec cette capacité!)"
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
@@ -241,10 +246,21 @@ msgstr "Stats des espèces dans Pokémon GO"
 #: View/Pages/species_stats.ctp:130
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."
 msgstr ""
+"Les caractéristiques d'espèces suivantes aident à illustrer les forces et "
+"les faiblesses relatives de différents Pokemon dans Pokemon GO.  Les \"Stats "
+"de Base\" sont définies sur le serveur du jeu, mais elles sont envoyées sur "
+"le client où nous pouvons les examiner."
 
 #: View/Pages/species_stats.ctp:133
 msgid "Generation 2 Pokemon's base stats are able to be calculated due to the known conversion formula (discovered first by <a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbmi/exact_conversion_formula/'>/u/CustomOndo</a>) from the main series game stats.\n\t\t\t\t\t\t<b>Max Potential CP</b> is calculated from the known CP formula and the species base stats."
 msgstr ""
+"Les statistiques de base des Pokemons de Seconde Génération peuvent être "
+"calculées grâce à la formule de conversion connue (découverte en premier par "
+"<a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbm"
+"i/exact_conversion_formula/'>/u/CustomOndo</a>) d'après les stats présentes "
+"dans les jeux de la série originale.\n"
+"\t\t\t\t\t\t<b>Les PC Max Potentiels </b> sont calculés par la formule des "
+"PC connue et les stats de base de l'espèce."
 
 #: View/Pages/species_stats.ctp:144
 msgid "Include Legendaries"
@@ -334,6 +350,8 @@ msgstr "Exigence Requise par Niveau de Dresseur + Bonus"
 #: View/Pages/trainer_levels.ctp:82
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
 msgstr ""
+"Le tableau suivant résume l'XP requises et les récompenses pour chaque "
+"Niveau de Dresseur dans Pokémon GO"
 
 #: View/Pages/trainer_levels.ctp:92
 msgid "Level"
@@ -341,11 +359,11 @@ msgstr "Niveau"
 
 #: View/Pages/trainer_levels.ctp:93
 msgid "XP required"
-msgstr ""
+msgstr "XP requise"
 
 #: View/Pages/trainer_levels.ctp:94
 msgid "Total XP"
-msgstr ""
+msgstr "XP Totale"
 
 #: View/Pages/trainer_levels.ctp:95
 msgid "Unlocked items"
@@ -459,7 +477,7 @@ msgstr "45 000"
 
 #: View/Pages/trainer_levels.ctp:167
 msgid "Super Potions"
-msgstr "Super Potions"
+msgstr "Super Potion"
 
 #: View/Pages/trainer_levels.ctp:168
 msgid "Poke Ball (x20), Super Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
@@ -481,7 +499,7 @@ msgstr "65 000"
 
 #: View/Pages/trainer_levels.ctp:181
 msgid "Great Balls"
-msgstr "Super Balls"
+msgstr "Super Ball"
 
 #: View/Pages/trainer_levels.ctp:182
 msgid "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
@@ -515,7 +533,7 @@ msgstr "100 000"
 
 #: View/Pages/trainer_levels.ctp:202
 msgid "Hyper Potions"
-msgstr "Hyper Potions"
+msgstr "Hyper Potion"
 
 #: View/Pages/trainer_levels.ctp:203
 msgid "Great Ball (x15), Hyper Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
@@ -571,7 +589,7 @@ msgstr "210 000"
 
 #: View/Pages/trainer_levels.ctp:237
 msgid "Ultra Balls"
-msgstr "Hyper Balls"
+msgstr "Hyper Ball"
 
 #: View/Pages/trainer_levels.ctp:238
 msgid "Ultra Ball (x20), Hyper Potion (x20), Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x2), Egg Incubator (x2), Lure Module (x2), Nanab Berry (x20)"
@@ -634,7 +652,7 @@ msgstr "710 000"
 
 #: View/Pages/trainer_levels.ctp:272
 msgid "Max Potions"
-msgstr "Potions Max"
+msgstr "Potion Max"
 
 #: View/Pages/trainer_levels.ctp:273
 msgid "Ultra Ball (x25), Max Potion (x20), Revive (x15), Razz Berry (x15), Incense, Lucky Egg, Egg Incubator, Lure Module, Pinap Berry (x15)"
@@ -818,19 +836,22 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:3
 msgid "Pokemon GO - Earning XP"
-msgstr ""
+msgstr "Pokémon GO - Gagner de l'XP"
 
 #: View/Pages/xp_earning.ctp:72
 msgid "How to Earn XP in Pokemon GO"
-msgstr ""
+msgstr "Comment Gagner de l'XP dans Pokémon GO"
 
 #: View/Pages/xp_earning.ctp:74
 msgid "The following table and information explain XP-earning events to help you increase your Trainer Level in Pokemon GO."
 msgstr ""
+"Le tableau et les informations suivants expliquent les actions faisant "
+"gagner de l'XP pour vous aider à augmenter votre Niveau de Dresseur dans "
+"Pokémon GO."
 
 #: View/Pages/xp_earning.ctp:84
 msgid "XP Award"
-msgstr ""
+msgstr "Gain d'XP"
 
 #: View/Pages/xp_earning.ctp:85
 msgid "Action"

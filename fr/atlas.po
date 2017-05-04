@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-04 15:04+0000\n"
+"PO-Revision-Date: 2017-05-04 20:55+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493910260.960544\n"
+"X-POOTLE-MTIME: 1493931302.526814\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -54,9 +54,9 @@ msgstr "Nids Pokémon GO"
 #: View/Atlas/index.ctp:611
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
-"<a href=\"%s\">Rejoignez The Silph Road</a> et aidez à vérifier vos nids "
-"locaux ! L'Atlas Mondial est un ensemble de rapport de terrain des membres "
-"de The Silph Road."
+"<a href=\"%s\">Rejoignez The Silph Road</a> et aidez à répertorier les nids "
+"près de chez vous!  L'Atlas Mondial est un ensemble de compte rendus des "
+"membres de The Silph Road réalisés sur le terrain."
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
@@ -98,6 +98,9 @@ msgstr "Appel aux Bêta Testeurs"
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
 msgstr ""
+"Aidez nous à tester le NOUVEAU système de communication locale de l'Atlas: "
+"le Réseau du <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> ! "
+"Les voyageurs de Manhattan sont invités !"
 
 #: View/Atlas/index.ctp:795
 msgid "No Thanks"
@@ -113,7 +116,7 @@ msgstr "Nids Prévisibles"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
-msgstr ""
+msgstr "Historique des Observations"
 
 #: View/Atlas/index.ctp:832
 msgid "Verified"
@@ -153,7 +156,7 @@ msgstr "Chargement des Données des Nids..."
 
 #: View/Atlas/index.ctp:873
 msgid "Loading Camp Data..."
-msgstr ""
+msgstr "Chargement des Données du Camp..."
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
@@ -400,11 +403,11 @@ msgstr "C'est un Nouveau Nid !"
 
 #: View/Atlas/index.ctp:1211
 msgid "Catalogue!"
-msgstr ""
+msgstr "Cataloguer !"
 
 #: View/Atlas/index.ctp:1212
 msgid "Catalogue your encounter info:"
-msgstr ""
+msgstr "Cataloguer vos infos de rencontre :"
 
 #: View/Atlas/index.ctp:1230
 msgid "Combat Points (CP)"

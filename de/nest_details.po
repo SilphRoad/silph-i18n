@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-04 17:05+0000\n"
+"PO-Revision-Date: 2017-05-04 17:25+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493917508.463801\n"
+"X-POOTLE-MTIME: 1493918750.507463\n"
 
 #: COMMENT
 msgid "Map"
@@ -51,9 +51,10 @@ msgstr ""
 msgid "Update"
 msgstr "Aktualisieren"
 
+# This seems to be a part of "Add my Report". For the translation to somehow work in German, the colon is needed.
 #: COMMENT
 msgid "Add"
-msgstr "Hinzufügen"
+msgstr "Hinzufügen:"
 
 #: COMMENT
 msgid "My Report"

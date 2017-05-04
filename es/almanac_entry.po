@@ -5,62 +5,66 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-04 21:03+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493931782.791233\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr ""
+msgstr "Altura:"
 
 #: COMMENT
 msgid "Weight:"
-msgstr ""
+msgstr "Peso:"
 
 #: COMMENT
 msgid "Attack"
-msgstr ""
+msgstr "Ataque"
 
 #: COMMENT
 msgid "Defense"
-msgstr ""
+msgstr "Defensa"
 
 #: COMMENT
 msgid "Stamina"
-msgstr ""
+msgstr "Resistencia"
 
 #: COMMENT
 msgid "Nests"
-msgstr ""
+msgstr "Nidos"
 
 #: COMMENT
 msgid "Sightings"
-msgstr ""
+msgstr "Avistamientos"
 
 #: COMMENT
 msgid "Hold Up:"
-msgstr ""
+msgstr "Espera:"
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
+"¡Actualmente, los nidos están experimentando cambios globalmente! Estate "
+"atento para más información."
 
 #: COMMENT
 msgid "Map Loading"
-msgstr ""
+msgstr "Cargando el mapa"
 
 #: COMMENT
 msgid "Search Box"
-msgstr ""
+msgstr "Cuadro de búsqueda"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
-msgstr ""
+msgstr "Expandir el mapa para desplazar o hacer zoom"
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"

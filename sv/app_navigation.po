@@ -5,15 +5,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-04 17:56+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493920591.357987\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -53,77 +54,77 @@ msgstr ""
 #: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Species Base Stats"
-msgstr ""
+msgstr "Artens Grundstatistik"
 
 #: View/Atlas/index.ctp:678;735
 #: View/Helper/TopNavHelper.php:47;116
 msgid "Egg Distances"
-msgstr ""
+msgstr "Äggdistanser"
 
 #: View/Atlas/index.ctp:679;736
 #: View/Helper/TopNavHelper.php:48;117
 msgid "Buddy Candy"
-msgstr ""
+msgstr "Buddy-Godis"
 
 #: View/Atlas/index.ctp:680;737
 #: View/Helper/TopNavHelper.php:49;118
 msgid "Trainer Levels"
-msgstr ""
+msgstr "Tränarnivåer"
 
 #: View/Atlas/index.ctp:681;738
 #: View/Helper/TopNavHelper.php:50;119
 msgid "Earning XP"
-msgstr ""
+msgstr "Att tjäna XP"
 
 #: View/Atlas/index.ctp:687;749
 #: View/Helper/TopNavHelper.php:63;130
 msgid "Tips + News"
-msgstr ""
+msgstr "Tips + Nyheter"
 
 #: View/Atlas/index.ctp:688;750
 #: View/Helper/TopNavHelper.php:64;131
 msgid "For Pokemon GO"
-msgstr ""
+msgstr "För Pokémon GO"
 
 #: View/Atlas/index.ctp:694;755
 #: View/Helper/TopNavHelper.php:77;142
 msgid "Science"
-msgstr ""
+msgstr "Forskning"
 
 #: View/Atlas/index.ctp:695;756
 #: View/Helper/TopNavHelper.php:78;143
 msgid "New Research"
-msgstr ""
+msgstr "Ny forskning"
 
 #: View/Atlas/index.ctp:701;761
 #: View/Helper/TopNavHelper.php:148
 msgid "Field Manual"
-msgstr ""
+msgstr "Fältmanual"
 
 #: View/Atlas/index.ctp:702;762
 #: View/Helper/TopNavHelper.php:149
 msgid "Up-to-date Guide"
-msgstr ""
+msgstr "Uppdaterad Guide"
 
 #: View/Atlas/index.ctp:708;767
 #: View/Helper/TopNavHelper.php:93;154
 msgid "Log Out"
-msgstr ""
+msgstr "Logga ut"
 
 #: View/Atlas/index.ctp:708;767
 #: View/Helper/TopNavHelper.php:93;154
 msgid "Authenticate"
-msgstr ""
+msgstr "Autentisera"
 
 #: View/Atlas/index.ctp:708
 #: View/Helper/TopNavHelper.php:93
 msgid "Log In"
-msgstr ""
+msgstr "Logga in"
 
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:94;155
 msgid "Time to GO!"
-msgstr ""
+msgstr "Dags att GO!"
 
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:94;155
@@ -142,24 +143,26 @@ msgstr ""
 
 #: View/Helper/TopNavHelper.php:70;136
 msgid "Pursue"
-msgstr ""
+msgstr "Pursue"
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Tracking Aide"
-msgstr ""
+msgstr "Spårningshjälp"
 
 #: View/Users/login.ctp:15
 msgid "Your Papers, Please."
-msgstr ""
+msgstr "Dina papper, tack."
 
 #: View/Users/login.ctp:17
 msgid "The Silph Road authenticates travelers via their Reddit account.  Click \"Authenticate\" below to access the Silph Road."
 msgstr ""
+"The Silph Road verifierar resänerer via deras Redditanvändare  Klicka \""
+"Autentisera\" nedan för att få tillgång till the Silph Road."
 
 #: View/Users/login.ctp:19
 msgid "Authenticate &raquo;"
-msgstr ""
+msgstr "Autentisera &raquo;"
 
 #: View/Users/login.ctp:21
 msgid "You may create a Reddit account for free at Reddit.com."
-msgstr ""
+msgstr "Du kan skapa ett Redditkonto gratis på Reddit.com."

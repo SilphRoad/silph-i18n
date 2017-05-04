@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-04 16:49+0000\n"
+"PO-Revision-Date: 2017-05-04 17:37+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493916587.467219\n"
+"X-POOTLE-MTIME: 1493919430.281654\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -2467,691 +2467,691 @@ msgstr "VICE GRIP"
 
 #: Move/Flame Wheel:21
 msgid "FLAME WHEEL"
-msgstr ""
+msgstr "FLAME WHEEL"
 
 #: Move/Megahorn:22
 msgid "MEGAHORN"
-msgstr ""
+msgstr "MEGAHORN"
 
 #: Move/Flamethrower:24
 msgid "FLAMETHROWER"
-msgstr ""
+msgstr "FLAMETHROWER"
 
 #: Move/Dig:26
 msgid "DIG"
-msgstr ""
+msgstr "DIG"
 
 #: Move/Cross Chop:28
 msgid "CROSS CHOP"
-msgstr ""
+msgstr "CROSS CHOP"
 
 #: Move/Psybeam:30
 msgid "PSYBEAM"
-msgstr ""
+msgstr "PSYBEAM"
 
 #: Move/Earthquake:31
 msgid "EARTHQUAKE"
-msgstr ""
+msgstr "EARTHQUAKE"
 
 #: Move/Stone Edge:32
 msgid "STONE EDGE"
-msgstr ""
+msgstr "STONE EDGE"
 
 #: Move/Ice Punch:33
 msgid "ICE PUNCH"
-msgstr ""
+msgstr "ICE PUNCH"
 
 #: Move/Heart Stamp:34
 msgid "HEART STAMP"
-msgstr ""
+msgstr "HEART STAMP"
 
 #: Move/Discharge:35
 msgid "DISCHARGE"
-msgstr ""
+msgstr "DISCHARGE"
 
 #: Move/Flash Cannon:36
 msgid "FLASH CANNON"
-msgstr ""
+msgstr "FLASH CANNON"
 
 #: Move/Drill Peck:38
 msgid "DRILL PECK"
-msgstr ""
+msgstr "DRILL PECK"
 
 #: Move/Ice Beam:39
 msgid "ICE BEAM"
-msgstr ""
+msgstr "ICE BEAM"
 
 #: Move/Blizzard:40
 msgid "BLIZZARD"
-msgstr ""
+msgstr "BLIZZARD"
 
 #: Move/Heat Wave:42
 msgid "HEAT WAVE"
-msgstr ""
+msgstr "HEAT WAVE"
 
 #: Move/Aerial Ace:45
 msgid "AERIAL ACE"
-msgstr ""
+msgstr "AERIAL ACE"
 
 #: Move/Drill Run:46
 msgid "DRILL RUN"
-msgstr ""
+msgstr "DRILL RUN"
 
 #: Move/Petal Blizzard:47
 msgid "PETAL BLIZZARD"
-msgstr ""
+msgstr "PETAL BLIZZARD"
 
 #: Move/Mega Drain:48
 msgid "MEGA DRAIN"
-msgstr ""
+msgstr "MEGA DRAIN"
 
 #: Move/Bug Buzz:49
 msgid "BUG BUZZ"
-msgstr ""
+msgstr "BUG BUZZ"
 
 #: Move/Poison Fang:50
 msgid "POISON FANG"
-msgstr ""
+msgstr "POISON FANG"
 
 #: Move/Night Slash:51
 msgid "NIGHT SLASH"
-msgstr ""
+msgstr "NIGHT SLASH"
 
 #: Move/Bubble Beam:53
 msgid "BUBBLE BEAM"
-msgstr ""
+msgstr "BUBBLE BEAM"
 
 #: Move/Submission:54
 msgid "SUBMISSION"
-msgstr ""
+msgstr "SUBMISSION"
 
 #: Move/Low Sweep:56
 msgid "LOW SWEEP"
-msgstr ""
+msgstr "LOW SWEEP"
 
 #: Move/Aqua Jet:57
 msgid "AQUA JET"
-msgstr ""
+msgstr "AQUA JET"
 
 #: Move/Aqua Tail:58
 msgid "AQUA TAIL"
-msgstr ""
+msgstr "AQUA TAIL"
 
 #: Move/Seed Bomb:59
 msgid "SEED BOMB"
-msgstr ""
+msgstr "SEED BOMB"
 
 #: Move/Psyshock:60
 msgid "PSYSHOCK"
-msgstr ""
+msgstr "PSYSHOCK"
 
 #: Move/Ancient Power:62
 msgid "ANCIENT POWER"
-msgstr ""
+msgstr "ANCIENT POWER"
 
 #: Move/Rock Tomb:63
 msgid "ROCK TOMB"
-msgstr ""
+msgstr "ROCK TOMB"
 
 #: Move/Rock Slide:64
 msgid "ROCK SLIDE"
-msgstr ""
+msgstr "ROCK SLIDE"
 
 #: Move/Power Gem:65
 msgid "POWER GEM"
-msgstr ""
+msgstr "POWER GEM"
 
 #: Move/Shadow Sneak:66
 msgid "SHADOW SNEAK"
-msgstr ""
+msgstr "SHADOW SNEAK"
 
 #: Move/Shadow Punch:67
 msgid "SHADOW PUNCH"
-msgstr ""
+msgstr "SHADOW PUNCH"
 
 #: Move/Ominous Wind:69
 msgid "OMINOUS WIND"
-msgstr ""
+msgstr "OMINOUS WIND"
 
 #: Move/Shadow Ball:70
 msgid "SHADOW BALL"
-msgstr ""
+msgstr "SHADOW BALL"
 
 #: Move/Magnet Bomb:72
 msgid "MAGNET BOMB"
-msgstr ""
+msgstr "MAGNET BOMB"
 
 #: Move/Iron Head:74
 msgid "IRON HEAD"
-msgstr ""
+msgstr "IRON HEAD"
 
 #: Move/Parabolic Charge:75
 msgid "PARABOLIC CHARGE"
-msgstr ""
+msgstr "PARABOLIC CHARGE"
 
 #: Move/Thunder Punch:77
 msgid "THUNDER PUNCH"
-msgstr ""
+msgstr "THUNDER PUNCH"
 
 #: Move/Thunder:78
 msgid "THUNDER"
-msgstr ""
+msgstr "THUNDER"
 
 #: Move/Thunderbolt:79
 msgid "THUNDERBOLT"
-msgstr ""
+msgstr "THUNDERBOLT"
 
 #: Move/Twister:80
 msgid "TWISTER"
-msgstr ""
+msgstr "TWISTER"
 
 #: Move/Dragon Pulse:82
 msgid "DRAGON PULSE"
-msgstr ""
+msgstr "DRAGON PULSE"
 
 #: Move/Dragon Claw:83
 msgid "DRAGON CLAW"
-msgstr ""
+msgstr "DRAGON CLAW"
 
 #: Move/Disarming Voice:84
 msgid "DISARMING VOICE"
-msgstr ""
+msgstr "DISARMING VOICE"
 
 #: Move/Draining Kiss:85
 msgid "DRAINING KISS"
-msgstr ""
+msgstr "DRAINING KISS"
 
 #: Move/Dazzling Gleam:86
 msgid "DAZZLING GLEAM"
-msgstr ""
+msgstr "DAZZLING GLEAM"
 
 #: Move/Moonblast:87
 msgid "MOONBLAST"
-msgstr ""
+msgstr "MOONBLAST"
 
 #: Move/Play Rough:88
 msgid "PLAY ROUGH"
-msgstr ""
+msgstr "PLAY ROUGH"
 
 #: Move/Cross Poison:89
 msgid "CROSS POISON"
-msgstr ""
+msgstr "CROSS POISON"
 
 #: Move/Sludge Bomb:90
 msgid "SLUDGE BOMB"
-msgstr ""
+msgstr "SLUDGE BOMB"
 
 #: Move/Sludge Wave:91
 msgid "SLUDGE WAVE"
-msgstr ""
+msgstr "SLUDGE WAVE"
 
 #: Move/Gunk Shot:92
 msgid "GUNK SHOT"
-msgstr ""
+msgstr "GUNK SHOT"
 
 #: Move/Bone Club:94
 msgid "BONE CLUB"
-msgstr ""
+msgstr "BONE CLUB"
 
 #: Move/Bulldoze:95
 msgid "BULLDOZE"
-msgstr ""
+msgstr "BULLDOZE"
 
 #: Move/Mud Bomb:96
 msgid "MUD BOMB"
-msgstr ""
+msgstr "MUD BOMB"
 
 #: Move/Signal Beam:99
 msgid "SIGNAL BEAM"
-msgstr ""
+msgstr "SIGNAL BEAM"
 
 #: Move/X Scissor:100
 msgid "X SCISSOR"
-msgstr ""
+msgstr "X SCISSOR"
 
 #: Move/Flame Charge:101
 msgid "FLAME CHARGE"
-msgstr ""
+msgstr "FLAME CHARGE"
 
 #: Move/Flame Burst:102
 msgid "FLAME BURST"
-msgstr ""
+msgstr "FLAME BURST"
 
 #: Move/Fire Blast:103
 msgid "FIRE BLAST"
-msgstr ""
+msgstr "FIRE BLAST"
 
 #: Move/Brine:104
 msgid "BRINE"
-msgstr ""
+msgstr "BRINE"
 
 #: Move/Water Pulse:105
 msgid "WATER PULSE"
-msgstr ""
+msgstr "WATER PULSE"
 
 #: Move/Scald:106
 msgid "SCALD"
-msgstr ""
+msgstr "SCALD"
 
 #: Move/Hydro Pump:107
 msgid "HYDRO PUMP"
-msgstr ""
+msgstr "HYDRO PUMP"
 
 #: Move/Psychic:108
 msgid "PSYCHIC"
-msgstr ""
+msgstr "PSYCHIC"
 
 #: Move/Psystrike:109
 msgid "PSYSTRIKE"
-msgstr ""
+msgstr "PSYSTRIKE"
 
 #: Move/Icy Wind:111
 msgid "ICY WIND"
-msgstr ""
+msgstr "ICY WIND"
 
 #: Move/Giga Drain:114
 msgid "GIGA DRAIN"
-msgstr ""
+msgstr "GIGA DRAIN"
 
 #: Move/Fire Punch:115
 msgid "FIRE PUNCH"
-msgstr ""
+msgstr "FIRE PUNCH"
 
 #: Move/Solar Beam:116
 msgid "SOLAR BEAM"
-msgstr ""
+msgstr "SOLAR BEAM"
 
 #: Move/Leaf Blade:117
 msgid "LEAF BLADE"
-msgstr ""
+msgstr "LEAF BLADE"
 
 #: Move/Power Whip:118
 msgid "POWER WHIP"
-msgstr ""
+msgstr "POWER WHIP"
 
 #: Move/Air Cutter:121
 msgid "AIR CUTTER"
-msgstr ""
+msgstr "AIR CUTTER"
 
 #: Move/Hurricane:122
 msgid "HURRICANE"
-msgstr ""
+msgstr "HURRICANE"
 
 #: Move/Brick Break:123
 msgid "BRICK BREAK"
-msgstr ""
+msgstr "BRICK BREAK"
 
 #: Move/Swift:125
 msgid "SWIFT"
-msgstr ""
+msgstr "SWIFT"
 
 #: Move/Horn Attack:126
 msgid "HORN ATTACK"
-msgstr ""
+msgstr "HORN ATTACK"
 
 #: Move/Stomp:127
 msgid "STOMP"
-msgstr ""
+msgstr "STOMP"
 
 #: Move/Hyper Fang:129
 msgid "HYPER FANG"
-msgstr ""
+msgstr "HYPER FANG"
 
 #: Move/Body Slam:131
 msgid "BODY SLAM"
-msgstr ""
+msgstr "BODY SLAM"
 
 #: Move/Rest:132
 msgid "REST"
-msgstr ""
+msgstr "REST"
 
 #: Move/Struggle:133
 msgid "STRUGGLE"
-msgstr ""
+msgstr "STRUGGLE"
 
 #: Move/Scald Blastoise:134
 msgid "SCALD BLASTOISE"
-msgstr ""
+msgstr "SCALD BLASTOISE"
 
 #: Move/Hydro Pump Blastoise:135
 msgid "HYDRO PUMP BLASTOISE"
-msgstr ""
+msgstr "HYDRO PUMP BLASTOISE"
 
 #: Move/Wrap Green:136
 msgid "WRAP GREEN"
-msgstr ""
+msgstr "WRAP GREEN"
 
 #: Move/Wrap Pink:137
 msgid "WRAP PINK"
-msgstr ""
+msgstr "WRAP PINK"
 
 #: Move/Fury Cutter:200
 msgid "FURY CUTTER"
-msgstr ""
+msgstr "FURY CUTTER"
 
 #: Move/Bug Bite:201
 msgid "BUG BITE"
-msgstr ""
+msgstr "BUG BITE"
 
 #: Move/Bite:202
 msgid "BITE"
-msgstr ""
+msgstr "BITE"
 
 #: Move/Sucker Punch:203
 msgid "SUCKER PUNCH"
-msgstr ""
+msgstr "SUCKER PUNCH"
 
 #: Move/Dragon Breath:204
 msgid "DRAGON BREATH"
-msgstr ""
+msgstr "DRAGON BREATH"
 
 #: Move/Thunder Shock:205
 msgid "THUNDER SHOCK"
-msgstr ""
+msgstr "THUNDER SHOCK"
 
 #: Move/Spark:206
 msgid "SPARK"
-msgstr ""
+msgstr "SPARK"
 
 #: Move/Low Kick:207
 msgid "LOW KICK"
-msgstr ""
+msgstr "LOW KICK"
 
 #: Move/Karate Chop:208
 msgid "KARATE CHOP"
-msgstr ""
+msgstr "KARATE CHOP"
 
 #: Move/Ember:209
 msgid "EMBER"
-msgstr ""
+msgstr "EMBER"
 
 #: Move/Wing Attack:210
 msgid "WING ATTACK"
-msgstr ""
+msgstr "WING ATTACK"
 
 #: Move/Peck:211
 msgid "PECK"
-msgstr ""
+msgstr "PECK"
 
 #: Move/Lick:212
 msgid "LICK"
-msgstr ""
+msgstr "LICK"
 
 #: Move/Shadow Claw:213
 msgid "SHADOW CLAW"
-msgstr ""
+msgstr "SHADOW CLAW"
 
 #: Move/Vine Whip:214
 msgid "VINE WHIP"
-msgstr ""
+msgstr "VINE WHIP"
 
 #: Move/Razor Leaf:215
 msgid "RAZOR LEAF"
-msgstr ""
+msgstr "RAZOR LEAF"
 
 #: Move/Mud Shot:216
 msgid "MUD SHOT"
-msgstr ""
+msgstr "MUD SHOT"
 
 #: Move/Ice Shard:217
 msgid "ICE SHARD"
-msgstr ""
+msgstr "ICE SHARD"
 
 #: Move/Frost Breath:218
 msgid "FROST BREATH"
-msgstr ""
+msgstr "FROST BREATH"
 
 #: Move/Quick Attack:219
 msgid "QUICK ATTACK"
-msgstr ""
+msgstr "QUICK ATTACK"
 
 #: Move/Scratch:220
 msgid "SCRATCH"
-msgstr ""
+msgstr "SCRATCH"
 
 #: Move/Tackle:221
 msgid "TACKLE"
-msgstr ""
+msgstr "TACKLE"
 
 #: Move/Pound:222
 msgid "POUND"
-msgstr ""
+msgstr "POUND"
 
 #: Move/Cut:223
 msgid "CUT"
-msgstr ""
+msgstr "CUT"
 
 #: Move/Poison Jab:224
 msgid "POISON JAB"
-msgstr ""
+msgstr "POISON JAB"
 
 #: Move/Acid:225
 msgid "ACID"
-msgstr ""
+msgstr "ACID"
 
 #: Move/Psycho Cut:226
 msgid "PSYCHO CUT"
-msgstr ""
+msgstr "PSYCHO CUT"
 
 #: Move/Rock Throw:227
 msgid "ROCK THROW"
-msgstr ""
+msgstr "ROCK THROW"
 
 #: Move/Metal Claw:228
 msgid "METAL CLAW"
-msgstr ""
+msgstr "METAL CLAW"
 
 #: Move/Bullet Punch:229
 msgid "BULLET PUNCH"
-msgstr ""
+msgstr "BULLET PUNCH"
 
 #: Move/Water Gun:230
 msgid "WATER GUN"
-msgstr ""
+msgstr "WATER GUN"
 
 #: Move/Splash:231
 msgid "SPLASH"
-msgstr ""
+msgstr "SPLASH"
 
 #: Move/Water Gun Blastoise:232
 msgid "WATER GUN BLASTOISE"
-msgstr ""
+msgstr "WATER GUN BLASTOISE"
 
 #: Move/Mud Slap:233
 msgid "MUD SLAP"
-msgstr ""
+msgstr "MUD SLAP"
 
 #: Move/Zen Headbutt:234
 msgid "ZEN HEADBUTT"
-msgstr ""
+msgstr "ZEN HEADBUTT"
 
 #: Move/Confusion:235
 msgid "CONFUSION"
-msgstr ""
+msgstr "CONFUSION"
 
 #: Move/Poison Sting:236
 msgid "POISON STING"
-msgstr ""
+msgstr "POISON STING"
 
 #: Move/Bubble:237
 msgid "BUBBLE"
-msgstr ""
+msgstr "BUBBLE"
 
 #: Move/Feint Attack:238
 msgid "FEINT ATTACK"
-msgstr ""
+msgstr "FEINT ATTACK"
 
 #: Move/Steel Wing:239
 msgid "STEEL WING"
-msgstr ""
+msgstr "STEEL WING"
 
 #: Move/Fire Fang:240
 msgid "FIRE FANG"
-msgstr ""
+msgstr "FIRE FANG"
 
 #: Move/Rock Smash:241
 msgid "ROCK SMASH"
-msgstr ""
+msgstr "ROCK SMASH"
 
 #: Move/Transform:242
 msgid "TRANSFORM"
-msgstr ""
+msgstr "TRANSFORM"
 
 #: Move/Counter:243
 msgid "COUNTER"
-msgstr ""
+msgstr "COUNTER"
 
 #: Move/Powder Snow:244
 msgid "POWDER SNOW"
-msgstr ""
+msgstr "POWDER SNOW"
 
 #: Move/Close Combat:245
 msgid "CLOSE COMBAT"
-msgstr ""
+msgstr "CLOSE COMBAT"
 
 #: Move/Dynamic Punch:246
 msgid "DYNAMIC PUNCH"
-msgstr ""
+msgstr "DYNAMIC PUNCH"
 
 #: Move/Focus Blast:247
 msgid "FOCUS BLAST"
-msgstr ""
+msgstr "FOCUS BLAST"
 
 #: Move/Aurora Beam:248
 msgid "AURORA BEAM"
-msgstr ""
+msgstr "AURORA BEAM"
 
 #: Move/Charge Beam:249
 msgid "CHARGE BEAM"
-msgstr ""
+msgstr "CHARGE BEAM"
 
 #: Move/Volt Switch:250
 msgid "VOLT SWITCH"
-msgstr ""
+msgstr "VOLT SWITCH"
 
 #: Move/Wild Charge:251
 msgid "WILD CHARGE"
-msgstr ""
+msgstr "WILD CHARGE"
 
 #: Move/Zap Cannon:252
 msgid "ZAP CANNON"
-msgstr ""
+msgstr "ZAP CANNON"
 
 #: Move/Dragon Tail:253
 msgid "DRAGON TAIL"
-msgstr ""
+msgstr "DRAGON TAIL"
 
 #: Move/Avalanche:254
 msgid "AVALANCHE"
-msgstr ""
+msgstr "AVALANCHE"
 
 #: Move/Air Slash:255
 msgid "AIR SLASH"
-msgstr ""
+msgstr "AIR SLASH"
 
 #: Move/Brave Bird:256
 msgid "BRAVE BIRD"
-msgstr ""
+msgstr "BRAVE BIRD"
 
 #: Move/Sky Attack:257
 msgid "SKY ATTACK"
-msgstr ""
+msgstr "SKY ATTACK"
 
 #: Move/Sand Tomb:258
 msgid "SAND TOMB"
-msgstr ""
+msgstr "SAND TOMB"
 
 #: Move/Rock Blast:259
 msgid "ROCK BLAST"
-msgstr ""
+msgstr "ROCK BLAST"
 
 #: Move/Infestation:260
 msgid "INFESTATION"
-msgstr ""
+msgstr "INFESTATION"
 
 #: Move/Struggle Bug:261
 msgid "STRUGGLE BUG"
-msgstr ""
+msgstr "STRUGGLE BUG"
 
 #: Move/Silver Wind:262
 msgid "SILVER WIND"
-msgstr ""
+msgstr "SILVER WIND"
 
 #: Move/Astonish:263
 msgid "ASTONISH"
-msgstr ""
+msgstr "ASTONISH"
 
 #: Move/Hex:264
 msgid "HEX"
-msgstr ""
+msgstr "HEX"
 
 #: Move/Night Shade:265
 msgid "NIGHT SHADE"
-msgstr ""
+msgstr "NIGHT SHADE"
 
 #: Move/Iron Tail:266
 msgid "IRON TAIL"
-msgstr ""
+msgstr "IRON TAIL"
 
 #: Move/Gyro Ball:267
 msgid "GYRO BALL"
-msgstr ""
+msgstr "GYRO BALL"
 
 #: Move/Heavy Slam:268
 msgid "HEAVY SLAM"
-msgstr ""
+msgstr "HEAVY SLAM"
 
 #: Move/Fire Spin:269
 msgid "FIRE SPIN"
-msgstr ""
+msgstr "FIRE SPIN"
 
 #: Move/Overheat:270
 msgid "OVERHEAT"
-msgstr ""
+msgstr "OVERHEAT"
 
 #: Move/Bullet Seed:271
 msgid "BULLET SEED"
-msgstr ""
+msgstr "BULLET SEED"
 
 #: Move/Grass Knot:272
 msgid "GRASS KNOT"
-msgstr ""
+msgstr "GRASS KNOT"
 
 #: Move/Energy Ball:273
 msgid "ENERGY BALL"
-msgstr ""
+msgstr "ENERGY BALL"
 
 #: Move/Extrasensory:274
 msgid "EXTRASENSORY"
-msgstr ""
+msgstr "EXTRASENSORY"
 
 #: Move/Futuresight:275
 msgid "FUTURESIGHT"
-msgstr ""
+msgstr "FUTURESIGHT"
 
 #: Move/Mirror Coat:276
 msgid "MIRROR COAT"
-msgstr ""
+msgstr "MIRROR COAT"
 
 #: Move/Outrage:277
 msgid "OUTRAGE"
-msgstr ""
+msgstr "OUTRAGE"
 
 #: Move/Snarl:278
 msgid "SNARL"
-msgstr ""
+msgstr "SNARL"
 
 #: Move/Crunch:279
 msgid "CRUNCH"
-msgstr ""
+msgstr "CRUNCH"
 
 #: Move/Foul Play:280
 msgid "FOUL PLAY"
-msgstr ""
+msgstr "FOUL PLAY"
 
 #: Move/Hidden Power:281
 msgid "HIDDEN POWER"
-msgstr ""
+msgstr "HIDDEN POWER"
 
 #: Type/Normal:1
 msgid "normal"

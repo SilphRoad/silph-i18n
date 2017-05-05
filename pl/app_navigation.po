@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-03 16:55-0400\n"
+"POT-Creation-Date: 2017-05-05 11:06-0400\n"
 "PO-Revision-Date: 2017-05-05 13:18+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -23,132 +23,132 @@ msgid "Toggle navigation"
 msgstr ""
 
 #: View/Atlas/index.ctp:668;672;725;729
-#: View/Helper/TopNavHelper.php:37;41;106;110
+#: View/Helper/TopNavHelper.php:38;42;107;111
 msgid "Tools"
 msgstr "Narzędzia"
 
 #: View/Atlas/index.ctp:669;726
-#: View/Helper/TopNavHelper.php:38;107
+#: View/Helper/TopNavHelper.php:39;108
 msgid "Resources"
 msgstr "Zasoby"
 
 #: View/Atlas/index.ctp:673;730
-#: View/Helper/TopNavHelper.php:42;111
+#: View/Helper/TopNavHelper.php:43;112
 msgid "Global Pokedex"
 msgstr ""
 
 #: View/Atlas/index.ctp:674;731
-#: View/Helper/TopNavHelper.php:43;112
+#: View/Helper/TopNavHelper.php:44;113
 msgid "IV Rater"
 msgstr "Kalkulator IV"
 
 #: View/Atlas/index.ctp:675;732
-#: View/Helper/TopNavHelper.php:44;113
+#: View/Helper/TopNavHelper.php:45;114
 msgid "Reference Tables"
 msgstr "Tabele informacyjne"
 
 #: View/Atlas/index.ctp:676;733
-#: View/Helper/TopNavHelper.php:45;114
+#: View/Helper/TopNavHelper.php:46;115
 msgid "Moves By DPS"
 msgstr "Ataki wg DPS"
 
 # Should be as short as possible
 #: View/Atlas/index.ctp:677;734
-#: View/Helper/TopNavHelper.php:46;115
+#: View/Helper/TopNavHelper.php:47;116
 msgid "Species Base Stats"
 msgstr "Bazowe statystyki gatunków"
 
 #: View/Atlas/index.ctp:678;735
-#: View/Helper/TopNavHelper.php:47;116
+#: View/Helper/TopNavHelper.php:48;117
 msgid "Egg Distances"
 msgstr ""
 
 #: View/Atlas/index.ctp:679;736
-#: View/Helper/TopNavHelper.php:48;117
+#: View/Helper/TopNavHelper.php:49;118
 msgid "Buddy Candy"
 msgstr ""
 
 #: View/Atlas/index.ctp:680;737
-#: View/Helper/TopNavHelper.php:49;118
+#: View/Helper/TopNavHelper.php:50;119
 msgid "Trainer Levels"
 msgstr "Poziomy trenera"
 
 #: View/Atlas/index.ctp:681;738
-#: View/Helper/TopNavHelper.php:50;119
+#: View/Helper/TopNavHelper.php:51;120
 msgid "Earning XP"
 msgstr "Zdobywanie XP"
 
 # This is a string in the main site - there is very little place ther, so we cannot use anything like "Porady + nowości"/"Wskazówki + wiadomości"
 #: View/Atlas/index.ctp:687;749
-#: View/Helper/TopNavHelper.php:63;130
+#: View/Helper/TopNavHelper.php:64;131
 msgid "Tips + News"
 msgstr "Informacje"
 
 #: View/Atlas/index.ctp:688;750
-#: View/Helper/TopNavHelper.php:64;131
+#: View/Helper/TopNavHelper.php:65;132
 msgid "For Pokemon GO"
 msgstr "Dla Pokemon GO"
 
 #: View/Atlas/index.ctp:694;755
-#: View/Helper/TopNavHelper.php:77;142
+#: View/Helper/TopNavHelper.php:78;143
 msgid "Science"
 msgstr "Odkrycia"
 
 #: View/Atlas/index.ctp:695;756
-#: View/Helper/TopNavHelper.php:78;143
+#: View/Helper/TopNavHelper.php:79;144
 msgid "New Research"
 msgstr "Nowe badanie"
 
 #: View/Atlas/index.ctp:701;761
-#: View/Helper/TopNavHelper.php:148
+#: View/Helper/TopNavHelper.php:149
 msgid "Field Manual"
 msgstr ""
 
 #: View/Atlas/index.ctp:702;762
-#: View/Helper/TopNavHelper.php:149
+#: View/Helper/TopNavHelper.php:150
 msgid "Up-to-date Guide"
 msgstr "Aktualny poradnik"
 
 #: View/Atlas/index.ctp:708;767
-#: View/Helper/TopNavHelper.php:93;154
+#: View/Helper/TopNavHelper.php:94;155
 msgid "Log Out"
 msgstr "Wyloguj się"
 
 #: View/Atlas/index.ctp:708;767
-#: View/Helper/TopNavHelper.php:93;154
+#: View/Helper/TopNavHelper.php:94;155
 msgid "Authenticate"
 msgstr "Uwierzytelnij"
 
 #: View/Atlas/index.ctp:708
-#: View/Helper/TopNavHelper.php:93
+#: View/Helper/TopNavHelper.php:94
 msgid "Log In"
 msgstr "Zaloguj się"
 
 #: View/Atlas/index.ctp:709;768
-#: View/Helper/TopNavHelper.php:94;155
+#: View/Helper/TopNavHelper.php:95;156
 msgid "Time to GO!"
 msgstr "Czas znikać!"
 
 #: View/Atlas/index.ctp:709;768
-#: View/Helper/TopNavHelper.php:94;155
+#: View/Helper/TopNavHelper.php:95;156
 msgid "For Travelers"
 msgstr "Dla podróżników"
 
 #: View/Atlas/index.ctp:743
-#: View/Helper/TopNavHelper.php:56;124
+#: View/Helper/TopNavHelper.php:57;125
 msgid "Nest Atlas"
 msgstr "Atlas gniazd"
 
 #: View/Atlas/index.ctp:744
-#: View/Helper/TopNavHelper.php:57;125
+#: View/Helper/TopNavHelper.php:58;126
 msgid "Known Nest Map"
 msgstr ""
 
-#: View/Helper/TopNavHelper.php:70;136
+#: View/Helper/TopNavHelper.php:71;137
 msgid "Pursue"
 msgstr ""
 
-#: View/Helper/TopNavHelper.php:71;137
+#: View/Helper/TopNavHelper.php:72;138
 msgid "Tracking Aide"
 msgstr ""
 

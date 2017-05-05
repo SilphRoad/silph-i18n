@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-03 16:55-0400\n"
+"POT-Creation-Date: 2017-05-05 11:06-0400\n"
 "PO-Revision-Date: 2017-05-05 14:23+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -173,6 +173,10 @@ msgstr "Czas trwania (ms)"
 msgid "Energy Gain/Sec."
 msgstr ""
 
+#: View/Pages/moves.ctp:177
+msgid "%s / Energy:"
+msgstr ""
+
 #: View/Pages/moves.ctp:198
 msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
@@ -269,7 +273,7 @@ msgstr "Wysokość:"
 msgid "Weight:"
 msgstr "Waga:"
 
-#: View/Pages/species_stats.ctp:209
+#: View/Pages/species_stats.ctp:213
 msgid "Max CP"
 msgstr "Maks. CP"
 

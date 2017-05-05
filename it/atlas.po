@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-04 18:35+0000\n"
+"PO-Revision-Date: 2017-05-04 21:45+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493922937.115037\n"
+"X-POOTLE-MTIME: 1493934311.019985\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -41,7 +41,7 @@ msgstr "&laquo; Altro"
 
 #: View/Atlas/index.ctp:599
 msgid "Report Sighting"
-msgstr "Segnala un Avvistamento!"
+msgstr "Segnala un Avvistamento"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"

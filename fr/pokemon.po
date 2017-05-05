@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-03 22:59+0000\n"
+"PO-Revision-Date: 2017-05-05 15:03+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493852388.245024\n"
+"X-POOTLE-MTIME: 1493996585.523136\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -422,7 +422,7 @@ msgstr "électrode"
 
 #: Pokemon/Exeggcute:102
 msgid "exeggcute"
-msgstr "nœunœuf"
+msgstr "noeunoeuf"
 
 #: Pokemon/Exeggutor:103
 msgid "exeggutor"
@@ -2662,7 +2662,7 @@ msgstr "VAMPIBAISER"
 
 #: Move/Dazzling Gleam:86
 msgid "DAZZLING GLEAM"
-msgstr "ECLAT MAGIQUE "
+msgstr "ECLAT MAGIQUE"
 
 #: Move/Moonblast:87
 msgid "MOONBLAST"
@@ -2810,11 +2810,11 @@ msgstr "LUTTE"
 
 #: Move/Scald Blastoise:134
 msgid "SCALD BLASTOISE"
-msgstr "EBULLITION TORTANK"
+msgstr "EBULLITION (TORTANK)"
 
 #: Move/Hydro Pump Blastoise:135
 msgid "HYDRO PUMP BLASTOISE"
-msgstr "HYDROCANON TORTANK"
+msgstr "HYDROCANON (TORTANK)"
 
 #: Move/Wrap Green:136
 msgid "WRAP GREEN"
@@ -3114,7 +3114,7 @@ msgstr "BALLE GRAINE"
 
 #: Move/Grass Knot:272
 msgid "GRASS KNOT"
-msgstr "NŒUD'HERBE"
+msgstr "NOEUD'HERBE"
 
 #: Move/Energy Ball:273
 msgid "ENERGY BALL"

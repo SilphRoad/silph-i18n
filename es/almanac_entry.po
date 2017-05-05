@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-04 21:03+0000\n"
+"PO-Revision-Date: 2017-05-04 22:01+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493931782.791233\n"
+"X-POOTLE-MTIME: 1493935291.683899\n"
 
 #: COMMENT
 msgid "Height:"
@@ -68,116 +68,119 @@ msgstr "Expandir el mapa para desplazar o hacer zoom"
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "¡No hay informes de avistamientos aún!"
 
 #: COMMENT
 msgid "Quick Moves"
-msgstr ""
+msgstr "Movimientos simples"
 
 #: COMMENT
 msgid "DPS"
-msgstr ""
+msgstr "DPS"
 
 #: COMMENT
 msgid "Pow."
-msgstr ""
+msgstr "Potencia"
 
 #: COMMENT
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: COMMENT
 msgid "EPS:"
-msgstr ""
+msgstr "EPS:"
 
 #: COMMENT
 msgid "Type Bonus!"
-msgstr ""
+msgstr "¡Bonificación por tipo!"
 
 #: COMMENT
 msgid "Charge Moves"
-msgstr ""
+msgstr "Movimientos especiales"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr ""
+msgstr "Movimientos con el mismo"
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "tipo"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
+"ya que un Pokémon recibe un 25% de aumento llamado Bonificación por Ataque "
+"del Mismo Tipo (STAB)! ¡Estas bonificaciones ya se tienen en cuenta en los "
+"cálculos de arriba!"
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr ""
+msgstr "¡Sin movimientos conocidos aún!"
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "¡Ningún"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr ""
+msgstr "espécimen ha sido capturado aún por los investigadores de Silph!"
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "¡Sé el primero!"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr ""
+msgstr "Distancia de compañero"
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr ""
+msgstr "Caramelos para evolucionar"
 
 #: COMMENT
 msgid "Base Capture Rate"
-msgstr ""
+msgstr "Ratio de captura base"
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr ""
+msgstr "Eficaz sobre"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr ""
+msgstr "Débil contra"
 
 #: COMMENT
 msgid "Offence"
-msgstr ""
+msgstr "Ataque"
 
 #: COMMENT
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #: COMMENT
 msgid "Defence"
-msgstr ""
+msgstr "Defensa"
 
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"
-msgstr ""
+msgstr "*¡Las recomendaciones de eficacia por tipo están en desarrollo!"
 
 #: COMMENT
 msgid "Improved recommendations coming soon."
-msgstr ""
+msgstr "Recomendaciones mejoradas próximamente."
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr ""
+msgstr "Investigadores destacados"
 
 #: COMMENT
 msgid "Most Sightings"
-msgstr ""
+msgstr "Mayoría de avistamientos"
 
 #: COMMENT
 msgid "Strongest Specimen"
-msgstr ""
+msgstr "Espécimen más fuerte"
 
 #: COMMENT
 msgid "- No Sightings -"
-msgstr ""
+msgstr "- Sin avistamientos -"

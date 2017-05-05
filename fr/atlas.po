@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-04 20:55+0000\n"
+"PO-Revision-Date: 2017-05-05 14:06+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493931302.526814\n"
+"X-POOTLE-MTIME: 1493993160.820361\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -55,7 +55,7 @@ msgstr "Nids Pokémon GO"
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
 "<a href=\"%s\">Rejoignez The Silph Road</a> et aidez à répertorier les nids "
-"près de chez vous!  L'Atlas Mondial est un ensemble de compte rendus des "
+"près de chez vous !  L'Atlas Mondial est un ensemble de compte rendus des "
 "membres de The Silph Road réalisés sur le terrain."
 
 #: View/Atlas/index.ctp:622
@@ -98,7 +98,7 @@ msgstr "Appel aux Bêta Testeurs"
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
 msgstr ""
-"Aidez nous à tester le NOUVEAU système de communication locale de l'Atlas: "
+"Aidez nous à tester le NOUVEAU système de communication locale de l'Atlas : "
 "le Réseau du <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> ! "
 "Les voyageurs de Manhattan sont invités !"
 
@@ -112,7 +112,7 @@ msgstr "En Savoir Plus »"
 
 #: View/Atlas/index.ctp:804
 msgid "Predictable Nests"
-msgstr "Nids Prévisibles"
+msgstr "Nids Répertoriés"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
@@ -136,7 +136,7 @@ msgstr "Obsolète"
 
 #: View/Atlas/index.ctp:838
 msgid "Cluster"
-msgstr "Groupe"
+msgstr "Groupe d'Apparition"
 
 #: View/Atlas/index.ctp:839
 msgid "Frequent Spawn Area"
@@ -184,7 +184,7 @@ msgstr "Oui ! J'ai trouvé cette espèce ici :"
 
 #: View/Atlas/index.ctp:913
 msgid "Report!"
-msgstr "Rapporter !"
+msgstr "Soumettre !"
 
 #: View/Atlas/index.ctp:923
 msgid "What Type of Nest Did You Find Here?"
@@ -193,8 +193,9 @@ msgstr "Quel Type de Nid Avez-Vous Trouvé Ici ?"
 #: View/Atlas/index.ctp:933
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
 msgstr ""
-"Plusieurs apparaissent sur la carte <span style=\"text-decoration: underline;"
-"\">en même temps</span> en moins d'une heure (au même moment)"
+"Plusieurs Pokémons de même espèce apparaissent <span style=\"text-decoration:"
+" underline;\">en même temps</span> sur la carte, en moins d'une heure (au "
+"même moment)"
 
 #: View/Atlas/index.ctp:943;1136
 msgid "Frequent Spawn <em>Area</em>"
@@ -203,9 +204,9 @@ msgstr "<em>Zone</em> d'Apparition Fréquente"
 #: View/Atlas/index.ctp:945;1138
 msgid "Semi-frequent spawning over a small area (typically non-concurrent) <br>Examples: riverbanks/piers, a large golfcourse, 3-5 city blocks, etc"
 msgstr ""
-"Apparitions semi-fréquentes dans une petite zone (typiquement non-"
-"concurrente) <br>Exemples: Bords de rivières/digues, un grand terrain de "
-"Golf, entre 3 et 5 immeubles, etc"
+"Apparitions semi-fréquentes dans une petite zone (généralement non-"
+"simultanées) <br>Exemples: Bords de rivières/quais, grand terrain de golf, "
+"zone de 3 à 5 pâtés de maison, etc"
 
 #: View/Atlas/index.ctp:955;1148
 msgid "Frequent Spawn <em>Point</em>"
@@ -214,8 +215,8 @@ msgstr "<em>Point</em> d'Apparition Fréquent"
 #: View/Atlas/index.ctp:957
 msgid "A single location that frequently spawns a rare/uncommon species <span style='text-decoration:underline'>multiple times a day"
 msgstr ""
-"Un lieu seul où apparaissent régulièrement des espèces rares/peu communes <"
-"span style='text-decoration:underline'>plusieurs fois par jour"
+"Un point précis où apparait régulièrement une espèce rare/peu commune <span "
+"style='text-decoration:underline'>plusieurs fois par jour"
 
 #: View/Atlas/index.ctp:963;1001
 msgid "&laquo; Back"
@@ -232,10 +233,10 @@ msgstr "Avez-vous des informations pouvant aider de futurs voyageurs ?"
 #: View/Atlas/index.ctp:973
 msgid "For example, how many did you encounter? How long were you there? What specific spot did you see a spawn? What exact times did you observe spawns?  Etc.  Anything that might be useful to future travelers!"
 msgstr ""
-"Par exemple, combien en avez-vous rencontré ? Combien de temps étiez-vous là-"
-"bas ? À quel endroit spécifique avez-vous vu une apparition ? À quelle heure "
-"précise avez-vous observé les apparitions ? Etc. Toutes informations pouvant "
-"être utiles pour de futurs voyageurs !"
+"Par exemple, combien en avez-vous rencontré ? Combien de temps êtes vous "
+"resté là-bas ? À quel endroit précis avez-vous vu ce/ces Pokémon(s) ? À "
+"quelle heure précise avez-vous observé ce/ces Pokémon(s) ? Etc. Toutes "
+"informations pouvant être utiles pour de futurs voyageurs !"
 
 #: View/Atlas/index.ctp:974
 msgid "Helpful comments for future travelers..."
@@ -561,7 +562,7 @@ msgstr "Votre appareil/navigateur ne supporte pas la géolocalisation ! :("
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
 "Wow, voyageur - Il y a trop d'observations à afficher à cette échelle. "
-"Zoomez pour plus de détail."
+"Zoomez pour plus de détails."
 
 #: View/Atlas/index.ctp:1612
 msgid "Whoa, traveler - There are too many nests to show at this height. Zoom in for more detail."
@@ -575,7 +576,7 @@ msgstr "Récupération des Rapports de Terrain..."
 
 #: View/Atlas/index.ctp:1630
 msgid "Consulting Silph Scope..."
-msgstr ""
+msgstr "Inspection aux Jumelles Silph"
 
 #: View/Atlas/index.ctp:1630;1637
 msgid "Learning PokeFlute..."

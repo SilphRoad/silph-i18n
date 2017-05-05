@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-04 20:53+0000\n"
+"PO-Revision-Date: 2017-05-04 21:20+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493931210.400273\n"
+"X-POOTLE-MTIME: 1493932826.460004\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -2234,7 +2234,7 @@ msgstr "darumaka"
 
 #: Pokemon/Darmanitan-standard:555
 msgid "darmanitan-standard"
-msgstr "darmanitan-normalità"
+msgstr "darmanitan-normale"
 
 #: Pokemon/Maractus:556
 msgid "maractus"
@@ -2630,7 +2630,7 @@ msgstr "CARICAPARABOLA"
 
 #: Move/Thunder Punch:77
 msgid "THUNDER PUNCH"
-msgstr "TUONO PUGNO"
+msgstr "TUONOPUGNO"
 
 #: Move/Thunder:78
 msgid "THUNDER"
@@ -2658,7 +2658,7 @@ msgstr "INCANTAVOCE"
 
 #: Move/Draining Kiss:85
 msgid "DRAINING KISS"
-msgstr "BACIORISUCCHIO"
+msgstr "ASSORBIBACIO"
 
 #: Move/Dazzling Gleam:86
 msgid "DAZZLING GLEAM"
@@ -2998,7 +2998,7 @@ msgstr "TRASFORMAZIONE"
 
 #: Move/Counter:243
 msgid "COUNTER"
-msgstr "CONTATORE"
+msgstr "CONTRATTACCO"
 
 #: Move/Powder Snow:244
 msgid "POWDER SNOW"
@@ -3066,7 +3066,7 @@ msgstr "CADUTAMASSI"
 
 #: Move/Infestation:260
 msgid "INFESTATION"
-msgstr "INFESTAZIONE"
+msgstr "ASSILLO"
 
 #: Move/Struggle Bug:261
 msgid "STRUGGLE BUG"
@@ -3202,7 +3202,7 @@ msgstr "erba"
 
 #: Type/Electric:13
 msgid "electric"
-msgstr "elettrico"
+msgstr "elettro"
 
 #: Type/Psychic:14
 msgid "psychic"
@@ -3218,7 +3218,7 @@ msgstr "drago"
 
 #: Type/Dark:17
 msgid "dark"
-msgstr "ombra"
+msgstr "buio"
 
 #: Type/Fairy:18
 msgid "fairy"

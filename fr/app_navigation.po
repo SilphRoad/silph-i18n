@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-04 19:34+0000\n"
+"PO-Revision-Date: 2017-05-05 13:33+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493926465.021098\n"
+"X-POOTLE-MTIME: 1493991203.572182\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -29,12 +29,12 @@ msgstr "Outils"
 #: View/Atlas/index.ctp:669;726
 #: View/Helper/TopNavHelper.php:38;107
 msgid "Resources"
-msgstr "Ressources"
+msgstr "Informations"
 
 #: View/Atlas/index.ctp:673;730
 #: View/Helper/TopNavHelper.php:42;111
 msgid "Global Pokedex"
-msgstr "Pokédex Global"
+msgstr "Pokédex Mondial"
 
 #: View/Atlas/index.ctp:674;731
 #: View/Helper/TopNavHelper.php:43;112
@@ -59,12 +59,12 @@ msgstr "Stats de Base des Espèces"
 #: View/Atlas/index.ctp:678;735
 #: View/Helper/TopNavHelper.php:47;116
 msgid "Egg Distances"
-msgstr "Distances des Oeufs"
+msgstr "Contenu des Oeufs"
 
 #: View/Atlas/index.ctp:679;736
 #: View/Helper/TopNavHelper.php:48;117
 msgid "Buddy Candy"
-msgstr "Bonbons par Copain"
+msgstr "Distance par Copain"
 
 #: View/Atlas/index.ctp:680;737
 #: View/Helper/TopNavHelper.php:49;118
@@ -139,11 +139,11 @@ msgstr "Atlas des Nids"
 #: View/Atlas/index.ctp:744
 #: View/Helper/TopNavHelper.php:57;125
 msgid "Known Nest Map"
-msgstr "Carte des Nids Connus"
+msgstr "Carte des Nids Répertoriés"
 
 #: View/Helper/TopNavHelper.php:70;136
 msgid "Pursue"
-msgstr "Chasser"
+msgstr "Traquer"
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Tracking Aide"

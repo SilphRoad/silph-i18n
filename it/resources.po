@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-03 20:46+0000\n"
+"PO-Revision-Date: 2017-05-04 21:56+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493844385.152894\n"
+"X-POOTLE-MTIME: 1493935008.193592\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -482,7 +482,7 @@ msgstr "Superpozioni"
 msgid "Poke Ball (x20), Super Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
 msgstr ""
 "Poke Ball (x20), Superpozione (x20), Revitalizzante (x10), Baccalampon (x10)"
-", Aroma, Fortunovo, Incubatrice, Modulo Esca"
+", Aroma, Fortunuovo, Incubatrice, Modulo Esca"
 
 #: View/Pages/trainer_levels.ctp:173
 msgid "55,000"
@@ -907,7 +907,7 @@ msgstr "Cattura di Un Pokemon"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
-msgstr "Eccellente! bonus tiro"
+msgstr "Eccellente! bonus lancio"
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"

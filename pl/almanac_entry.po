@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-04 14:56+0000\n"
+"PO-Revision-Date: 2017-05-05 13:39+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493909779.112385\n"
+"X-POOTLE-MTIME: 1493991578.540048\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr "Wzrost:"
+msgstr "Wysokość:"
 
 #: COMMENT
 msgid "Weight:"
@@ -47,16 +47,15 @@ msgstr "Zaobserwowane"
 
 #: COMMENT
 msgid "Hold Up:"
-msgstr ""
+msgstr "Wstrzymaj się:"
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
-msgstr ""
-"Gniazda właśnie przechodzą globalne zmiany! Czekaj na więcej informacji."
+msgstr "Gniazda właśnie są zmieniane! Więcej informacji już wkrótce."
 
 #: COMMENT
 msgid "Map Loading"
-msgstr "Ładowanie mapy"
+msgstr "Wczytywanie mapy"
 
 #: COMMENT
 msgid "Search Box"
@@ -80,15 +79,15 @@ msgstr "DPS"
 
 #: COMMENT
 msgid "Pow."
-msgstr ""
+msgstr "Moc"
 
 #: COMMENT
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: COMMENT
 msgid "EPS:"
-msgstr ""
+msgstr "EPS:"
 
 #: COMMENT
 msgid "Type Bonus!"
@@ -96,7 +95,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Charge Moves"
-msgstr ""
+msgstr "Mocne ataki"
 
 #: COMMENT
 msgid "Moves with the same"
@@ -112,7 +111,7 @@ msgstr ""
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr ""
+msgstr "Brak znanych ataków!"
 
 #: COMMENT
 msgid "No"
@@ -132,44 +131,43 @@ msgstr ""
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr ""
+msgstr "Cukierki na ewolucję"
 
 #: COMMENT
 msgid "Base Capture Rate"
-msgstr ""
+msgstr "Bazowa szansa na złapanie"
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr ""
+msgstr "Mocny przeciw"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr ""
+msgstr "Słaby przeciw"
 
 #: COMMENT
 msgid "Offence"
-msgstr ""
+msgstr "Atak"
 
 #: COMMENT
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: COMMENT
-#, fuzzy
 msgid "Defence"
 msgstr "Obrona"
 
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"
-msgstr ""
+msgstr "*Tworzymy sugestie dotyczące efektywności typów!"
 
 #: COMMENT
 msgid "Improved recommendations coming soon."
-msgstr ""
+msgstr "Poprawione sugestie będą dostępne wkrótce."
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr ""
+msgstr "Czołowi badacze"
 
 #: COMMENT
 msgid "Most Sightings"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: 2017-05-04 20:53+0000\n"
+"PO-Revision-Date: 2017-05-05 14:05+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493931189.197085\n"
+"X-POOTLE-MTIME: 1493993133.708157\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -26,10 +26,10 @@ msgstr "Exigences pour le Bonbon du Copain de Pokémon GO | The Silph Road"
 #: View/Pages/xp_earning.ctp:6
 msgid "The Silph Road Research group has compiled the following resources to help you on your adventures, travelers! Enjoy comprehensive species attack/defense stats, and more..."
 msgstr ""
-"Le groupe de Recherche de The Silph Road a compilé les ressources suivantes "
-"pour vous aider dans vos aventures, voyageurs ! Bénéficiez d'informations "
-"détaillées sur les statistiques d'attaque/défense d'une espèce, et plus "
-"encore..."
+"The Silph Road et son groupe de recherche ont compilé les informations "
+"suivantes pour aider les voyageurs dans leurs aventures! Bénéficiez "
+"d'informations détaillées sur les statistiques d'attaque/défense d'une "
+"espèce, et plus encore..."
 
 #: View/Pages/buddy_candy.ctp:12
 msgid "Pokemon GO Buddy Candy Requirements"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:93
 msgid "5 KMs Per Candy Reward"
-msgstr "5km par Bonbon Récompense"
+msgstr "Gain de bonbon par 5 km parcouru"
 
 #: View/Pages/buddy_candy.ctp:111;219
 #: View/Pages/egg_distances.ctp:188
@@ -71,7 +71,7 @@ msgstr "5km"
 
 #: View/Pages/buddy_candy.ctp:128
 msgid "3 KMs Per Candy Reward"
-msgstr "3km par Bonbon Récompense"
+msgstr "Gain de bonbon par 3 km parcouru"
 
 #: View/Pages/buddy_candy.ctp:147
 msgid "3km"
@@ -79,7 +79,7 @@ msgstr "3km"
 
 #: View/Pages/buddy_candy.ctp:164
 msgid "1 KM Per Candy Reward"
-msgstr "1km par Bonbon Récompense"
+msgstr "Gain de bonbon par 1 km parcouru"
 
 #: View/Pages/buddy_candy.ctp:183
 msgid "1km"
@@ -87,11 +87,11 @@ msgstr "1km"
 
 #: View/Pages/buddy_candy.ctp:200
 msgid "Unavailable KM Per Candy Rewards"
-msgstr "Km par Bonbon Récompense Inconnu"
+msgstr "Gain de bonbon par KM parcouru inconnu"
 
 #: View/Pages/egg_distances.ctp:2;11
 msgid "Pokemon GO Egg Distance Chart | The Silph Road"
-msgstr "Tableau de Distance par Œuf dans Pokémon GO | The Silph Road"
+msgstr "Tableau de Distance par Oeuf dans Pokémon GO | The Silph Road"
 
 #: View/Pages/egg_distances.ctp:5;12
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
@@ -102,7 +102,7 @@ msgstr ""
 
 #: View/Pages/egg_distances.ctp:80
 msgid "Pokemon Go Egg Distance List"
-msgstr "Liste des Œufs par Distance dans Pokemon GO"
+msgstr "Oeufs et Distance à Parcourir dans Pokemon GO"
 
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
@@ -132,11 +132,11 @@ msgstr "10km"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
-msgstr "Parfait :"
+msgstr "Parfait:"
 
 #: View/Pages/egg_distances.ctp:147;211;276
 msgid "Worst:"
-msgstr "Pire :"
+msgstr "Pire:"
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
@@ -200,7 +200,7 @@ msgstr "Energie Générée/Sec."
 msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
 "Aucun Chercheur de Silph Road n'a enregistré un pokémon sauvage avec cette "
-"attaque! (Certaines espèces peuvent évoluer ou éclore avec cette attaque!)"
+"attaque! (Certaines espèces peuvent évoluer ou éclore avec cette attaque !)"
 
 #: View/Pages/moves.ctp:212
 msgid "Charge/Special Moves"
@@ -225,7 +225,7 @@ msgstr "Dégat (Puissance) Pour une Barre d'Energie Complète"
 msgid "No Silph Researchers have encountered a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
 "Aucun Chercheur de Silph Road n'a rencontré un pokémon sauvage avec cette "
-"attaque ! (Certaines espèces peuvent évoluer ou éclore avec cette capacité!)"
+"attaque ! (Certaines espèces peuvent évoluer ou éclore avec cette attaque !)"
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
@@ -280,7 +280,7 @@ msgstr "TRIER PAR :"
 
 #: View/Pages/species_stats.ctp:157
 msgid "Max Potential CP"
-msgstr "PC Max Potentiel"
+msgstr "PC Max"
 
 #: View/Pages/species_stats.ctp:158
 msgid "Species Number"
@@ -345,7 +345,7 @@ msgstr "Récompenses & exigences des Niveaux de Dresseur dans Pokémon GO"
 
 #: View/Pages/trainer_levels.ctp:80
 msgid "Trainer Level Requirements + Bonuses"
-msgstr "Exigence Requise par Niveau de Dresseur + Bonus"
+msgstr "Exigence Requise par Niveau de Dresseur + Gain"
 
 #: View/Pages/trainer_levels.ctp:82
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
@@ -859,23 +859,23 @@ msgstr "Action"
 
 #: View/Pages/xp_earning.ctp:91
 msgid "Curveball Bonus"
-msgstr "Bonus de Lancer à Effet"
+msgstr "Lancer avec Effet"
 
 #: View/Pages/xp_earning.ctp:95
 msgid "Nice! throw bonus"
-msgstr "Bonus de lancer \"Joli !\""
+msgstr "Lancer \"Joli !\""
 
 #: View/Pages/xp_earning.ctp:99
 msgid "Pokemon Ran Away"
-msgstr "Le Pokémon s'est Enfui"
+msgstr "Fuite d'un Pokémon"
 
 #: View/Pages/xp_earning.ctp:103
 msgid "Great! throw bonus"
-msgstr "Bonus de Lancer \"Génial !\""
+msgstr "Lancer \"Génial !\""
 
 #: View/Pages/xp_earning.ctp:107
 msgid "First Throw Bonus for Catching Pokemon in One Ball"
-msgstr "Bonus de Lancer pour Avoir Attrapé le Pokémon dès la Première Pokéball"
+msgstr "Capture dès la Première Pokéball"
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
@@ -883,7 +883,7 @@ msgstr "Interaction avec un Pokéstop"
 
 #: View/Pages/xp_earning.ctp:115
 msgid "10<sup>th</sup> Unique Pokestop Bonus"
-msgstr "Bonus du 10<sup>ème</sup> Pokéstop Unique"
+msgstr "10<sup>ème</sup> Pokéstop Unique Visité"
 
 #: View/Pages/xp_earning.ctp:119
 msgid "Successful Pokemon Capture"
@@ -891,7 +891,7 @@ msgstr "Capture du Pokémon Réussie"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
-msgstr "Bonus de Lancer \"Excellent !\""
+msgstr "Lancer \"Excellent !\""
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
@@ -915,7 +915,7 @@ msgstr "Ajout d'un nouveau Pokémon au Pokédex"
 
 #: View/Pages/xp_earning.ctp:147
 msgid "Evolve a Pokemon"
-msgstr "Evolution d'un Pokemon"
+msgstr "Evolution d'un Pokémon"
 
 #: View/Pages/xp_earning.ctp:151
 msgid "Use an Evolution Item"
@@ -927,7 +927,7 @@ msgstr "Premier Pokéstop du Jour"
 
 #: View/Pages/xp_earning.ctp:159
 msgid "First Pokemon Catch of the Day"
-msgstr "Première Capture d'un Pokemon de la Journée"
+msgstr "Première Capture d'un Pokémon de la Journée"
 
 #: View/Pages/xp_earning.ctp:162;166
 msgid "2,500"
@@ -935,11 +935,11 @@ msgstr "2 500"
 
 #: View/Pages/xp_earning.ctp:163
 msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
-msgstr "Bonus de Série pour 7 Captures Quotidiennes Consécutives de Pokémon"
+msgstr "Série de 7 Captures Quotidiennes Consécutives de Pokémon"
 
 #: View/Pages/xp_earning.ctp:167
 msgid "Streak Bonus for 7 Consecutive Daily Pokestop Spins"
-msgstr "Bonus de Série pour avoir Tourné un Pokéstop 7 Jours Consécutifs"
+msgstr "Série de 7 Pokéstop Quotidiens Consécutifs"
 
 #: View/Pages/xp_earning.ctp:171
 msgid "Train at a Gym (Less for using an overpowered 'mon)"

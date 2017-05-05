@@ -5,19 +5,21 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-05 14:23+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493994182.561151\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
-msgstr ""
+msgstr "Pokemon GO - potrzebne cukierki | The Silph Road"
 
 #: View/Pages/buddy_candy.ctp:6;13
 #: View/Pages/moves.ctp:6
@@ -25,6 +27,9 @@ msgstr ""
 #: View/Pages/xp_earning.ctp:6
 msgid "The Silph Road Research group has compiled the following resources to help you on your adventures, travelers! Enjoy comprehensive species attack/defense stats, and more..."
 msgstr ""
+"Grupa Badawcza The Silph Road zebrała następujące zasoby, aby pomóc Wam "
+"podczas waszych przygód, podróżnicy! Do waszej dyspozycji są obszerene "
+"statystyki ataku/obrony i inne..."
 
 #: View/Pages/buddy_candy.ctp:12
 msgid "Pokemon GO Buddy Candy Requirements"
@@ -38,10 +43,12 @@ msgstr ""
 #: View/Pages/xp_earning.ctp:61;217
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Dlaczego reklamy?</b> Narzędzia badawcze TheSilphRoad.com generują "
+"ogromny ruch, więc aby wszystko mogło działać, potrzebne są pieniądze!"
 
 #: View/Pages/buddy_candy.ctp:81
 msgid "Buddy Pokemon KM Per Candy in Pokemon GO"
-msgstr ""
+msgstr "Twój cukierkowy dystans z kumplem"
 
 #: View/Pages/buddy_candy.ctp:83
 msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."
@@ -54,7 +61,7 @@ msgstr ""
 #: View/Pages/buddy_candy.ctp:111;219
 #: View/Pages/egg_distances.ctp:188
 msgid "5km"
-msgstr ""
+msgstr "5 km"
 
 #: View/Pages/buddy_candy.ctp:128
 msgid "3 KMs Per Candy Reward"
@@ -62,7 +69,7 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:147
 msgid "3km"
-msgstr ""
+msgstr "3 km"
 
 #: View/Pages/buddy_candy.ctp:164
 msgid "1 KM Per Candy Reward"
@@ -70,7 +77,7 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:183
 msgid "1km"
-msgstr ""
+msgstr "1 km"
 
 #: View/Pages/buddy_candy.ctp:200
 msgid "Unavailable KM Per Candy Rewards"
@@ -91,6 +98,8 @@ msgstr ""
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
 msgstr ""
+"Poniżej znajdują się wszystkie gatunki, które można wykluć w Pokemon GO, "
+"posortowane wg. dystansu."
 
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
@@ -98,11 +107,11 @@ msgstr ""
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
-msgstr ""
+msgstr "Jajka 10 km"
 
 #: View/Pages/egg_distances.ctp:124
 msgid "10km"
-msgstr ""
+msgstr "10 km"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
@@ -114,23 +123,23 @@ msgstr ""
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
-msgstr ""
+msgstr "Jajka 5 km"
 
 #: View/Pages/egg_distances.ctp:234
 msgid "2 KM Eggs"
-msgstr ""
+msgstr "Jajka 2 km"
 
 #: View/Pages/egg_distances.ctp:253
 msgid "2km"
-msgstr ""
+msgstr "2 km"
 
 #: View/Pages/moves.ctp:3
 msgid "Pokemon GO Moves"
-msgstr ""
+msgstr "Ataki w Pokemon GO"
 
 #: View/Pages/moves.ctp:128
 msgid "Move List in Pokemon GO"
-msgstr ""
+msgstr "Lista ataków w Pokemon GO"
 
 #: View/Pages/moves.ctp:130
 msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
@@ -138,7 +147,7 @@ msgstr ""
 
 #: View/Pages/moves.ctp:139
 msgid "Quick Moves"
-msgstr ""
+msgstr "Szybkie ataki"
 
 #: View/Pages/moves.ctp:140
 msgid "Quick moves are used by 'tapping' the screen and do not require a full energy bar to use repeatedly! Quick moves do not 'critical hit.'"
@@ -146,11 +155,11 @@ msgstr ""
 
 #: View/Pages/moves.ctp:144;217
 msgid "DPS"
-msgstr ""
+msgstr "DPS"
 
 #: View/Pages/moves.ctp:145;218
 msgid "Move Name"
-msgstr ""
+msgstr "Nazwa ataku"
 
 #: View/Pages/moves.ctp:146;219
 msgid "Power"
@@ -158,7 +167,7 @@ msgstr ""
 
 #: View/Pages/moves.ctp:147;220
 msgid "Duration (ms)"
-msgstr ""
+msgstr "Czas trwania (ms)"
 
 #: View/Pages/moves.ctp:148
 msgid "Energy Gain/Sec."
@@ -170,7 +179,7 @@ msgstr ""
 
 #: View/Pages/moves.ctp:212
 msgid "Charge/Special Moves"
-msgstr ""
+msgstr "Mocne ataki"
 
 #: View/Pages/moves.ctp:213
 msgid "Special moves are used by holding and pressing the screen after charging the blue 'energy' bars by inflicting damage with quick moves!"
@@ -178,7 +187,7 @@ msgstr ""
 
 #: View/Pages/moves.ctp:223;227
 msgid "DPE"
-msgstr ""
+msgstr "DPE"
 
 #: View/Pages/moves.ctp:224;228
 msgid "Damage (Power) From Full Energy Bar"
@@ -190,7 +199,7 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
-msgstr ""
+msgstr "Ranking statystyk Pokemonów: Gen. 1. i 2. | The Silph Road"
 
 #: View/Pages/species_stats.ctp:6;13
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO. Generation 2 Pokemon's base stats are able to be calculated due to..."
@@ -198,7 +207,7 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:128
 msgid "Species Stats in Pokemon GO"
-msgstr ""
+msgstr "Statystyki gatunków w Pokemon GO"
 
 #: View/Pages/species_stats.ctp:130
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."
@@ -222,7 +231,7 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:155
 msgid "SORT BY:"
-msgstr ""
+msgstr "SORTUJ WG:"
 
 #: View/Pages/species_stats.ctp:157
 msgid "Max Potential CP"
@@ -234,11 +243,11 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:159
 msgid "Best Attack Stat"
-msgstr ""
+msgstr "Najlepszy atak"
 
 #: View/Pages/species_stats.ctp:160
 msgid "Best Defense Stat"
-msgstr ""
+msgstr "Najlepsza obrona"
 
 #: View/Pages/species_stats.ctp:161
 msgid "Best Stamina Stat"
@@ -246,31 +255,31 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:162
 msgid "Best Sum of Stats"
-msgstr ""
+msgstr "Najlepsza suma statystyk"
 
 #: View/Pages/species_stats.ctp:163
 msgid "Best Product of Stats"
-msgstr ""
+msgstr "Najlepsze zestawienie statystyk"
 
 #: View/Pages/species_stats.ctp:190
 msgid "Height:"
-msgstr ""
+msgstr "Wysokość:"
 
 #: View/Pages/species_stats.ctp:191
 msgid "Weight:"
-msgstr ""
+msgstr "Waga:"
 
 #: View/Pages/species_stats.ctp:209
 msgid "Max CP"
-msgstr ""
+msgstr "Maks. CP"
 
 #: View/Pages/species_stats.ctp:222
 msgid "Attack"
-msgstr ""
+msgstr "Atak"
 
 #: View/Pages/species_stats.ctp:234
 msgid "Defense"
-msgstr ""
+msgstr "Obrona"
 
 #: View/Pages/species_stats.ctp:247
 msgid "Stamina"
@@ -279,50 +288,57 @@ msgstr ""
 #: View/Pages/species_stats.ctp:303
 msgid "<b>Why Ads?</b> Logged-in travelers don't see ads! Join the community at <a href='https://reddit.com/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Dlaczego reklamy?</b> Zalogowani podróżnicy nie widzą reklam! Dołącz do "
+"nas na <a href='https://reddit.com/r/TheSilphRoad' "
+"target='_blank'>/r/TheSilphRoad</a>!<br> Narzędzia badawcze TheSilphRoad.com "
+"generują ogromny ruch, więc pieniądze są potrzebne, aby wszystko mogło "
+"działać!"
 
 #: View/Pages/trainer_levels.ctp:3
 msgid "Pokemon GO Trainer Level Awards & Requirements"
-msgstr ""
+msgstr "Wymagania i nagrody za poziom trenera w Pokemon GO"
 
 #: View/Pages/trainer_levels.ctp:80
 msgid "Trainer Level Requirements + Bonuses"
-msgstr ""
+msgstr "Wymagania na poziom trenera + bonusy"
 
 #: View/Pages/trainer_levels.ctp:82
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
 msgstr ""
+"W poniższej tabeli przedstawiono wymagane ilości XP oraz przedmioty "
+"otrzymywane za każdy poziom trenera w Pokemon GO."
 
 #: View/Pages/trainer_levels.ctp:92
 msgid "Level"
-msgstr ""
+msgstr "Poziom"
 
 #: View/Pages/trainer_levels.ctp:93
 msgid "XP required"
-msgstr ""
+msgstr "Wymagane XP"
 
 #: View/Pages/trainer_levels.ctp:94
 msgid "Total XP"
-msgstr ""
+msgstr "Łączne XP"
 
 #: View/Pages/trainer_levels.ctp:95
 msgid "Unlocked items"
-msgstr ""
+msgstr "Odblokowane przedmioty"
 
 #: View/Pages/trainer_levels.ctp:96
 msgid "Rewards"
-msgstr ""
+msgstr "Nagrody"
 
 #: View/Pages/trainer_levels.ctp:109;110
 msgid "1,000"
-msgstr ""
+msgstr "1000"
 
 #: View/Pages/trainer_levels.ctp:116
 msgid "2,000"
-msgstr ""
+msgstr "2000"
 
 #: View/Pages/trainer_levels.ctp:117;123
 msgid "3,000"
-msgstr ""
+msgstr "3000"
 
 #: View/Pages/trainer_levels.ctp:119;126;133
 msgid "Poke Ball"
@@ -330,15 +346,15 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:124;144
 msgid "6,000"
-msgstr ""
+msgstr "6000"
 
 #: View/Pages/trainer_levels.ctp:130
 msgid "4,000"
-msgstr ""
+msgstr "4000"
 
 #: View/Pages/trainer_levels.ctp:131;172;179;186;193
 msgid "10,000"
-msgstr ""
+msgstr "10 000"
 
 #: View/Pages/trainer_levels.ctp:132
 msgid "Gyms, Potions, Revives"
@@ -358,11 +374,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:137
 msgid "5,000"
-msgstr ""
+msgstr "5000"
 
 #: View/Pages/trainer_levels.ctp:138;200
 msgid "15,000"
-msgstr ""
+msgstr "15 000"
 
 #: View/Pages/trainer_levels.ctp:140
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incubator"
@@ -370,7 +386,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:145
 msgid "21,000"
-msgstr ""
+msgstr "21 000"
 
 #: View/Pages/trainer_levels.ctp:147
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incense"
@@ -378,11 +394,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:151
 msgid "7,000"
-msgstr ""
+msgstr "7000"
 
 #: View/Pages/trainer_levels.ctp:152
 msgid "28,000"
-msgstr ""
+msgstr "28 000"
 
 #: View/Pages/trainer_levels.ctp:153
 msgid "Razz Berry"
@@ -394,11 +410,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:158
 msgid "8,000"
-msgstr ""
+msgstr "8000"
 
 #: View/Pages/trainer_levels.ctp:159
 msgid "36,000"
-msgstr ""
+msgstr "36 000"
 
 #: View/Pages/trainer_levels.ctp:161
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x3), Lucky Egg"
@@ -406,11 +422,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:165
 msgid "9,000"
-msgstr ""
+msgstr "9000"
 
 #: View/Pages/trainer_levels.ctp:166
 msgid "45,000"
-msgstr ""
+msgstr "45 000"
 
 #: View/Pages/trainer_levels.ctp:167
 msgid "Super Potions"
@@ -422,7 +438,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:173
 msgid "55,000"
-msgstr ""
+msgstr "55 000"
 
 #: View/Pages/trainer_levels.ctp:175
 msgid "Poke Ball (x15), Super Potion (x10), Revive (x3), Razz Berry (x3)"
@@ -430,7 +446,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:180
 msgid "65,000"
-msgstr ""
+msgstr "65 000"
 
 #: View/Pages/trainer_levels.ctp:181
 msgid "Great Balls"
@@ -442,7 +458,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:187;249
 msgid "75,000"
-msgstr ""
+msgstr "75 000"
 
 #: View/Pages/trainer_levels.ctp:189
 msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3)"
@@ -450,7 +466,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:194
 msgid "85,000"
-msgstr ""
+msgstr "85 000"
 
 #: View/Pages/trainer_levels.ctp:195
 msgid "Nanab Berry"
@@ -462,7 +478,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:201;256
 msgid "100,000"
-msgstr ""
+msgstr "100 000"
 
 #: View/Pages/trainer_levels.ctp:202
 msgid "Hyper Potions"
@@ -474,11 +490,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:207;214;221
 msgid "20,000"
-msgstr ""
+msgstr "20 000"
 
 #: View/Pages/trainer_levels.ctp:208
 msgid "120,000"
-msgstr ""
+msgstr "120 000"
 
 #: View/Pages/trainer_levels.ctp:210;217
 msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
@@ -486,11 +502,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:215
 msgid "140,000"
-msgstr ""
+msgstr "140 000"
 
 #: View/Pages/trainer_levels.ctp:222
 msgid "160,000"
-msgstr ""
+msgstr "160 000"
 
 #: View/Pages/trainer_levels.ctp:223
 msgid "Pinap Berry"
@@ -502,11 +518,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:228;235
 msgid "25,000"
-msgstr ""
+msgstr "25 000"
 
 #: View/Pages/trainer_levels.ctp:229
 msgid "185,000"
-msgstr ""
+msgstr "185 000"
 
 #: View/Pages/trainer_levels.ctp:231
 msgid "Great Ball (x15), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
@@ -514,7 +530,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:236
 msgid "210,000"
-msgstr ""
+msgstr "210 000"
 
 #: View/Pages/trainer_levels.ctp:237
 msgid "Ultra Balls"
@@ -526,11 +542,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:242
 msgid "50,000"
-msgstr ""
+msgstr "50 000"
 
 #: View/Pages/trainer_levels.ctp:243
 msgid "260,000"
-msgstr ""
+msgstr "260 000"
 
 #: View/Pages/trainer_levels.ctp:245
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Pinap Berry (x10)"
@@ -538,7 +554,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:250
 msgid "335,000"
-msgstr ""
+msgstr "335 000"
 
 #: View/Pages/trainer_levels.ctp:252
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
@@ -546,7 +562,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:257
 msgid "435,000"
-msgstr ""
+msgstr "435 000"
 
 #: View/Pages/trainer_levels.ctp:259
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Nanab Berry (x10)"
@@ -554,11 +570,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:263
 msgid "125,000"
-msgstr ""
+msgstr "125 000"
 
 #: View/Pages/trainer_levels.ctp:264
 msgid "560,000"
-msgstr ""
+msgstr "560 000"
 
 #: View/Pages/trainer_levels.ctp:266
 msgid "Ultra Ball (x15), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
@@ -566,11 +582,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:270
 msgid "150,000"
-msgstr ""
+msgstr "150 000"
 
 #: View/Pages/trainer_levels.ctp:271
 msgid "710,000"
-msgstr ""
+msgstr "710 000"
 
 #: View/Pages/trainer_levels.ctp:272
 msgid "Max Potions"
@@ -582,11 +598,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:277
 msgid "190,000"
-msgstr ""
+msgstr "190 000"
 
 #: View/Pages/trainer_levels.ctp:278
 msgid "900,000"
-msgstr ""
+msgstr "900 000"
 
 #: View/Pages/trainer_levels.ctp:280;294
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15)"
@@ -594,11 +610,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:284
 msgid "200,000"
-msgstr ""
+msgstr "200 000"
 
 #: View/Pages/trainer_levels.ctp:285
 msgid "1,100,000"
-msgstr ""
+msgstr "1 100 000"
 
 #: View/Pages/trainer_levels.ctp:287
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
@@ -606,19 +622,19 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:291
 msgid "250,000"
-msgstr ""
+msgstr "250 000"
 
 #: View/Pages/trainer_levels.ctp:292
 msgid "1,350,000"
-msgstr ""
+msgstr "1 350 000"
 
 #: View/Pages/trainer_levels.ctp:298
 msgid "300,000"
-msgstr ""
+msgstr "300 000"
 
 #: View/Pages/trainer_levels.ctp:299
 msgid "1,650,000"
-msgstr ""
+msgstr "1 650 000"
 
 #: View/Pages/trainer_levels.ctp:301
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Pinap Berry (x15)"
@@ -626,11 +642,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:305
 msgid "350,000"
-msgstr ""
+msgstr "350 000"
 
 #: View/Pages/trainer_levels.ctp:306;354
 msgid "2,000,000"
-msgstr ""
+msgstr "2 000 000"
 
 #: View/Pages/trainer_levels.ctp:307
 msgid "Max Revive"
@@ -642,11 +658,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:312;319
 msgid "500,000"
-msgstr ""
+msgstr "500 000"
 
 #: View/Pages/trainer_levels.ctp:313;361
 msgid "2,500,000"
-msgstr ""
+msgstr "2 500 000"
 
 #: View/Pages/trainer_levels.ctp:315
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
@@ -654,7 +670,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:320
 msgid "3,000,000"
-msgstr ""
+msgstr "3 000 000"
 
 #: View/Pages/trainer_levels.ctp:322;336
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15)"
@@ -662,11 +678,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:326
 msgid "750,000"
-msgstr ""
+msgstr "750 000"
 
 #: View/Pages/trainer_levels.ctp:327
 msgid "3,750,000"
-msgstr ""
+msgstr "3 750 000"
 
 #: View/Pages/trainer_levels.ctp:329
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Pinap Berry (x15)"
@@ -674,19 +690,19 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:333
 msgid "1,000,000"
-msgstr ""
+msgstr "1 000 000"
 
 #: View/Pages/trainer_levels.ctp:334
 msgid "4,750,000"
-msgstr ""
+msgstr "4 750 000"
 
 #: View/Pages/trainer_levels.ctp:340
 msgid "1,250,000"
-msgstr ""
+msgstr "1 250 000"
 
 #: View/Pages/trainer_levels.ctp:341
 msgid "6,000,000"
-msgstr ""
+msgstr "6 000 000"
 
 #: View/Pages/trainer_levels.ctp:343
 msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x1), Lure Module (x1), Nanab Berry (x20)"
@@ -694,11 +710,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:347
 msgid "1,500,000"
-msgstr ""
+msgstr "1 500 000"
 
 #: View/Pages/trainer_levels.ctp:348
 msgid "7,500,000"
-msgstr ""
+msgstr "7 500 000"
 
 #: View/Pages/trainer_levels.ctp:350;364
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20)"
@@ -706,7 +722,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:355
 msgid "9,500,000"
-msgstr ""
+msgstr "9 500 000"
 
 #: View/Pages/trainer_levels.ctp:357
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20), Pinap Berry (x20)"
@@ -714,15 +730,15 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:362
 msgid "12,000,000"
-msgstr ""
+msgstr "12 000 000"
 
 #: View/Pages/trainer_levels.ctp:368
 msgid ">3,000,000"
-msgstr ""
+msgstr "> 3 000 000"
 
 #: View/Pages/trainer_levels.ctp:369
 msgid "15,000,000"
-msgstr ""
+msgstr "15 000 000"
 
 #: View/Pages/trainer_levels.ctp:371
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Nanab Berry (x20)"
@@ -730,11 +746,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:375
 msgid "5,000,000"
-msgstr ""
+msgstr "5 000 000"
 
 #: View/Pages/trainer_levels.ctp:376
 msgid "20,000,000"
-msgstr ""
+msgstr "20 000 000"
 
 #: View/Pages/trainer_levels.ctp:378
 msgid "Ultra Ball (x40), Max Potion (x40), Max Revive (x40), Razz Berry (x40), Incense (x4), Lucky Egg (x4), Egg Incubator (x4), Lure Module (x4)"
@@ -742,23 +758,25 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:3
 msgid "Pokemon GO - Earning XP"
-msgstr ""
+msgstr "Pokemon GO - Zdobywanie doświadczenia (XP)"
 
 #: View/Pages/xp_earning.ctp:72
 msgid "How to Earn XP in Pokemon GO"
-msgstr ""
+msgstr "Jak zdobywać doświadczenie (XP) w Pokemon GO?"
 
 #: View/Pages/xp_earning.ctp:74
 msgid "The following table and information explain XP-earning events to help you increase your Trainer Level in Pokemon GO."
 msgstr ""
+"Poniżej opisano, w jaki sposób zdobywać XP i zwiększać poziom trenera w "
+"Pokemon GO."
 
 #: View/Pages/xp_earning.ctp:84
 msgid "XP Award"
-msgstr ""
+msgstr "Uzyskane XP"
 
 #: View/Pages/xp_earning.ctp:85
 msgid "Action"
-msgstr ""
+msgstr "Czynność"
 
 #: View/Pages/xp_earning.ctp:91
 msgid "Curveball Bonus"
@@ -782,15 +800,15 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
-msgstr ""
+msgstr "Zakręcenie Pokestopem"
 
 #: View/Pages/xp_earning.ctp:115
 msgid "10<sup>th</sup> Unique Pokestop Bonus"
-msgstr ""
+msgstr "Bonus za zakręcenie 10 różnymi Pokestopami"
 
 #: View/Pages/xp_earning.ctp:119
 msgid "Successful Pokemon Capture"
-msgstr ""
+msgstr "Złapanie Pokemona"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
@@ -802,27 +820,27 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:131
 msgid "Hatch an Egg (2 km)"
-msgstr ""
+msgstr "Wyklucie jajka (2 km)"
 
 #: View/Pages/xp_earning.ctp:135
 msgid "Hatch an Egg (5 km)"
-msgstr ""
+msgstr "Wyklucie jajka (5 km)"
 
 #: View/Pages/xp_earning.ctp:139
 msgid "Hatch an Egg (10 km)"
-msgstr ""
+msgstr "Wyklucie jajka (10 km)"
 
 #: View/Pages/xp_earning.ctp:143
 msgid "Add new Pokemon to Pokedex"
-msgstr ""
+msgstr "Nowy Pokemon w Pokedeksie"
 
 #: View/Pages/xp_earning.ctp:147
 msgid "Evolve a Pokemon"
-msgstr ""
+msgstr "Ewoluowanie Pokemona"
 
 #: View/Pages/xp_earning.ctp:151
 msgid "Use an Evolution Item"
-msgstr ""
+msgstr "Użycie przedmiotu do ewolucji"
 
 #: View/Pages/xp_earning.ctp:155
 msgid "First Pokestop Spin of the Day"
@@ -834,7 +852,7 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:162;166
 msgid "2,500"
-msgstr ""
+msgstr "2500"
 
 #: View/Pages/xp_earning.ctp:163
 msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
@@ -846,12 +864,12 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:171
 msgid "Train at a Gym (Less for using an overpowered 'mon)"
-msgstr ""
+msgstr "Trening w Gymie (mniej za użycie zbyt silnych Pokemonów)"
 
 #: View/Pages/xp_earning.ctp:175
 msgid "Defeat enemy Pokemon at a Gym (per Pokemon)"
-msgstr ""
+msgstr "Pokonanie Pokemona przeciwnika w Gymie (za każdego Pokemona)"
 
 #: View/Pages/xp_earning.ctp:179
 msgid "Beating every Pokemon at a gym"
-msgstr ""
+msgstr "Pokonanie wszystkich Pokemonów w Gymie"

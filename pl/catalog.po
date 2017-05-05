@@ -1,19 +1,21 @@
 # LANGUAGE translation of CakePHP Application
 # Copyright YEAR NAME <EMAIL@ADDRESS>
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-03 16:55-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-05 12:50+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493988635.697406\n"
 
 #: View/Catalog/index.ctp:350
 msgid "The Global Pokedex"
@@ -25,28 +27,32 @@ msgstr ""
 
 #: View/Catalog/index.ctp:354
 msgid "Kanto (Gen 1) Species"
-msgstr ""
+msgstr "Gatunki Kanto (Gen. 1.)"
 
 #: View/Catalog/index.ctp:372
 msgid "Johto (Gen 2) Species"
-msgstr ""
+msgstr "Gatunki Johto (Gen. 2.)"
 
 #: View/Catalog/index.ctp:520
 msgid "The Silph Road | All Rights Reserved"
-msgstr ""
+msgstr "The Silph Road | Wszelkie prawa zastrzeżone"
 
 #: View/Catalog/index.ctp:522
 msgid "Pokémon And All Respective Names are Trademark & &copy; of Nintendo 1996-%s"
 msgstr ""
+"Nazwa Pokémon i i wszelkie nazwy stanowią znaki towarowe oraz &copy; firmy "
+"Nintendo 1996-%s"
 
 #: View/Catalog/index.ctp:524
 msgid "Pokémon GO is Trademark & &copy; of Niantic, Inc."
-msgstr ""
+msgstr "Pokémon GO stanowi znak towarowy oraz &copy; firmy Niantic, Inc."
 
 #: View/Catalog/index.ctp:526
 msgid "This Silph Road is not affiliated with Niantic Inc., The Pokemon Company, or Nintendo."
 msgstr ""
+"Serwis Silph Road nie jest powiązany z firmami Niantic Inc., The Pokemon "
+"Company ani Nintendo."
 
 #: View/Catalog/index.ctp:528
 msgid "For inquiries, contact TheSilphRoad@gmail.com"
-msgstr ""
+msgstr "Pytania przesyłaj na adres TheSilphRoad@gmail.com"

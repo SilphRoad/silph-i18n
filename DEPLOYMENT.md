@@ -28,8 +28,10 @@ done
 ## JSON Generation
 
 ```
-npm install
+sudo apt install jq npm
 sudo ln -s /usr/bin/nodejs /usr/bin/node
+npm install
+
 for i in `ls -I=.git* -Inode_modules -I*.md -I package.json -I json -I templates`; do
   mkdir -p json/$i
   echo $i

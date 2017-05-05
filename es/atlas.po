@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-05 11:06-0400\n"
+"POT-Creation-Date: 2017-05-05 17:08-0400\n"
 "PO-Revision-Date: 2017-05-05 13:40+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -171,19 +171,23 @@ msgstr ""
 msgid "Help update or refute this location! What did you find?"
 msgstr "¡Ayuda a actualizar o refutar esta ubicación! ¿Qué hallaste?"
 
-#: View/Atlas/index.ctp:900
+#: View/Atlas/index.ctp:896
+msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
+msgstr ""
+
+#: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("
 msgstr "¡Nada fuera de lo normal! :("
 
-#: View/Atlas/index.ctp:901
+#: View/Atlas/index.ctp:902
 msgid "Nothing!"
 msgstr "¡Nada!"
 
-#: View/Atlas/index.ctp:904
+#: View/Atlas/index.ctp:905
 msgid "Yes! I found a species here:"
 msgstr "¡Sí! Encontré una especie aquí:"
 
-#: View/Atlas/index.ctp:917
+#: View/Atlas/index.ctp:918
 msgid "Report!"
 msgstr "¡Informar!"
 

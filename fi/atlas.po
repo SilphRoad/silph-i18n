@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-05 11:06-0400\n"
+"POT-Creation-Date: 2017-05-05 17:08-0400\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -151,19 +151,23 @@ msgstr ""
 msgid "Help update or refute this location! What did you find?"
 msgstr ""
 
-#: View/Atlas/index.ctp:900
-msgid "Nothing out of the ordinary! :("
+#: View/Atlas/index.ctp:896
+msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
 
 #: View/Atlas/index.ctp:901
+msgid "Nothing out of the ordinary! :("
+msgstr ""
+
+#: View/Atlas/index.ctp:902
 msgid "Nothing!"
 msgstr ""
 
-#: View/Atlas/index.ctp:904
+#: View/Atlas/index.ctp:905
 msgid "Yes! I found a species here:"
 msgstr ""
 
-#: View/Atlas/index.ctp:917
+#: View/Atlas/index.ctp:918
 msgid "Report!"
 msgstr ""
 

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-05 08:23+0000\n"
+"PO-Revision-Date: 2017-05-05 20:25+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493972581.785824\n"
+"X-POOTLE-MTIME: 1494015921.200646\n"
 
 #: COMMENT
 msgid "Map"
@@ -97,7 +97,7 @@ msgstr "Le"
 #: COMMENT
 msgid "first discovered this location and suspected it was a"
 msgstr ""
-"a découvert cet endroit pour la première fois et a supposé qu'il s'agissait "
+"a découvert cet endroit pour la première fois et a suspecté qu'il s'agissait "
 "d'un Nid de"
 
 #: COMMENT

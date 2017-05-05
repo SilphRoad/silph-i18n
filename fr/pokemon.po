@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-05 15:03+0000\n"
+"PO-Revision-Date: 2017-05-05 15:33+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493996585.523136\n"
+"X-POOTLE-MTIME: 1493998410.976304\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -2490,7 +2490,7 @@ msgstr "RAFALE PSY"
 
 #: Move/Earthquake:31
 msgid "EARTHQUAKE"
-msgstr "SEISME"
+msgstr "SÉISME"
 
 #: Move/Stone Edge:32
 msgid "STONE EDGE"
@@ -2530,7 +2530,7 @@ msgstr "CANICULE"
 
 #: Move/Aerial Ace:45
 msgid "AERIAL ACE"
-msgstr "AEROPIQUE"
+msgstr "AÉROPIQUE"
 
 #: Move/Drill Run:46
 msgid "DRILL RUN"
@@ -2594,7 +2594,7 @@ msgstr "TOMBEROCHE"
 
 #: Move/Rock Slide:64
 msgid "ROCK SLIDE"
-msgstr "EBOULEMENT"
+msgstr "ÉBOULEMENT"
 
 #: Move/Power Gem:65
 msgid "POWER GEM"
@@ -2602,7 +2602,7 @@ msgstr "RAYON GEMME"
 
 #: Move/Shadow Sneak:66
 msgid "SHADOW SNEAK"
-msgstr "OMBRE PORTEE"
+msgstr "OMBRE PORTÉE"
 
 #: Move/Shadow Punch:67
 msgid "SHADOW PUNCH"
@@ -2622,7 +2622,7 @@ msgstr "BOMBAIMANT"
 
 #: Move/Iron Head:74
 msgid "IRON HEAD"
-msgstr "TETE DE FER"
+msgstr "TÊTE DE FER"
 
 #: Move/Parabolic Charge:75
 msgid "PARABOLIC CHARGE"
@@ -2630,7 +2630,7 @@ msgstr "PARABOCHARGE"
 
 #: Move/Thunder Punch:77
 msgid "THUNDER PUNCH"
-msgstr "POING-ECLAIR"
+msgstr "POING-ÉCLAIR"
 
 #: Move/Thunder:78
 msgid "THUNDER"
@@ -2638,7 +2638,7 @@ msgstr "FATAL-FOUDRE"
 
 #: Move/Thunderbolt:79
 msgid "THUNDERBOLT"
-msgstr "TONERRE"
+msgstr "TONNERRE"
 
 #: Move/Twister:80
 msgid "TWISTER"
@@ -2654,7 +2654,7 @@ msgstr "DRACOGRIFFE"
 
 #: Move/Disarming Voice:84
 msgid "DISARMING VOICE"
-msgstr "VOIX ENJOLEUSE"
+msgstr "VOIX ENJÔLEUSE"
 
 #: Move/Draining Kiss:85
 msgid "DRAINING KISS"
@@ -2662,7 +2662,7 @@ msgstr "VAMPIBAISER"
 
 #: Move/Dazzling Gleam:86
 msgid "DAZZLING GLEAM"
-msgstr "ECLAT MAGIQUE"
+msgstr "ÉCLAT MAGIQUE"
 
 #: Move/Moonblast:87
 msgid "MOONBLAST"
@@ -2670,11 +2670,11 @@ msgstr "POUVOIR LUNAIRE"
 
 #: Move/Play Rough:88
 msgid "PLAY ROUGH"
-msgstr "CALINERIE"
+msgstr "CÂLINERIE"
 
 #: Move/Cross Poison:89
 msgid "CROSS POISON"
-msgstr "POISON CROIX"
+msgstr "POISON-CROIX"
 
 #: Move/Sludge Bomb:90
 msgid "SLUDGE BOMB"
@@ -2686,7 +2686,7 @@ msgstr "CRADOVAGUE"
 
 #: Move/Gunk Shot:92
 msgid "GUNK SHOT"
-msgstr "DETRICANON"
+msgstr "DÉTRICANON"
 
 #: Move/Bone Club:94
 msgid "BONE CLUB"
@@ -2706,7 +2706,7 @@ msgstr "RAYON SIGNAL"
 
 #: Move/X Scissor:100
 msgid "X SCISSOR"
-msgstr "PLAIE CROIX"
+msgstr "PLAIE-CROIX"
 
 #: Move/Flame Charge:101
 msgid "FLAME CHARGE"
@@ -2718,7 +2718,7 @@ msgstr "REBONDIFEU"
 
 #: Move/Fire Blast:103
 msgid "FIRE BLAST"
-msgstr "DEFLAGRATION"
+msgstr "DÉFLAGRATION"
 
 #: Move/Brine:104
 msgid "BRINE"
@@ -2730,7 +2730,7 @@ msgstr "VIBRAQUA"
 
 #: Move/Scald:106
 msgid "SCALD"
-msgstr "EBULLITION"
+msgstr "ÉBULLITION"
 
 #: Move/Hydro Pump:107
 msgid "HYDRO PUMP"
@@ -2738,7 +2738,7 @@ msgstr "HYDROCANON"
 
 #: Move/Psychic:108
 msgid "PSYCHIC"
-msgstr "PSYCHO"
+msgstr "PSYKO"
 
 #: Move/Psystrike:109
 msgid "PSYSTRIKE"
@@ -2782,7 +2782,7 @@ msgstr "CASSE-BRIQUE"
 
 #: Move/Swift:125
 msgid "SWIFT"
-msgstr "METEORES"
+msgstr "MÉTÉORES"
 
 #: Move/Horn Attack:126
 msgid "HORN ATTACK"
@@ -2790,7 +2790,7 @@ msgstr "KOUD'KORNE"
 
 #: Move/Stomp:127
 msgid "STOMP"
-msgstr "ECRASEMENT"
+msgstr "ÉCRASEMENT"
 
 #: Move/Hyper Fang:129
 msgid "HYPER FANG"
@@ -2810,7 +2810,7 @@ msgstr "LUTTE"
 
 #: Move/Scald Blastoise:134
 msgid "SCALD BLASTOISE"
-msgstr "EBULLITION (TORTANK)"
+msgstr "ÉBULLITION (TORTANK)"
 
 #: Move/Hydro Pump Blastoise:135
 msgid "HYDRO PUMP BLASTOISE"
@@ -2846,7 +2846,7 @@ msgstr "DRACOSOUFFLE"
 
 #: Move/Thunder Shock:205
 msgid "THUNDER SHOCK"
-msgstr "ECLAIR"
+msgstr "ÉCLAIR"
 
 #: Move/Spark:206
 msgid "SPARK"
@@ -2858,11 +2858,11 @@ msgstr "BALAYAGE"
 
 #: Move/Karate Chop:208
 msgid "KARATE CHOP"
-msgstr "POING KARATE"
+msgstr "POING-KARATÉ"
 
 #: Move/Ember:209
 msgid "EMBER"
-msgstr "FLAMMECHE"
+msgstr "FLAMMÈCHE"
 
 #: Move/Wing Attack:210
 msgid "WING ATTACK"
@@ -2874,7 +2874,7 @@ msgstr "PICPIC"
 
 #: Move/Lick:212
 msgid "LICK"
-msgstr "LECHOUILLE"
+msgstr "LÉCHOUILLE"
 
 #: Move/Shadow Claw:213
 msgid "SHADOW CLAW"
@@ -2894,11 +2894,11 @@ msgstr "TIR DE BOUE"
 
 #: Move/Ice Shard:217
 msgid "ICE SHARD"
-msgstr "ECLATS GLACE"
+msgstr "ÉCLATS GLACE"
 
 #: Move/Frost Breath:218
 msgid "FROST BREATH"
-msgstr "SOUFFLE GLACE"
+msgstr "SOUFFLE GLACÉ"
 
 #: Move/Quick Attack:219
 msgid "QUICK ATTACK"
@@ -2914,7 +2914,7 @@ msgstr "CHARGE"
 
 #: Move/Pound:222
 msgid "POUND"
-msgstr "ECRAS'FACE"
+msgstr "ÉCRAS'FACE"
 
 #: Move/Cut:223
 msgid "CUT"
@@ -2946,7 +2946,7 @@ msgstr "PISTO-POING"
 
 #: Move/Water Gun:230
 msgid "WATER GUN"
-msgstr "PISTOLET A EAU"
+msgstr "PISTOLET À O"
 
 #: Move/Splash:231
 msgid "SPLASH"
@@ -2954,7 +2954,7 @@ msgstr "TREMPETTE"
 
 #: Move/Water Gun Blastoise:232
 msgid "WATER GUN BLASTOISE"
-msgstr "PISTOLET A EAU TORTANK"
+msgstr "PISTOLET À O (TORTANK)"
 
 #: Move/Mud Slap:233
 msgid "MUD SLAP"
@@ -2974,7 +2974,7 @@ msgstr "DARD-VENIN"
 
 #: Move/Bubble:237
 msgid "BUBBLE"
-msgstr "ECUME"
+msgstr "ÉCUME"
 
 #: Move/Feint Attack:238
 msgid "FEINT ATTACK"
@@ -3026,15 +3026,15 @@ msgstr "RAYON CHARGÉ"
 
 #: Move/Volt Switch:250
 msgid "VOLT SWITCH"
-msgstr "CHANGE ECLAIR"
+msgstr "CHANGE ÉCLAIR"
 
 #: Move/Wild Charge:251
 msgid "WILD CHARGE"
-msgstr "ECLAIR FOU"
+msgstr "ÉCLAIR FOU"
 
 #: Move/Zap Cannon:252
 msgid "ZAP CANNON"
-msgstr "ELECANON"
+msgstr "ÉLECANON"
 
 #: Move/Dragon Tail:253
 msgid "DRAGON TAIL"
@@ -3066,7 +3066,7 @@ msgstr "BOULE ROC"
 
 #: Move/Infestation:260
 msgid "INFESTATION"
-msgstr "HARCELEMENT"
+msgstr "HARCÈLEMENT"
 
 #: Move/Struggle Bug:261
 msgid "STRUGGLE BUG"
@@ -3074,15 +3074,15 @@ msgstr "SURVINSECTE"
 
 #: Move/Silver Wind:262
 msgid "SILVER WIND"
-msgstr "VENT ARGENTE"
+msgstr "VENT ARGENTÉ"
 
 #: Move/Astonish:263
 msgid "ASTONISH"
-msgstr "ETONNEMENT"
+msgstr "ÉTONNEMENT"
 
 #: Move/Hex:264
 msgid "HEX"
-msgstr "CHATIMENT"
+msgstr "CHÂTIMENT"
 
 #: Move/Night Shade:265
 msgid "NIGHT SHADE"
@@ -3118,7 +3118,7 @@ msgstr "NOEUD'HERBE"
 
 #: Move/Energy Ball:273
 msgid "ENERGY BALL"
-msgstr "ECO-SPHERE"
+msgstr "ÉCO-SPHÈRE"
 
 #: Move/Extrasensory:274
 msgid "EXTRASENSORY"
@@ -3126,7 +3126,7 @@ msgstr "EXTRASENSEUR"
 
 #: Move/Futuresight:275
 msgid "FUTURESIGHT"
-msgstr "PRESCIENCE"
+msgstr "PRÉSCIENCE"
 
 #: Move/Mirror Coat:276
 msgid "MIRROR COAT"
@@ -3134,7 +3134,7 @@ msgstr "VOILE MIROIR"
 
 #: Move/Outrage:277
 msgid "OUTRAGE"
-msgstr "COLERE"
+msgstr "COLÈRE"
 
 #: Move/Snarl:278
 msgid "SNARL"
@@ -3142,7 +3142,7 @@ msgstr "ABOIEMENT"
 
 #: Move/Crunch:279
 msgid "CRUNCH"
-msgstr "MACHOUILLE"
+msgstr "MÂCHOUILLE"
 
 #: Move/Foul Play:280
 msgid "FOUL PLAY"
@@ -3150,7 +3150,7 @@ msgstr "TRICHERIE"
 
 #: Move/Hidden Power:281
 msgid "HIDDEN POWER"
-msgstr "PUISSANCE CACHEE"
+msgstr "PUISSANCE CACHÉE"
 
 #: Type/Normal:1
 msgid "normal"

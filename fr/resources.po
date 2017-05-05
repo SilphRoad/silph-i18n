@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-05 14:05+0000\n"
+"PO-Revision-Date: 2017-05-05 15:36+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493993133.708157\n"
+"X-POOTLE-MTIME: 1493998561.007559\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -107,20 +107,21 @@ msgstr "Oeufs et Distance à Parcourir dans Pokemon GO"
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
 msgstr ""
-"Ci-dessous sont listées toutes les espèces obtenables par œuf dans Pokémon "
-"GO, classées par distance d'œuf."
+"Ci-dessous vous trouverez toutes les espèces disponibles dans les oeufs dans "
+"Pokémon GO, classées par distance nécessaire pour éclosion."
 
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
 msgstr ""
-"Nous avons aussi fais la liste des \"meilleurs\" et \"pires\" PC qui peuvent "
-"être obtenus avec un œuf <em>si votre niveau de dresseur est supérieur à "
-"20</em>. Tous les œufs obtenus après le niveau 20 vont éclore en un Pokémon "
-"de niveau 20. Cela signifie que la variation de PC à l'éclosion est le "
-"résultat d'IV différents. Des IV parfaits (15/15/15) donneront lieu à un PC "
-"\"parfait\", alors que la plus petite combinaison d'IV possible (10/10/10) "
-"donnera le \"pire\" PC !  (Toutes les éclosions donnent des valeurs d'IV "
-"entre 10 et 15 en attaque, défense et PV.)"
+"Nous avons aussi indiqué les PC minimum et maximum d'un Pokémon sortant d'un "
+"œuf<em>si votre Niveau de Dresseur est supérieur à 20</em>.  Tous les œufs "
+"obtenus par un Dresseur niveau 20 ou plus vont éclore en un Pokémon de "
+"niveau 20.  Cela signifie que la variation des PC que vous pouvez observer à "
+"l’éclosion est le résultat d'IVs différentes.  Des IV parfaits (15/15/15) "
+"donneront lieu à un PC \"maximum\", alors que la plus petite combinaison "
+"d'IV possible (10/10/10) donnera le PC \"minimum\" !  (Toutes les Pokémons "
+"provenant d'oeufs ont une valeur d'IV comprise entre 10 et 15 pour "
+"l'attaque, la défense et les PV.)"
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
@@ -132,11 +133,11 @@ msgstr "10km"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
-msgstr "Parfait:"
+msgstr "Maximum:"
 
 #: View/Pages/egg_distances.ctp:147;211;276
 msgid "Worst:"
-msgstr "Pire:"
+msgstr "Minimum:"
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
@@ -198,7 +199,7 @@ msgstr "Energie Générée/Sec."
 
 #: View/Pages/moves.ctp:177
 msgid "%s / Energy:"
-msgstr ""
+msgstr "%s / Energie :"
 
 #: View/Pages/moves.ctp:198
 msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"

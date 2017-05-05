@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-05 13:39+0000\n"
+"PO-Revision-Date: 2017-05-05 18:49+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493991578.540048\n"
+"X-POOTLE-MTIME: 1494010162.196534\n"
 
 #: COMMENT
 msgid "Height:"
@@ -91,7 +91,7 @@ msgstr "EPS:"
 
 #: COMMENT
 msgid "Type Bonus!"
-msgstr ""
+msgstr "Bonus za typ!"
 
 #: COMMENT
 msgid "Charge Moves"
@@ -99,15 +99,17 @@ msgstr "Mocne ataki"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr ""
+msgstr "Ataki o tym samym"
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "typie"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
+"co Pokemon otrzymują 25% bonus zwany Same-Type Attack Bonus (STAB)! Bonusy "
+"te są już wliczone powyżej."
 
 #: COMMENT
 msgid "No Known Moves Yet!"
@@ -115,19 +117,19 @@ msgstr "Brak znanych ataków!"
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "Żaden"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr ""
+msgstr "osobnik nie został jeszcze złapany przez Badaczy Silph!"
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "Bądź pierwszy!"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr ""
+msgstr "Cukierkowy dystans"
 
 #: COMMENT
 msgid "Candy to Evolve"
@@ -171,12 +173,12 @@ msgstr "Czołowi badacze"
 
 #: COMMENT
 msgid "Most Sightings"
-msgstr ""
+msgstr "Najwięcej Obserwacji"
 
 #: COMMENT
 msgid "Strongest Specimen"
-msgstr ""
+msgstr "Najsilniejszy osobnik"
 
 #: COMMENT
 msgid "- No Sightings -"
-msgstr ""
+msgstr "- Brak Obserwacji -"

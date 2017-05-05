@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-05 13:45+0000\n"
+"PO-Revision-Date: 2017-05-05 19:56+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -14,23 +14,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493991913.212797\n"
+"X-POOTLE-MTIME: 1494014189.850804\n"
 
 #: View/Helper/PostSidebarHelper.php:10
 msgid "Trending"
-msgstr ""
+msgstr "Tendance"
 
 #: View/Helper/PostSidebarHelper.php:21
 msgid "Tip:"
-msgstr ""
+msgstr "Astuce :"
 
 #: View/Helper/PostSidebarHelper.php:23
 msgid "Research:"
-msgstr ""
+msgstr "Recherche :"
 
 #: View/Helper/PostSidebarHelper.php:25
 msgid "News:"
-msgstr ""
+msgstr "Nouvelles :"
 
 #: View/Pages/blog.ctp:2;11
 msgid "Grassroots Pokemon GO Network"
@@ -39,16 +39,17 @@ msgstr "Réseau Local de Pokémon GO"
 #: View/Pages/blog.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
 msgstr ""
-"The Silph Road a réuni avec l'Atlas Mondial des Nids la plus importante base "
-"de donnée de nids répertoriée au monde dans Pokémon GO.  Mis à jour en "
-"permanence par nos voyageurs du monde entier, les nids sont suivis et décris "
-"avec un historique pour chaque nid..."
+"The Silph Road vous présente son Atlas Mondial des Nids, la plus importante "
+"base de donnée de nids répertoriés au monde dans Pokémon GO.  Mise à jour en "
+"permanence par nos voyageurs du monde entier, les nids sont suivis et "
+"décrits avec un historique pour chaque nid..."
 
 #: View/Pages/blog.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
 msgstr ""
-"The Silph Road a réuni avec l'Atlas Mondial des Nids la plus importante base "
-"de donnée de nids répertoriée au monde dans Pokémon GO..."
+"The Silph Road vous présente son Atlas Mondial des Nids, la plus importante "
+"base de donnée de nids répertoriés dans Pokémon GO au monde, complétée avec "
+"des histoires de voyageurs de tous horizons..."
 
 #: View/Pages/blog.ctp:20
 msgid "Latest Pokemon GO Tips & News"
@@ -68,7 +69,7 @@ msgstr "Étude Silph :"
 
 #: View/Pages/blog.ctp:64
 msgid "Field Update"
-msgstr "Actualité de Terrain"
+msgstr "Actualité du Terrain"
 
 #: View/Pages/blog.ctp:85
 msgid "See Full Tip &raquo;"

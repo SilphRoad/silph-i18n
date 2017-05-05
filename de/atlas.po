@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-04 17:12+0000\n"
+"PO-Revision-Date: 2017-05-05 20:31+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493917943.246355\n"
+"X-POOTLE-MTIME: 1494016288.603500\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -160,7 +160,7 @@ msgstr "Lade Campdaten..."
 
 #: View/Atlas/index.ctp:885
 msgid "Nest Report"
-msgstr ""
+msgstr "Nestbericht"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
@@ -575,6 +575,8 @@ msgstr ""
 #: View/Atlas/index.ctp:1617
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
 msgstr ""
+"Bitte wähle ein gültiges Datum aus! (Das Datum darf nicht in der Zukunft "
+"liegen.)"
 
 #: View/Atlas/index.ctp:1631;1632;1633;1634;1636;1638;1639;1640;1641;1642
 msgid "Retrieving Field Reports..."
@@ -626,7 +628,7 @@ msgstr "Aktiviere Ortungsdienste, um zu deinem Standort zu springen!"
 
 #: View/Atlas/index.ctp:1886
 msgid "Select All"
-msgstr ""
+msgstr "Alle Auswählen"
 
 #: View/Atlas/index.ctp:1887
 msgid "All Species"
@@ -661,7 +663,6 @@ msgid "Nest Behaviors"
 msgstr "Nestverhalten"
 
 #: View/Atlas/index.ctp:2140
-#, fuzzy
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
 "Halt ein, Reisender - Aus dieser Entfernung gibt es zu viele Sichtungen, um "

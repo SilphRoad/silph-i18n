@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-05 13:18+0000\n"
+"PO-Revision-Date: 2017-05-05 18:13+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,12 +15,12 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493990338.629123\n"
+"X-POOTLE-MTIME: 1494008001.338201\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Przełącz nawigację"
 
 #: View/Atlas/index.ctp:668;672;725;729
 #: View/Helper/TopNavHelper.php:38;42;107;111
@@ -35,7 +35,7 @@ msgstr "Zasoby"
 #: View/Atlas/index.ctp:673;730
 #: View/Helper/TopNavHelper.php:43;112
 msgid "Global Pokedex"
-msgstr ""
+msgstr "Światowy Pokedex"
 
 #: View/Atlas/index.ctp:674;731
 #: View/Helper/TopNavHelper.php:44;113
@@ -61,12 +61,12 @@ msgstr "Bazowe statystyki gatunków"
 #: View/Atlas/index.ctp:678;735
 #: View/Helper/TopNavHelper.php:48;117
 msgid "Egg Distances"
-msgstr ""
+msgstr "Odległości wykluwania jajek"
 
 #: View/Atlas/index.ctp:679;736
 #: View/Helper/TopNavHelper.php:49;118
 msgid "Buddy Candy"
-msgstr ""
+msgstr "Cukierki kumpla"
 
 #: View/Atlas/index.ctp:680;737
 #: View/Helper/TopNavHelper.php:50;119
@@ -102,7 +102,7 @@ msgstr "Nowe badanie"
 #: View/Atlas/index.ctp:701;761
 #: View/Helper/TopNavHelper.php:149
 msgid "Field Manual"
-msgstr ""
+msgstr "Podręcznik polowy"
 
 #: View/Atlas/index.ctp:702;762
 #: View/Helper/TopNavHelper.php:150
@@ -142,19 +142,19 @@ msgstr "Atlas gniazd"
 #: View/Atlas/index.ctp:744
 #: View/Helper/TopNavHelper.php:58;126
 msgid "Known Nest Map"
-msgstr ""
+msgstr "Mapa znanych gniazd"
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Pursue"
-msgstr ""
+msgstr "Tropienie"
 
 #: View/Helper/TopNavHelper.php:72;138
 msgid "Tracking Aide"
-msgstr ""
+msgstr "Pomoc w śledzeniu"
 
 #: View/Users/login.ctp:15
 msgid "Your Papers, Please."
-msgstr ""
+msgstr "Dokumenty, proszę"
 
 #: View/Users/login.ctp:17
 msgid "The Silph Road authenticates travelers via their Reddit account.  Click \"Authenticate\" below to access the Silph Road."
@@ -165,7 +165,7 @@ msgstr ""
 
 #: View/Users/login.ctp:19
 msgid "Authenticate &raquo;"
-msgstr ""
+msgstr "Uwierzytelnij &raquo;"
 
 #: View/Users/login.ctp:21
 msgid "You may create a Reddit account for free at Reddit.com."

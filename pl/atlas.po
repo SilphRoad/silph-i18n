@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-05 12:33+0000\n"
+"PO-Revision-Date: 2017-05-05 17:23+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493987625.368817\n"
+"X-POOTLE-MTIME: 1494005022.445151\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -24,6 +24,10 @@ msgstr "Światowy atlas gniazd"
 #: View/Atlas/index.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
 msgstr ""
+"Światowy Atlas Gniazd The Silph Road to największy zbiór znanych lokalizacji "
+"gniazd w Pokemon GO na świecie. Utrzymywane przez podróżników z całego "
+"świata, gniazda są śledzone oraz opisywane z historią dla każdej lokalizacji "
+"gniazda..."
 
 #: View/Atlas/index.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
@@ -70,7 +74,6 @@ msgid "Report Sighting/Nest"
 msgstr ""
 
 #: View/Atlas/index.ctp:779
-#, fuzzy
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
 msgstr ""
 "Hola hola, podróżniku. Na tej wysokości znaleźliśmy zbyt wiele gniazd. "
@@ -78,7 +81,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:785
 msgid "Reticulating splines..."
-msgstr ""
+msgstr "Sieciowanie splajnów..."
 
 #: View/Atlas/index.ctp:793
 msgid "A Call for Beta Testers"
@@ -505,10 +508,9 @@ msgid "Your device/browser does not support geolocation! :("
 msgstr "Przeglądarka/urządzenie nie obsługują geolokalizacji! :("
 
 #: View/Atlas/index.ctp:1615
-#, fuzzy
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
-"Hola hola, podróżniku. Na tej wysokości znaleźliśmy zbyt wiele gniazd. "
+"Hola hola, podróżniku. Na tej wysokości znaleźliśmy zbyt wiele obserwacji. "
 "Przybliż obszar, aby uzyskać więcej szczegółów."
 
 #: View/Atlas/index.ctp:1616;2140
@@ -598,19 +600,17 @@ msgid "Nest Behavior"
 msgstr "Zachowanie gniazda"
 
 #: View/Atlas/index.ctp:1959
-#, fuzzy
 msgid "1 Nest Behavior"
-msgstr "Zachowanie gniazda"
+msgstr "1 Zachowanie gniazda"
 
 #: View/Atlas/index.ctp:1962
 msgid "Nest Behaviors"
-msgstr "Zachowanie gniazd"
+msgstr "Zachowania gniazd"
 
 #: View/Atlas/index.ctp:2140
-#, fuzzy
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
-"Hola hola, podróżniku. Na tej wysokości znaleźliśmy zbyt wiele gniazd. "
+"Hola hola, podróżniku. Na tej wysokości znaleźliśmy zbyt wiele obserwacji. "
 "Przybliż obszar, aby uzyskać więcej szczegółów."
 
 #: View/Atlas/index.ctp:2196
@@ -634,7 +634,6 @@ msgid "This species is spawning globally for an Event! We'll wait on collecting 
 msgstr ""
 
 #: View/Atlas/index.ctp:2533;2535
-#, fuzzy
 msgid "Select a Charge Move"
 msgstr "Wybierz mocny atak..."
 

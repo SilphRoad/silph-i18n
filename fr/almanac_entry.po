@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-03 23:13+0000\n"
+"PO-Revision-Date: 2017-05-05 18:48+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493853228.806699\n"
+"X-POOTLE-MTIME: 1494010126.776611\n"
 
 #: COMMENT
 msgid "Height:"
@@ -131,7 +131,7 @@ msgstr "Sois le premier !"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr "Distance en Copain"
+msgstr "Distance par Copain"
 
 #: COMMENT
 msgid "Candy to Evolve"
@@ -164,7 +164,7 @@ msgstr "Défenseur"
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"
 msgstr ""
-"*Les recommendations concernant l'efficacité des types sont en cours de "
+"*Les recommandations concernant l'efficacité des types sont en cours de "
 "développement !"
 
 #: COMMENT
@@ -173,7 +173,7 @@ msgstr "Des recommendations plus poussées arrivent bientôt."
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr "Chercheurs Reconnus"
+msgstr "Chercheurs Notables"
 
 #: COMMENT
 msgid "Most Sightings"

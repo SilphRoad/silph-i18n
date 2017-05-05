@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-05 12:50+0000\n"
+"PO-Revision-Date: 2017-05-05 18:29+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,15 +15,17 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493988635.697406\n"
+"X-POOTLE-MTIME: 1494008978.865762\n"
 
 #: View/Catalog/index.ctp:350
 msgid "The Global Pokedex"
-msgstr ""
+msgstr "Światowy Pokedex"
 
 #: View/Catalog/index.ctp:351
 msgid "The Silph Global Pokedex contains data on species found by travelers around the world. Select a species to learn more!"
 msgstr ""
+"Światowy Pokedex Silph zawiera dane na temat gatunków znalezionych przez "
+"podróżników na całym świecie. Wybierz gatunek, aby dowiedzieć się więcej!"
 
 #: View/Catalog/index.ctp:354
 msgid "Kanto (Gen 1) Species"

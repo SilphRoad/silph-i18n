@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-05 15:04+0000\n"
+"PO-Revision-Date: 2017-05-05 15:41+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,23 +15,23 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493996642.626050\n"
+"X-POOTLE-MTIME: 1493998895.013009\n"
 
 #: View/Helper/PostSidebarHelper.php:10
 msgid "Trending"
-msgstr ""
+msgstr "Popularne"
 
 #: View/Helper/PostSidebarHelper.php:21
 msgid "Tip:"
-msgstr ""
+msgstr "Porada:"
 
 #: View/Helper/PostSidebarHelper.php:23
 msgid "Research:"
-msgstr ""
+msgstr "Badania:"
 
 #: View/Helper/PostSidebarHelper.php:25
 msgid "News:"
-msgstr ""
+msgstr "Wiadomości:"
 
 #: View/Pages/blog.ctp:2;11
 msgid "Grassroots Pokemon GO Network"
@@ -48,14 +48,17 @@ msgstr ""
 #: View/Pages/blog.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
 msgstr ""
+"Światowy Atlas Gniazd The Silph Road to największy zbiór znanych lokalizacji "
+"gniazd w Pokemon GO na świecie, uzupełnione historią od podróżników z całego "
+"świata..."
 
 #: View/Pages/blog.ctp:20
 msgid "Latest Pokemon GO Tips & News"
-msgstr ""
+msgstr "Najnowsze wskazówki i wiadomości"
 
 #: View/Pages/blog.ctp:22
 msgid "Latest from the Silph Research Group"
-msgstr ""
+msgstr "Ostatnie badania Silph Research Group"
 
 #: View/Pages/blog.ctp:40
 msgid "Trail Pointer:"
@@ -63,11 +66,11 @@ msgstr "Drogowskaz:"
 
 #: View/Pages/blog.ctp:60
 msgid "Silph Study:"
-msgstr ""
+msgstr "Raport Silph:"
 
 #: View/Pages/blog.ctp:64
 msgid "Field Update"
-msgstr ""
+msgstr "Aktualizacja"
 
 #: View/Pages/blog.ctp:85
 msgid "See Full Tip &raquo;"
@@ -94,3 +97,6 @@ msgstr "Wkrótce Silph Research Group doda nowe wpisy"
 #: View/Pages/blog.ctp:152
 msgid "The Silph Research Group has been recently re-organized and will be publishing formal findings in this feed.  Stay tuned for more delicious science soon, travelers!"
 msgstr ""
+"Silph Research Group była niedawno zreorganizowana i będzie opublikowywać "
+"oficjalne odkrycia na tym kanale. Oczekujcie nowych wybornych odkryć, "
+"podróżnicy!"

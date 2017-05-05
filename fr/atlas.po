@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 11:06-0400\n"
-"PO-Revision-Date: 2017-05-05 14:06+0000\n"
+"PO-Revision-Date: 2017-05-05 19:19+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493993160.820361\n"
+"X-POOTLE-MTIME: 1494011987.459799\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -160,7 +160,7 @@ msgstr "Chargement des Données du Camp..."
 
 #: View/Atlas/index.ctp:885
 msgid "Nest Report"
-msgstr ""
+msgstr "Signalement d'un nid"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
@@ -577,6 +577,8 @@ msgstr ""
 #: View/Atlas/index.ctp:1617
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
 msgstr ""
+"Veuillez s'il vous plait sélectionner une date valide ! (Les dates "
+"postérieures ne sont pas acceptées.)"
 
 #: View/Atlas/index.ctp:1631;1632;1633;1634;1636;1638;1639;1640;1641;1642
 msgid "Retrieving Field Reports..."
@@ -604,7 +606,7 @@ msgstr "Commande d'un Mewtwo..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Rinsing Max Repel Off Shoes..."
-msgstr "Rinçage des chaussures en utilisant un Rappel Max..."
+msgstr "Rinçage des chaussures en utilisant un Repousse Max..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Blowing in the Cartridge..."
@@ -628,7 +630,7 @@ msgstr "Activez le service de localisation pour vous rendre à votre position !"
 
 #: View/Atlas/index.ctp:1886
 msgid "Select All"
-msgstr ""
+msgstr "Tout sélectionner"
 
 #: View/Atlas/index.ctp:1887
 msgid "All Species"
@@ -663,7 +665,6 @@ msgid "Nest Behaviors"
 msgstr "Comportements de Nid"
 
 #: View/Atlas/index.ctp:2140
-#, fuzzy
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
 "Wow, voyageur - Il y a trop d'observations à afficher à cette échelle. "
@@ -720,14 +721,14 @@ msgstr "Veuillez sélectionner votre Niveau de Dresseur !"
 msgid "Please select your Team!"
 msgstr "Veuillez sélectionner votre Équipe !"
 
-#~ msgid "Whoa, traveler - There are too many "
-#~ msgstr "Wow, voyageur - Il y a trop de "
+msgid "Whoa, traveler - There are too many "
+msgstr "Wow, voyageur - Il y a trop "
 
-#~ msgid "nests"
-#~ msgstr "nids"
+msgid "nests"
+msgstr "de nids"
 
-#~ msgid "sightings"
-#~ msgstr "observations"
+msgid "sightings"
+msgstr "d'observations"
 
 #~ msgid "to show at this height. Zoom in for more detail."
 #~ msgstr "à afficher à cette échelle. Zoomez pour plus de détail."

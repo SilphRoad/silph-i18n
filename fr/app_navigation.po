@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 13:33+0000\n"
+"PO-Revision-Date: 2017-05-06 13:41+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493991203.572182\n"
+"X-POOTLE-MTIME: 1494078060.028936\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -49,7 +49,7 @@ msgstr "Tables de Référence"
 #: View/Atlas/index.ctp:676;733
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Moves By DPS"
-msgstr "Attaques par DPS"
+msgstr "Attaques triées par DPS"
 
 #: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:47;116

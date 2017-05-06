@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-06 10:47+0000\n"
+"PO-Revision-Date: 2017-05-06 13:04+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494067656.896183\n"
+"X-POOTLE-MTIME: 1494075896.660359\n"
 
 #: COMMENT
 msgid "Height:"
@@ -51,8 +51,8 @@ msgstr "Attendez :"
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
-"Les Nids du monde entier sont actuellement en train de changer ! Restez à "
-"l'écoute pour plus d'information !"
+"Les Nids du monde entier sont actuellement en train de changer ! Restez "
+"connectés pour plus d'information !"
 
 #: COMMENT
 msgid "Map Loading"
@@ -64,7 +64,7 @@ msgstr "Barre de Recherche"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
-msgstr "Agrandissez la carte pour l'explorer"
+msgstr "Agrandissez la Carte pour l'explorer"
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
@@ -80,7 +80,7 @@ msgstr "DPS"
 
 #: COMMENT
 msgid "Pow."
-msgstr "Puissance"
+msgstr "Puiss."
 
 #: COMMENT
 msgid "ms"
@@ -134,7 +134,7 @@ msgstr "Distance par Copain"
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr "Bonbons pour Évoluer"
+msgstr "Bonbons pour faire Évoluer"
 
 #: COMMENT
 msgid "Base Capture Rate"

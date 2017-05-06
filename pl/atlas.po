@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 11:20+0000\n"
+"PO-Revision-Date: 2017-05-06 13:01+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494069652.887962\n"
+"X-POOTLE-MTIME: 1494075714.933637\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -176,59 +176,65 @@ msgstr ""
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("
-msgstr ""
+msgstr "Nic szczególnego! :("
 
 #: View/Atlas/index.ctp:902
 msgid "Nothing!"
-msgstr ""
+msgstr "Nic!"
 
 #: View/Atlas/index.ctp:905
 msgid "Yes! I found a species here:"
-msgstr ""
+msgstr "Tak! Znalazłem tu gatunek:"
 
 #: View/Atlas/index.ctp:918
 msgid "Report!"
-msgstr ""
+msgstr "Zgłoś!"
 
 #: View/Atlas/index.ctp:927
 msgid "What Type of Nest Did You Find Here?"
-msgstr ""
+msgstr "Jakiego typu gniazdo tutaj znalazłeś?"
 
 #: View/Atlas/index.ctp:935;1128
 msgid "Cluster Spawn"
-msgstr ""
+msgstr "Gromada"
 
 #: View/Atlas/index.ctp:937
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
 msgstr ""
+"Wiele pojawia się na mapie <span style=\"text-decoration: underline;\""
+">jednocześnie</span> w ciągu jednej godziny (w tym samym czasie)"
 
 #: View/Atlas/index.ctp:947;1140
 msgid "Frequent Spawn <em>Area</em>"
-msgstr ""
+msgstr "<em>Obszar</em> występowania"
 
 #: View/Atlas/index.ctp:949;1142
 msgid "Semi-frequent spawning over a small area (typically non-concurrent) <br>Examples: riverbanks/piers, a large golfcourse, 3-5 city blocks, etc"
 msgstr ""
+"Umiarkowane występowanie na małym obszarze (zazwyczaj nie jednocześnie) <br> "
+"Przykłady: nabrzeża/molo, duże pole golfowe, 3-5 bloków mieszkalnych itd."
 
 #: View/Atlas/index.ctp:959;1152
 msgid "Frequent Spawn <em>Point</em>"
-msgstr ""
+msgstr "<em>Punkt</em> występowania"
 
 #: View/Atlas/index.ctp:961
 msgid "A single location that frequently spawns a rare/uncommon species <span style='text-decoration:underline'>multiple times a day"
 msgstr ""
+"Pojedyncza lokalizacja, w której często występują rzadkie/niepospolite "
+"gatunki <span style='text-decoration:underline'>wielokrotnie w ciągu dnia"
 
 #: View/Atlas/index.ctp:967;1005
 msgid "&laquo; Back"
-msgstr ""
+msgstr "&laquo; Wróć"
 
 #: View/Atlas/index.ctp:968
 msgid "Continue &raquo;"
-msgstr ""
+msgstr "Dalej &raquo;"
 
 #: View/Atlas/index.ctp:975
 msgid "Helpful information for future travelers?"
-msgstr ""
+msgstr "Przydatne informacje dla przyszłych podróżników?"
 
 #: View/Atlas/index.ctp:977
 msgid "For example, how many did you encounter? How long were you there? What specific spot did you see a spawn? What exact times did you observe spawns?  Etc.  Anything that might be useful to future travelers!"

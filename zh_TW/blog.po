@@ -1,19 +1,20 @@
 # LANGUAGE translation of CakePHP Application
 # Copyright YEAR NAME <EMAIL@ADDRESS>
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-06 17:08+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1494090495.795858\n"
 
 #: View/Helper/PostSidebarHelper.php:10
 msgid "Trending"
@@ -21,15 +22,15 @@ msgstr ""
 
 #: View/Helper/PostSidebarHelper.php:21
 msgid "Tip:"
-msgstr ""
+msgstr "秘訣："
 
 #: View/Helper/PostSidebarHelper.php:23
 msgid "Research:"
-msgstr ""
+msgstr "研究："
 
 #: View/Helper/PostSidebarHelper.php:25
 msgid "News:"
-msgstr ""
+msgstr "新聞："
 
 #: View/Pages/blog.ctp:2;11
 msgid "Grassroots Pokemon GO Network"
@@ -45,11 +46,11 @@ msgstr ""
 
 #: View/Pages/blog.ctp:20
 msgid "Latest Pokemon GO Tips & News"
-msgstr ""
+msgstr "最新 Pokemon GO 秘訣及新聞"
 
 #: View/Pages/blog.ctp:22
 msgid "Latest from the Silph Research Group"
-msgstr ""
+msgstr "Silph 研究團隊之最新消息"
 
 #: View/Pages/blog.ctp:40
 msgid "Trail Pointer:"
@@ -57,23 +58,23 @@ msgstr ""
 
 #: View/Pages/blog.ctp:60
 msgid "Silph Study:"
-msgstr ""
+msgstr "Silph 研究："
 
 #: View/Pages/blog.ctp:64
 msgid "Field Update"
-msgstr ""
+msgstr "實地考察更新"
 
 #: View/Pages/blog.ctp:85
 msgid "See Full Tip &raquo;"
-msgstr ""
+msgstr "察看完整秘訣 &raquo;"
 
 #: View/Pages/blog.ctp:87;89
 msgid "Full Article &raquo;"
-msgstr ""
+msgstr "全文展開 &raquo;"
 
 #: View/Pages/blog.ctp:145
 msgid "Stay Tuned for More Tips!"
-msgstr ""
+msgstr "請密切關注以獲得更多秘訣！"
 
 #: View/Pages/blog.ctp:146
 msgid "The Silph Road will be publishing a new tips periodically on this feed.  These <code>Trail Pointers</code> will help you on your way to becoming a Pokemon GO master!"

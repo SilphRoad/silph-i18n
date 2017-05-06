@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 08:12+0000\n"
+"PO-Revision-Date: 2017-05-06 14:20+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494058379.876339\n"
+"X-POOTLE-MTIME: 1494080405.841233\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -53,9 +53,9 @@ msgstr "Km de Pokémon compañero por caramelo en Pokémon GO"
 #: View/Pages/buddy_candy.ctp:83
 msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."
 msgstr ""
-"En las tablas debajo puedes encontrar la lista completa de los kilómetros "
-"(km) que debes caminar para ganar un caramelo de recompensa para tu Pokémon "
-"\"compañero\". <br>\n"
+"En las tablas debajo puedes hallar la lista completa de los kilómetros (km) "
+"que debes caminar para ganar un caramelo de recompensa para tu Pokémon \""
+"compañero\". <br>\n"
 "\t\t\t\t\t\t<em>Note:</em> ¡Esta lista aún está siendo finalizada!  Se "
 "mantendrá al día a medida que confirmemos más información."
 
@@ -95,8 +95,8 @@ msgstr "Gráfica de la distancia de los huevos de Pokémon GO | The Silph Road"
 #: View/Pages/egg_distances.ctp:5;12
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
 msgstr ""
-"A continuación se enumeran todas las especies eclosionables en Pokemon GO, "
-"según la distancia del huevo.  También hemos enumerado el \"mejor\" y el \""
+"Debajo están enlistadas todas las especies eclosionables en Pokemon GO, "
+"según la distancia del huevo.  También hemos enlistado el \"mejor\" y el \""
 "peor\" PC con el que un huevo podría eclosionar..."
 
 #: View/Pages/egg_distances.ctp:80
@@ -106,7 +106,7 @@ msgstr "Lista de distancia de los huevos de Pokémon GO"
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
 msgstr ""
-"A continuación se enlistan todas las especies eclosionables de Pokémon GO, "
+"Debajo están enlistadas todas las especies eclosionables de Pokémon GO, "
 "ordenadas por la distancia del huevo."
 
 #: View/Pages/egg_distances.ctp:85
@@ -120,7 +120,7 @@ msgstr ""
 "perfectos (15/15/15) resultarán en un PC \"perfecto\", mientras que los IVs "
 "más bajos posibles (10/10/10) producirán el \"peor\" PC!  (Todas las "
 "eclosiones tienen un valor entre 10-15 para los valores individuales de "
-"ataque, defensa y resistencia.)"
+"ataque, defensa y resistencia)."
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
@@ -161,7 +161,7 @@ msgstr "Lista de movimientos en Pokémon GO"
 #: View/Pages/moves.ctp:130
 msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
 msgstr ""
-"En las siguientes tablas puedes encontrar una lista completa de todos los "
+"En las tablas debajo puedes hallar una lista completa de todos los "
 "movimientos en Pokémon GO junto con su tipo, potencia, duración y daño "
 "infligido por segundo (DPS)."
 

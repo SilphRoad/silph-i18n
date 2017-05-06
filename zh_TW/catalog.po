@@ -1,35 +1,36 @@
 # LANGUAGE translation of CakePHP Application
 # Copyright YEAR NAME <EMAIL@ADDRESS>
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-06 17:12+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1494090753.014397\n"
 
 #: View/Catalog/index.ctp:350
 msgid "The Global Pokedex"
-msgstr ""
+msgstr "全球寶可夢圖鑑"
 
 #: View/Catalog/index.ctp:351
 msgid "The Silph Global Pokedex contains data on species found by travelers around the world. Select a species to learn more!"
-msgstr ""
+msgstr "Silph 全球寶可夢圖鑑包含全世界旅行者們發現的物種資料，請選取任一物種以瞭解更多資訊！"
 
 #: View/Catalog/index.ctp:354
 msgid "Kanto (Gen 1) Species"
-msgstr ""
+msgstr "關都地區（第一世代）物種"
 
 #: View/Catalog/index.ctp:372
 msgid "Johto (Gen 2) Species"
-msgstr ""
+msgstr "城都地區（第二世代）物種"
 
 #: View/Catalog/index.ctp:520
 msgid "The Silph Road | All Rights Reserved"
@@ -49,4 +50,4 @@ msgstr ""
 
 #: View/Catalog/index.ctp:528
 msgid "For inquiries, contact TheSilphRoad@gmail.com"
-msgstr ""
+msgstr "如有疑問，請聯絡 TheSilphRoad@gmail.com"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 01:17+0000\n"
+"PO-Revision-Date: 2017-05-06 13:06+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494033472.576529\n"
+"X-POOTLE-MTIME: 1494075962.816339\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:81
 msgid "Buddy Pokemon KM Per Candy in Pokemon GO"
-msgstr "Km requis par Bonbon du Copain dans Pokémon GO"
+msgstr "Km à Parcourir avec son Copain Pokémon GO"
 
 #: View/Pages/buddy_candy.ctp:83
 msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."

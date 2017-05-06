@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-03 18:46+0000\n"
+"PO-Revision-Date: 2017-05-06 15:54+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493837176.274095\n"
+"X-POOTLE-MTIME: 1494086081.994870\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -99,7 +99,7 @@ msgstr "新研究"
 #: View/Atlas/index.ctp:701;761
 #: View/Helper/TopNavHelper.php:149
 msgid "Field Manual"
-msgstr ""
+msgstr "野外考察指南"
 
 #: View/Atlas/index.ctp:702;762
 #: View/Helper/TopNavHelper.php:150

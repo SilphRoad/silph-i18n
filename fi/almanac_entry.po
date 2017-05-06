@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-06 12:14+0000\n"
+"PO-Revision-Date: 2017-05-06 16:39+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494072860.275971\n"
+"X-POOTLE-MTIME: 1494088765.387966\n"
 
 #: COMMENT
 msgid "Height:"
@@ -58,12 +58,12 @@ msgstr ""
 msgid "Map Loading"
 msgstr "Kartta latautuu"
 
-# Missä esiintyy, voiko kutsua ikkunaksi?
+# Näyttää olevan jossain Sightings-osion sisällä, jota ei tällä hetkellä näe... oletan, että on tämänkaltainen käyttötapaus: https://developers.google.com/maps/documentation/javascript/examples/places-searchbox
 #: COMMENT
 msgid "Search Box"
-msgstr "Hakuikkuna"
+msgstr "Hae"
 
-# Konteksti?
+# Executive Ceppi sanoi näin: "that text isn't readily available anymore, it's part of the sightings code path, but it's instructing the user that they can use the full screen button or move/zoom the map to see more entries" ja "You need to expand the map to either pan or zoom"
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
 msgstr ""
@@ -78,8 +78,9 @@ msgstr "Pikaliikkeet"
 
 #: COMMENT
 msgid "DPS"
-msgstr ""
+msgstr "DPS"
 
+# Löytyy kunkin liikkeen tiedoista pokedexistä, lyhenne sanasta Power, ehkä?
 #: COMMENT
 msgid "Pow."
 msgstr ""
@@ -88,9 +89,10 @@ msgstr ""
 msgid "ms"
 msgstr "ms"
 
+# Ei ainakaan tuossa pokedex-sivulla, josta oletan että tuo käännettävä teksti on peräisin. Voisi ehkä lisätä sen STAB-selityksen perään?
 #: COMMENT
 msgid "EPS:"
-msgstr ""
+msgstr "EPS:"
 
 #: COMMENT
 msgid "Type Bonus!"
@@ -112,7 +114,8 @@ msgstr "tyyppi"
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
 "kuin Pokémonilla, saavat 25 %:n bonuksen, jota kutsutaan saman tyypin "
-"hyökkäyseduksi (Same-Type Attack Bonus eli STAB)!"
+"hyökkäyseduksi (Same-Type Attack Bonus eli STAB)! Tyyppietu on jo laskettu "
+"mukaan yllä esitettyihin arvoihin."
 
 #: COMMENT
 msgid "No Known Moves Yet!"
@@ -148,7 +151,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Weak Against"
-msgstr ""
+msgstr "Heikko näitä vastaan:"
 
 #: COMMENT
 msgid "Offence"
@@ -172,16 +175,16 @@ msgstr "Parannellut suositukset ovat tulossa pian."
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr ""
+msgstr "Merkittävät tutkijat"
 
 #: COMMENT
 msgid "Most Sightings"
-msgstr ""
+msgstr "Eniten havaintoja"
 
 #: COMMENT
 msgid "Strongest Specimen"
-msgstr ""
+msgstr "Vahvin yksilö"
 
 #: COMMENT
 msgid "- No Sightings -"
-msgstr ""
+msgstr "- Ei havaintoja -"

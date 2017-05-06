@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-03 18:51+0000\n"
+"PO-Revision-Date: 2017-05-06 17:02+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493837502.906997\n"
+"X-POOTLE-MTIME: 1494090163.222798\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -87,11 +87,11 @@ msgstr ""
 
 #: View/Pages/egg_distances.ctp:80
 msgid "Pokemon Go Egg Distance List"
-msgstr ""
+msgstr "Pokemon Go 孵蛋里程表"
 
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
-msgstr ""
+msgstr "下表為 Pokemon GO 中所有可孵化之物種，並以蛋孵化所需里程數排列。"
 
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
-msgstr ""
+msgstr "寶可夢數據排行：第一及第二世代 | The Silph Road"
 
 #: View/Pages/species_stats.ctp:6;13
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO. Generation 2 Pokemon's base stats are able to be calculated due to..."
@@ -203,7 +203,7 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:128
 msgid "Species Stats in Pokemon GO"
-msgstr ""
+msgstr "Pokemon GO 中的物種數據"
 
 #: View/Pages/species_stats.ctp:130
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."
@@ -219,15 +219,15 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:148
 msgid "Include Gen 2 Pokemon"
-msgstr ""
+msgstr "包含第二世代寶可夢"
 
 #: View/Pages/species_stats.ctp:149
 msgid "New!"
-msgstr ""
+msgstr "最新！"
 
 #: View/Pages/species_stats.ctp:155
 msgid "SORT BY:"
-msgstr ""
+msgstr "排序方式："
 
 #: View/Pages/species_stats.ctp:157
 msgid "Max Potential CP"
@@ -235,15 +235,15 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:158
 msgid "Species Number"
-msgstr ""
+msgstr "物種編號"
 
 #: View/Pages/species_stats.ctp:159
 msgid "Best Attack Stat"
-msgstr ""
+msgstr "最佳攻擊數值"
 
 #: View/Pages/species_stats.ctp:160
 msgid "Best Defense Stat"
-msgstr ""
+msgstr "最佳防禦數值"
 
 #: View/Pages/species_stats.ctp:161
 msgid "Best Stamina Stat"
@@ -251,19 +251,19 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:162
 msgid "Best Sum of Stats"
-msgstr ""
+msgstr "最佳數值總和"
 
 #: View/Pages/species_stats.ctp:163
 msgid "Best Product of Stats"
-msgstr ""
+msgstr "最佳數值總乘積"
 
 #: View/Pages/species_stats.ctp:190
 msgid "Height:"
-msgstr ""
+msgstr "身高："
 
 #: View/Pages/species_stats.ctp:191
 msgid "Weight:"
-msgstr ""
+msgstr "體重："
 
 #: View/Pages/species_stats.ctp:213
 msgid "Max CP"
@@ -271,11 +271,11 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:222
 msgid "Attack"
-msgstr ""
+msgstr "攻擊"
 
 #: View/Pages/species_stats.ctp:234
 msgid "Defense"
-msgstr ""
+msgstr "防禦"
 
 #: View/Pages/species_stats.ctp:247
 msgid "Stamina"
@@ -287,167 +287,151 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:3
 msgid "Pokemon GO Trainer Level Awards & Requirements"
-msgstr ""
+msgstr "Pokemon GO 訓練家等級獎勵及需求"
 
 #: View/Pages/trainer_levels.ctp:80
 msgid "Trainer Level Requirements + Bonuses"
-msgstr ""
+msgstr "訓練家等級需求＋獎勵"
 
 #: View/Pages/trainer_levels.ctp:82
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
-msgstr ""
+msgstr "下列表格詳列出 Pokemon GO 中訓練家每一等級之 XP 需求及道具獎勵。"
 
 #: View/Pages/trainer_levels.ctp:92
 msgid "Level"
-msgstr ""
+msgstr "等級"
 
 #: View/Pages/trainer_levels.ctp:93
 msgid "XP required"
-msgstr ""
+msgstr "所需 XP"
 
 #: View/Pages/trainer_levels.ctp:94
 msgid "Total XP"
-msgstr ""
+msgstr "總計 XP"
 
 #: View/Pages/trainer_levels.ctp:95
 msgid "Unlocked items"
-msgstr ""
+msgstr "解鎖道具"
 
 #: View/Pages/trainer_levels.ctp:96
 msgid "Rewards"
-msgstr ""
+msgstr "獎勵"
 
 #: View/Pages/trainer_levels.ctp:109;110
-#, fuzzy
 msgid "1,000"
-msgstr "120,000"
+msgstr "1,000"
 
 #: View/Pages/trainer_levels.ctp:116
-#, fuzzy
 msgid "2,000"
-msgstr "20,000"
+msgstr "2,000"
 
 #: View/Pages/trainer_levels.ctp:117;123
-#, fuzzy
 msgid "3,000"
-msgstr "20,000"
+msgstr "3,000"
 
 #: View/Pages/trainer_levels.ctp:119;126;133
 msgid "Poke Ball"
-msgstr ""
+msgstr "精靈球"
 
 #: View/Pages/trainer_levels.ctp:124;144
-#, fuzzy
 msgid "6,000"
-msgstr "65,000"
+msgstr "6,000"
 
 #: View/Pages/trainer_levels.ctp:130
-#, fuzzy
 msgid "4,000"
-msgstr "65,000"
+msgstr "4,000"
 
 #: View/Pages/trainer_levels.ctp:131;172;179;186;193
-#, fuzzy
 msgid "10,000"
-msgstr "120,000"
+msgstr "10,000"
 
 #: View/Pages/trainer_levels.ctp:132
 msgid "Gyms, Potions, Revives"
-msgstr ""
+msgstr "道館、傷藥、活力碎片"
 
 #: View/Pages/trainer_levels.ctp:133
 msgid "Potion"
-msgstr ""
+msgstr "傷藥"
 
 #: View/Pages/trainer_levels.ctp:133
 msgid "Revive"
-msgstr ""
+msgstr "活力碎片"
 
 #: View/Pages/trainer_levels.ctp:133
 msgid "Incense"
-msgstr ""
+msgstr "薰香"
 
 #: View/Pages/trainer_levels.ctp:137
-#, fuzzy
 msgid "5,000"
-msgstr "65,000"
+msgstr "5,000"
 
 #: View/Pages/trainer_levels.ctp:138;200
-#, fuzzy
 msgid "15,000"
-msgstr "65,000"
+msgstr "15,000"
 
 #: View/Pages/trainer_levels.ctp:140
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incubator"
-msgstr ""
+msgstr "精靈球（x15）、傷藥（x10）、活力碎片（x5）、孵化器"
 
 #: View/Pages/trainer_levels.ctp:145
-#, fuzzy
 msgid "21,000"
-msgstr "20,000"
+msgstr "21,000"
 
 #: View/Pages/trainer_levels.ctp:147
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incense"
-msgstr ""
+msgstr "精靈球（x15）、傷藥（x10）、活力碎片（x5）、薰香"
 
 #: View/Pages/trainer_levels.ctp:151
-#, fuzzy
 msgid "7,000"
-msgstr "65,000"
+msgstr "7,000"
 
 #: View/Pages/trainer_levels.ctp:152
-#, fuzzy
 msgid "28,000"
-msgstr "20,000"
+msgstr "28,000"
 
 #: View/Pages/trainer_levels.ctp:153
 msgid "Razz Berry"
-msgstr ""
+msgstr "蔓莓果"
 
 #: View/Pages/trainer_levels.ctp:154
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x10), Lure Module"
-msgstr ""
+msgstr "精靈球（x15）、傷藥（x10）、活力碎片（x5）、蔓莓果（x10）、誘餌模組"
 
 #: View/Pages/trainer_levels.ctp:158
-#, fuzzy
 msgid "8,000"
-msgstr "20,000"
+msgstr "8,000"
 
 #: View/Pages/trainer_levels.ctp:159
-#, fuzzy
 msgid "36,000"
-msgstr "65,000"
+msgstr "36,000"
 
 #: View/Pages/trainer_levels.ctp:161
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x3), Lucky Egg"
-msgstr ""
+msgstr "精靈球（x15）、傷藥（x10）、活力碎片（x5）、蔓莓果（x3）、幸運蛋"
 
 #: View/Pages/trainer_levels.ctp:165
-#, fuzzy
 msgid "9,000"
-msgstr "20,000"
+msgstr "9,000"
 
 #: View/Pages/trainer_levels.ctp:166
-#, fuzzy
 msgid "45,000"
-msgstr "65,000"
+msgstr "45,000"
 
 #: View/Pages/trainer_levels.ctp:167
 msgid "Super Potions"
-msgstr ""
+msgstr "好傷藥"
 
 #: View/Pages/trainer_levels.ctp:168
 msgid "Poke Ball (x20), Super Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
-msgstr ""
+msgstr "精靈球（x20）、好傷藥（x20）、活力碎片（x10）、蔓莓果（x10）、薰香、幸運蛋、孵化器、誘餌模組"
 
 #: View/Pages/trainer_levels.ctp:173
-#, fuzzy
 msgid "55,000"
-msgstr "65,000"
+msgstr "55,000"
 
 #: View/Pages/trainer_levels.ctp:175
 msgid "Poke Ball (x15), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "精靈球（x15）、好傷藥（x10）、活力碎片（x3）、蔓莓果（x3）"
 
 #: View/Pages/trainer_levels.ctp:180
 msgid "65,000"
@@ -459,34 +443,31 @@ msgstr "超級球"
 
 #: View/Pages/trainer_levels.ctp:182
 msgid "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "超級球（x20）、好傷藥（x10）、活力碎片（x3）、蔓莓果（x3）"
 
 #: View/Pages/trainer_levels.ctp:187;249
-#, fuzzy
 msgid "75,000"
-msgstr "65,000"
+msgstr "75,000"
 
 #: View/Pages/trainer_levels.ctp:189
 msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "超級球（x10）、好傷藥（x10）、活力碎片（x3）、蔓莓果（x3）"
 
 #: View/Pages/trainer_levels.ctp:194
-#, fuzzy
 msgid "85,000"
-msgstr "65,000"
+msgstr "85,000"
 
 #: View/Pages/trainer_levels.ctp:195
 msgid "Nanab Berry"
-msgstr ""
+msgstr "蕉香果"
 
 #: View/Pages/trainer_levels.ctp:196
 msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3), Nanab Berry (x3)"
-msgstr ""
+msgstr "超級球（x10）、好傷藥（x10）、活力碎片（x3）、蔓莓果（x3）、蕉香果（x3）"
 
 #: View/Pages/trainer_levels.ctp:201;256
-#, fuzzy
 msgid "100,000"
-msgstr "120,000"
+msgstr "100,000"
 
 #: View/Pages/trainer_levels.ctp:202
 msgid "Hyper Potions"
@@ -525,282 +506,244 @@ msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5), Pinap
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:228;235
-#, fuzzy
 msgid "25,000"
-msgstr "65,000"
+msgstr "25,000"
 
 #: View/Pages/trainer_levels.ctp:229
-#, fuzzy
 msgid "185,000"
-msgstr "65,000"
+msgstr "185,000"
 
 #: View/Pages/trainer_levels.ctp:231
 msgid "Great Ball (x15), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:236
-#, fuzzy
 msgid "210,000"
-msgstr "20,000"
+msgstr "210,000"
 
 #: View/Pages/trainer_levels.ctp:237
 msgid "Ultra Balls"
-msgstr ""
+msgstr "高級球"
 
 #: View/Pages/trainer_levels.ctp:238
 msgid "Ultra Ball (x20), Hyper Potion (x20), Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x2), Egg Incubator (x2), Lure Module (x2), Nanab Berry (x20)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:242
-#, fuzzy
 msgid "50,000"
-msgstr "20,000"
+msgstr "50,000"
 
 #: View/Pages/trainer_levels.ctp:243
-#, fuzzy
 msgid "260,000"
-msgstr "20,000"
+msgstr "260,000"
 
 #: View/Pages/trainer_levels.ctp:245
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Pinap Berry (x10)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:250
-#, fuzzy
 msgid "335,000"
-msgstr "65,000"
+msgstr "335,000"
 
 #: View/Pages/trainer_levels.ctp:252
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:257
-#, fuzzy
 msgid "435,000"
-msgstr "65,000"
+msgstr "435,000"
 
 #: View/Pages/trainer_levels.ctp:259
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Nanab Berry (x10)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:263
-#, fuzzy
 msgid "125,000"
-msgstr "120,000"
+msgstr "125,000"
 
 #: View/Pages/trainer_levels.ctp:264
-#, fuzzy
 msgid "560,000"
-msgstr "160,000"
+msgstr "560,000"
 
 #: View/Pages/trainer_levels.ctp:266
 msgid "Ultra Ball (x15), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
 msgstr ""
 
 #: View/Pages/trainer_levels.ctp:270
-#, fuzzy
 msgid "150,000"
-msgstr "120,000"
+msgstr "150,000"
 
 #: View/Pages/trainer_levels.ctp:271
-#, fuzzy
 msgid "710,000"
-msgstr "120,000"
+msgstr "710,000"
 
 #: View/Pages/trainer_levels.ctp:272
 msgid "Max Potions"
-msgstr ""
+msgstr "全滿藥"
 
 #: View/Pages/trainer_levels.ctp:273
 msgid "Ultra Ball (x25), Max Potion (x20), Revive (x15), Razz Berry (x15), Incense, Lucky Egg, Egg Incubator, Lure Module, Pinap Berry (x15)"
-msgstr ""
+msgstr "高級球（x25）、全滿藥（x20）、活力碎片（x15）、蔓莓果（x15）、凰梨果（x15）、薰香、幸運蛋、孵化器、誘餌模組"
 
 #: View/Pages/trainer_levels.ctp:277
-#, fuzzy
 msgid "190,000"
-msgstr "120,000"
+msgstr "190,000"
 
 #: View/Pages/trainer_levels.ctp:278
-#, fuzzy
 msgid "900,000"
-msgstr "120,000"
+msgstr "900,000"
 
 #: View/Pages/trainer_levels.ctp:280;294
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15)"
-msgstr ""
+msgstr "高級球（x10）、全滿藥（x15）、活力碎片（x10）、蔓莓果（x15）"
 
 #: View/Pages/trainer_levels.ctp:284
-#, fuzzy
 msgid "200,000"
-msgstr "20,000"
+msgstr "200,000"
 
 #: View/Pages/trainer_levels.ctp:285
-#, fuzzy
 msgid "1,100,000"
-msgstr "120,000"
+msgstr "1,100,000"
 
 #: View/Pages/trainer_levels.ctp:287
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
-msgstr ""
+msgstr "高級球（x10）、全滿藥（x15）、活力碎片（x10）、蔓莓果（x15）、蕉香果（x15）"
 
 #: View/Pages/trainer_levels.ctp:291
-#, fuzzy
 msgid "250,000"
-msgstr "20,000"
+msgstr "250,000"
 
 #: View/Pages/trainer_levels.ctp:292
-#, fuzzy
 msgid "1,350,000"
-msgstr "160,000"
+msgstr "1,350,000"
 
 #: View/Pages/trainer_levels.ctp:298
-#, fuzzy
 msgid "300,000"
-msgstr "120,000"
+msgstr "300,000"
 
 #: View/Pages/trainer_levels.ctp:299
-#, fuzzy
 msgid "1,650,000"
-msgstr "160,000"
+msgstr "1,650,000"
 
 #: View/Pages/trainer_levels.ctp:301
 msgid "Ultra Ball (x10), Max Potion (x15), Revive (x10), Pinap Berry (x15)"
-msgstr ""
+msgstr "高級球（x10）、全滿藥（x15）、活力碎片（x10）、凰梨果（x15）"
 
 #: View/Pages/trainer_levels.ctp:305
-#, fuzzy
 msgid "350,000"
-msgstr "20,000"
+msgstr "350,000"
 
 #: View/Pages/trainer_levels.ctp:306;354
-#, fuzzy
 msgid "2,000,000"
-msgstr "20,000"
+msgstr "2,000,000"
 
 #: View/Pages/trainer_levels.ctp:307
 msgid "Max Revive"
-msgstr ""
+msgstr "活力塊"
 
 #: View/Pages/trainer_levels.ctp:308
 msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x3), Lucky Egg (x3), Egg Incubator (x3), Lure Module (x3)"
-msgstr ""
+msgstr "高級球（x30）、全滿藥（x20）、活力塊（x20）、蔓莓果（x20）、薰香（x3）、幸運蛋（x3）、孵化器（x3）、誘餌模組（x3）"
 
 #: View/Pages/trainer_levels.ctp:312;319
-#, fuzzy
 msgid "500,000"
-msgstr "20,000"
+msgstr "500,000"
 
 #: View/Pages/trainer_levels.ctp:313;361
-#, fuzzy
 msgid "2,500,000"
-msgstr "20,000"
+msgstr "2,500,000"
 
 #: View/Pages/trainer_levels.ctp:315
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Nanab Berry (x15)"
-msgstr ""
+msgstr "高級球（x10）、全滿藥（x15）、活力塊（x10）、蔓莓果（x15）、蕉香果（x15）"
 
 #: View/Pages/trainer_levels.ctp:320
-#, fuzzy
 msgid "3,000,000"
-msgstr "20,000"
+msgstr "3,000,000"
 
 #: View/Pages/trainer_levels.ctp:322;336
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15)"
-msgstr ""
+msgstr "高級球（x10）、全滿藥（x15）、活力塊（x10）、蔓莓果（x15）"
 
 #: View/Pages/trainer_levels.ctp:326
-#, fuzzy
 msgid "750,000"
-msgstr "65,000"
+msgstr "750,000"
 
 #: View/Pages/trainer_levels.ctp:327
-#, fuzzy
 msgid "3,750,000"
-msgstr "160,000"
+msgstr "3,750,000"
 
 #: View/Pages/trainer_levels.ctp:329
 msgid "Ultra Ball (x10), Max Potion (x15), Max Revive (x10), Razz Berry (x15), Pinap Berry (x15)"
-msgstr ""
+msgstr "高級球（x10）、全滿藥（x15）、活力塊（x10）、蔓莓果（x15）、凰梨果（x15）"
 
 #: View/Pages/trainer_levels.ctp:333
-#, fuzzy
 msgid "1,000,000"
-msgstr "120,000"
+msgstr "1,000,000"
 
 #: View/Pages/trainer_levels.ctp:334
-#, fuzzy
 msgid "4,750,000"
-msgstr "160,000"
+msgstr "4,750,000"
 
 #: View/Pages/trainer_levels.ctp:340
-#, fuzzy
 msgid "1,250,000"
-msgstr "120,000"
+msgstr "1,250,000"
 
 #: View/Pages/trainer_levels.ctp:341
-#, fuzzy
 msgid "6,000,000"
-msgstr "20,000"
+msgstr "6,000,000"
 
 #: View/Pages/trainer_levels.ctp:343
 msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x1), Lure Module (x1), Nanab Berry (x20)"
-msgstr ""
+msgstr "高級球（x30）、全滿藥（x20）、活力塊（x20）、蔓莓果（x20）、蕉香果（x20）、薰香（x2）、幸運蛋（x1）、誘餌模組（x1）"
 
 #: View/Pages/trainer_levels.ctp:347
-#, fuzzy
 msgid "1,500,000"
-msgstr "120,000"
+msgstr "1,500,000"
 
 #: View/Pages/trainer_levels.ctp:348
-#, fuzzy
 msgid "7,500,000"
-msgstr "20,000"
+msgstr "7,500,000"
 
 #: View/Pages/trainer_levels.ctp:350;364
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20)"
-msgstr ""
+msgstr "高級球（x20）、全滿藥（x20）、活力塊（x10）、蔓莓果（x20）"
 
 #: View/Pages/trainer_levels.ctp:355
-#, fuzzy
 msgid "9,500,000"
-msgstr "20,000"
+msgstr "9,500,000"
 
 #: View/Pages/trainer_levels.ctp:357
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Razz Berry (x20), Pinap Berry (x20)"
-msgstr ""
+msgstr "高級球（x20）、全滿藥（x20）、活力塊（x10）、蔓莓果（x20）、凰梨果（x20）"
 
 #: View/Pages/trainer_levels.ctp:362
-#, fuzzy
 msgid "12,000,000"
-msgstr "20,000"
+msgstr "12,000,000"
 
 #: View/Pages/trainer_levels.ctp:368
-#, fuzzy
 msgid ">3,000,000"
-msgstr "20,000"
+msgstr ">3,000,000"
 
 #: View/Pages/trainer_levels.ctp:369
-#, fuzzy
 msgid "15,000,000"
-msgstr "120,000"
+msgstr "15,000,000"
 
 #: View/Pages/trainer_levels.ctp:371
 msgid "Ultra Ball (x20), Max Potion (x20), Max Revive (x10), Nanab Berry (x20)"
-msgstr ""
+msgstr "高級球（x20）、全滿藥（x20）、活力塊（x10）、蕉香果（x20）"
 
 #: View/Pages/trainer_levels.ctp:375
-#, fuzzy
 msgid "5,000,000"
-msgstr "20,000"
+msgstr "5,000,000"
 
 #: View/Pages/trainer_levels.ctp:376
-#, fuzzy
 msgid "20,000,000"
-msgstr "20,000"
+msgstr "20,000,000"
 
 #: View/Pages/trainer_levels.ctp:378
 msgid "Ultra Ball (x40), Max Potion (x40), Max Revive (x40), Razz Berry (x40), Incense (x4), Lucky Egg (x4), Egg Incubator (x4), Lure Module (x4)"
-msgstr ""
+msgstr "高級球（x40）、全滿藥（x40）、活力塊（x40）、蔓莓果（x40）、薰香（x4）、幸運蛋（x4）、孵化器（x4）、誘餌模組（x4）"
 
 #: View/Pages/xp_earning.ctp:3
 msgid "Pokemon GO - Earning XP"
@@ -808,43 +751,43 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:72
 msgid "How to Earn XP in Pokemon GO"
-msgstr ""
+msgstr "如何於 Pokemon GO 中獲得 XP"
 
 #: View/Pages/xp_earning.ctp:74
 msgid "The following table and information explain XP-earning events to help you increase your Trainer Level in Pokemon GO."
-msgstr ""
+msgstr "下列表格及資訊將說明各種可獲得 XP 之行動，以協助您增加 Pokemon GO 中的訓練家等級。"
 
 #: View/Pages/xp_earning.ctp:84
 msgid "XP Award"
-msgstr ""
+msgstr "XP 獎勵"
 
 #: View/Pages/xp_earning.ctp:85
 msgid "Action"
-msgstr ""
+msgstr "行動"
 
 #: View/Pages/xp_earning.ctp:91
 msgid "Curveball Bonus"
-msgstr ""
+msgstr "曲球獎勵"
 
 #: View/Pages/xp_earning.ctp:95
 msgid "Nice! throw bonus"
-msgstr ""
+msgstr "Nice! 擲球獎勵"
 
 #: View/Pages/xp_earning.ctp:99
 msgid "Pokemon Ran Away"
-msgstr ""
+msgstr "寶可夢逃跑"
 
 #: View/Pages/xp_earning.ctp:103
 msgid "Great! throw bonus"
-msgstr ""
+msgstr "Great! 擲球獎勵"
 
 #: View/Pages/xp_earning.ctp:107
 msgid "First Throw Bonus for Catching Pokemon in One Ball"
-msgstr ""
+msgstr "一球即收服寶可夢之首擲奬勵"
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
-msgstr ""
+msgstr "轉寶可補給站"
 
 #: View/Pages/xp_earning.ctp:115
 msgid "10<sup>th</sup> Unique Pokestop Bonus"
@@ -852,39 +795,39 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:119
 msgid "Successful Pokemon Capture"
-msgstr ""
+msgstr "成功捕獲寶可夢"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
-msgstr ""
+msgstr "Excellent! 擲球獎勵"
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
-msgstr ""
+msgstr "捕獲第 100 隻同種寶可夢"
 
 #: View/Pages/xp_earning.ctp:131
 msgid "Hatch an Egg (2 km)"
-msgstr ""
+msgstr "孵化一顆蛋（2 公里）"
 
 #: View/Pages/xp_earning.ctp:135
 msgid "Hatch an Egg (5 km)"
-msgstr ""
+msgstr "孵化一顆蛋（5 公里）"
 
 #: View/Pages/xp_earning.ctp:139
 msgid "Hatch an Egg (10 km)"
-msgstr ""
+msgstr "孵化一顆蛋（10 公里）"
 
 #: View/Pages/xp_earning.ctp:143
 msgid "Add new Pokemon to Pokedex"
-msgstr ""
+msgstr "新增寶可夢至寶可圖鑑"
 
 #: View/Pages/xp_earning.ctp:147
 msgid "Evolve a Pokemon"
-msgstr ""
+msgstr "進化寶可夢"
 
 #: View/Pages/xp_earning.ctp:151
 msgid "Use an Evolution Item"
-msgstr ""
+msgstr "使用進化道具"
 
 #: View/Pages/xp_earning.ctp:155
 msgid "First Pokestop Spin of the Day"
@@ -895,9 +838,8 @@ msgid "First Pokemon Catch of the Day"
 msgstr ""
 
 #: View/Pages/xp_earning.ctp:162;166
-#, fuzzy
 msgid "2,500"
-msgstr "20,000"
+msgstr "2,500"
 
 #: View/Pages/xp_earning.ctp:163
 msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
@@ -909,12 +851,12 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:171
 msgid "Train at a Gym (Less for using an overpowered 'mon)"
-msgstr ""
+msgstr "於道館進行訓練（使用過強的寶可夢會獲得較少 XP）"
 
 #: View/Pages/xp_earning.ctp:175
 msgid "Defeat enemy Pokemon at a Gym (per Pokemon)"
-msgstr ""
+msgstr "擊敗道館內的敵方寶可夢（每一隻）"
 
 #: View/Pages/xp_earning.ctp:179
 msgid "Beating every Pokemon at a gym"
-msgstr ""
+msgstr "擊敗道館內的所有寶可夢"

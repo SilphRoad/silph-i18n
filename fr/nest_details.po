@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-06 01:45+0000\n"
+"PO-Revision-Date: 2017-05-06 14:32+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494035127.859010\n"
+"X-POOTLE-MTIME: 1494081121.741708\n"
 
 #: COMMENT
 msgid "Map"
@@ -72,7 +72,7 @@ msgstr "Rapport"
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
-msgstr "GROUPE D'APPARITION DÉTECTÉ"
+msgstr "GROUPE DE MÊME ESPÈCE APERÇU"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN AREA"

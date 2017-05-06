@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-05 11:11+0000\n"
+"PO-Revision-Date: 2017-05-06 09:45+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493982680.747486\n"
+"X-POOTLE-MTIME: 1494063950.845787\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -3155,71 +3155,71 @@ msgstr "HIDDEN POWER"
 
 #: Type/Normal:1
 msgid "normal"
-msgstr "normal"
+msgstr "normalny"
 
 #: Type/Fighting:2
 msgid "fighting"
-msgstr "fighting"
+msgstr "bojowy"
 
 #: Type/Flying:3
 msgid "flying"
-msgstr "flying"
+msgstr "latający"
 
 #: Type/Poison:4
 msgid "poison"
-msgstr "poison"
+msgstr "trujący"
 
 #: Type/Ground:5
 msgid "ground"
-msgstr "ground"
+msgstr "ziemny"
 
 #: Type/Rock:6
 msgid "rock"
-msgstr "rock"
+msgstr "kamienny"
 
 #: Type/Bug:7
 msgid "bug"
-msgstr "bug"
+msgstr "robak"
 
 #: Type/Ghost:8
 msgid "ghost"
-msgstr "ghost"
+msgstr "duch"
 
 #: Type/Steel:9
 msgid "steel"
-msgstr "steel"
+msgstr "stalowy"
 
 #: Type/Fire:10
 msgid "fire"
-msgstr "fire"
+msgstr "ognisty"
 
 #: Type/Water:11
 msgid "water"
-msgstr "water"
+msgstr "wodny"
 
 #: Type/Grass:12
 msgid "grass"
-msgstr "grass"
+msgstr "trawiasty"
 
 #: Type/Electric:13
 msgid "electric"
-msgstr "electric"
+msgstr "elektryczny"
 
 #: Type/Psychic:14
 msgid "psychic"
-msgstr "mentalny"
+msgstr "psychiczny"
 
 #: Type/Ice:15
 msgid "ice"
-msgstr "ice"
+msgstr "lodowy"
 
 #: Type/Dragon:16
 msgid "dragon"
-msgstr "smoczy"
+msgstr "smok"
 
 #: Type/Dark:17
 msgid "dark"
-msgstr "dark"
+msgstr "mroczny"
 
 #: Type/Fairy:18
 msgid "fairy"

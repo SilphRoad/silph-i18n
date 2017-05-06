@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 13:40+0000\n"
+"PO-Revision-Date: 2017-05-06 04:36+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493991618.907958\n"
+"X-POOTLE-MTIME: 1494045377.722531\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -61,8 +61,9 @@ msgstr ""
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
-"<b>¿Por qué los anuncios?</b> Las herramientas de TheSilphRoad.com generan "
-"un tráfico masivo, ¡y cuesta dinero mantener las luces de Silph encendidas!"
+"<b>¿Por qué los anuncios?</b> Las herramientas de investigación de "
+"TheSilphRoad.com generan un tráfico masivo, ¡y cuesta dinero mantener las "
+"luces de Silph encendidas!"
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
@@ -83,7 +84,7 @@ msgstr "Informar de un avistamiento/nido"
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
 msgstr ""
-"Tranqui, viajero. Hay demasiados nidos que mostrar a esta altura. Haz zoom "
+"Tranqui, viajero. Hay demasiados nidos para mostrar a esta altura. Haz zoom "
 "para más detalles."
 
 #: View/Atlas/index.ctp:785
@@ -159,7 +160,7 @@ msgstr "Cargando datos de Camp..."
 
 #: View/Atlas/index.ctp:885
 msgid "Nest Report"
-msgstr ""
+msgstr "Informe de nido"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
@@ -174,6 +175,8 @@ msgstr "¡Ayuda a actualizar o refutar esta ubicación! ¿Qué hallaste?"
 #: View/Atlas/index.ctp:896
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
+"Nota: ¡no hay necesidad de informar los Pokémon de tipo Planta durante el "
+"Evento del tipo Planta!"
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("
@@ -185,7 +188,7 @@ msgstr "¡Nada!"
 
 #: View/Atlas/index.ctp:905
 msgid "Yes! I found a species here:"
-msgstr "¡Sí! Encontré una especie aquí:"
+msgstr "¡Sí! Hallé una especie aquí:"
 
 #: View/Atlas/index.ctp:918
 msgid "Report!"
@@ -538,7 +541,7 @@ msgstr "Enviar informe de campo"
 #: View/Atlas/index.ctp:1610
 msgid "Oops! Unable to retrieve nest data! You may need try again to re-authenticate!"
 msgstr ""
-"¡Ups! ¡Imposible obtener los datos del nido! ¡Quizá tengas que autenticarte "
+"¡Ups! ¡No se pudo obtener los datos del nido! ¡Quizá tengas que autenticarte "
 "de nuevo!"
 
 #: View/Atlas/index.ctp:1611;2820;2843
@@ -562,18 +565,20 @@ msgstr "¡Tu dispositivo/navegador no admite geolocalización! :("
 #: View/Atlas/index.ctp:1615
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
-"Tranqui, viajero. Hay demasiados avistamientos que mostrar a esta altura. "
+"Tranqui, viajero. Hay demasiados avistamientos para mostrar a esta altura. "
 "Haz zoom para más detalles."
 
 #: View/Atlas/index.ctp:1616;2140
 msgid "Whoa, traveler - There are too many nests to show at this height. Zoom in for more detail."
 msgstr ""
-"Tranqui, viajero. Hay demasiados nidos que mostrar a esta altura. Haz zoom "
+"Tranqui, viajero. Hay demasiados nidos para mostrar a esta altura. Haz zoom "
 "para más detalles."
 
 #: View/Atlas/index.ctp:1617
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
 msgstr ""
+"¡Por favor, elige un fecha válida! (Las fechas en el futuro no son "
+"aceptadas.)"
 
 #: View/Atlas/index.ctp:1631;1632;1633;1634;1636;1638;1639;1640;1641;1642
 msgid "Retrieving Field Reports..."
@@ -593,7 +598,7 @@ msgstr "Dejando la Poké Flauta y recogiendo la batería..."
 
 #: View/Atlas/index.ctp:1636
 msgid "Reading Trail Pointers..."
-msgstr "Leyendo los rastros de pistas..."
+msgstr "Leyendo los indicadores de camino..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Ordering MewTwo Around..."
@@ -625,7 +630,7 @@ msgstr "¡Activa los servicios de localización para ir a tu posición!"
 
 #: View/Atlas/index.ctp:1886
 msgid "Select All"
-msgstr ""
+msgstr "Seleccionar todo"
 
 #: View/Atlas/index.ctp:1887
 msgid "All Species"
@@ -652,63 +657,67 @@ msgid "Nest Behavior"
 msgstr "Comportamiento de nido"
 
 #: View/Atlas/index.ctp:1959
-#, fuzzy
 msgid "1 Nest Behavior"
-msgstr "Comportamiento de nido"
+msgstr "1 Comportamiento del nido"
 
 #: View/Atlas/index.ctp:1962
-#, fuzzy
 msgid "Nest Behaviors"
-msgstr "Comportamiento de nido"
+msgstr "Comportamientos de los nidos"
 
 #: View/Atlas/index.ctp:2140
-#, fuzzy
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
-"Tranqui, viajero. Hay demasiados avistamientos que mostrar a esta altura. "
+"Tranqui, viajero. Hay demasiados avistamientos para mostrar a esta altura. "
 "Haz zoom para más detalles."
 
 #: View/Atlas/index.ctp:2196
 msgid "Sighted!"
-msgstr ""
+msgstr "¡Avistado!"
 
 #: View/Atlas/index.ctp:2198
 msgid "Species reportedly common at location"
-msgstr ""
+msgstr "Especie supuestamente común en la ubicación"
 
 #: View/Atlas/index.ctp:2286;2338
 msgid "Sighting Reports are currently under construction. You may still submit Nest reports, however!"
 msgstr ""
+"Los informes de avistamiento están bajo construcción actualmente. ¡Sin "
+"embargo, aún puedes enviar informes de nido!"
 
 #: View/Atlas/index.ctp:2295
 msgid "You must be logged in to submit nests!"
-msgstr ""
+msgstr "¡Debes haber iniciado sesión para enviar nidos!"
 
 #: View/Atlas/index.ctp:2445
 msgid "This species is spawning globally for an Event! We'll wait on collecting data on this species until the festivities are over. Happy Festivities!"
 msgstr ""
+"¡Esta especie está apareciendo globalmente debido a un evento! Esperaremos a "
+"que terminen estas celebraciones para comenzar a recolectar datos de esta "
+"especie. ¡Felices fiestas!"
 
 #: View/Atlas/index.ctp:2533;2535
-#, fuzzy
 msgid "Select a Charge Move"
-msgstr "Selecciona el movimiento especial..."
+msgstr "Selecciona un movimiento especial"
 
 #: View/Atlas/index.ctp:2544;2567
 msgid "Please select a radio button!"
-msgstr ""
+msgstr "¡Por favor, selecciona un botón de radio!"
 
 #: View/Atlas/index.ctp:2753;2811;2834;2876
 msgid "Your session has expired.  Please log back in for your security"
 msgstr ""
+"Tu sesión ha expirado.  Por favor, vuelve a identificarte por tu seguridad."
 
 #: View/Atlas/index.ctp:2778;2894
 msgid "Unable to save report!  Please check your web connection and try again!"
 msgstr ""
+"¡No se pudo guardar el informe!  ¡Por favor, comprueba tu conexión a "
+"internet e inténtalo de nuevo!"
 
 #: View/Atlas/index.ctp:2852
 msgid "Please select your Trainer level!"
-msgstr ""
+msgstr "¡Por favor, selecciona tu nivel de entrenador!"
 
 #: View/Atlas/index.ctp:2856
 msgid "Please select your Team!"
-msgstr ""
+msgstr "¡Por favor, selecciona tu equipo!"

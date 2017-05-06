@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-03 21:57+0000\n"
+"PO-Revision-Date: 2017-05-05 21:35+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,23 +14,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493848638.757628\n"
+"X-POOTLE-MTIME: 1494020100.766038\n"
 
 #: View/Helper/PostSidebarHelper.php:10
 msgid "Trending"
-msgstr ""
+msgstr "Di Tendenza"
 
 #: View/Helper/PostSidebarHelper.php:21
 msgid "Tip:"
-msgstr ""
+msgstr "Suggerimento:"
 
 #: View/Helper/PostSidebarHelper.php:23
 msgid "Research:"
-msgstr ""
+msgstr "Ricerca:"
 
 #: View/Helper/PostSidebarHelper.php:25
 msgid "News:"
-msgstr ""
+msgstr "Novità:"
 
 #: View/Pages/blog.ctp:2;11
 msgid "Grassroots Pokemon GO Network"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-05 20:25+0000\n"
+"PO-Revision-Date: 2017-05-06 01:45+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494015921.200646\n"
+"X-POOTLE-MTIME: 1494035127.859010\n"
 
 #: COMMENT
 msgid "Map"
@@ -38,7 +38,7 @@ msgstr "Non vérifié"
 
 #: COMMENT
 msgid "Unknown Status!"
-msgstr "Statut Inconnu !"
+msgstr "État inconnu !"
 
 #: COMMENT
 msgid "Add your report to help identify this location's new nest species - or if it's not a nest location at all!"
@@ -68,7 +68,7 @@ msgstr "Identification"
 
 #: COMMENT
 msgid "Scout Report"
-msgstr "Rapport de Scout"
+msgstr "Rapport"
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
@@ -97,9 +97,8 @@ msgstr "Le"
 #: COMMENT
 msgid "first discovered this location and suspected it was a"
 msgstr ""
-"a découvert cet endroit pour la première fois et a suspecté qu'il s'agissait "
-"d'un Nid de"
+"a découvert cet endroit en premier et a suspecté qu'il s'agissait d'un Nid de"
 
 #: COMMENT
 msgid "nest!"
-msgstr " !"
+msgstr "nid !"

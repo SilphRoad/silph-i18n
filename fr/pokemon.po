@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-05 15:33+0000\n"
+"PO-Revision-Date: 2017-05-06 01:35+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493998410.976304\n"
+"X-POOTLE-MTIME: 1494034509.455700\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -1558,7 +1558,7 @@ msgstr "jirachi"
 
 #: Pokemon/Deoxys-normal:386
 msgid "deoxys-normal"
-msgstr "deoxys-normal"
+msgstr "deoxys-forme normale"
 
 #: Pokemon/Turtwig:387
 msgid "turtwig"
@@ -1666,7 +1666,7 @@ msgstr "cheniti"
 
 #: Pokemon/Wormadam-plant:413
 msgid "wormadam-plant"
-msgstr "cheniselle-plante"
+msgstr "cheniselle-cape plante"
 
 #: Pokemon/Mothim:414
 msgid "mothim"
@@ -1962,7 +1962,7 @@ msgstr "regigigas"
 
 #: Pokemon/Giratina-altered:487
 msgid "giratina-altered"
-msgstr "giratina-alternatif"
+msgstr "giratina-forme alternative"
 
 #: Pokemon/Cresselia:488
 msgid "cresselia"
@@ -1982,7 +1982,7 @@ msgstr "darkrai"
 
 #: Pokemon/Shaymin-land:492
 msgid "shaymin-land"
-msgstr "shaymin-terrestre"
+msgstr "shaymin-forme terrestre"
 
 #: Pokemon/Arceus:493
 msgid "arceus"
@@ -2850,7 +2850,7 @@ msgstr "ÉCLAIR"
 
 #: Move/Spark:206
 msgid "SPARK"
-msgstr "ETINCELLE"
+msgstr "ÉTINCELLE"
 
 #: Move/Low Kick:207
 msgid "LOW KICK"
@@ -3114,7 +3114,7 @@ msgstr "BALLE GRAINE"
 
 #: Move/Grass Knot:272
 msgid "GRASS KNOT"
-msgstr "NOEUD'HERBE"
+msgstr "NOEUD HERBE"
 
 #: Move/Energy Ball:273
 msgid "ENERGY BALL"

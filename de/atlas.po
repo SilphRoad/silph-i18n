@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 20:31+0000\n"
+"PO-Revision-Date: 2017-05-05 22:28+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494016288.603500\n"
+"X-POOTLE-MTIME: 1494023313.410996\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -178,6 +178,8 @@ msgstr ""
 #: View/Atlas/index.ctp:896
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
+"Hinweis: Es ist nicht nötig, Pokemon vom Typ Pflanze während des Pflanzen-"
+"Events zu melden!"
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("

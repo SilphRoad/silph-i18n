@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-05 14:57+0000\n"
+"PO-Revision-Date: 2017-05-06 06:24+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493996234.718899\n"
+"X-POOTLE-MTIME: 1494051878.528126\n"
 
 #: COMMENT
 msgid "Map"
@@ -22,80 +22,83 @@ msgstr "Mapa"
 
 #: COMMENT
 msgid "Silph Nest: #"
-msgstr ""
+msgstr "Nido de Silph: #"
 
 #: COMMENT
 msgid "Suspected Species"
-msgstr ""
+msgstr "Presunta especie"
 
 #: COMMENT
 msgid "???"
-msgstr ""
+msgstr "¿?"
 
 #: COMMENT
 msgid "Unverified"
-msgstr ""
+msgstr "Sin verificar"
 
 #: COMMENT
 msgid "Unknown Status!"
-msgstr ""
+msgstr "¡Estado desconocido!"
 
 #: COMMENT
 msgid "Add your report to help identify this location's new nest species - or if it's not a nest location at all!"
 msgstr ""
+"Añade tu informe para ayudar a identificar la nueva especie de esta "
+"ubicación, ¡o si no es una ubicación de nido en lo absoluto!"
 
 #: COMMENT
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: COMMENT
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 #: COMMENT
 msgid "My Report"
-msgstr ""
+msgstr "Mi informe"
 
 #: COMMENT
 msgid "You must Authenticate to add your field report:"
-msgstr ""
+msgstr "Debes autenticarte para añadir tu informe de campo:"
 
 #: COMMENT
 msgid "Authenticate"
-msgstr ""
+msgstr "Autenticarse"
 
 #: COMMENT
 msgid "Scout Report"
-msgstr ""
+msgstr "Informe de exploración"
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
-msgstr ""
+msgstr "APARICIÓN EN MASA VISTA"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN AREA"
-msgstr ""
+msgstr "ÁREA DE APARICIÓN FRECUENTE VISTA"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN POINT"
-msgstr ""
+msgstr "PUNTO DE APARICIÓN FRECUENTE VISTO"
 
 #: COMMENT
 msgid "No Comment"
-msgstr ""
+msgstr "Sin comentarios"
 
 #: COMMENT
 msgid "No Nest Found!"
-msgstr ""
+msgstr "¡No se ha encontrado ningún nido!"
 
 #: COMMENT
 msgid "On"
-msgstr ""
+msgstr "¡El día"
 
 #: COMMENT
 msgid "first discovered this location and suspected it was a"
 msgstr ""
+"fue el primero en descubrir esta ubicación y sospechó que era un nido de"
 
 #: COMMENT
 msgid "nest!"
-msgstr ""
+msgstr "!"

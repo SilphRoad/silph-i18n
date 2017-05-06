@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 15:36+0000\n"
+"PO-Revision-Date: 2017-05-06 01:17+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,11 +14,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493998561.007559\n"
+"X-POOTLE-MTIME: 1494033472.576529\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
-msgstr "Exigences pour le Bonbon du Copain de Pokémon GO | The Silph Road"
+msgstr "Copain Pokémon et Bonbons Pokémon GO | The Silph Road"
 
 #: View/Pages/buddy_candy.ctp:6;13
 #: View/Pages/moves.ctp:6
@@ -33,7 +33,7 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:12
 msgid "Pokemon GO Buddy Candy Requirements"
-msgstr "Exigences pour les Bonbons du Copain de Pokémon GO"
+msgstr "Bonbons & Copain Pokémon GO"
 
 #: View/Pages/buddy_candy.ctp:69;267
 #: View/Pages/egg_distances.ctp:68
@@ -43,9 +43,8 @@ msgstr "Exigences pour les Bonbons du Copain de Pokémon GO"
 #: View/Pages/xp_earning.ctp:61;217
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
-"<b>Pourquoi des Publicités?</b> Les outils de recherches de TheSilphRoad.com "
-"génèrent un trafic important - et cela a un certain coût pour garantir un "
-"bon fonctionnement !"
+"<b>Pourquoi ces Publicités?</b> Les outils de recherches de TheSilphRoad.com "
+"attirent beaucoup de visiteurs - et accueillir tout ce monde à un coût !"
 
 #: View/Pages/buddy_candy.ctp:81
 msgid "Buddy Pokemon KM Per Candy in Pokemon GO"
@@ -54,15 +53,14 @@ msgstr "Km requis par Bonbon du Copain dans Pokémon GO"
 #: View/Pages/buddy_candy.ctp:83
 msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."
 msgstr ""
-"Le tableau ci-dessous présente une liste claire des kilomètres (km) que vous "
-"devez parcourir pour gagner un bonbon pour votre Copain Pokémon. <br>\n"
+"Ci-dessous vous trouvez une liste claire des kilomètres (km) que vous devez "
+"parcourir pour gagner 1 bonbon pour votre Copain Pokémon. <br>\n"
 "\t\t\t\t\t\t<em>Note :</em> Cette liste est en cours de finalisation ! Elle "
-"sera mise à jour au fur et à mesure que de nouvelles informations sont "
-"confirmées."
+"sera mise à jour dès que de nouvelles informations seront confirmées."
 
 #: View/Pages/buddy_candy.ctp:93
 msgid "5 KMs Per Candy Reward"
-msgstr "Gain de bonbon par 5 km parcouru"
+msgstr "5 km pour 1 Bonbon"
 
 #: View/Pages/buddy_candy.ctp:111;219
 #: View/Pages/egg_distances.ctp:188
@@ -71,7 +69,7 @@ msgstr "5km"
 
 #: View/Pages/buddy_candy.ctp:128
 msgid "3 KMs Per Candy Reward"
-msgstr "Gain de bonbon par 3 km parcouru"
+msgstr "3 km pour 1 Bonbon"
 
 #: View/Pages/buddy_candy.ctp:147
 msgid "3km"
@@ -79,7 +77,7 @@ msgstr "3km"
 
 #: View/Pages/buddy_candy.ctp:164
 msgid "1 KM Per Candy Reward"
-msgstr "Gain de bonbon par 1 km parcouru"
+msgstr "1 km pour 1 Bonbon"
 
 #: View/Pages/buddy_candy.ctp:183
 msgid "1km"
@@ -87,18 +85,18 @@ msgstr "1km"
 
 #: View/Pages/buddy_candy.ctp:200
 msgid "Unavailable KM Per Candy Rewards"
-msgstr "Gain de bonbon par KM parcouru inconnu"
+msgstr "Non Disponible Actuellement"
 
 #: View/Pages/egg_distances.ctp:2;11
 msgid "Pokemon GO Egg Distance Chart | The Silph Road"
-msgstr "Tableau de Distance par Oeuf dans Pokémon GO | The Silph Road"
+msgstr "Oeuf et Distance à Parcourir dans Pokémon GO | The Silph Road"
 
 #: View/Pages/egg_distances.ctp:5;12
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
 msgstr ""
-"Ci-dessous sont listées toutes les espèces obtenables par œuf dans Pokémon "
-"GO, classées par distance par œuf. Nous avons également listé le 'meilleur' "
-"et le 'pire' PC qu'un œuf peut donner à l'éclosion..."
+"Ci-dessous sont listées toutes les espèces obtenables par oeuf dans Pokémon "
+"GO, classées par type d'œuf. Nous avons également indiqué les PC maximum et "
+"minimum qu'un Pokemon peut avoir à l'éclosion..."
 
 #: View/Pages/egg_distances.ctp:80
 msgid "Pokemon Go Egg Distance List"
@@ -107,25 +105,25 @@ msgstr "Oeufs et Distance à Parcourir dans Pokemon GO"
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
 msgstr ""
-"Ci-dessous vous trouverez toutes les espèces disponibles dans les oeufs dans "
-"Pokémon GO, classées par distance nécessaire pour éclosion."
+"Ci-dessous vous trouverez toutes les espèces obtenables par oeufs dans "
+"Pokémon GO, classées par distance à parcourir avant éclosion."
 
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
 msgstr ""
-"Nous avons aussi indiqué les PC minimum et maximum d'un Pokémon sortant d'un "
-"œuf<em>si votre Niveau de Dresseur est supérieur à 20</em>.  Tous les œufs "
-"obtenus par un Dresseur niveau 20 ou plus vont éclore en un Pokémon de "
+"Nous avons aussi indiqué les PC minimum et maximum d'un Pokémon à "
+"l'éclosion<em>si votre Niveau de Dresseur est supérieur à 20</em>.  Tous les "
+"oeufs obtenus par un Dresseur de niveau 20 ou plus écloront en un Pokémon de "
 "niveau 20.  Cela signifie que la variation des PC que vous pouvez observer à "
-"l’éclosion est le résultat d'IVs différentes.  Des IV parfaits (15/15/15) "
+"l’éclosion est le résultat d'IVs différentes.  Des IVs parfaites (15/15/15) "
 "donneront lieu à un PC \"maximum\", alors que la plus petite combinaison "
-"d'IV possible (10/10/10) donnera le PC \"minimum\" !  (Toutes les Pokémons "
-"provenant d'oeufs ont une valeur d'IV comprise entre 10 et 15 pour "
+"d'IVs possible (10/10/10) donnera le PC \"minimum\" !  (Tous les Pokémons "
+"provenant d'oeufs ont des valeures d'IVs comprisent entre 10 et 15 pour "
 "l'attaque, la défense et les PV.)"
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
-msgstr "Oeufs de 10 km"
+msgstr "Oeufs 10 km"
 
 #: View/Pages/egg_distances.ctp:124
 msgid "10km"
@@ -141,11 +139,11 @@ msgstr "Minimum:"
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
-msgstr "Oeufs de 5 km"
+msgstr "Oeufs 5 km"
 
 #: View/Pages/egg_distances.ctp:234
 msgid "2 KM Eggs"
-msgstr "Oeufs de 2 km"
+msgstr "Oeufs 2 km"
 
 #: View/Pages/egg_distances.ctp:253
 msgid "2km"
@@ -153,11 +151,11 @@ msgstr "2km"
 
 #: View/Pages/moves.ctp:3
 msgid "Pokemon GO Moves"
-msgstr "Attaques dans Pokemon GO"
+msgstr "Pokemon GO: Attaques"
 
 #: View/Pages/moves.ctp:128
 msgid "Move List in Pokemon GO"
-msgstr "Listes des Attaques dans Pokémon GO"
+msgstr "Pokémon GO: Liste des Attaques"
 
 #: View/Pages/moves.ctp:130
 msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
@@ -204,8 +202,9 @@ msgstr "%s / Energie :"
 #: View/Pages/moves.ctp:198
 msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
-"Aucun Chercheur de Silph Road n'a enregistré un pokémon sauvage avec cette "
-"attaque! (Certaines espèces peuvent évoluer ou éclore avec cette attaque !)"
+"Aucun Chercheur de The Silph Road n'a trouvé de pokémon sauvage qui utilise "
+"cette attaque! (Certaines espèces peuvent évoluer ou éclore avec cette "
+"attaque!)"
 
 #: View/Pages/moves.ctp:212
 msgid "Charge/Special Moves"
@@ -214,9 +213,9 @@ msgstr "Attaques Chargées/Spéciales"
 #: View/Pages/moves.ctp:213
 msgid "Special moves are used by holding and pressing the screen after charging the blue 'energy' bars by inflicting damage with quick moves!"
 msgstr ""
-"Les Attaques spéciales sont utilisables en maintenant une pression sur "
-"l'écran après avoir chargé la bar bleue d'énergie en infligeant des dégâts "
-"avec les attaques rapides !"
+"Les Attaques spéciales sont utilisables par un appui prolongé sur l'écran, "
+"après avoir chargé la barre d'énergie (barre bleue). Celle-ci se charge en "
+"infligeant des dégâts avec les attaques rapides !"
 
 #: View/Pages/moves.ctp:223;227
 msgid "DPE"
@@ -224,25 +223,24 @@ msgstr "DPE"
 
 #: View/Pages/moves.ctp:224;228
 msgid "Damage (Power) From Full Energy Bar"
-msgstr "Dégat (Puissance) Pour une Barre d'Energie Complète"
+msgstr "Dégâts Nécessaire (Puissance) Pour une Barre d’Énergie Complète"
 
 #: View/Pages/moves.ctp:283
 msgid "No Silph Researchers have encountered a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
-"Aucun Chercheur de Silph Road n'a rencontré un pokémon sauvage avec cette "
-"attaque ! (Certaines espèces peuvent évoluer ou éclore avec cette attaque !)"
+"Aucun Chercheur de The Silph Road n'a trouvé de Pokémon sauvage avec cette "
+"attaque! (Certaines espèces peuvent évoluer ou éclore avec cette attaque!)"
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
-msgstr "Classement des Stats des Pokémons : Gen 1 & 2 | The Silph Road"
+msgstr "Classement des Pokemons par Stats: Gen 1 & 2 | The Silph Road"
 
 #: View/Pages/species_stats.ctp:6;13
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO. Generation 2 Pokemon's base stats are able to be calculated due to..."
 msgstr ""
-"Les caractéristiques des espèces suivantes aident à illustrer leurs forces "
-"et leurs faiblesses relative aux différents Pokémons dans Pokémon Go. Les "
-"stats de base des Pokémons de la Génération 2 peuvent être calculées grâce "
-"à..."
+"Les caractéristiques suivantes permettent d'illustrer les forces et "
+"faiblesses des différents Pokémons dans Pokémon Go. Les stats de base des "
+"Pokémons de Génération 2 peuvent être calculées grâce à..."
 
 #: View/Pages/species_stats.ctp:128
 msgid "Species Stats in Pokemon GO"
@@ -251,29 +249,29 @@ msgstr "Stats des espèces dans Pokémon GO"
 #: View/Pages/species_stats.ctp:130
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."
 msgstr ""
-"Les caractéristiques d'espèces suivantes aident à illustrer les forces et "
-"les faiblesses relatives de différents Pokemon dans Pokemon GO.  Les \"Stats "
-"de Base\" sont définies sur le serveur du jeu, mais elles sont envoyées sur "
-"le client où nous pouvons les examiner."
+"Les caractéristiques suivantes permettent d'illustrer les forces et "
+"faiblesses des différents Pokémons dans Pokémon Go.  Les \"Stats de Base\" "
+"sont stockées sur les serveurs du jeu, mais sont envoyées sur l'application "
+"où nous pouvons les examiner."
 
 #: View/Pages/species_stats.ctp:133
 msgid "Generation 2 Pokemon's base stats are able to be calculated due to the known conversion formula (discovered first by <a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbmi/exact_conversion_formula/'>/u/CustomOndo</a>) from the main series game stats.\n\t\t\t\t\t\t<b>Max Potential CP</b> is calculated from the known CP formula and the species base stats."
 msgstr ""
-"Les statistiques de base des Pokemons de Seconde Génération peuvent être "
-"calculées grâce à la formule de conversion connue (découverte en premier par "
+"Les statistiques de base des Pokémons de Seconde Génération peuvent être "
+"calculées grâce à une formule mathématique connue (découverte en premier par "
 "<a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbm"
-"i/exact_conversion_formula/'>/u/CustomOndo</a>) d'après les stats présentes "
-"dans les jeux de la série originale.\n"
-"\t\t\t\t\t\t<b>Les PC Max Potentiels </b> sont calculés par la formule des "
-"PC connue et les stats de base de l'espèce."
+"i/exact_conversion_formula/'>/u/CustomOndo</a>) d'après les stats des jeux "
+"de la série originale.\n"
+"\t\t\t\t\t\t<b>Les PC Max Potentiels </b> sont calculés d'après la formule "
+"de calcul des PC et des stats de base de l'espèce."
 
 #: View/Pages/species_stats.ctp:144
 msgid "Include Legendaries"
-msgstr "Légendaires Inclus"
+msgstr "Inclure les Légendaires"
 
 #: View/Pages/species_stats.ctp:148
 msgid "Include Gen 2 Pokemon"
-msgstr "Pokemon de la Gen 2 Inclus"
+msgstr "Inclure les Pokémons de la Gen 2"
 
 #: View/Pages/species_stats.ctp:149
 msgid "New!"
@@ -293,15 +291,15 @@ msgstr "Numéro du Pokédex"
 
 #: View/Pages/species_stats.ctp:159
 msgid "Best Attack Stat"
-msgstr "Meilleure Stat d'Attaque"
+msgstr "Meilleur Stat: Attaque"
 
 #: View/Pages/species_stats.ctp:160
 msgid "Best Defense Stat"
-msgstr "Meilleure Stat de Défense"
+msgstr "Meilleure Stat: Défense"
 
 #: View/Pages/species_stats.ctp:161
 msgid "Best Stamina Stat"
-msgstr "Meilleure Stat d'Endurance"
+msgstr "Meilleure Stat: Endurance"
 
 #: View/Pages/species_stats.ctp:162
 msgid "Best Sum of Stats"
@@ -338,19 +336,19 @@ msgstr "Endurance"
 #: View/Pages/species_stats.ctp:303
 msgid "<b>Why Ads?</b> Logged-in travelers don't see ads! Join the community at <a href='https://reddit.com/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
-"<b>Pourquoi des publicités?</b> Les voyageurs connectés ne voient pas "
-"d'annonces ! Rejoins la communauté sur <a href='https://reddit.com/r/"
+"<b>Pourquoi ces publicités?</b> Identifiez-vous pour ne plus voir les "
+"publicités ! Rejoins la communauté sur <a href='https://reddit.com/r/"
 "TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> Les outils de "
-"recherches de TheSilphRoad.com génèrent un trafic important - et cela a un "
-"certain coût pour garantir un bon fonctionnement !"
+"recherches de TheSilphRoad.com attirent beaucoup de visiteurs - et "
+"accueillir tout ce monde à un coût !"
 
 #: View/Pages/trainer_levels.ctp:3
 msgid "Pokemon GO Trainer Level Awards & Requirements"
-msgstr "Récompenses & exigences des Niveaux de Dresseur dans Pokémon GO"
+msgstr "Pokémon GO: Récompenses & XP par Niveaux de Dresseur"
 
 #: View/Pages/trainer_levels.ctp:80
 msgid "Trainer Level Requirements + Bonuses"
-msgstr "Exigence Requise par Niveau de Dresseur + Gain"
+msgstr "Expérience Requise par Niveau de Dresseur + Gain"
 
 #: View/Pages/trainer_levels.ctp:82
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
@@ -364,7 +362,7 @@ msgstr "Niveau"
 
 #: View/Pages/trainer_levels.ctp:93
 msgid "XP required"
-msgstr "XP requise"
+msgstr "XP par niveau"
 
 #: View/Pages/trainer_levels.ctp:94
 msgid "Total XP"
@@ -785,7 +783,7 @@ msgstr "6 000 000"
 msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x1), Lure Module (x1), Nanab Berry (x20)"
 msgstr ""
 "Hyper Ball (x30), Potion Max (x20), Rappel Max (x20), Baie Framby (x20), "
-"Encens (x2), Œuf Chance, Module Leurre, Baie Nanab (x20)"
+"Encens (x2), Oeuf Chance (x1), Module Leurre (x1), Baie Nanab (x20)"
 
 #: View/Pages/trainer_levels.ctp:347
 msgid "1,500,000"
@@ -850,9 +848,9 @@ msgstr "Comment Gagner de l'XP dans Pokémon GO"
 #: View/Pages/xp_earning.ctp:74
 msgid "The following table and information explain XP-earning events to help you increase your Trainer Level in Pokemon GO."
 msgstr ""
-"Le tableau et les informations suivants expliquent les actions faisant "
-"gagner de l'XP pour vous aider à augmenter votre Niveau de Dresseur dans "
-"Pokémon GO."
+"Dans le tableau ci-dessous vous trouverez combien d'XP vous pouvez gagner "
+"pour chaque action, et ainsi vous aider à monter votre Niveau de Dresseur "
+"dans Pokémon GO."
 
 #: View/Pages/xp_earning.ctp:84
 msgid "XP Award"
@@ -872,19 +870,19 @@ msgstr "Lancer \"Joli !\""
 
 #: View/Pages/xp_earning.ctp:99
 msgid "Pokemon Ran Away"
-msgstr "Fuite d'un Pokémon"
+msgstr "Le Pokémon s'est enfui"
 
 #: View/Pages/xp_earning.ctp:103
 msgid "Great! throw bonus"
-msgstr "Lancer \"Génial !\""
+msgstr "Génial ! Bonus de lancer"
 
 #: View/Pages/xp_earning.ctp:107
 msgid "First Throw Bonus for Catching Pokemon in One Ball"
-msgstr "Capture dès la Première Pokéball"
+msgstr "Capture avec la 1ère balle"
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
-msgstr "Interaction avec un Pokéstop"
+msgstr "Visiter un Pokéstop"
 
 #: View/Pages/xp_earning.ctp:115
 msgid "10<sup>th</sup> Unique Pokestop Bonus"
@@ -892,7 +890,7 @@ msgstr "10<sup>ème</sup> Pokéstop Unique Visité"
 
 #: View/Pages/xp_earning.ctp:119
 msgid "Successful Pokemon Capture"
-msgstr "Capture du Pokémon Réussie"
+msgstr "Pokémon Capturé"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
@@ -900,7 +898,7 @@ msgstr "Lancer \"Excellent !\""
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
-msgstr "Capture ton 100<sup>ème</sup> Pokémon d'une espèce"
+msgstr "Capture ton 100ème Pokémon d'une même espèce"
 
 #: View/Pages/xp_earning.ctp:131
 msgid "Hatch an Egg (2 km)"
@@ -916,11 +914,11 @@ msgstr "Éclosion d'un Oeuf (10 km)"
 
 #: View/Pages/xp_earning.ctp:143
 msgid "Add new Pokemon to Pokedex"
-msgstr "Ajout d'un nouveau Pokémon au Pokédex"
+msgstr "Ajout d'un nouveau Pokemon dans le Pokédex"
 
 #: View/Pages/xp_earning.ctp:147
 msgid "Evolve a Pokemon"
-msgstr "Evolution d'un Pokémon"
+msgstr "Évolution d'un Pokémon"
 
 #: View/Pages/xp_earning.ctp:151
 msgid "Use an Evolution Item"
@@ -932,7 +930,7 @@ msgstr "Premier Pokéstop du Jour"
 
 #: View/Pages/xp_earning.ctp:159
 msgid "First Pokemon Catch of the Day"
-msgstr "Première Capture d'un Pokémon de la Journée"
+msgstr "Première Capture du Jour"
 
 #: View/Pages/xp_earning.ctp:162;166
 msgid "2,500"
@@ -940,7 +938,7 @@ msgstr "2 500"
 
 #: View/Pages/xp_earning.ctp:163
 msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
-msgstr "Série de 7 Captures Quotidiennes Consécutives de Pokémon"
+msgstr "Série de 7 Captures Quotidiennes Consécutives"
 
 #: View/Pages/xp_earning.ctp:167
 msgid "Streak Bonus for 7 Consecutive Daily Pokestop Spins"
@@ -948,11 +946,13 @@ msgstr "Série de 7 Pokéstop Quotidiens Consécutifs"
 
 #: View/Pages/xp_earning.ctp:171
 msgid "Train at a Gym (Less for using an overpowered 'mon)"
-msgstr "S'entraîner à une Arène (Moins en utilisant un Pokémon trop puissant)"
+msgstr ""
+"S'entraîner dans une arène (Diminue si utilisation d'un Pokémon trop "
+"puissant)"
 
 #: View/Pages/xp_earning.ctp:175
 msgid "Defeat enemy Pokemon at a Gym (per Pokemon)"
-msgstr "Battre un Pokémon ennemi dans une Arène (par Pokémon)"
+msgstr "Battre un Pokémon adverse dans une arêne (pour chaque Pokémon)"
 
 #: View/Pages/xp_earning.ctp:179
 msgid "Beating every Pokemon at a gym"

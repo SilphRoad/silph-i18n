@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-04 21:45+0000\n"
+"PO-Revision-Date: 2017-05-05 21:54+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493934311.019985\n"
+"X-POOTLE-MTIME: 1494021276.923333\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -159,7 +159,7 @@ msgstr "Caricamento Dati sul Campo..."
 
 #: View/Atlas/index.ctp:885
 msgid "Nest Report"
-msgstr ""
+msgstr "Segnala un Nido"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
@@ -176,6 +176,8 @@ msgstr ""
 #: View/Atlas/index.ctp:896
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
+"Attenzione: Non c'è bisogno di segnalare avvistamenti di Pokemon d'erba "
+"durante l'evento per i Pokemon d'erba."
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("
@@ -576,6 +578,7 @@ msgstr ""
 #: View/Atlas/index.ctp:1617
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
 msgstr ""
+"Seleziona una data valida, per favore! (Le date future non sono accettate.)"
 
 #: View/Atlas/index.ctp:1631;1632;1633;1634;1636;1638;1639;1640;1641;1642
 msgid "Retrieving Field Reports..."
@@ -627,7 +630,7 @@ msgstr "Abilita i servizi di localizzazione per andare alla tua posizione!"
 
 #: View/Atlas/index.ctp:1886
 msgid "Select All"
-msgstr ""
+msgstr "Seleziona Tutto"
 
 #: View/Atlas/index.ctp:1887
 msgid "All Species"
@@ -662,11 +665,10 @@ msgid "Nest Behaviors"
 msgstr "Comportamenti del Nido"
 
 #: View/Atlas/index.ctp:2140
-#, fuzzy
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
 "Ehi, viaggiatore - Ci sono troppi avvistamenti da mostrare a questa altezza. "
-"Ingrandisci per vedere più dettagli."
+"Ingrandisci per più dettagli."
 
 #: View/Atlas/index.ctp:2196
 msgid "Sighted!"

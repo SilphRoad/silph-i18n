@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 17:23+0000\n"
+"PO-Revision-Date: 2017-05-06 11:20+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494005022.445151\n"
+"X-POOTLE-MTIME: 1494069652.887962\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -35,11 +35,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:583
 msgid "&laquo; More"
-msgstr ""
+msgstr "&laquo; Więcej"
 
 #: View/Atlas/index.ctp:599
 msgid "Report Sighting"
-msgstr ""
+msgstr "Zgłoś Obserwację"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
@@ -47,15 +47,20 @@ msgstr "Zgłoś<br>gniazdo"
 
 #: View/Atlas/index.ctp:609
 msgid "Pokemon GO Nests"
-msgstr ""
+msgstr "Gniazda Pokemon GO"
 
 #: View/Atlas/index.ctp:611
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
+"<a href=\"%s\">Dołącz do Silph Road</a> i pomóż zweryfikować gniazda w "
+"twojej okolicy! Światowy Atlas Gniazd to zbiór raportów innych podróżników z "
+"Silph Road."
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Dlaczego reklamy?</b> Narzędzia badawcze TheSilphRoad.com generują "
+"ogromny ruch, więc pieniądze są potrzebne, aby wszystko mogło działać!"
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
@@ -63,15 +68,15 @@ msgstr ""
 
 #: View/Atlas/index.ctp:628
 msgid "Video Explanation"
-msgstr ""
+msgstr "Film objaśniający"
 
 #: View/Atlas/index.ctp:662
 msgid "Add Report"
-msgstr ""
+msgstr "Dodaj Raport"
 
 #: View/Atlas/index.ctp:720
 msgid "Report Sighting/Nest"
-msgstr ""
+msgstr "Zgłoś Obserwację/Gniazdo"
 
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
@@ -90,6 +95,9 @@ msgstr ""
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
 msgstr ""
+"Pomóż nam pilotować NOWY system komunikacji lokalnej Atlasu: Sieć <code "
+"style=\"padding: 2px 5px; color: #565656;\">Camp</code>! Zapraszamy "
+"podróżników z Manhattanu!"
 
 #: View/Atlas/index.ctp:795
 msgid "No Thanks"
@@ -101,11 +109,11 @@ msgstr "Dowiedz się więcej »"
 
 #: View/Atlas/index.ctp:804
 msgid "Predictable Nests"
-msgstr ""
+msgstr "Przewidywane Gniazda"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
-msgstr ""
+msgstr "Przeszłe obserwacje"
 
 #: View/Atlas/index.ctp:832
 msgid "Verified"
@@ -121,43 +129,46 @@ msgstr "Odrzucone"
 
 #: View/Atlas/index.ctp:835
 msgid "Outdated"
-msgstr ""
+msgstr "Przestarzałe"
 
 #: View/Atlas/index.ctp:838
 msgid "Cluster"
-msgstr ""
+msgstr "Gromada"
 
 #: View/Atlas/index.ctp:839
 msgid "Frequent Spawn Area"
-msgstr ""
+msgstr "Obszar występowania"
 
 #: View/Atlas/index.ctp:840
 msgid "Frequent Spawn Point"
-msgstr ""
+msgstr "Punkt występowania"
 
 #: View/Atlas/index.ctp:841
 msgid "(Unknown Spawn Type)"
-msgstr ""
+msgstr "(Nieznany typ występowania)"
 
 #: View/Atlas/index.ctp:864
 msgid "Loading Nest Data..."
-msgstr ""
+msgstr "Wczytywanie danych gniazd..."
 
 #: View/Atlas/index.ctp:873
 msgid "Loading Camp Data..."
-msgstr ""
+msgstr "Wczytywanie danych obozów..."
 
 #: View/Atlas/index.ctp:885
 msgid "Nest Report"
-msgstr ""
+msgstr "Raport gniazda"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
 msgstr ""
+"Uwaga! Miała miejsce migracja gniazd<b>%s</b>! Dodaj swoje zgłoszenie "
+"jedynie, jeśli twój raport jest z okresu <b>PO</b> ostatniej migracji, "
+"podróżniku!"
 
 #: View/Atlas/index.ctp:891
 msgid "Help update or refute this location! What did you find?"
-msgstr ""
+msgstr "Pomóż zaktualizować lub odrzucić tą lokalizację! Co znalazłeś?"
 
 #: View/Atlas/index.ctp:896
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"

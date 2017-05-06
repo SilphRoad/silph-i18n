@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-05 18:48+0000\n"
+"PO-Revision-Date: 2017-05-06 10:47+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494010126.776611\n"
+"X-POOTLE-MTIME: 1494067656.896183\n"
 
 #: COMMENT
 msgid "Height:"
@@ -80,7 +80,7 @@ msgstr "DPS"
 
 #: COMMENT
 msgid "Pow."
-msgstr "Puiss."
+msgstr "Puissance"
 
 #: COMMENT
 msgid "ms"
@@ -100,7 +100,7 @@ msgstr "Attaques Chargées"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr "Les Attaques ayant le même"
+msgstr "Attaques ayant le même"
 
 #: COMMENT
 msgid "type"
@@ -109,13 +109,12 @@ msgstr "type"
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
-"que le Pokémon reçoivent un bonus de 25% appelé Same-Type Attack Bonus (STAB)"
-" ! Ces bonus ont déjà été pris en compte pour le calcul des dégâts ci-dessus "
-"!"
+"un Pokémon reçoit un boost de 25% appellé un Same-Type Attack Bonus (STAB) ! "
+"Ces bonus sont déjà calculés ci-dessus !"
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr "Encore Aucune Attaque Connue !"
+msgstr "Aucune Attaques Connues !"
 
 #: COMMENT
 msgid "No"
@@ -143,11 +142,11 @@ msgstr "Taux de Capture de Base"
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr "Avantagé contre"
+msgstr "Avantage de Type Contre"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr "Faible Contre"
+msgstr "Peu Efficace Contre"
 
 #: COMMENT
 msgid "Offence"
@@ -169,11 +168,11 @@ msgstr ""
 
 #: COMMENT
 msgid "Improved recommendations coming soon."
-msgstr "Des recommendations plus poussées arrivent bientôt."
+msgstr "Des recommandations plus précises sont à venir."
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr "Chercheurs Notables"
+msgstr "Chercheurs Éminents"
 
 #: COMMENT
 msgid "Most Sightings"
@@ -181,7 +180,7 @@ msgstr "Le Plus d'Observations"
 
 #: COMMENT
 msgid "Strongest Specimen"
-msgstr "Spécimen le Plus Fort"
+msgstr "Spécimen le Plus Puissant"
 
 #: COMMENT
 msgid "- No Sightings -"

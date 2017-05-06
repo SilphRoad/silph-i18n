@@ -5,71 +5,76 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-06 12:14+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1494072860.275971\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr ""
+msgstr "Korkeus:"
 
 #: COMMENT
 msgid "Weight:"
-msgstr ""
+msgstr "Paino:"
 
 #: COMMENT
 msgid "Attack"
-msgstr ""
+msgstr "Hyökkäys"
 
 #: COMMENT
 msgid "Defense"
-msgstr ""
+msgstr "Puolustus"
 
 #: COMMENT
 msgid "Stamina"
-msgstr ""
+msgstr "Kestävyys"
 
 #: COMMENT
 msgid "Nests"
-msgstr ""
+msgstr "Pesät"
 
 #: COMMENT
 msgid "Sightings"
-msgstr ""
+msgstr "Havainnot"
 
 #: COMMENT
 msgid "Hold Up:"
-msgstr ""
+msgstr "Odota:"
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
+"Pesiä päivitetään parhaillaan maailmanlaajuisesti! Pysy kuulolla saadaksesi "
+"lisätietoja."
 
 #: COMMENT
 msgid "Map Loading"
-msgstr ""
+msgstr "Kartta latautuu"
 
+# Missä esiintyy, voiko kutsua ikkunaksi?
 #: COMMENT
 msgid "Search Box"
-msgstr ""
+msgstr "Hakuikkuna"
 
+# Konteksti?
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
 msgstr ""
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "Ei vielä ilmoitettuja havaintoja!"
 
 #: COMMENT
 msgid "Quick Moves"
-msgstr ""
+msgstr "Pikaliikkeet"
 
 #: COMMENT
 msgid "DPS"
@@ -81,7 +86,7 @@ msgstr ""
 
 #: COMMENT
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: COMMENT
 msgid "EPS:"
@@ -89,47 +94,49 @@ msgstr ""
 
 #: COMMENT
 msgid "Type Bonus!"
-msgstr ""
+msgstr "Tyyppietu!"
 
 #: COMMENT
 msgid "Charge Moves"
-msgstr ""
+msgstr "Latausliikkeet"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr ""
+msgstr "Liikkeet, joilla on sama"
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "tyyppi"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
+"kuin Pokémonilla, saavat 25 %:n bonuksen, jota kutsutaan saman tyypin "
+"hyökkäyseduksi (Same-Type Attack Bonus eli STAB)!"
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr ""
+msgstr "Ei vielä tunnettuja liikkeitä!"
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "Yhtään"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr ""
+msgstr "yksilöä ei ole vielä pyydystetty Silph-tutkijoiden toimesta!"
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "Ole ensimmäinen!"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr ""
+msgstr "Kamupokémonina kuljettava matka"
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr ""
+msgstr "Kehittämiseen tarvittavat karkit"
 
 #: COMMENT
 msgid "Base Capture Rate"
@@ -145,23 +152,23 @@ msgstr ""
 
 #: COMMENT
 msgid "Offence"
-msgstr ""
+msgstr "Hyökkäys"
 
 #: COMMENT
 msgid "None"
-msgstr ""
+msgstr "Ei mitään"
 
 #: COMMENT
 msgid "Defence"
-msgstr ""
+msgstr "Puolustus"
 
 #: COMMENT
 msgid "*Type efficacy recommendations are under development!"
-msgstr ""
+msgstr "*Tyyppikohtaiset tehokkuussuositukset ovat työn alla!"
 
 #: COMMENT
 msgid "Improved recommendations coming soon."
-msgstr ""
+msgstr "Parannellut suositukset ovat tulossa pian."
 
 #: COMMENT
 msgid "Prominent Researchers"

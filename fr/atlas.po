@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 19:19+0000\n"
+"PO-Revision-Date: 2017-05-06 11:27+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494011987.459799\n"
+"X-POOTLE-MTIME: 1494070064.611248\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -41,11 +41,11 @@ msgstr "&laquo; Plus"
 
 #: View/Atlas/index.ctp:599
 msgid "Report Sighting"
-msgstr "Rapporter une Observation"
+msgstr "Signaler une Observation"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
-msgstr "Rapporter<br>un Nid"
+msgstr "Signaler<br>un Nid"
 
 #: View/Atlas/index.ctp:609
 msgid "Pokemon GO Nests"
@@ -55,15 +55,14 @@ msgstr "Nids Pokémon GO"
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
 "<a href=\"%s\">Rejoignez The Silph Road</a> et aidez à répertorier les nids "
-"près de chez vous !  L'Atlas Mondial est un ensemble de compte rendus des "
+"près de chez vous !  L'Atlas Mondial est un ensemble de comptes-rendus des "
 "membres de The Silph Road réalisés sur le terrain."
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
-"<b>Pourquoi des publicités?</b> Les outils de recherches de TheSilphRoad.com "
-"génèrent un trafic important - et cela a un certain coût pour garantir un "
-"bon fonctionnement !"
+"<b>Pourquoi ces Publicités?</b> Les outils de recherches de TheSilphRoad.com "
+"attirent beaucoup de visiteurs - et accueillir tout ce monde à un coût !"
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
@@ -89,7 +88,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:785
 msgid "Reticulating splines..."
-msgstr "Extrapolations des courbes..."
+msgstr "Extrapolation des courbes..."
 
 #: View/Atlas/index.ctp:793
 msgid "A Call for Beta Testers"
@@ -165,18 +164,21 @@ msgstr "Signalement d'un nid"
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
 msgstr ""
-"Attention ! Une migration de nid est arrivée le <b>%s</b> ! Ajoutez vos "
-"observations seulement si elles ont été collectées <b>APRÈS</b> la dernière "
-"migration, voyageur !"
+"Attention ! Une migration de nid s'est produite le <b>%s</b> ! Voyageur, "
+"merci d'ajouter uniquement des informations collectées <b>APRÈS</b> la "
+"dernière migration !"
 
 #: View/Atlas/index.ctp:891
 msgid "Help update or refute this location! What did you find?"
 msgstr ""
-"Aidez à mettre à jour ou réfuter cet emplacement ! Qu'avez-vous trouvé ?"
+"Aidez à mettre à jour, confirmer ou réfuter cet emplacement ! Qu'avez-vous "
+"trouvé ?"
 
 #: View/Atlas/index.ctp:896
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
+"NB: Merci de ne pas ajouter de rapport concernant les Pokémons de type "
+"Plante pendant l'événement \"Le Monde en Fleur\" !"
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("
@@ -240,7 +242,7 @@ msgstr "Continuer &raquo;"
 
 #: View/Atlas/index.ctp:975
 msgid "Helpful information for future travelers?"
-msgstr "Avez-vous des informations pouvant aider de futurs voyageurs ?"
+msgstr "Avez-vous des informations pouvant aider d'autres voyageurs ?"
 
 #: View/Atlas/index.ctp:977
 msgid "For example, how many did you encounter? How long were you there? What specific spot did you see a spawn? What exact times did you observe spawns?  Etc.  Anything that might be useful to future travelers!"
@@ -252,7 +254,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:978
 msgid "Helpful comments for future travelers..."
-msgstr "Commentaires pouvant aider de futurs voyageurs..."
+msgstr "Commentaires utiles pour les futurs voyageurs..."
 
 #: View/Atlas/index.ctp:981
 msgid "Finally, confirm the date of your report, traveler:"
@@ -260,7 +262,7 @@ msgstr "Enfin, confirmez la date de votre rapport, voyageur :"
 
 #: View/Atlas/index.ctp:1004
 msgid "Submit My Report!"
-msgstr "Soumettre mon Rapport !"
+msgstr "Soumettre Mon Rapport !"
 
 #: View/Atlas/index.ctp:1021;2196
 msgid "Confirmed!"
@@ -268,7 +270,7 @@ msgstr "Confirmé !"
 
 #: View/Atlas/index.ctp:1022
 msgid "Nest Unverified!"
-msgstr "Nid Non Vérifié !"
+msgstr "Nid Non-Vérifié !"
 
 #: View/Atlas/index.ctp:1023;2198
 msgid "Click Marker to See Field Reports"
@@ -288,7 +290,7 @@ msgstr "Rechercher"
 
 #: View/Atlas/index.ctp:1064
 msgid "what have you found, traveler?"
-msgstr "qu'avez-vous trouvé, voyageur ?"
+msgstr "Voyageur, qu'avez-vous trouvé ?"
 
 #: View/Atlas/index.ctp:1066
 msgid "Sighting Report &raquo;"

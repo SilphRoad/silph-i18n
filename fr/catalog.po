@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 20:11+0000\n"
+"PO-Revision-Date: 2017-05-06 02:07+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494015103.596356\n"
+"X-POOTLE-MTIME: 1494036451.597943\n"
 
 #: View/Catalog/index.ctp:350
 msgid "The Global Pokedex"
@@ -23,9 +23,9 @@ msgstr "Le Pokédex Mondial"
 #: View/Catalog/index.ctp:351
 msgid "The Silph Global Pokedex contains data on species found by travelers around the world. Select a species to learn more!"
 msgstr ""
-"Le Pokédex Mondial de Silph Road contient des informations sur les espèces "
-"découvertes par les voyageurs autour du monde. Sélectionnez une espèce pour "
-"en apprendre davantage !"
+"Le Pokédex Mondial de The Silph Road contient des informations sur les "
+"espèces découvertes par les voyageurs du monde entier. Sélectionnez une "
+"espèce pour en apprendre davantage !"
 
 #: View/Catalog/index.ctp:354
 msgid "Kanto (Gen 1) Species"
@@ -39,15 +39,16 @@ msgstr "Espèces de Johto (Gen 2)"
 msgid "The Silph Road | All Rights Reserved"
 msgstr "The Silph Road | Tous Droits Réservés"
 
+# trad tirée des credits du site officiel pokemon go: http://www.pokemongo.com/fr-fr/
 #: View/Catalog/index.ctp:522
 msgid "Pokémon And All Respective Names are Trademark & &copy; of Nintendo 1996-%s"
 msgstr ""
-"Les Pokémons Et Tous Leurs Noms Respectifs sont des Marques Déposées & &copy;"
-" de Nintendo 1996-%s"
+"Pokémon et les noms des personnages Pokémon sont des marques déposées & "
+"&copy; de Nintendo 1996-%s"
 
 #: View/Catalog/index.ctp:524
 msgid "Pokémon GO is Trademark & &copy; of Niantic, Inc."
-msgstr "Pokémon GO est une Marque Déposées & &copy; de Niantic, Inc."
+msgstr "Pokémon GO est une Marque Déposée & &copy; de Niantic, Inc."
 
 #: View/Catalog/index.ctp:526
 msgid "This Silph Road is not affiliated with Niantic Inc., The Pokemon Company, or Nintendo."

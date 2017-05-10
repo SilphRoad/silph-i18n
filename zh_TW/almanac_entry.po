@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-06 15:53+0000\n"
+"PO-Revision-Date: 2017-05-10 10:28+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494086003.114265\n"
+"X-POOTLE-MTIME: 1494412086.841755\n"
 
 #: COMMENT
 msgid "Height:"
@@ -34,7 +34,7 @@ msgstr "防禦"
 
 #: COMMENT
 msgid "Stamina"
-msgstr ""
+msgstr "耐力"
 
 #: COMMENT
 msgid "Nests"
@@ -62,7 +62,7 @@ msgstr "搜尋方塊"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
-msgstr ""
+msgstr "將地圖展開為平移或縮放"
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
@@ -70,7 +70,7 @@ msgstr "尚未有目擊紀錄報告！"
 
 #: COMMENT
 msgid "Quick Moves"
-msgstr ""
+msgstr "快速招式"
 
 #: COMMENT
 msgid "DPS"
@@ -94,7 +94,7 @@ msgstr "屬性獎勵！"
 
 #: COMMENT
 msgid "Charge Moves"
-msgstr ""
+msgstr "集氣招式"
 
 #: COMMENT
 msgid "Moves with the same"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr ""
+msgstr "尚無已知招式！"
 
 #: COMMENT
 msgid "No"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "快成為第一位吧！"
 
 #: COMMENT
 msgid "Buddy Distance"
@@ -138,11 +138,11 @@ msgstr "基礎捕獲率"
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr "優於"
+msgstr "優勢對抗"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr ""
+msgstr "劣勢對抗"
 
 #: COMMENT
 msgid "Offence"
@@ -174,7 +174,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Strongest Specimen"
-msgstr ""
+msgstr "最強物種"
 
 #: COMMENT
 msgid "- No Sightings -"

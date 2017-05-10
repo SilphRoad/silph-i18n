@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 13:01+0000\n"
+"PO-Revision-Date: 2017-05-06 21:22+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494075714.933637\n"
+"X-POOTLE-MTIME: 1494105753.875122\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -577,7 +577,6 @@ msgid "Blowing in the Cartridge..."
 msgstr ""
 
 #: View/Atlas/index.ctp:1638
-#, fuzzy
 msgid "Reticulating Splines..."
 msgstr "Sieciowanie splajnów..."
 

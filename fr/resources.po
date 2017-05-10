@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 13:06+0000\n"
+"PO-Revision-Date: 2017-05-09 20:11+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494075962.816339\n"
+"X-POOTLE-MTIME: 1494360669.041756\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -48,14 +48,14 @@ msgstr ""
 
 #: View/Pages/buddy_candy.ctp:81
 msgid "Buddy Pokemon KM Per Candy in Pokemon GO"
-msgstr "Km à Parcourir avec son Copain Pokémon GO"
+msgstr "Km à Parcourir avec son Copain dans Pokémon GO"
 
 #: View/Pages/buddy_candy.ctp:83
 msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."
 msgstr ""
 "Ci-dessous vous trouvez une liste claire des kilomètres (km) que vous devez "
 "parcourir pour gagner 1 bonbon pour votre Copain Pokémon. <br>\n"
-"\t\t\t\t\t\t<em>Note :</em> Cette liste est en cours de finalisation ! Elle "
+"\t\t\t\t\t\t<em>Note :</em> Cette liste est en cours de finalisation !  Elle "
 "sera mise à jour dès que de nouvelles informations seront confirmées."
 
 #: View/Pages/buddy_candy.ctp:93
@@ -85,7 +85,7 @@ msgstr "1km"
 
 #: View/Pages/buddy_candy.ctp:200
 msgid "Unavailable KM Per Candy Rewards"
-msgstr "Non Disponible Actuellement"
+msgstr "km pour 1 Bonbon Inconnu"
 
 #: View/Pages/egg_distances.ctp:2;11
 msgid "Pokemon GO Egg Distance Chart | The Silph Road"
@@ -95,8 +95,8 @@ msgstr "Oeuf et Distance à Parcourir dans Pokémon GO | The Silph Road"
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
 msgstr ""
 "Ci-dessous sont listées toutes les espèces obtenables par oeuf dans Pokémon "
-"GO, classées par type d'œuf. Nous avons également indiqué les PC maximum et "
-"minimum qu'un Pokemon peut avoir à l'éclosion..."
+"GO, classées par type d'œuf.  Nous avons également indiqué les PC \"maximum\""
+" et \"minimum\" qu'un Pokemon peut avoir à l'éclosion..."
 
 #: View/Pages/egg_distances.ctp:80
 msgid "Pokemon Go Egg Distance List"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
-msgstr "Oeufs 10 km"
+msgstr "Oeufs de 10 km"
 
 #: View/Pages/egg_distances.ctp:124
 msgid "10km"
@@ -131,19 +131,19 @@ msgstr "10km"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
-msgstr "Maximum:"
+msgstr "Maximum :"
 
 #: View/Pages/egg_distances.ctp:147;211;276
 msgid "Worst:"
-msgstr "Minimum:"
+msgstr "Minimum :"
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
-msgstr "Oeufs 5 km"
+msgstr "Oeufs de 5 km"
 
 #: View/Pages/egg_distances.ctp:234
 msgid "2 KM Eggs"
-msgstr "Oeufs 2 km"
+msgstr "Oeufs de 2 km"
 
 #: View/Pages/egg_distances.ctp:253
 msgid "2km"
@@ -151,11 +151,11 @@ msgstr "2km"
 
 #: View/Pages/moves.ctp:3
 msgid "Pokemon GO Moves"
-msgstr "Pokemon GO: Attaques"
+msgstr "Pokemon GO : Attaques"
 
 #: View/Pages/moves.ctp:128
 msgid "Move List in Pokemon GO"
-msgstr "Pokémon GO: Liste des Attaques"
+msgstr "Pokémon GO : Liste des Attaques"
 
 #: View/Pages/moves.ctp:130
 msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
@@ -214,7 +214,7 @@ msgstr "Attaques Chargées/Spéciales"
 msgid "Special moves are used by holding and pressing the screen after charging the blue 'energy' bars by inflicting damage with quick moves!"
 msgstr ""
 "Les Attaques spéciales sont utilisables par un appui prolongé sur l'écran, "
-"après avoir chargé la barre d'énergie (barre bleue). Celle-ci se charge en "
+"après avoir chargé la barre mauve d'énergie. Celle-ci se charge en "
 "infligeant des dégâts avec les attaques rapides !"
 
 #: View/Pages/moves.ctp:223;227
@@ -250,14 +250,14 @@ msgstr "Stats des espèces dans Pokémon GO"
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."
 msgstr ""
 "Les caractéristiques suivantes permettent d'illustrer les forces et "
-"faiblesses des différents Pokémons dans Pokémon Go.  Les \"Stats de Base\" "
+"faiblesses des différents Pokémons dans Pokémon GO.  Les \"Stats de Base\" "
 "sont stockées sur les serveurs du jeu, mais sont envoyées sur l'application "
 "où nous pouvons les examiner."
 
 #: View/Pages/species_stats.ctp:133
 msgid "Generation 2 Pokemon's base stats are able to be calculated due to the known conversion formula (discovered first by <a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbmi/exact_conversion_formula/'>/u/CustomOndo</a>) from the main series game stats.\n\t\t\t\t\t\t<b>Max Potential CP</b> is calculated from the known CP formula and the species base stats."
 msgstr ""
-"Les statistiques de base des Pokémons de Seconde Génération peuvent être "
+"Les statistiques de base des Pokémons de la Seconde Génération peuvent être "
 "calculées grâce à une formule mathématique connue (découverte en premier par "
 "<a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbm"
 "i/exact_conversion_formula/'>/u/CustomOndo</a>) d'après les stats des jeux "
@@ -344,7 +344,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:3
 msgid "Pokemon GO Trainer Level Awards & Requirements"
-msgstr "Pokémon GO: Récompenses & XP par Niveaux de Dresseur"
+msgstr "Pokémon GO : Récompenses & XP par Niveaux de Dresseur"
 
 #: View/Pages/trainer_levels.ctp:80
 msgid "Trainer Level Requirements + Bonuses"
@@ -354,7 +354,7 @@ msgstr "Expérience Requise par Niveau de Dresseur + Gain"
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
 msgstr ""
 "Le tableau suivant résume l'XP requises et les récompenses pour chaque "
-"Niveau de Dresseur dans Pokémon GO"
+"Niveau de Dresseur dans Pokémon GO."
 
 #: View/Pages/trainer_levels.ctp:92
 msgid "Level"
@@ -362,7 +362,7 @@ msgstr "Niveau"
 
 #: View/Pages/trainer_levels.ctp:93
 msgid "XP required"
-msgstr "XP par niveau"
+msgstr "XP requise"
 
 #: View/Pages/trainer_levels.ctp:94
 msgid "Total XP"
@@ -370,7 +370,7 @@ msgstr "XP Totale"
 
 #: View/Pages/trainer_levels.ctp:95
 msgid "Unlocked items"
-msgstr "Objets Débloqués"
+msgstr "Objets débloqués"
 
 #: View/Pages/trainer_levels.ctp:96
 msgid "Rewards"
@@ -725,7 +725,7 @@ msgstr "Rappel Max"
 msgid "Ultra Ball (x30), Max Potion (x20), Max Revive (x20), Razz Berry (x20), Incense (x3), Lucky Egg (x3), Egg Incubator (x3), Lure Module (x3)"
 msgstr ""
 "Hyper Ball (x30), Potion Max (x20), Rappel Max (x20), Baie Framby (x20), "
-"Encens (x3), Incubateur (x3), Module Leurre (x3)"
+"Encens (x3), Oeuf chance (x3), Incubateur (x3), Module Leurre (x3)"
 
 #: View/Pages/trainer_levels.ctp:312;319
 msgid "500,000"
@@ -870,15 +870,15 @@ msgstr "Lancer \"Joli !\""
 
 #: View/Pages/xp_earning.ctp:99
 msgid "Pokemon Ran Away"
-msgstr "Le Pokémon s'est enfui"
+msgstr "Fuite d'un Pokémon"
 
 #: View/Pages/xp_earning.ctp:103
 msgid "Great! throw bonus"
-msgstr "Génial ! Bonus de lancer"
+msgstr "Lancer \"Génial !\""
 
 #: View/Pages/xp_earning.ctp:107
 msgid "First Throw Bonus for Catching Pokemon in One Ball"
-msgstr "Capture avec la 1ère balle"
+msgstr "Capture du Premier Coup"
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
@@ -898,7 +898,7 @@ msgstr "Lancer \"Excellent !\""
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
-msgstr "Capture ton 100ème Pokémon d'une même espèce"
+msgstr "Capture ton 100<sup>ème</sup> Pokémon d'une même espèce"
 
 #: View/Pages/xp_earning.ctp:131
 msgid "Hatch an Egg (2 km)"

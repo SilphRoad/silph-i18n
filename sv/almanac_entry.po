@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-04 17:48+0000\n"
+"PO-Revision-Date: 2017-05-08 18:50+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: sv\n"
@@ -14,15 +14,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493920088.922156\n"
+"X-POOTLE-MTIME: 1494269430.378379\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr ""
+msgstr "Längd:"
 
 #: COMMENT
 msgid "Weight:"
-msgstr ""
+msgstr "Vikt:"
 
 #: COMMENT
 msgid "Attack"
@@ -54,19 +54,19 @@ msgstr ""
 
 #: COMMENT
 msgid "Map Loading"
-msgstr ""
+msgstr "Kartan Laddar"
 
 #: COMMENT
 msgid "Search Box"
-msgstr ""
+msgstr "Sökruta"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
-msgstr ""
+msgstr "Expandera kartan för att panorera eller zooma."
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "Inga Rapporterade Ännu!"
 
 #: COMMENT
 msgid "Quick Moves"
@@ -98,31 +98,33 @@ msgstr ""
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr ""
+msgstr "Attacker med samma"
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "typ"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
 msgstr ""
+"som en Pokémon får en 25% boost kallad en Samma-Typ Attack Bonus (STAB)! "
+"Dessa bonusar är redan uträknade ovan!"
 
 #: COMMENT
 msgid "No Known Moves Yet!"
-msgstr ""
+msgstr "Inga Kända Attacker Ännu!"
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "Inget"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr ""
+msgstr "exemplar har hittills fångats av Silph-Forskare!"
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "Bli den första!"
 
 #: COMMENT
 msgid "Buddy Distance"

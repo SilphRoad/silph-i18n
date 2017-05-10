@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-04 17:56+0000\n"
+"PO-Revision-Date: 2017-05-08 18:57+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: sv\n"
@@ -14,42 +14,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493920591.357987\n"
+"X-POOTLE-MTIME: 1494269823.500342\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Navigera"
 
 #: View/Atlas/index.ctp:668;672;725;729
 #: View/Helper/TopNavHelper.php:38;42;107;111
 msgid "Tools"
-msgstr ""
+msgstr "Verktyg"
 
 #: View/Atlas/index.ctp:669;726
 #: View/Helper/TopNavHelper.php:39;108
 msgid "Resources"
-msgstr ""
+msgstr "Resurser"
 
 #: View/Atlas/index.ctp:673;730
 #: View/Helper/TopNavHelper.php:43;112
 msgid "Global Pokedex"
-msgstr ""
+msgstr "Globalt Pokédex"
 
 #: View/Atlas/index.ctp:674;731
 #: View/Helper/TopNavHelper.php:44;113
 msgid "IV Rater"
-msgstr ""
+msgstr "IV-Betygsättare"
 
 #: View/Atlas/index.ctp:675;732
 #: View/Helper/TopNavHelper.php:45;114
 msgid "Reference Tables"
-msgstr ""
+msgstr "Referens-tabell"
 
 #: View/Atlas/index.ctp:676;733
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Moves By DPS"
-msgstr ""
+msgstr "Attacker baserade på Skada Per Sekund"
 
 #: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:47;116
@@ -99,7 +99,7 @@ msgstr "Ny forskning"
 #: View/Atlas/index.ctp:701;761
 #: View/Helper/TopNavHelper.php:149
 msgid "Field Manual"
-msgstr "Fältmanual"
+msgstr "Fälthandbok"
 
 #: View/Atlas/index.ctp:702;762
 #: View/Helper/TopNavHelper.php:150
@@ -129,17 +129,17 @@ msgstr "Dags att GO!"
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:95;156
 msgid "For Travelers"
-msgstr ""
+msgstr "För Resande"
 
 #: View/Atlas/index.ctp:743
 #: View/Helper/TopNavHelper.php:57;125
 msgid "Nest Atlas"
-msgstr ""
+msgstr "Nästatlas"
 
 #: View/Atlas/index.ctp:744
 #: View/Helper/TopNavHelper.php:58;126
 msgid "Known Nest Map"
-msgstr ""
+msgstr "Nästkarta"
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Pursue"
@@ -147,7 +147,7 @@ msgstr "Pursue"
 
 #: View/Helper/TopNavHelper.php:72;138
 msgid "Tracking Aide"
-msgstr "Spårningshjälp"
+msgstr "Spårnings-Hjälp"
 
 #: View/Users/login.ctp:15
 msgid "Your Papers, Please."
@@ -156,7 +156,7 @@ msgstr "Dina papper, tack."
 #: View/Users/login.ctp:17
 msgid "The Silph Road authenticates travelers via their Reddit account.  Click \"Authenticate\" below to access the Silph Road."
 msgstr ""
-"The Silph Road verifierar resänerer via deras Redditanvändare  Klicka \""
+"The Silph Road verifierar resande via deras Reddit-användare.  Klicka \""
 "Autentisera\" nedan för att få tillgång till the Silph Road."
 
 #: View/Users/login.ctp:19

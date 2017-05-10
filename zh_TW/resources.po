@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 17:02+0000\n"
+"PO-Revision-Date: 2017-05-08 09:35+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494090163.222798\n"
+"X-POOTLE-MTIME: 1494236156.610806\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -475,7 +475,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:203
 msgid "Great Ball (x15), Hyper Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"
-msgstr ""
+msgstr "超級球（x15）、厲害傷藥（x20）、活力碎片（x10）、蔓莓果（x10）、薰香、幸運蛋、孵化器、誘餌模組"
 
 #: View/Pages/trainer_levels.ctp:207;214;221
 msgid "20,000"
@@ -487,7 +487,7 @@ msgstr "120,000"
 
 #: View/Pages/trainer_levels.ctp:210;217
 msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
-msgstr ""
+msgstr "超級球（x10）、厲害傷藥（x10）、活力碎片（x5）、蔓莓果（x5）"
 
 #: View/Pages/trainer_levels.ctp:215
 msgid "140,000"
@@ -503,7 +503,7 @@ msgstr "凰梨果"
 
 #: View/Pages/trainer_levels.ctp:224
 msgid "Great Ball (x10), Hyper Potion (x10), Revive (x5), Razz Berry (x5), Pinap Berry (x5)"
-msgstr ""
+msgstr "超級球（x10）、厲害傷藥（x10）、活力碎片（x5）、蔓莓果（x5）、凰梨果（x5）"
 
 #: View/Pages/trainer_levels.ctp:228;235
 msgid "25,000"
@@ -515,7 +515,7 @@ msgstr "185,000"
 
 #: View/Pages/trainer_levels.ctp:231
 msgid "Great Ball (x15), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
-msgstr ""
+msgstr "超級球（x15）、厲害傷藥（x10）、活力碎片（x5）、蔓莓果（x5）"
 
 #: View/Pages/trainer_levels.ctp:236
 msgid "210,000"
@@ -528,6 +528,8 @@ msgstr "高級球"
 #: View/Pages/trainer_levels.ctp:238
 msgid "Ultra Ball (x20), Hyper Potion (x20), Revive (x20), Razz Berry (x20), Incense (x2), Lucky Egg (x2), Egg Incubator (x2), Lure Module (x2), Nanab Berry (x20)"
 msgstr ""
+"高級球（x20）、厲害傷藥（x20）、活力碎片（x20）、蔓莓果（x20）、蕉香果（x20）、薰香（x2）、幸運蛋（x2）、孵化器（x2）、誘餌模組（x2"
+"）"
 
 #: View/Pages/trainer_levels.ctp:242
 msgid "50,000"
@@ -539,7 +541,7 @@ msgstr "260,000"
 
 #: View/Pages/trainer_levels.ctp:245
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Pinap Berry (x10)"
-msgstr ""
+msgstr "高級球（x10）、厲害傷藥（x10）、活力碎片（x10）、蔓莓果（x10）、蕉香果（x10）"
 
 #: View/Pages/trainer_levels.ctp:250
 msgid "335,000"
@@ -547,7 +549,7 @@ msgstr "335,000"
 
 #: View/Pages/trainer_levels.ctp:252
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
-msgstr ""
+msgstr "高級球（x10）、厲害傷藥（x10）、活力碎片（x10）、蔓莓果（x10）"
 
 #: View/Pages/trainer_levels.ctp:257
 msgid "435,000"
@@ -555,7 +557,7 @@ msgstr "435,000"
 
 #: View/Pages/trainer_levels.ctp:259
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Nanab Berry (x10)"
-msgstr ""
+msgstr "高級球（x10）、厲害傷藥（x10）、活力碎片（x10）、蔓莓果（x10）、蕉香果（x10）"
 
 #: View/Pages/trainer_levels.ctp:263
 msgid "125,000"
@@ -567,7 +569,7 @@ msgstr "560,000"
 
 #: View/Pages/trainer_levels.ctp:266
 msgid "Ultra Ball (x15), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
-msgstr ""
+msgstr "高級球（x15）、厲害傷藥（x10）、活力碎片（x10）、蔓莓果（x10）"
 
 #: View/Pages/trainer_levels.ctp:270
 msgid "150,000"

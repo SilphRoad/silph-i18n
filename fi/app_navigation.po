@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 13:05+0000\n"
+"PO-Revision-Date: 2017-05-07 17:44+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -14,12 +14,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494075903.764290\n"
+"X-POOTLE-MTIME: 1494179068.369472\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
 msgid "Toggle navigation"
-msgstr "Avaa/piilota navigointi"
+msgstr "Avaa tai sulje valikko"
 
 #: View/Atlas/index.ctp:668;672;725;729
 #: View/Helper/TopNavHelper.php:38;42;107;111
@@ -134,20 +134,20 @@ msgstr "Matkaajille"
 #: View/Atlas/index.ctp:743
 #: View/Helper/TopNavHelper.php:57;125
 msgid "Nest Atlas"
-msgstr ""
+msgstr "Pesäkartasto"
 
 #: View/Atlas/index.ctp:744
 #: View/Helper/TopNavHelper.php:58;126
 msgid "Known Nest Map"
-msgstr ""
+msgstr "Tunnettujen pesien sijainnit"
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Pursue"
-msgstr ""
+msgstr "Paikannus"
 
 #: View/Helper/TopNavHelper.php:72;138
 msgid "Tracking Aide"
-msgstr ""
+msgstr "Jäljitysapu"
 
 #: View/Users/login.ctp:15
 msgid "Your Papers, Please."
@@ -159,7 +159,7 @@ msgstr ""
 
 #: View/Users/login.ctp:19
 msgid "Authenticate &raquo;"
-msgstr ""
+msgstr "Tunnistaudu &raquo;"
 
 #: View/Users/login.ctp:21
 msgid "You may create a Reddit account for free at Reddit.com."

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 19:56+0000\n"
+"PO-Revision-Date: 2017-05-06 22:53+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494014189.850804\n"
+"X-POOTLE-MTIME: 1494111184.685607\n"
 
 #: View/Helper/PostSidebarHelper.php:10
 msgid "Trending"
@@ -81,7 +81,7 @@ msgstr "Article Complet &raquo;"
 
 #: View/Pages/blog.ctp:145
 msgid "Stay Tuned for More Tips!"
-msgstr "Restez Connectés pour Plus de Conseils!"
+msgstr "Restez Connectés pour Plus de Conseils !"
 
 #: View/Pages/blog.ctp:146
 msgid "The Silph Road will be publishing a new tips periodically on this feed.  These <code>Trail Pointers</code> will help you on your way to becoming a Pokemon GO master!"

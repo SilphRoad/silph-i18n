@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-06 13:04+0000\n"
+"PO-Revision-Date: 2017-05-07 19:35+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494075896.660359\n"
+"X-POOTLE-MTIME: 1494185751.937273\n"
 
 #: COMMENT
 msgid "Height:"
@@ -52,7 +52,7 @@ msgstr "Attendez :"
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
 "Les Nids du monde entier sont actuellement en train de changer ! Restez "
-"connectés pour plus d'information !"
+"connectés pour plus d'information."
 
 #: COMMENT
 msgid "Map Loading"
@@ -122,7 +122,7 @@ msgstr "Aucun spécimen de"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr "n'a été capturé par des chercheurs de Silph Road pour le moment."
+msgstr "n'a été capturé par des chercheurs de Silph Road pour le moment !"
 
 #: COMMENT
 msgid "Go be the first!"
@@ -130,11 +130,11 @@ msgstr "Sois le premier !"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr "Distance par Copain"
+msgstr "Distance en Copain"
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr "Bonbons pour faire Évoluer"
+msgstr "Bonbons pour le faire Évoluer"
 
 #: COMMENT
 msgid "Base Capture Rate"

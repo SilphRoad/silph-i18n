@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 13:41+0000\n"
+"PO-Revision-Date: 2017-05-09 20:10+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494078060.028936\n"
+"X-POOTLE-MTIME: 1494360659.303946\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -94,7 +94,7 @@ msgstr "Science"
 #: View/Atlas/index.ctp:695;756
 #: View/Helper/TopNavHelper.php:79;144
 msgid "New Research"
-msgstr "Dernière Recherche"
+msgstr "Dernières Recherches"
 
 #: View/Atlas/index.ctp:701;761
 #: View/Helper/TopNavHelper.php:149

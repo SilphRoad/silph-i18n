@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 15:54+0000\n"
+"PO-Revision-Date: 2017-05-10 10:31+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494086081.994870\n"
+"X-POOTLE-MTIME: 1494412260.787717\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -49,7 +49,7 @@ msgstr "參考目錄"
 #: View/Atlas/index.ctp:676;733
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Moves By DPS"
-msgstr ""
+msgstr "以每秒輸出傷害排序技能"
 
 #: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:47;116
@@ -124,7 +124,7 @@ msgstr "登入"
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:95;156
 msgid "Time to GO!"
-msgstr ""
+msgstr "該出發囉！"
 
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:95;156

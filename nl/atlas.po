@@ -5,18 +5,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-08 23:00+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1494284437.661975\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
-msgstr ""
+msgstr "De Wereldwijde Nest Atlas"
 
 #: View/Atlas/index.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
@@ -228,11 +230,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1021;2196
 msgid "Confirmed!"
-msgstr ""
+msgstr "Bevestigd!"
 
 #: View/Atlas/index.ctp:1022
 msgid "Nest Unverified!"
-msgstr ""
+msgstr "Nest Niet geverifieerd!"
 
 #: View/Atlas/index.ctp:1023;2198
 msgid "Click Marker to See Field Reports"
@@ -248,23 +250,23 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1041
 msgid "Search"
-msgstr ""
+msgstr "Zoeken"
 
 #: View/Atlas/index.ctp:1064
 msgid "what have you found, traveler?"
-msgstr ""
+msgstr "wat heb je gevonden, reiziger?"
 
 #: View/Atlas/index.ctp:1066
 msgid "Sighting Report &raquo;"
-msgstr ""
+msgstr "Waarnemingsrapport &raquo;"
 
 #: View/Atlas/index.ctp:1067
 msgid "A Nest (Multiple) &raquo;"
-msgstr ""
+msgstr "Een Nest (Meerdere) &raquo;"
 
 #: View/Atlas/index.ctp:1068
 msgid "Sighting Reports"
-msgstr ""
+msgstr "Waarnemingsrapporten"
 
 #: View/Atlas/index.ctp:1069
 msgid "are normal spawn reports - i.e. when you encounter a Pokemon in your travels, submit a Sighting Report!"
@@ -272,7 +274,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1070
 msgid "Nests"
-msgstr ""
+msgstr "Nesten"
 
 #: View/Atlas/index.ctp:1071
 msgid "are our term for <em>repeat spawns</em> or <em>clustered spawns</em> of the same species. Only report a 'Nest' if you see multiples of an uncommon species at once (or a consistently spawning rare 'mon)!"
@@ -280,7 +282,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1076;1198
 msgid "Existing Nest?"
-msgstr ""
+msgstr "Bestaand Nest?"
 
 #: View/Atlas/index.ctp:1078;1200
 msgid "Double check that another traveler hasn't already added this nest location to the map! \n\t\t\t\t\t\t\tIf there is already an existing nest report for your location, <b>click on it</b>!"
@@ -292,7 +294,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1086;1178;1204
 msgid "Search Box"
-msgstr ""
+msgstr "Zoekveld"
 
 #: View/Atlas/index.ctp:1092;1185
 msgid "No Sighting Reports Yet!"
@@ -308,7 +310,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1105
 msgid "New Nest!"
-msgstr ""
+msgstr "Nieuw Nest!"
 
 #: View/Atlas/index.ctp:1106
 msgid "What type of nest did you discover?"

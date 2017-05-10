@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-06 02:06+0000\n"
+"PO-Revision-Date: 2017-05-06 23:44+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494036402.665152\n"
+"X-POOTLE-MTIME: 1494114278.726677\n"
 
 #: COMMENT
 msgid "Height:"
@@ -119,11 +119,11 @@ msgstr "¡Sin movimientos conocidos aún!"
 
 #: COMMENT
 msgid "No"
-msgstr "¡Ningún"
+msgstr "¡Ningún espécimen de"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr "espécimen ha sido capturado aún por los Investigadores de Silph!"
+msgstr "ha sido capturado aún por los Investigadores de Silph!"
 
 #: COMMENT
 msgid "Go be the first!"

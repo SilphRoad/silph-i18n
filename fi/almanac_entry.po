@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-06 16:39+0000\n"
+"PO-Revision-Date: 2017-05-10 14:05+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494088765.387966\n"
+"X-POOTLE-MTIME: 1494425133.710022\n"
 
 #: COMMENT
 msgid "Height:"
@@ -123,11 +123,11 @@ msgstr "Ei vielä tunnettuja liikkeitä!"
 
 #: COMMENT
 msgid "No"
-msgstr "Yhtään"
+msgstr "Yksikään Silph-tutkija ei ole vielä saanut kiinni pokémonia"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr "yksilöä ei ole vielä pyydystetty Silph-tutkijoiden toimesta!"
+msgstr " "
 
 #: COMMENT
 msgid "Go be the first!"
@@ -135,7 +135,7 @@ msgstr "Ole ensimmäinen!"
 
 #: COMMENT
 msgid "Buddy Distance"
-msgstr "Kamupokémonina kuljettava matka"
+msgstr "Kamupokémonin kanssa kuljettava matka"
 
 #: COMMENT
 msgid "Candy to Evolve"
@@ -147,11 +147,11 @@ msgstr ""
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr ""
+msgstr "Etulyöntiasemassa näitä vastaan:"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr "Heikko näitä vastaan:"
+msgstr "Alakynnessä näitä vastaan:"
 
 #: COMMENT
 msgid "Offence"

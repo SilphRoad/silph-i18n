@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 15:49+0000\n"
+"PO-Revision-Date: 2017-05-10 13:59+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494085783.760115\n"
+"X-POOTLE-MTIME: 1494424784.760265\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -34,7 +34,7 @@ msgstr "&laquo; 更多資訊"
 
 #: View/Atlas/index.ctp:599
 msgid "Report Sighting"
-msgstr ""
+msgstr "回報目擊紀錄"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
@@ -66,7 +66,7 @@ msgstr "新增報告"
 
 #: View/Atlas/index.ctp:720
 msgid "Report Sighting/Nest"
-msgstr ""
+msgstr "回報目擊紀錄／巢穴"
 
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
@@ -98,7 +98,7 @@ msgstr "可預測之巢穴"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
-msgstr ""
+msgstr "過往目擊紀錄"
 
 #: View/Atlas/index.ctp:832
 msgid "Verified"
@@ -110,7 +110,7 @@ msgstr "未證實"
 
 #: View/Atlas/index.ctp:834
 msgid "Refuted"
-msgstr ""
+msgstr "已推翻"
 
 #: View/Atlas/index.ctp:835
 msgid "Outdated"
@@ -142,7 +142,7 @@ msgstr "讀取營地資料⋯"
 
 #: View/Atlas/index.ctp:885
 msgid "Nest Report"
-msgstr ""
+msgstr "巢穴報告"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
@@ -150,11 +150,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:891
 msgid "Help update or refute this location! What did you find?"
-msgstr ""
+msgstr "請協助更新或推翻此位置的情報！您發現了什麼？"
 
 #: View/Atlas/index.ctp:896
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
-msgstr ""
+msgstr "注意：於「草屬性活動」期間無須回報草屬性的寶可夢！"
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("
@@ -178,7 +178,7 @@ msgstr "您在此找到何種屬性的巢穴？"
 
 #: View/Atlas/index.ctp:935;1128
 msgid "Cluster Spawn"
-msgstr ""
+msgstr "叢集出怪"
 
 #: View/Atlas/index.ctp:937
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
@@ -199,7 +199,7 @@ msgstr "頻繁出怪<em>點</em>"
 
 #: View/Atlas/index.ctp:961
 msgid "A single location that frequently spawns a rare/uncommon species <span style='text-decoration:underline'>multiple times a day"
-msgstr ""
+msgstr "<span style='text-decoration:underline'>於一天當中多次在單一地點頻繁出現稀有／罕見寶可夢"
 
 #: View/Atlas/index.ctp:967;1005
 msgid "&laquo; Back"
@@ -243,7 +243,7 @@ msgstr "點選標記以閱讀實地考察報告"
 
 #: View/Atlas/index.ctp:1036
 msgid "Report a Sighting!"
-msgstr ""
+msgstr "回報目擊紀錄！"
 
 #: View/Atlas/index.ctp:1037
 msgid "Select the Pokemon you've spotted:"
@@ -259,7 +259,7 @@ msgstr "旅行者，您發現什麼？"
 
 #: View/Atlas/index.ctp:1066
 msgid "Sighting Report &raquo;"
-msgstr ""
+msgstr "目擊紀錄報告 &raquo;"
 
 #: View/Atlas/index.ctp:1067
 msgid "A Nest (Multiple) &raquo;"
@@ -271,7 +271,7 @@ msgstr "目擊紀錄報告"
 
 #: View/Atlas/index.ctp:1069
 msgid "are normal spawn reports - i.e. when you encounter a Pokemon in your travels, submit a Sighting Report!"
-msgstr ""
+msgstr "為一般的出怪回報，即當您在旅途中發現一隻寶可夢時，請提交目擊紀錄報告！"
 
 #: View/Atlas/index.ctp:1070
 msgid "Nests"
@@ -291,15 +291,15 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1084;1176
 msgid "Map Loading"
-msgstr ""
+msgstr "讀取地圖中"
 
 #: View/Atlas/index.ctp:1086;1178;1204
 msgid "Search Box"
-msgstr ""
+msgstr "搜尋框"
 
 #: View/Atlas/index.ctp:1092;1185
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "尚未有目擊紀錄報告！"
 
 #: View/Atlas/index.ctp:1096
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! <b>If there is no existing nest in this location, click below</b>:"
@@ -307,21 +307,20 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1097
 msgid "Nope! It's a New Nest!"
-msgstr ""
+msgstr "不！這是一個新巢穴！"
 
 #: View/Atlas/index.ctp:1105
 msgid "New Nest!"
-msgstr ""
+msgstr "新巢穴！"
 
 #: View/Atlas/index.ctp:1106
 msgid "What type of nest did you discover?"
-msgstr ""
+msgstr "您發現哪種屬性的巢穴？"
 
 #: View/Atlas/index.ctp:1130
-#, fuzzy
 msgid "Multiple appear on the map <span style='text-decoration: underline;'>at once</span> within a single hour (at the same time)"
 msgstr ""
-"在一小時內，同時於地圖上<span style=\"text-decoration: underline;\">一次</span>出現多隻寶可夢"
+"在一小時內，於地圖上<span style=\"text-decoration: underline;\">一次</span>同時出現多隻寶可夢"
 
 #: View/Atlas/index.ctp:1154
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
@@ -329,11 +328,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1164;1303;1425
 msgid "Next"
-msgstr ""
+msgstr "下一個"
 
 #: View/Atlas/index.ctp:1169
 msgid "Report A Nest!"
-msgstr ""
+msgstr "回報一處巢穴！"
 
 #: View/Atlas/index.ctp:1171
 msgid "Position the marker to the <em>exact</em> location you believe this species nests at!"
@@ -341,135 +340,135 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1189
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location!"
-msgstr ""
+msgstr "提示：拖曳地圖或點選「<b>我的位置</b>」按鈕以移動至您的所在位置！"
 
 #: View/Atlas/index.ctp:1190
 msgid "Submit Nest!"
-msgstr ""
+msgstr "登錄巢穴！"
 
 #: View/Atlas/index.ctp:1209
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! If there is no existing nest, click below:"
-msgstr ""
+msgstr "提示：拖曳地圖或點選「<b>我的位置</b>」按鈕以移至您的所在位置！若附近目前沒有巢穴，請點選："
 
 #: View/Atlas/index.ctp:1210
 msgid "This is a New Nest!"
-msgstr ""
+msgstr "這是一處新巢穴！"
 
 #: View/Atlas/index.ctp:1215
 msgid "Catalogue!"
-msgstr ""
+msgstr "目錄！"
 
 #: View/Atlas/index.ctp:1216
 msgid "Catalogue your encounter info:"
-msgstr ""
+msgstr "將您的目擊資訊編入目錄："
 
 #: View/Atlas/index.ctp:1234
 msgid "Combat Points (CP)"
-msgstr ""
+msgstr "戰力值（CP）"
 
 #: View/Atlas/index.ctp:1236
 msgid "Enter CP..."
-msgstr ""
+msgstr "請輸入 CP……"
 
 #: View/Atlas/index.ctp:1241
 msgid "Incense"
-msgstr ""
+msgstr "薰香"
 
 #: View/Atlas/index.ctp:1246
 msgid "Using Incense or Lure Patch"
-msgstr ""
+msgstr "使用薰香或誘餌模組"
 
 #: View/Atlas/index.ctp:1256
 msgid "Select Quick Move..."
-msgstr ""
+msgstr "請選擇快速招式……"
 
 #: View/Atlas/index.ctp:1257;1270
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #: View/Atlas/index.ctp:1269
 msgid "Select Charge Move..."
-msgstr ""
+msgstr "請選擇集氣招式……"
 
 #: View/Atlas/index.ctp:1284
 msgid "Successful Capture"
-msgstr ""
+msgstr "成功捕獲"
 
 #: View/Atlas/index.ctp:1290
 msgid "Un-successful Capture"
-msgstr ""
+msgstr "未成功捕獲"
 
 #: View/Atlas/index.ctp:1296
 msgid "Did Not Throw Ball"
-msgstr ""
+msgstr "並未擲球"
 
 #: View/Atlas/index.ctp:1308
 msgid "Confirm Your Location!"
-msgstr ""
+msgstr "確認您的所在位置！"
 
 #: View/Atlas/index.ctp:1309
 msgid "Drag the map so the marker is on your exact position:"
-msgstr ""
+msgstr "拖曳地圖使標記位於您的正確所在位置"
 
 #: View/Atlas/index.ctp:1318
 msgid "Set Location"
-msgstr ""
+msgstr "設定位置"
 
 #: View/Atlas/index.ctp:1323
 msgid "Describe The Terrain!"
-msgstr ""
+msgstr "請描述地形！"
 
 #: View/Atlas/index.ctp:1324
 msgid "Select <b>ALL</b> applicable terrain types. Be specific!:"
-msgstr ""
+msgstr "請選擇<b>所有</b>適用的地形種類，並明確說明！："
 
 #: View/Atlas/index.ctp:1330
 msgid "Land Type"
-msgstr ""
+msgstr "土地類型"
 
 #: View/Atlas/index.ctp:1431
 msgid "Confirm & Record"
-msgstr ""
+msgstr "確認並記錄"
 
 #: View/Atlas/index.ctp:1432
 msgid "Verify that this information is correct:"
-msgstr ""
+msgstr "驗證此資訊正確："
 
 #: View/Atlas/index.ctp:1443
 msgid "Select Trainer Level..."
-msgstr ""
+msgstr "請選擇訓練家等級……"
 
 #: View/Atlas/index.ctp:1444;1445;1446;1447;1448;1449;1450;1451;1452;1453;1454;1455;1456;1457;1458;1459;1460;1461;1462;1463;1464;1465;1466;1467;1468;1469;1470;1471;1472;1473;1474;1475;1476;1477;1478;1479;1480;1481;1482;1483;1484
 msgid "Trainer Level %n"
-msgstr ""
+msgstr "訓練家等級 %n"
 
 #: View/Atlas/index.ctp:1493
 msgid "Select Team..."
-msgstr ""
+msgstr "請選擇隊伍……"
 
 #: View/Atlas/index.ctp:1494
 msgid "Red Team"
-msgstr ""
+msgstr "紅隊"
 
 #: View/Atlas/index.ctp:1495
 msgid "Yellow Team"
-msgstr ""
+msgstr "黃隊"
 
 #: View/Atlas/index.ctp:1496
 msgid "Blue Team"
-msgstr ""
+msgstr "藍隊"
 
 #: View/Atlas/index.ctp:1497
 msgid "No Team Yet"
-msgstr ""
+msgstr "尚未加入隊伍"
 
 #: View/Atlas/index.ctp:1507
 msgid "Time:"
-msgstr ""
+msgstr "時間："
 
 #: View/Atlas/index.ctp:1512
 msgid "Moon Phase"
-msgstr ""
+msgstr "月相"
 
 #: View/Atlas/index.ctp:1521
 msgid "<i>If any information is incorrectly displayed, message <a href='https://reddit.com/u/dronpes' target='_blank'>/u/dronpes</a> or the <a href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad moderators</a> and we'll sort it out!</i>"
@@ -477,27 +476,27 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1526
 msgid "Submit Field Report"
-msgstr ""
+msgstr "提交實地考察報告"
 
 #: View/Atlas/index.ctp:1610
 msgid "Oops! Unable to retrieve nest data! You may need try again to re-authenticate!"
-msgstr ""
+msgstr "唉呀！無法擷取巢穴資料！您可能需要再次嘗試重新驗證！"
 
 #: View/Atlas/index.ctp:1611;2820;2843
 msgid "Oops! There was an error submitting your report, traveler."
-msgstr ""
+msgstr "唉呀！旅行者，提交您的報告時發生了錯誤！"
 
 #: View/Atlas/index.ctp:1612;2774;2817;2840
 msgid "Your report has been received!  Thanks for contributing your Research, traveler!  The Atlas will update in a few minutes."
-msgstr ""
+msgstr "已收到您的回報！  旅行者，感謝您貢獻研究！  本圖冊將於稍後更新。"
 
 #: View/Atlas/index.ctp:1613
 msgid "Your session has expired.  Please log back in!"
-msgstr ""
+msgstr "您的工作階段已到期。  請重新登入！"
 
 #: View/Atlas/index.ctp:1614
 msgid "Your device/browser does not support geolocation! :("
-msgstr ""
+msgstr "您的裝置/瀏覽器不支援定位服務！:("
 
 #: View/Atlas/index.ctp:1615
 #, fuzzy
@@ -511,7 +510,7 @@ msgstr "哇噢，旅行者，目前此高度顯示出太多巢穴，請拉近以
 
 #: View/Atlas/index.ctp:1617
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
-msgstr ""
+msgstr "請選擇有效的資料！（我們不接受未來的資料。）"
 
 #: View/Atlas/index.ctp:1631;1632;1633;1634;1636;1638;1639;1640;1641;1642
 msgid "Retrieving Field Reports..."
@@ -559,43 +558,43 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1813
 msgid "Enable location services to jump to your location!"
-msgstr ""
+msgstr "請啟用位置服務以跳轉至您的所在位置！"
 
 #: View/Atlas/index.ctp:1886
 msgid "Select All"
-msgstr ""
+msgstr "全選"
 
 #: View/Atlas/index.ctp:1887
 msgid "All Species"
-msgstr ""
+msgstr "所有物種"
 
 #: View/Atlas/index.ctp:1894;1895
 msgid "Species"
-msgstr ""
+msgstr "物種"
 
 #: View/Atlas/index.ctp:1896
 msgid "species"
-msgstr ""
+msgstr "物種"
 
 #: View/Atlas/index.ctp:1947
 msgid "All Verification Levels"
-msgstr ""
+msgstr "所有驗證等級"
 
 #: View/Atlas/index.ctp:1953
 msgid "All Nest Types"
-msgstr ""
+msgstr "所有巢穴類型"
 
 #: View/Atlas/index.ctp:1958;1960
 msgid "Nest Behavior"
-msgstr ""
+msgstr "巢穴行為"
 
 #: View/Atlas/index.ctp:1959
 msgid "1 Nest Behavior"
-msgstr ""
+msgstr "1 項巢穴行為"
 
 #: View/Atlas/index.ctp:1962
 msgid "Nest Behaviors"
-msgstr ""
+msgstr "巢穴行為"
 
 #: View/Atlas/index.ctp:2140
 #, fuzzy
@@ -604,7 +603,7 @@ msgstr "哇噢，旅行者，目前此高度顯示出太多巢穴，請拉近以
 
 #: View/Atlas/index.ctp:2196
 msgid "Sighted!"
-msgstr ""
+msgstr "目擊到寶可夢！"
 
 #: View/Atlas/index.ctp:2198
 msgid "Species reportedly common at location"
@@ -612,11 +611,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2286;2338
 msgid "Sighting Reports are currently under construction. You may still submit Nest reports, however!"
-msgstr ""
+msgstr "目擊紀錄報告目前正在設置中，但您仍然能提交巢穴報告！"
 
 #: View/Atlas/index.ctp:2295
 msgid "You must be logged in to submit nests!"
-msgstr ""
+msgstr "您必須登入才能提交巢穴報告！"
 
 #: View/Atlas/index.ctp:2445
 msgid "This species is spawning globally for an Event! We'll wait on collecting data on this species until the festivities are over. Happy Festivities!"
@@ -628,23 +627,23 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2544;2567
 msgid "Please select a radio button!"
-msgstr ""
+msgstr "請選擇一個選項按鈕！"
 
 #: View/Atlas/index.ctp:2753;2811;2834;2876
 msgid "Your session has expired.  Please log back in for your security"
-msgstr ""
+msgstr "您的工作階段已過期。  為了您的安全，請重新登入"
 
 #: View/Atlas/index.ctp:2778;2894
 msgid "Unable to save report!  Please check your web connection and try again!"
-msgstr ""
+msgstr "無法儲存報告！  請檢查您的網路連線並且重試！"
 
 #: View/Atlas/index.ctp:2852
 msgid "Please select your Trainer level!"
-msgstr ""
+msgstr "請選擇您的訓練家等級！"
 
 #: View/Atlas/index.ctp:2856
 msgid "Please select your Team!"
-msgstr ""
+msgstr "請選擇您的隊伍！"
 
 #, fuzzy
 #~ msgid "nests"

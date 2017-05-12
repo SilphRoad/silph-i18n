@@ -63,7 +63,6 @@ msgstr "Kartta latautuu"
 msgid "Search Box"
 msgstr "Hae"
 
-# Executive Ceppi sanoi näin: "that text isn't readily available anymore, it's part of the sightings code path, but it's instructing the user that they can use the full screen button or move/zoom the map to see more entries" ja "You need to expand the map to either pan or zoom"
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
 msgstr ""
@@ -80,7 +79,6 @@ msgstr "Pikaliikkeet"
 msgid "DPS"
 msgstr "DPS"
 
-# Löytyy kunkin liikkeen tiedoista pokedexistä, lyhenne sanasta Power, ehkä?
 #: COMMENT
 msgid "Pow."
 msgstr ""

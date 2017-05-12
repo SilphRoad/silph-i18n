@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-05 17:08-0400\n"
+"POT-Creation-Date: 2017-05-12 13:48-0400\n"
 "PO-Revision-Date: 2017-05-08 09:35+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -470,8 +470,9 @@ msgid "100,000"
 msgstr "100,000"
 
 #: View/Pages/trainer_levels.ctp:202
+#, fuzzy
 msgid "Hyper Potions"
-msgstr ""
+msgstr "好傷藥"
 
 #: View/Pages/trainer_levels.ctp:203
 msgid "Great Ball (x15), Hyper Potion (x20), Revive (x10), Razz Berry (x10), Incense, Lucky Egg, Egg Incubator, Lure Module"

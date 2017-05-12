@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-01 11:27+0000\n"
+"PO-Revision-Date: 2017-05-10 21:27+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -14,19 +14,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493638022.988435\n"
+"X-POOTLE-MTIME: 1494451620.558171\n"
 
 #: COMMENT
 msgid "Height:"
-msgstr ""
+msgstr "Hoogte:"
 
 #: COMMENT
 msgid "Weight:"
-msgstr ""
+msgstr "Gewicht:"
 
 #: COMMENT
 msgid "Attack"
-msgstr ""
+msgstr "Aanval"
 
 #: COMMENT
 msgid "Defense"
@@ -38,7 +38,7 @@ msgstr "Uithoudingsvermogen"
 
 #: COMMENT
 msgid "Nests"
-msgstr ""
+msgstr "Nest"
 
 #: COMMENT
 msgid "Sightings"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Hold Up:"
-msgstr ""
+msgstr "Wacht Even:"
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
@@ -54,11 +54,11 @@ msgstr ""
 
 #: COMMENT
 msgid "Map Loading"
-msgstr ""
+msgstr "Kaart Wordt Geladen"
 
 #: COMMENT
 msgid "Search Box"
-msgstr ""
+msgstr "Zoekvak"
 
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: COMMENT
 msgid "DPS"
-msgstr ""
+msgstr "SPS"
 
 #: COMMENT
 msgid "Pow."
@@ -82,15 +82,15 @@ msgstr ""
 
 #: COMMENT
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: COMMENT
 msgid "EPS:"
-msgstr ""
+msgstr "EPS:"
 
 #: COMMENT
 msgid "Type Bonus!"
-msgstr ""
+msgstr "Type Bonus!"
 
 #: COMMENT
 msgid "Charge Moves"
@@ -102,7 +102,7 @@ msgstr ""
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "type"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: COMMENT
 msgid "No"
-msgstr ""
+msgstr "Geen"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Go be the first!"
-msgstr ""
+msgstr "Wees de eerste!"
 
 #: COMMENT
 msgid "Buddy Distance"
@@ -138,22 +138,21 @@ msgstr ""
 
 #: COMMENT
 msgid "Advantage Over"
-msgstr ""
+msgstr "Sterker Tegen"
 
 #: COMMENT
 msgid "Weak Against"
-msgstr ""
+msgstr "Zwak Tegen"
 
 #: COMMENT
 msgid "Offence"
-msgstr ""
+msgstr "Aanval"
 
 #: COMMENT
 msgid "None"
-msgstr ""
+msgstr "Geen"
 
 #: COMMENT
-#, fuzzy
 msgid "Defence"
 msgstr "Verdediging"
 
@@ -167,7 +166,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Prominent Researchers"
-msgstr ""
+msgstr "Vooraanstaande onderzoekers"
 
 #: COMMENT
 msgid "Most Sightings"
@@ -179,4 +178,4 @@ msgstr ""
 
 #: COMMENT
 msgid "- No Sightings -"
-msgstr ""
+msgstr "- Geen Waarnemingen -"

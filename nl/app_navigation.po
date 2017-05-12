@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-08 23:10+0000\n"
+"PO-Revision-Date: 2017-05-10 21:55+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494285045.455838\n"
+"X-POOTLE-MTIME: 1494453302.648735\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -29,7 +29,7 @@ msgstr ""
 #: View/Atlas/index.ctp:669;726
 #: View/Helper/TopNavHelper.php:39;108
 msgid "Resources"
-msgstr ""
+msgstr "Bronnen"
 
 #: View/Atlas/index.ctp:673;730
 #: View/Helper/TopNavHelper.php:43;112
@@ -114,7 +114,7 @@ msgstr "Afmelden"
 #: View/Atlas/index.ctp:708;767
 #: View/Helper/TopNavHelper.php:94;155
 msgid "Authenticate"
-msgstr ""
+msgstr "Identificeer"
 
 #: View/Atlas/index.ctp:708
 #: View/Helper/TopNavHelper.php:94
@@ -159,7 +159,7 @@ msgstr ""
 
 #: View/Users/login.ctp:19
 msgid "Authenticate &raquo;"
-msgstr ""
+msgstr "Identificeer &raquo;"
 
 #: View/Users/login.ctp:21
 msgid "You may create a Reddit account for free at Reddit.com."

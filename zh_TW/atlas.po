@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-10 13:59+0000\n"
+"PO-Revision-Date: 2017-05-11 17:45+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,19 +14,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494424784.760265\n"
+"X-POOTLE-MTIME: 1494524730.638277\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
-msgstr ""
+msgstr "全球巢穴集"
 
 #: View/Atlas/index.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
 msgstr ""
+"The Silph Road 的全球巢穴集收錄全世界最多的 Pokemon GO 已知巢穴地點。  "
+"透過世界各地的旅行者持續提供最新資訊，並且經由歷史紀錄追蹤及解釋各個巢穴地點……"
 
 #: View/Atlas/index.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
-msgstr ""
+msgstr "The Silph Road 的全球巢穴集收錄全世界最多的 Pokemon GO 已知巢穴地點，是由世界各地的旅行者提供歷史記錄而完成的……"
 
 #: View/Atlas/index.ctp:583
 msgid "&laquo; More"
@@ -47,6 +49,7 @@ msgstr "Pokemon GO 巢穴"
 #: View/Atlas/index.ctp:611
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
+"<a href=\"%s\">加入The Road</a>並協助確認您當地的巢穴！全球巢穴集收錄由 Silph Road 旅行者所提供的實地考察報告。"
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
@@ -83,6 +86,8 @@ msgstr "召集 Beta 測試員"
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
 msgstr ""
+"請協助我們引導地圖集的最新區域通訊系統：<code style=\"padding: 2px 5px; color: #565656;\""
+">營地</code> 網絡！我們邀請曼哈頓的旅行者一同參與！"
 
 #: View/Atlas/index.ctp:795
 msgid "No Thanks"
@@ -146,7 +151,7 @@ msgstr "巢穴報告"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
-msgstr ""
+msgstr "注意！剛發生巢穴遷移<b>%s</b>！旅行者，在您新增資料前，請您先確認此報告是發生於最新遷移<b>之後</b>！"
 
 #: View/Atlas/index.ctp:891
 msgid "Help update or refute this location! What did you find?"
@@ -280,6 +285,8 @@ msgstr "巢穴"
 #: View/Atlas/index.ctp:1071
 msgid "are our term for <em>repeat spawns</em> or <em>clustered spawns</em> of the same species. Only report a 'Nest' if you see multiples of an uncommon species at once (or a consistently spawning rare 'mon)!"
 msgstr ""
+"為我們針對同一物種<em>重複出怪</em>或<em>群集出怪</em>所使用的術語。若您一次目擊到多隻不常見的物種（或持續出現罕見的寶可夢），請回報為「"
+"巢穴」！"
 
 #: View/Atlas/index.ctp:1076;1198
 msgid "Existing Nest?"
@@ -288,6 +295,8 @@ msgstr "現有的巢穴？"
 #: View/Atlas/index.ctp:1078;1200
 msgid "Double check that another traveler hasn't already added this nest location to the map! \n\t\t\t\t\t\t\tIf there is already an existing nest report for your location, <b>click on it</b>!"
 msgstr ""
+"請仔細檢查是否有另一位旅行者已將此巢穴地點新增至地圖！ \n"
+"\t\t\t\t\t\t\t若目前已有您所在位置的巢穴報告，<b>請點選它</b>！"
 
 #: View/Atlas/index.ctp:1084;1176
 msgid "Map Loading"
@@ -303,7 +312,7 @@ msgstr "尚未有目擊紀錄報告！"
 
 #: View/Atlas/index.ctp:1096
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! <b>If there is no existing nest in this location, click below</b>:"
-msgstr ""
+msgstr "提示：請拖曳地圖或點選「<b>我的所在位置</b>」按鈕，以平移至您的位置！<b>若此地點目前沒有巢穴，請點選</b>："
 
 #: View/Atlas/index.ctp:1097
 msgid "Nope! It's a New Nest!"
@@ -324,7 +333,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1154
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
-msgstr ""
+msgstr "每天在<span style='text-decoration:underline'>同一時間於單一地點產生稀少／不常見物種"
 
 #: View/Atlas/index.ctp:1164;1303;1425
 msgid "Next"
@@ -336,7 +345,7 @@ msgstr "回報一處巢穴！"
 
 #: View/Atlas/index.ctp:1171
 msgid "Position the marker to the <em>exact</em> location you believe this species nests at!"
-msgstr ""
+msgstr "將標記放置在您認為是此物種巢穴的<em>精確</em>位置！"
 
 #: View/Atlas/index.ctp:1189
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location!"
@@ -473,6 +482,10 @@ msgstr "月相"
 #: View/Atlas/index.ctp:1521
 msgid "<i>If any information is incorrectly displayed, message <a href='https://reddit.com/u/dronpes' target='_blank'>/u/dronpes</a> or the <a href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad moderators</a> and we'll sort it out!</i>"
 msgstr ""
+"<i>若有任何資訊顯示錯誤，請傳訊息至 <a href='https://reddit.com/u/dronpes' "
+"target='_blank'>/u/dronpes</a> 或是 <a "
+"href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' "
+"target='_blank'>/r/TheSilphRoad moderators</a>，我們將會解決此狀況！</i>"
 
 #: View/Atlas/index.ctp:1526
 msgid "Submit Field Report"
@@ -514,35 +527,35 @@ msgstr "請選擇有效的資料！（我們不接受未來的資料。）"
 
 #: View/Atlas/index.ctp:1631;1632;1633;1634;1636;1638;1639;1640;1641;1642
 msgid "Retrieving Field Reports..."
-msgstr ""
+msgstr "擷取實地考察報告……"
 
 #: View/Atlas/index.ctp:1635
 msgid "Consulting Silph Scope..."
-msgstr ""
+msgstr "諮詢 Silph 檢視鏡……"
 
 #: View/Atlas/index.ctp:1635;1642
 msgid "Learning PokeFlute..."
-msgstr ""
+msgstr "學習寶可夢之笛……"
 
 #: View/Atlas/index.ctp:1636
 msgid "Quitting PokeFlute & Taking Up Drums..."
-msgstr ""
+msgstr "放棄寶可夢之笛並拿起鼓……"
 
 #: View/Atlas/index.ctp:1636
 msgid "Reading Trail Pointers..."
-msgstr ""
+msgstr "閱讀足跡線索……"
 
 #: View/Atlas/index.ctp:1637
 msgid "Ordering MewTwo Around..."
-msgstr ""
+msgstr "對超夢發號施令……"
 
 #: View/Atlas/index.ctp:1637
 msgid "Rinsing Max Repel Off Shoes..."
-msgstr ""
+msgstr "洗淨鞋子上的黃金噴霧……"
 
 #: View/Atlas/index.ctp:1637
 msgid "Blowing in the Cartridge..."
-msgstr ""
+msgstr "往遊戲卡帶裡吹氣……"
 
 #: View/Atlas/index.ctp:1638
 msgid "Reticulating Splines..."
@@ -550,11 +563,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1638
 msgid "Surfing to Cinnabar Island..."
-msgstr ""
+msgstr "衝浪至紅蓮島……"
 
 #: View/Atlas/index.ctp:1642
 msgid "Admiring Our Master Ball..."
-msgstr ""
+msgstr "欣賞我們的大師球……"
 
 #: View/Atlas/index.ctp:1813
 msgid "Enable location services to jump to your location!"
@@ -597,7 +610,6 @@ msgid "Nest Behaviors"
 msgstr "巢穴行為"
 
 #: View/Atlas/index.ctp:2140
-#, fuzzy
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr "哇噢，旅行者，目前此高度顯示出太多巢穴，請拉近以獲得更多細節。"
 
@@ -607,7 +619,7 @@ msgstr "目擊到寶可夢！"
 
 #: View/Atlas/index.ctp:2198
 msgid "Species reportedly common at location"
-msgstr ""
+msgstr "據稱在此地點常出現之物種"
 
 #: View/Atlas/index.ctp:2286;2338
 msgid "Sighting Reports are currently under construction. You may still submit Nest reports, however!"

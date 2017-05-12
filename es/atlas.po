@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 14:24+0000\n"
+"PO-Revision-Date: 2017-05-12 06:19+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494080640.871473\n"
+"X-POOTLE-MTIME: 1494569992.104400\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -41,11 +41,11 @@ msgstr "&laquo; Más"
 
 #: View/Atlas/index.ctp:599
 msgid "Report Sighting"
-msgstr "Informar de un avistamiento"
+msgstr "Informar avistamiento"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
-msgstr "Informar de<br>un nido"
+msgstr "Informar<br>nido"
 
 #: View/Atlas/index.ctp:609
 msgid "Pokemon GO Nests"
@@ -79,7 +79,7 @@ msgstr "Añadir un informe"
 
 #: View/Atlas/index.ctp:720
 msgid "Report Sighting/Nest"
-msgstr "Informar de un avistamiento/nido"
+msgstr "Informar avistamiento/nido"
 
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
@@ -140,15 +140,15 @@ msgstr "En masa"
 
 #: View/Atlas/index.ctp:839
 msgid "Frequent Spawn Area"
-msgstr "Área de aparición frecuente"
+msgstr "Área de apar. frec."
 
 #: View/Atlas/index.ctp:840
 msgid "Frequent Spawn Point"
-msgstr "Punto de aparición frecuente"
+msgstr "Punto de apar. frec."
 
 #: View/Atlas/index.ctp:841
 msgid "(Unknown Spawn Type)"
-msgstr "(Tipo de aparición desconocido)"
+msgstr "(Tipo de apar. desc.)"
 
 #: View/Atlas/index.ctp:864
 msgid "Loading Nest Data..."

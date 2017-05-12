@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 18:29+0000\n"
+"PO-Revision-Date: 2017-05-11 09:59+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494008978.865762\n"
+"X-POOTLE-MTIME: 1494496747.516366\n"
 
 #: View/Catalog/index.ctp:350
 msgid "The Global Pokedex"
@@ -42,7 +42,7 @@ msgstr "The Silph Road | Wszelkie prawa zastrzeżone"
 #: View/Catalog/index.ctp:522
 msgid "Pokémon And All Respective Names are Trademark & &copy; of Nintendo 1996-%s"
 msgstr ""
-"Nazwa Pokémon i i wszelkie nazwy stanowią znaki towarowe oraz &copy; firmy "
+"Nazwa Pokémon i wszelkie nazwy stanowią znaki towarowe oraz &copy; firmy "
 "Nintendo 1996-%s"
 
 #: View/Catalog/index.ctp:524

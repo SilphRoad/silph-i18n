@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-05 18:13+0000\n"
+"PO-Revision-Date: 2017-05-11 09:51+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494008001.338201\n"
+"X-POOTLE-MTIME: 1494496311.427842\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -154,12 +154,12 @@ msgstr "Pomoc w śledzeniu"
 
 #: View/Users/login.ctp:15
 msgid "Your Papers, Please."
-msgstr "Dokumenty, proszę"
+msgstr "Dokumenty proszę."
 
 #: View/Users/login.ctp:17
 msgid "The Silph Road authenticates travelers via their Reddit account.  Click \"Authenticate\" below to access the Silph Road."
 msgstr ""
-"The Silph Road uwierzytelnia podróżników za pomocą ich kont w serwsie "
+"The Silph Road uwierzytelnia podróżników za pomocą ich kont w serwisie "
 "Reddit. Kliknij poniższy przycisk „Uwierzytelnij”, aby dołączyć do The Silph "
 "Road."
 

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-08 23:14+0000\n"
+"PO-Revision-Date: 2017-05-10 21:02+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494285266.859186\n"
+"X-POOTLE-MTIME: 1494450127.805375\n"
 
 #: COMMENT
 msgid "Map"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Update"
-msgstr ""
+msgstr "Bijwerken "
 
 #: COMMENT
 msgid "Add"
@@ -54,19 +54,19 @@ msgstr "Toevoegen"
 
 #: COMMENT
 msgid "My Report"
-msgstr ""
+msgstr "Mijn Verslag"
 
 #: COMMENT
 msgid "You must Authenticate to add your field report:"
-msgstr ""
+msgstr "Je moet je Identificeren om je verslag toe te voegen:"
 
 #: COMMENT
 msgid "Authenticate"
-msgstr ""
+msgstr "Verifiëren"
 
 #: COMMENT
 msgid "Scout Report"
-msgstr ""
+msgstr "Verkennings Rapport"
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
@@ -74,11 +74,11 @@ msgstr "CLUSTER SPAWN GEZIEN"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN AREA"
-msgstr ""
+msgstr "VEEL VOORKOMEND SPAWN GEBIED GEZIEN"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN POINT"
-msgstr ""
+msgstr "VEEL VOORKOMEND SPAWN PUNT GEZIEN"
 
 #: COMMENT
 msgid "No Comment"
@@ -86,11 +86,11 @@ msgstr "Geen Opmerking"
 
 #: COMMENT
 msgid "No Nest Found!"
-msgstr ""
+msgstr "Geen Nest Gevonden!"
 
 #: COMMENT
 msgid "On"
-msgstr ""
+msgstr "Op"
 
 #: COMMENT
 msgid "first discovered this location and suspected it was a"

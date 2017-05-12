@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-08 23:00+0000\n"
+"PO-Revision-Date: 2017-05-10 21:51+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494284437.661975\n"
+"X-POOTLE-MTIME: 1494453064.605783\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -226,7 +226,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1004
 msgid "Submit My Report!"
-msgstr ""
+msgstr "Dien Mijn Rapport in!"
 
 #: View/Atlas/index.ctp:1021;2196
 msgid "Confirmed!"
@@ -242,11 +242,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1036
 msgid "Report a Sighting!"
-msgstr ""
+msgstr "Rapporteer een Waarneming!"
 
 #: View/Atlas/index.ctp:1037
 msgid "Select the Pokemon you've spotted:"
-msgstr ""
+msgstr "Selecteer de Pokemon die je gezien hebt:"
 
 #: View/Atlas/index.ctp:1041
 msgid "Search"
@@ -290,7 +290,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1084;1176
 msgid "Map Loading"
-msgstr ""
+msgstr "Kaart wordt geladen"
 
 #: View/Atlas/index.ctp:1086;1178;1204
 msgid "Search Box"
@@ -298,7 +298,7 @@ msgstr "Zoekveld"
 
 #: View/Atlas/index.ctp:1092;1185
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "Nog Geen Waarnemingsrapporten!"
 
 #: View/Atlas/index.ctp:1096
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! <b>If there is no existing nest in this location, click below</b>:"
@@ -306,7 +306,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1097
 msgid "Nope! It's a New Nest!"
-msgstr ""
+msgstr "Nee! Het is een Nieuw Nest!"
 
 #: View/Atlas/index.ctp:1105
 msgid "New Nest!"
@@ -314,7 +314,7 @@ msgstr "Nieuw Nest!"
 
 #: View/Atlas/index.ctp:1106
 msgid "What type of nest did you discover?"
-msgstr ""
+msgstr "Welke type nest heb je ontdekt?"
 
 #: View/Atlas/index.ctp:1130
 msgid "Multiple appear on the map <span style='text-decoration: underline;'>at once</span> within a single hour (at the same time)"
@@ -326,11 +326,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1164;1303;1425
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: View/Atlas/index.ctp:1169
 msgid "Report A Nest!"
-msgstr ""
+msgstr "Rapporteer Een Nest!"
 
 #: View/Atlas/index.ctp:1171
 msgid "Position the marker to the <em>exact</em> location you believe this species nests at!"
@@ -339,6 +339,8 @@ msgstr ""
 #: View/Atlas/index.ctp:1189
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location!"
 msgstr ""
+"Tip: Versleep de kaart of klik op de '<b>Mijn Locatie</b>' knop om naar jouw "
+"locatie te gaan!"
 
 #: View/Atlas/index.ctp:1190
 msgid "Submit Nest!"
@@ -350,15 +352,15 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1210
 msgid "This is a New Nest!"
-msgstr ""
+msgstr "Dit is een Nieuw Nest!"
 
 #: View/Atlas/index.ctp:1215
 msgid "Catalogue!"
-msgstr ""
+msgstr "Registreer!"
 
 #: View/Atlas/index.ctp:1216
 msgid "Catalogue your encounter info:"
-msgstr ""
+msgstr "Registreer info over wat je bent tegengekomen:"
 
 #: View/Atlas/index.ctp:1234
 msgid "Combat Points (CP)"
@@ -390,23 +392,23 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1284
 msgid "Successful Capture"
-msgstr ""
+msgstr "Succesvolle Vangst"
 
 #: View/Atlas/index.ctp:1290
 msgid "Un-successful Capture"
-msgstr ""
+msgstr "Onsuccesvolle Vangst"
 
 #: View/Atlas/index.ctp:1296
 msgid "Did Not Throw Ball"
-msgstr ""
+msgstr "Geen Bal Gegooid"
 
 #: View/Atlas/index.ctp:1308
 msgid "Confirm Your Location!"
-msgstr ""
+msgstr "Bevestig Jouw Locatie!"
 
 #: View/Atlas/index.ctp:1309
 msgid "Drag the map so the marker is on your exact position:"
-msgstr ""
+msgstr "Sleep de kaart zo dat de marker op je exacte locatie staat:"
 
 #: View/Atlas/index.ctp:1318
 msgid "Set Location"
@@ -414,7 +416,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1323
 msgid "Describe The Terrain!"
-msgstr ""
+msgstr "Beschrijf Het Terrein!"
 
 #: View/Atlas/index.ctp:1324
 msgid "Select <b>ALL</b> applicable terrain types. Be specific!:"
@@ -426,43 +428,43 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1431
 msgid "Confirm & Record"
-msgstr ""
+msgstr "Bevestig & Registreer"
 
 #: View/Atlas/index.ctp:1432
 msgid "Verify that this information is correct:"
-msgstr ""
+msgstr "Bevestig dat deze informatie correct is:"
 
 #: View/Atlas/index.ctp:1443
 msgid "Select Trainer Level..."
-msgstr ""
+msgstr "Selecteer Trainer Level..."
 
 #: View/Atlas/index.ctp:1444;1445;1446;1447;1448;1449;1450;1451;1452;1453;1454;1455;1456;1457;1458;1459;1460;1461;1462;1463;1464;1465;1466;1467;1468;1469;1470;1471;1472;1473;1474;1475;1476;1477;1478;1479;1480;1481;1482;1483;1484
 msgid "Trainer Level %n"
-msgstr ""
+msgstr "Trainer Level %n"
 
 #: View/Atlas/index.ctp:1493
 msgid "Select Team..."
-msgstr ""
+msgstr "Selecteer Team..."
 
 #: View/Atlas/index.ctp:1494
 msgid "Red Team"
-msgstr ""
+msgstr "Rode Team"
 
 #: View/Atlas/index.ctp:1495
 msgid "Yellow Team"
-msgstr ""
+msgstr "Gele Team"
 
 #: View/Atlas/index.ctp:1496
 msgid "Blue Team"
-msgstr ""
+msgstr "Blauwe Team"
 
 #: View/Atlas/index.ctp:1497
 msgid "No Team Yet"
-msgstr ""
+msgstr "Nog Geen Team"
 
 #: View/Atlas/index.ctp:1507
 msgid "Time:"
-msgstr ""
+msgstr "Tijd:"
 
 #: View/Atlas/index.ctp:1512
 msgid "Moon Phase"
@@ -490,11 +492,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1613
 msgid "Your session has expired.  Please log back in!"
-msgstr ""
+msgstr "Uw sessie is verlopen.  Meld je aub weer aan!"
 
 #: View/Atlas/index.ctp:1614
 msgid "Your device/browser does not support geolocation! :("
-msgstr ""
+msgstr "Jouw apparaat/browser ondersteunt geen geolocatie! :("
 
 #: View/Atlas/index.ctp:1615
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
@@ -518,7 +520,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1635;1642
 msgid "Learning PokeFlute..."
-msgstr ""
+msgstr "PokéFluit aan het Leren..."
 
 #: View/Atlas/index.ctp:1636
 msgid "Quitting PokeFlute & Taking Up Drums..."
@@ -526,7 +528,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1636
 msgid "Reading Trail Pointers..."
-msgstr ""
+msgstr "Wegwijzers aan het Lezen..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Ordering MewTwo Around..."
@@ -538,7 +540,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1637
 msgid "Blowing in the Cartridge..."
-msgstr ""
+msgstr "In de Cartridge aan het Blazen..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Reticulating Splines..."
@@ -546,15 +548,15 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1638
 msgid "Surfing to Cinnabar Island..."
-msgstr ""
+msgstr "Naar Cinnabar Island aan het Surfen..."
 
 #: View/Atlas/index.ctp:1642
 msgid "Admiring Our Master Ball..."
-msgstr ""
+msgstr "Onze Master Ball aan het Bewonderen..."
 
 #: View/Atlas/index.ctp:1813
 msgid "Enable location services to jump to your location!"
-msgstr ""
+msgstr "Zet locatieservices aan om naar je locatie te verspringen!"
 
 #: View/Atlas/index.ctp:1886
 msgid "Select All"
@@ -562,7 +564,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1887
 msgid "All Species"
-msgstr ""
+msgstr "Alle Soorten"
 
 #: View/Atlas/index.ctp:1894;1895
 msgid "Species"
@@ -578,7 +580,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1953
 msgid "All Nest Types"
-msgstr ""
+msgstr "Alle Nestsoorten"
 
 #: View/Atlas/index.ctp:1958;1960
 msgid "Nest Behavior"
@@ -634,8 +636,8 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2852
 msgid "Please select your Trainer level!"
-msgstr ""
+msgstr "Selecteer je Trainer Level!"
 
 #: View/Atlas/index.ctp:2856
 msgid "Please select your Team!"
-msgstr ""
+msgstr "Selecteer je Team!"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-08 23:18+0000\n"
+"PO-Revision-Date: 2017-05-12 16:03+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494285516.855664\n"
+"X-POOTLE-MTIME: 1494605012.920490\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -275,11 +275,11 @@ msgstr ""
 
 #: View/Pages/species_stats.ctp:234
 msgid "Defense"
-msgstr ""
+msgstr "Verdediging"
 
 #: View/Pages/species_stats.ctp:247
 msgid "Stamina"
-msgstr ""
+msgstr "Uithouding"
 
 #: View/Pages/species_stats.ctp:303
 msgid "<b>Why Ads?</b> Logged-in travelers don't see ads! Join the community at <a href='https://reddit.com/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
@@ -299,7 +299,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:92
 msgid "Level"
-msgstr ""
+msgstr "Niveau"
 
 #: View/Pages/trainer_levels.ctp:93
 msgid "XP required"
@@ -319,15 +319,15 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:109;110
 msgid "1,000"
-msgstr ""
+msgstr "1.000"
 
 #: View/Pages/trainer_levels.ctp:116
 msgid "2,000"
-msgstr ""
+msgstr "2.000"
 
 #: View/Pages/trainer_levels.ctp:117;123
 msgid "3,000"
-msgstr ""
+msgstr "3.000"
 
 #: View/Pages/trainer_levels.ctp:119;126;133
 msgid "Poke Ball"
@@ -335,11 +335,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:124;144
 msgid "6,000"
-msgstr ""
+msgstr "6.000"
 
 #: View/Pages/trainer_levels.ctp:130
 msgid "4,000"
-msgstr ""
+msgstr "4.000"
 
 #: View/Pages/trainer_levels.ctp:131;172;179;186;193
 msgid "10,000"
@@ -363,11 +363,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:137
 msgid "5,000"
-msgstr ""
+msgstr "5.000"
 
 #: View/Pages/trainer_levels.ctp:138;200
 msgid "15,000"
-msgstr ""
+msgstr "15.000"
 
 #: View/Pages/trainer_levels.ctp:140
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Incubator"
@@ -383,11 +383,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:151
 msgid "7,000"
-msgstr ""
+msgstr "7.000"
 
 #: View/Pages/trainer_levels.ctp:152
 msgid "28,000"
-msgstr ""
+msgstr "28.000"
 
 #: View/Pages/trainer_levels.ctp:153
 msgid "Razz Berry"
@@ -399,11 +399,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:158
 msgid "8,000"
-msgstr ""
+msgstr "8.000"
 
 #: View/Pages/trainer_levels.ctp:159
 msgid "36,000"
-msgstr ""
+msgstr "36.000"
 
 #: View/Pages/trainer_levels.ctp:161
 msgid "Poke Ball (x15), Potion (x10), Revive (x5), Razz Berry (x3), Lucky Egg"
@@ -411,11 +411,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:165
 msgid "9,000"
-msgstr ""
+msgstr "9.000"
 
 #: View/Pages/trainer_levels.ctp:166
 msgid "45,000"
-msgstr ""
+msgstr "45.000"
 
 #: View/Pages/trainer_levels.ctp:167
 msgid "Super Potions"
@@ -427,7 +427,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:173
 msgid "55,000"
-msgstr ""
+msgstr "55.000"
 
 #: View/Pages/trainer_levels.ctp:175
 msgid "Poke Ball (x15), Super Potion (x10), Revive (x3), Razz Berry (x3)"
@@ -435,7 +435,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:180
 msgid "65,000"
-msgstr ""
+msgstr "65.000"
 
 #: View/Pages/trainer_levels.ctp:181
 msgid "Great Balls"
@@ -443,19 +443,19 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:182
 msgid "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "Great Ball (x20), Super Potion (x10), Revive (x3), Razz Berry (x3)"
 
 #: View/Pages/trainer_levels.ctp:187;249
 msgid "75,000"
-msgstr ""
+msgstr "75.000"
 
 #: View/Pages/trainer_levels.ctp:189
 msgid "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3)"
-msgstr ""
+msgstr "Great Ball (x10), Super Potion (x10), Revive (x3), Razz Berry (x3)"
 
 #: View/Pages/trainer_levels.ctp:194
 msgid "85,000"
-msgstr ""
+msgstr "85.000"
 
 #: View/Pages/trainer_levels.ctp:195
 msgid "Nanab Berry"
@@ -507,11 +507,11 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:228;235
 msgid "25,000"
-msgstr ""
+msgstr "25.000"
 
 #: View/Pages/trainer_levels.ctp:229
 msgid "185,000"
-msgstr ""
+msgstr "185.000"
 
 #: View/Pages/trainer_levels.ctp:231
 msgid "Great Ball (x15), Hyper Potion (x10), Revive (x5), Razz Berry (x5)"
@@ -543,7 +543,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:250
 msgid "335,000"
-msgstr ""
+msgstr "335.000"
 
 #: View/Pages/trainer_levels.ctp:252
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10)"
@@ -551,7 +551,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:257
 msgid "435,000"
-msgstr ""
+msgstr "435.000"
 
 #: View/Pages/trainer_levels.ctp:259
 msgid "Ultra Ball (x10), Hyper Potion (x10), Revive (x10), Razz Berry (x10), Nanab Berry (x10)"
@@ -559,7 +559,7 @@ msgstr ""
 
 #: View/Pages/trainer_levels.ctp:263
 msgid "125,000"
-msgstr ""
+msgstr "125.000"
 
 #: View/Pages/trainer_levels.ctp:264
 msgid "560,000"
@@ -763,7 +763,7 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:85
 msgid "Action"
-msgstr ""
+msgstr "Actie"
 
 #: View/Pages/xp_earning.ctp:91
 msgid "Curveball Bonus"
@@ -771,15 +771,15 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:95
 msgid "Nice! throw bonus"
-msgstr ""
+msgstr "Nice! worp bonus"
 
 #: View/Pages/xp_earning.ctp:99
 msgid "Pokemon Ran Away"
-msgstr ""
+msgstr "Pokemon Rende Weg"
 
 #: View/Pages/xp_earning.ctp:103
 msgid "Great! throw bonus"
-msgstr ""
+msgstr "Great! worp bonus"
 
 #: View/Pages/xp_earning.ctp:107
 msgid "First Throw Bonus for Catching Pokemon in One Ball"
@@ -787,19 +787,19 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
-msgstr ""
+msgstr "Pokestop interactie"
 
 #: View/Pages/xp_earning.ctp:115
 msgid "10<sup>th</sup> Unique Pokestop Bonus"
-msgstr ""
+msgstr "10<sup>e</sup> Unieke Pokestop Bonus"
 
 #: View/Pages/xp_earning.ctp:119
 msgid "Successful Pokemon Capture"
-msgstr ""
+msgstr "Succesvolle Pokemon Vangst"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
-msgstr ""
+msgstr "Excellent! worp bonus"
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
@@ -819,27 +819,27 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:143
 msgid "Add new Pokemon to Pokedex"
-msgstr ""
+msgstr "Voeg een Nieuwe Pokemon toe tot de Pokedex"
 
 #: View/Pages/xp_earning.ctp:147
 msgid "Evolve a Pokemon"
-msgstr ""
+msgstr "Evolueer een Pokemon"
 
 #: View/Pages/xp_earning.ctp:151
 msgid "Use an Evolution Item"
-msgstr ""
+msgstr "Gebruik een Evolutie Item"
 
 #: View/Pages/xp_earning.ctp:155
 msgid "First Pokestop Spin of the Day"
-msgstr ""
+msgstr "Eerste Pokestop Draai van de Dag"
 
 #: View/Pages/xp_earning.ctp:159
 msgid "First Pokemon Catch of the Day"
-msgstr ""
+msgstr "Eerste Gevangen Pokemon van de Dag"
 
 #: View/Pages/xp_earning.ctp:162;166
 msgid "2,500"
-msgstr ""
+msgstr "2.500"
 
 #: View/Pages/xp_earning.ctp:163
 msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
@@ -855,8 +855,8 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:175
 msgid "Defeat enemy Pokemon at a Gym (per Pokemon)"
-msgstr ""
+msgstr "Versla vijandige Pokemon in een Gym (per Pokemon)"
 
 #: View/Pages/xp_earning.ctp:179
 msgid "Beating every Pokemon at a gym"
-msgstr ""
+msgstr "Versla elke Pokemon in een gym"

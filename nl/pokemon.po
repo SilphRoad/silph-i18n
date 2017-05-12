@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 17:32-0400\n"
-"PO-Revision-Date: 2017-05-08 22:46+0000\n"
+"PO-Revision-Date: 2017-05-10 19:09+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494283581.553076\n"
+"X-POOTLE-MTIME: 1494443369.865223\n"
 
 #: Pokemon/Bulbasaur:1
 msgid "bulbasaur"
@@ -2546,7 +2546,7 @@ msgstr "MEGA DRAIN"
 
 #: Move/Bug Buzz:49
 msgid "BUG BUZZ"
-msgstr ""
+msgstr "BUG BUZZ"
 
 #: Move/Poison Fang:50
 msgid "POISON FANG"
@@ -2874,11 +2874,11 @@ msgstr ""
 
 #: Move/Lick:212
 msgid "LICK"
-msgstr ""
+msgstr "LIK"
 
 #: Move/Shadow Claw:213
 msgid "SHADOW CLAW"
-msgstr ""
+msgstr "SCHADUW KLAUW"
 
 #: Move/Vine Whip:214
 msgid "VINE WHIP"
@@ -2906,11 +2906,11 @@ msgstr ""
 
 #: Move/Scratch:220
 msgid "SCRATCH"
-msgstr ""
+msgstr "KRAB"
 
 #: Move/Tackle:221
 msgid "TACKLE"
-msgstr ""
+msgstr "TACKLE"
 
 #: Move/Pound:222
 msgid "POUND"

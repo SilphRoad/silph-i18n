@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 21:22+0000\n"
+"PO-Revision-Date: 2017-05-11 10:58+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494105753.875122\n"
+"X-POOTLE-MTIME: 1494500312.949328\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
-msgstr "Światowy atlas gniazd"
+msgstr "Światowy Atlas Gniazd"
 
 #: View/Atlas/index.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
@@ -39,7 +39,7 @@ msgstr "&laquo; Więcej"
 
 #: View/Atlas/index.ctp:599
 msgid "Report Sighting"
-msgstr "Zgłoś Obserwację"
+msgstr "Zgłoś obserwację"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
@@ -64,19 +64,19 @@ msgstr ""
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
-msgstr ""
+msgstr "Informacje o klasyfikacji gniazd w Sliph Road:"
 
 #: View/Atlas/index.ctp:628
 msgid "Video Explanation"
-msgstr "Film objaśniający"
+msgstr "Film instruktażowy"
 
 #: View/Atlas/index.ctp:662
 msgid "Add Report"
-msgstr "Dodaj Raport"
+msgstr "Dodaj raport"
 
 #: View/Atlas/index.ctp:720
 msgid "Report Sighting/Nest"
-msgstr "Zgłoś Obserwację/Gniazdo"
+msgstr "Zgłoś obserwację/gniazdo"
 
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
@@ -90,12 +90,12 @@ msgstr "Sieciowanie splajnów..."
 
 #: View/Atlas/index.ctp:793
 msgid "A Call for Beta Testers"
-msgstr ""
+msgstr "Zaproszenie dla beta testerów"
 
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
 msgstr ""
-"Pomóż nam pilotować NOWY system komunikacji lokalnej Atlasu: Sieć <code "
+"Pomóż nam wprowadzić NOWY system komunikacji lokalnej w Atlasie: Sieć <code "
 "style=\"padding: 2px 5px; color: #565656;\">Camp</code>! Zapraszamy "
 "podróżników z Manhattanu!"
 
@@ -109,7 +109,7 @@ msgstr "Dowiedz się więcej »"
 
 #: View/Atlas/index.ctp:804
 msgid "Predictable Nests"
-msgstr "Przewidywane Gniazda"
+msgstr "Przewidywane gniazda"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
@@ -157,22 +157,24 @@ msgstr "Wczytywanie danych obozów..."
 
 #: View/Atlas/index.ctp:885
 msgid "Nest Report"
-msgstr "Raport gniazda"
+msgstr "Raport o gnieździe"
 
 #: View/Atlas/index.ctp:889
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
 msgstr ""
-"Uwaga! Miała miejsce migracja gniazd<b>%s</b>! Dodaj swoje zgłoszenie "
-"jedynie, jeśli twój raport jest z okresu <b>PO</b> ostatniej migracji, "
-"podróżniku!"
+"Uwaga! Nastąpiła migracja gniazd<b>%s</b>! Dodaj zgłoszenie wyłącznie, gdy "
+"twój raport pochodzi z okresu <b>PO</b> ostatniej migracji!"
 
 #: View/Atlas/index.ctp:891
 msgid "Help update or refute this location! What did you find?"
-msgstr "Pomóż zaktualizować lub odrzucić tą lokalizację! Co znalazłeś?"
+msgstr ""
+"Pomóż zaktualizować lub odrzucić tę lokalizację! Jaki gatunek tu występuje?"
 
 #: View/Atlas/index.ctp:896
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
+"Uwaga: Podczas wydarzenia z Pokemonami trawiastymi nie zgłaszaj gatunków "
+"trawiastych!"
 
 #: View/Atlas/index.ctp:901
 msgid "Nothing out of the ordinary! :("
@@ -184,7 +186,7 @@ msgstr "Nic!"
 
 #: View/Atlas/index.ctp:905
 msgid "Yes! I found a species here:"
-msgstr "Tak! Znalazłem tu gatunek:"
+msgstr "Tak! Jest tu gatunek:"
 
 #: View/Atlas/index.ctp:918
 msgid "Report!"
@@ -192,7 +194,7 @@ msgstr "Zgłoś!"
 
 #: View/Atlas/index.ctp:927
 msgid "What Type of Nest Did You Find Here?"
-msgstr "Jakiego typu gniazdo tutaj znalazłeś?"
+msgstr "Jakie gniazdo znajduje się tutaj?"
 
 #: View/Atlas/index.ctp:935;1128
 msgid "Cluster Spawn"
@@ -201,8 +203,9 @@ msgstr "Gromada"
 #: View/Atlas/index.ctp:937
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
 msgstr ""
-"Wiele pojawia się na mapie <span style=\"text-decoration: underline;\""
-">jednocześnie</span> w ciągu jednej godziny (w tym samym czasie)"
+"Wiele tych samych Pokemonów pojawia się na mapie <span style=\"text-"
+"decoration: underline;\">jednocześnie</span> w ciągu jednej godziny (w tym "
+"samym czasie)"
 
 #: View/Atlas/index.ctp:947;1140
 msgid "Frequent Spawn <em>Area</em>"
@@ -222,7 +225,7 @@ msgstr "<em>Punkt</em> występowania"
 msgid "A single location that frequently spawns a rare/uncommon species <span style='text-decoration:underline'>multiple times a day"
 msgstr ""
 "Pojedyncza lokalizacja, w której często występują rzadkie/niepospolite "
-"gatunki <span style='text-decoration:underline'>wielokrotnie w ciągu dnia"
+"gatunki <span style='text-decoration:underline'>wiele razy dziennie"
 
 #: View/Atlas/index.ctp:967;1005
 msgid "&laquo; Back"
@@ -239,18 +242,21 @@ msgstr "Przydatne informacje dla przyszłych podróżników?"
 #: View/Atlas/index.ctp:977
 msgid "For example, how many did you encounter? How long were you there? What specific spot did you see a spawn? What exact times did you observe spawns?  Etc.  Anything that might be useful to future travelers!"
 msgstr ""
+"Przykładowo: ile przedstawicieli tego gatunku się pojawiło? Ile czasu tam "
+"spędziłeś? Gdzie dokładnie wystąpił ten gatunek? Dokładnie o której godzinie "
+"gatunek się pojawił? Dodaj wszystkie przydatne informacje!"
 
 #: View/Atlas/index.ctp:978
 msgid "Helpful comments for future travelers..."
-msgstr ""
+msgstr "Przydatne komentarze dla przyszłych podróżników..."
 
 #: View/Atlas/index.ctp:981
 msgid "Finally, confirm the date of your report, traveler:"
-msgstr ""
+msgstr "Na koniec potwierdź datę zgłoszenia:"
 
 #: View/Atlas/index.ctp:1004
 msgid "Submit My Report!"
-msgstr ""
+msgstr "Wyślij moje zgłoszenie!"
 
 #: View/Atlas/index.ctp:1021;2196
 msgid "Confirmed!"
@@ -262,11 +268,11 @@ msgstr "Gniazdo niepotwierdzone!"
 
 #: View/Atlas/index.ctp:1023;2198
 msgid "Click Marker to See Field Reports"
-msgstr ""
+msgstr "Kliknij znacznik, żeby zobaczyć raporty terenowe"
 
 #: View/Atlas/index.ctp:1036
 msgid "Report a Sighting!"
-msgstr ""
+msgstr "Zgłoś obserwację!"
 
 #: View/Atlas/index.ctp:1037
 msgid "Select the Pokemon you've spotted:"
@@ -274,7 +280,7 @@ msgstr "Wybierz zauważonego Pokemona:"
 
 #: View/Atlas/index.ctp:1041
 msgid "Search"
-msgstr ""
+msgstr "Wyszukaj"
 
 #: View/Atlas/index.ctp:1064
 msgid "what have you found, traveler?"
@@ -282,19 +288,21 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1066
 msgid "Sighting Report &raquo;"
-msgstr ""
+msgstr "Raport z obserwacji &raquo;"
 
 #: View/Atlas/index.ctp:1067
 msgid "A Nest (Multiple) &raquo;"
-msgstr ""
+msgstr "Gniazdo (kilka) &raquo;"
 
 #: View/Atlas/index.ctp:1068
 msgid "Sighting Reports"
-msgstr ""
+msgstr "Raporty z obserwacji"
 
 #: View/Atlas/index.ctp:1069
 msgid "are normal spawn reports - i.e. when you encounter a Pokemon in your travels, submit a Sighting Report!"
 msgstr ""
+"są normalnymi zgłoszeniami występowania – np. kiedy zauważysz Pokemona w "
+"trakcie podróży, zdaj raport z obserwacji!"
 
 #: View/Atlas/index.ctp:1070
 msgid "Nests"
@@ -303,18 +311,24 @@ msgstr "Gniazda"
 #: View/Atlas/index.ctp:1071
 msgid "are our term for <em>repeat spawns</em> or <em>clustered spawns</em> of the same species. Only report a 'Nest' if you see multiples of an uncommon species at once (or a consistently spawning rare 'mon)!"
 msgstr ""
+"oznaczają <em>powtarzające się występowania</em> lub <em>gromadę</em> tego "
+"samego gatunku. Zgłoś „Gniazdo” tylko, jeśli zaobserwujesz wiele rzadkich "
+"Pokemonów jednego gatunku (albo stale pojawiającego się bardzo rzadkiego "
+"Pokemona)!"
 
 #: View/Atlas/index.ctp:1076;1198
 msgid "Existing Nest?"
-msgstr ""
+msgstr "Istniejące gniazdo?"
 
 #: View/Atlas/index.ctp:1078;1200
 msgid "Double check that another traveler hasn't already added this nest location to the map! \n\t\t\t\t\t\t\tIf there is already an existing nest report for your location, <b>click on it</b>!"
 msgstr ""
+"Sprawdź, czy inny podróżnik nie dodał już tego gniazda na mapie! \n"
+"\t\t\t\t\t\t\tJeśli takie zgłoszenie już istnieje, <b>kliknij je</b>!"
 
 #: View/Atlas/index.ctp:1084;1176
 msgid "Map Loading"
-msgstr ""
+msgstr "Wczytywanie mapy"
 
 #: View/Atlas/index.ctp:1086;1178;1204
 msgid "Search Box"
@@ -322,7 +336,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1092;1185
 msgid "No Sighting Reports Yet!"
-msgstr ""
+msgstr "Brak raportów z obserwacji!"
 
 #: View/Atlas/index.ctp:1096
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! <b>If there is no existing nest in this location, click below</b>:"
@@ -346,14 +360,18 @@ msgstr "Jaki to typ gniazda?"
 #: View/Atlas/index.ctp:1130
 msgid "Multiple appear on the map <span style='text-decoration: underline;'>at once</span> within a single hour (at the same time)"
 msgstr ""
+"Kilka pojawia się na mapie <span style='text-decoration: underline;'>w tym "
+"samym czasie</span> w ciągu jednej godziny (jednocześnie)"
 
 #: View/Atlas/index.ctp:1154
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
 msgstr ""
+"Pojedyncza lokalizacja, w której rzadki/niepospolity gatunek występuje <span "
+"style='text-decoration:underline'>o tej samej godzinie każdego dnia "
 
 #: View/Atlas/index.ctp:1164;1303;1425
 msgid "Next"
-msgstr ""
+msgstr "Dalej"
 
 #: View/Atlas/index.ctp:1169
 msgid "Report A Nest!"
@@ -362,12 +380,14 @@ msgstr "Zgłoś gniazdo!"
 #: View/Atlas/index.ctp:1171
 msgid "Position the marker to the <em>exact</em> location you believe this species nests at!"
 msgstr ""
+"Ustaw znacznik <em>dokładnie</em> w miejscu, gdzie według Ciebie znajduje "
+"się gniazdo!"
 
 #: View/Atlas/index.ctp:1189
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location!"
 msgstr ""
-"Wskazówka: Przesuń mapę lub kliknij przycisk „<b>Moja Lokalizacja</b>”, aby "
-"przejść do swojego położenia! "
+"Wskazówka: Przesuń mapę lub kliknij przycisk „<b>Moja lokalizacja</b>”, aby "
+"przejść do swojego położenia!"
 
 #: View/Atlas/index.ctp:1190
 msgid "Submit Nest!"
@@ -385,7 +405,7 @@ msgstr "To nowe gniazdo!"
 
 #: View/Atlas/index.ctp:1215
 msgid "Catalogue!"
-msgstr ""
+msgstr "Dodaj opis!"
 
 #: View/Atlas/index.ctp:1216
 msgid "Catalogue your encounter info:"
@@ -393,7 +413,7 @@ msgstr "Opisz swoje spotkanie:"
 
 #: View/Atlas/index.ctp:1234
 msgid "Combat Points (CP)"
-msgstr ""
+msgstr "Punkty walki (CP)"
 
 #: View/Atlas/index.ctp:1236
 msgid "Enter CP..."
@@ -421,39 +441,39 @@ msgstr "Wybierz mocny atak..."
 
 #: View/Atlas/index.ctp:1284
 msgid "Successful Capture"
-msgstr ""
+msgstr "Udało mi się złapać"
 
 #: View/Atlas/index.ctp:1290
 msgid "Un-successful Capture"
-msgstr ""
+msgstr "Nie udało mi się złapać"
 
 #: View/Atlas/index.ctp:1296
 msgid "Did Not Throw Ball"
-msgstr ""
+msgstr "Nie rzuciłem Pokeballa"
 
 #: View/Atlas/index.ctp:1308
 msgid "Confirm Your Location!"
-msgstr ""
+msgstr "Potwierdź swoją lokalizację!"
 
 #: View/Atlas/index.ctp:1309
 msgid "Drag the map so the marker is on your exact position:"
-msgstr ""
+msgstr "Przesuń mapę tak, aby znacznik był dokładnie tam gdzie ty:"
 
 #: View/Atlas/index.ctp:1318
 msgid "Set Location"
-msgstr ""
+msgstr "Ustaw lokalizację"
 
 #: View/Atlas/index.ctp:1323
 msgid "Describe The Terrain!"
-msgstr ""
+msgstr "Opisz teren!"
 
 #: View/Atlas/index.ctp:1324
 msgid "Select <b>ALL</b> applicable terrain types. Be specific!:"
-msgstr ""
+msgstr "Dokładnie określ <b>WSZYSTKIE</b> pasujące typy terenu:"
 
 #: View/Atlas/index.ctp:1330
 msgid "Land Type"
-msgstr ""
+msgstr "Typ terenu"
 
 #: View/Atlas/index.ctp:1431
 msgid "Confirm & Record"
@@ -481,15 +501,15 @@ msgstr "Czerwoni"
 
 #: View/Atlas/index.ctp:1495
 msgid "Yellow Team"
-msgstr ""
+msgstr "Żółci"
 
 #: View/Atlas/index.ctp:1496
 msgid "Blue Team"
-msgstr ""
+msgstr "Niebiescy"
 
 #: View/Atlas/index.ctp:1497
 msgid "No Team Yet"
-msgstr ""
+msgstr "Bez drużyny"
 
 #: View/Atlas/index.ctp:1507
 msgid "Time:"
@@ -502,10 +522,14 @@ msgstr "Faza księżyca"
 #: View/Atlas/index.ctp:1521
 msgid "<i>If any information is incorrectly displayed, message <a href='https://reddit.com/u/dronpes' target='_blank'>/u/dronpes</a> or the <a href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad moderators</a> and we'll sort it out!</i>"
 msgstr ""
+"<i>Jeżeli jakieś informacje wyświetlają się niepoprawnie, napisz do <a "
+"href='https://reddit.com/u/dronpes' target='_blank'>/u/dronpes</a> lub <a "
+"href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' "
+"target='_blank'>/r/TheSilphRoad moderators</a> – zajmiemy się tym!</i>"
 
 #: View/Atlas/index.ctp:1526
 msgid "Submit Field Report"
-msgstr ""
+msgstr "Zdaj raport polowy"
 
 #: View/Atlas/index.ctp:1610
 msgid "Oops! Unable to retrieve nest data! You may need try again to re-authenticate!"
@@ -519,6 +543,8 @@ msgstr "Ups! Wystąpił błąd podczas wysyłania tego raportu."
 #: View/Atlas/index.ctp:1612;2774;2817;2840
 msgid "Your report has been received!  Thanks for contributing your Research, traveler!  The Atlas will update in a few minutes."
 msgstr ""
+"Otrzymaliśmy twój raport! Dziękujemy za udział w badaniach! Atlas zostanie "
+"zaktualizowany w ciągu kilku minut."
 
 #: View/Atlas/index.ctp:1613
 msgid "Your session has expired.  Please log back in!"
@@ -542,7 +568,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1617
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
-msgstr ""
+msgstr "Wybierz poprawną datę (nie można wprowadzić daty w przyszłości)."
 
 #: View/Atlas/index.ctp:1631;1632;1633;1634;1636;1638;1639;1640;1641;1642
 msgid "Retrieving Field Reports..."
@@ -550,31 +576,31 @@ msgstr "Pobieranie raportów..."
 
 #: View/Atlas/index.ctp:1635
 msgid "Consulting Silph Scope..."
-msgstr ""
+msgstr "Sprawdzam z Silph Scope..."
 
 #: View/Atlas/index.ctp:1635;1642
 msgid "Learning PokeFlute..."
-msgstr ""
+msgstr "Uczę się grać na PokeFlecie..."
 
 #: View/Atlas/index.ctp:1636
 msgid "Quitting PokeFlute & Taking Up Drums..."
-msgstr ""
+msgstr "Rzucam PokeFlet i biorę się za bębny..."
 
 #: View/Atlas/index.ctp:1636
 msgid "Reading Trail Pointers..."
-msgstr ""
+msgstr "Czytam znaki na szlaku..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Ordering MewTwo Around..."
-msgstr ""
+msgstr "Rozkazuję MewTwo..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Rinsing Max Repel Off Shoes..."
-msgstr ""
+msgstr "Spłukuję odstraszacz z butów..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Blowing in the Cartridge..."
-msgstr ""
+msgstr "Przedmuchuję kartridż..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Reticulating Splines..."
@@ -582,15 +608,15 @@ msgstr "Sieciowanie splajnów..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Surfing to Cinnabar Island..."
-msgstr ""
+msgstr "Płynę na wyspę Cinnabar..."
 
 #: View/Atlas/index.ctp:1642
 msgid "Admiring Our Master Ball..."
-msgstr ""
+msgstr "Podziwiam Master Balla..."
 
 #: View/Atlas/index.ctp:1813
 msgid "Enable location services to jump to your location!"
-msgstr "Włącz lokalizację, aby przejść do swojej położenia."
+msgstr "Włącz lokalizację, aby przejść do swojego położenia."
 
 #: View/Atlas/index.ctp:1886
 msgid "Select All"
@@ -610,7 +636,7 @@ msgstr "gatunki"
 
 #: View/Atlas/index.ctp:1947
 msgid "All Verification Levels"
-msgstr ""
+msgstr "Wszystkie poziomy weryfikacji"
 
 #: View/Atlas/index.ctp:1953
 msgid "All Nest Types"
@@ -622,7 +648,7 @@ msgstr "Zachowanie gniazda"
 
 #: View/Atlas/index.ctp:1959
 msgid "1 Nest Behavior"
-msgstr "1 Zachowanie gniazda"
+msgstr "1 zachowanie gniazda"
 
 #: View/Atlas/index.ctp:1962
 msgid "Nest Behaviors"
@@ -636,15 +662,17 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2196
 msgid "Sighted!"
-msgstr ""
+msgstr "Zaobserwowany!"
 
 #: View/Atlas/index.ctp:2198
 msgid "Species reportedly common at location"
-msgstr ""
+msgstr "Gatunki uznawane za pospolite w tej lokalizacji"
 
 #: View/Atlas/index.ctp:2286;2338
 msgid "Sighting Reports are currently under construction. You may still submit Nest reports, however!"
 msgstr ""
+"Sprawozdania z obserwacji są obecnie w trakcie implementacji. Możesz jednak "
+"nadal zgłaszać gniazda!"
 
 #: View/Atlas/index.ctp:2295
 msgid "You must be logged in to submit nests!"
@@ -653,6 +681,9 @@ msgstr "Aby zgłaszać gniazda, musisz się zalogować!"
 #: View/Atlas/index.ctp:2445
 msgid "This species is spawning globally for an Event! We'll wait on collecting data on this species until the festivities are over. Happy Festivities!"
 msgstr ""
+"Ten gatunek występuje powszechnie względu na trwające wydarzenie! "
+"Wstrzymaliśmy się ze zbieraniem danych na temat tego gatunku aż do "
+"zakończenia aktualnego wydarzenia. Udanych łowów!"
 
 #: View/Atlas/index.ctp:2533;2535
 msgid "Select a Charge Move"
@@ -660,11 +691,11 @@ msgstr "Wybierz mocny atak..."
 
 #: View/Atlas/index.ctp:2544;2567
 msgid "Please select a radio button!"
-msgstr ""
+msgstr "Wybierz przycisk!"
 
 #: View/Atlas/index.ctp:2753;2811;2834;2876
 msgid "Your session has expired.  Please log back in for your security"
-msgstr "Sesja wygasła. Ze względów bezpieczeństwa zaloguj się ponownie"
+msgstr "Sesja wygasła. Ze względów bezpieczeństwa zaloguj się ponownie."
 
 #: View/Atlas/index.ctp:2778;2894
 msgid "Unable to save report!  Please check your web connection and try again!"
@@ -677,13 +708,13 @@ msgstr "Wybierz poziom trenera!"
 
 #: View/Atlas/index.ctp:2856
 msgid "Please select your Team!"
-msgstr ""
+msgstr "Wybierz swoją drużynę!"
 
-#~ msgid "Whoa, traveler - There are too many "
-#~ msgstr "Hola, hola, podróżniku: za dużo"
+msgid "Whoa, traveler - There are too many "
+msgstr "Hola, hola, podróżniku: za dużo gniazd"
 
-#~ msgid "nests"
-#~ msgstr "gniazd"
+msgid "nests"
+msgstr "do wyświetlenia"
 
-#~ msgid "to show at this height. Zoom in for more detail."
-#~ msgstr "do wyświetlenia na tej wysokości. Przybliż widok."
+msgid "to show at this height. Zoom in for more detail."
+msgstr "na tej wysokości. Przybliż widok."

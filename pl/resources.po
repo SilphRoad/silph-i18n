@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-06 10:40+0000\n"
+"PO-Revision-Date: 2017-05-11 12:03+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494067202.535763\n"
+"X-POOTLE-MTIME: 1494504230.698029\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
-msgstr "Pokemon GO - potrzebne cukierki | The Silph Road"
+msgstr "Pokemon GO – potrzebne cukierki | The Silph Road"
 
 #: View/Pages/buddy_candy.ctp:6;13
 #: View/Pages/moves.ctp:6
@@ -28,12 +28,12 @@ msgstr "Pokemon GO - potrzebne cukierki | The Silph Road"
 msgid "The Silph Road Research group has compiled the following resources to help you on your adventures, travelers! Enjoy comprehensive species attack/defense stats, and more..."
 msgstr ""
 "Grupa Badawcza The Silph Road zebrała następujące zasoby, aby pomóc Wam "
-"podczas waszych przygód, podróżnicy! Do waszej dyspozycji są obszerene "
-"statystyki ataku/obrony i inne..."
+"podczas przygód! Możecie korzystać z wielu statystyk dot. ataku/obrony i "
+"innych zasobów..."
 
 #: View/Pages/buddy_candy.ctp:12
 msgid "Pokemon GO Buddy Candy Requirements"
-msgstr ""
+msgstr "Pokemon GO – potrzebne cukierki"
 
 #: View/Pages/buddy_candy.ctp:69;267
 #: View/Pages/egg_distances.ctp:68
@@ -53,10 +53,14 @@ msgstr "Twój cukierkowy dystans z kumplem"
 #: View/Pages/buddy_candy.ctp:83
 msgid "In the tables below you can find the comprehensive list of the kilometers (KMs) you must walk to earn a candy reward for your 'Buddy' Pokemon. <br>\n\t\t\t\t\t\t<em>Note:</em> This list is still being finalized!  It will be kept up to date as we confirm more information."
 msgstr ""
+"W poniższych tabelach zawarto pełną listę dystansów (w km), które musisz "
+"przebyć, aby otrzymać cukierek od twojego towarzyszącego Pokemona.<br>\n"
+"\t\t\t\t\t\t<em>Uwaga:</em> Ta lista jest stale uzupełniana! Po każdej "
+"weryfikacji zaktualizujemy dostępne tu informacje."
 
 #: View/Pages/buddy_candy.ctp:93
 msgid "5 KMs Per Candy Reward"
-msgstr ""
+msgstr "Cukierek po 5 km"
 
 #: View/Pages/buddy_candy.ctp:111;219
 #: View/Pages/egg_distances.ctp:188
@@ -65,7 +69,7 @@ msgstr "5 km"
 
 #: View/Pages/buddy_candy.ctp:128
 msgid "3 KMs Per Candy Reward"
-msgstr ""
+msgstr "Cukierek po 3 km"
 
 #: View/Pages/buddy_candy.ctp:147
 msgid "3km"
@@ -73,7 +77,7 @@ msgstr "3 km"
 
 #: View/Pages/buddy_candy.ctp:164
 msgid "1 KM Per Candy Reward"
-msgstr ""
+msgstr "Cukierek po 1 km"
 
 #: View/Pages/buddy_candy.ctp:183
 msgid "1km"
@@ -81,19 +85,22 @@ msgstr "1 km"
 
 #: View/Pages/buddy_candy.ctp:200
 msgid "Unavailable KM Per Candy Rewards"
-msgstr ""
+msgstr "Brak informacji o dystansie za cukierek"
 
 #: View/Pages/egg_distances.ctp:2;11
 msgid "Pokemon GO Egg Distance Chart | The Silph Road"
-msgstr ""
+msgstr "Dystanse dla jajek w Pokemon GO | The Silph Road"
 
 #: View/Pages/egg_distances.ctp:5;12
 msgid "Listed below are all hatchable species in Pokemon GO, by egg distance.  We have also listed the 'best' and 'worst' CP an egg may hatch at..."
 msgstr ""
+"Poniżej przedstawiono wszystkie gatunki w Pokemon Go, które można wykluć z "
+"jajek, posortowane według dystansu. Wyszczególniliśmy także „najlepsze” i "
+"„najgorsze” CP możliwe dla wyklutego pokemona..."
 
 #: View/Pages/egg_distances.ctp:80
 msgid "Pokemon Go Egg Distance List"
-msgstr ""
+msgstr "Lista dystansów jajek w Pokemon GO"
 
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
@@ -104,6 +111,14 @@ msgstr ""
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
 msgstr ""
+"Dodaliśmy również „najlepsze” i „najgorsze” wartości Punktów walki (CP) "
+"jakie może mieć Pokemon wykluty z danego jajka, <em>trener jest na co "
+"najmniej 20 poziomie</em>. Wszystkie jajka zdobyte po uzyskaniu 20 poziomu "
+"trenera gwarantują Pokemony na 20. poziomie. Oznacza to, że różnica w CP po "
+"wykluciu wynika z różnych Wartości wrodzonych (IV). Idealne IV (15/15/15) "
+"zapewni maksymalne CP Pokemona, a najniższe możliwe IV (10/10/10) da "
+"„najgorsze” CP! (IV wszystkich wyklutych Pokemonów jest na poziomie 10-15 "
+"dla ataku, obrony i wytrzymałości). "
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
@@ -115,11 +130,11 @@ msgstr "10 km"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
-msgstr ""
+msgstr "Idealne:"
 
 #: View/Pages/egg_distances.ctp:147;211;276
 msgid "Worst:"
-msgstr ""
+msgstr "Najgorsze:"
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
@@ -144,6 +159,9 @@ msgstr "Lista ataków w Pokemon GO"
 #: View/Pages/moves.ctp:130
 msgid "In the tables below you can find the comprehensive list of all moves in Pokemon GO along with their type, power, duration, and damage inflicted per second (DPS)."
 msgstr ""
+"W poniższych tabelach znajdziesz obszerną listę wszystkich ataków w Pokemon "
+"GO wraz z ich typem, mocą, czasem trwania oraz obrażeniami zadanymi na "
+"sekundę (DPS)."
 
 #: View/Pages/moves.ctp:139
 msgid "Quick Moves"
@@ -152,6 +170,8 @@ msgstr "Szybkie ataki"
 #: View/Pages/moves.ctp:140
 msgid "Quick moves are used by 'tapping' the screen and do not require a full energy bar to use repeatedly! Quick moves do not 'critical hit.'"
 msgstr ""
+"Aby użyć szybkich ataków, po prostu dotknij ekran. Do użycia nie wymagają "
+"one pełnego paska energii! Szybkie ataki nie mogą zadać obrażeń krytycznych."
 
 #: View/Pages/moves.ctp:144;217
 msgid "DPS"
@@ -171,15 +191,17 @@ msgstr "Czas trwania (ms)"
 
 #: View/Pages/moves.ctp:148
 msgid "Energy Gain/Sec."
-msgstr ""
+msgstr "Uzyskana energia/s"
 
 #: View/Pages/moves.ctp:177
 msgid "%s / Energy:"
-msgstr ""
+msgstr "%s/energia:"
 
 #: View/Pages/moves.ctp:198
 msgid "No Silph Researchers have recorded a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
+"Żaden z badaczy Silph nie spotkał dzikiego Pokemona z takim atakiem! ("
+"Niektóre gatunki mogą otrzymać ten atak po ewolucji albo wykluciu)."
 
 #: View/Pages/moves.ctp:212
 msgid "Charge/Special Moves"
@@ -188,6 +210,8 @@ msgstr "Mocne ataki"
 #: View/Pages/moves.ctp:213
 msgid "Special moves are used by holding and pressing the screen after charging the blue 'energy' bars by inflicting damage with quick moves!"
 msgstr ""
+"Aby użyć mocnego ataku, dotknij i przytrzymaj w dowolnym miejscu ekranu. "
+"Wcześniej musisz naładować pasek energii, zadając obrażenia szybkimi atakami!"
 
 #: View/Pages/moves.ctp:223;227
 msgid "DPE"
@@ -195,11 +219,13 @@ msgstr "DPE"
 
 #: View/Pages/moves.ctp:224;228
 msgid "Damage (Power) From Full Energy Bar"
-msgstr ""
+msgstr "Obrażenia zadawane przy pełnym pasku energii"
 
 #: View/Pages/moves.ctp:283
 msgid "No Silph Researchers have encountered a wild pokemon with this move! (Some species may be able to evolve or hatch into this move!)"
 msgstr ""
+"Żaden z badaczy Silph nie spotkał dzikiego Pokemona z takim atakiem! ("
+"Niektóre gatunki otrzymać ten ataku po ewolucji albo wykluciu)."
 
 #: View/Pages/species_stats.ctp:3;12
 msgid "Pokemon Stat Ranking: Gen 1 & 2 | The Silph Road"
@@ -208,6 +234,9 @@ msgstr "Ranking statystyk Pokemonów: Gen. 1. i 2. | The Silph Road"
 #: View/Pages/species_stats.ctp:6;13
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO. Generation 2 Pokemon's base stats are able to be calculated due to..."
 msgstr ""
+"Poniższe atrybuty ułatwiają zrozumienie mocnych i słabych stron różnych "
+"gatunków Pokemonów w Pokemon GO. Podstawowe statystyki Pokemonów z drugiej "
+"generacji zostały wyliczone na podstawie..."
 
 #: View/Pages/species_stats.ctp:128
 msgid "Species Stats in Pokemon GO"
@@ -216,22 +245,31 @@ msgstr "Statystyki gatunków w Pokemon GO"
 #: View/Pages/species_stats.ctp:130
 msgid "The following species attributes help illustrate the relative strengths and weaknesses of different Pokemon in Pokemon GO.  'Base stats' are set on the server, but sent to the client where we are able to examine them."
 msgstr ""
+"Poniższe atrybuty ułatwiają zrozumienie mocnych i słabych stron różnych "
+"gatunków Pokemonów w Pokemon GO. Podstawowe statystyki są ustalane na "
+"serwerze i wysyłane do klienta gry, gdzie można je przeanalizować."
 
 #: View/Pages/species_stats.ctp:133
 msgid "Generation 2 Pokemon's base stats are able to be calculated due to the known conversion formula (discovered first by <a target='_blank' href='https://www.reddit.com/r/TheSilphRoad/comments/5ecbmi/exact_conversion_formula/'>/u/CustomOndo</a>) from the main series game stats.\n\t\t\t\t\t\t<b>Max Potential CP</b> is calculated from the known CP formula and the species base stats."
 msgstr ""
+"Podstawowe statystyki Pokemonów z 2. generacji są wyliczane na podstawie "
+"znanego wzoru (odkrytego przez<a target='_blank' href='https://www.reddit.com"
+"/r/TheSilphRoad/comments/5ecbmi/exact_conversion_formula/'>/u/CustomOndo</a>)"
+" pochodzącego z głównej serii gier.\n"
+"\t\t\t\t\t\t<b>Maksymalna osiągalna wartość Punktów walki (CP)</b> jest "
+"obliczana przez zestawienie wzoru na CP i podstawowych statystyk gatunku."
 
 #: View/Pages/species_stats.ctp:144
 msgid "Include Legendaries"
-msgstr ""
+msgstr "Uwzględnij Pokemony legendarne"
 
 #: View/Pages/species_stats.ctp:148
 msgid "Include Gen 2 Pokemon"
-msgstr ""
+msgstr "Uwzględnij Pokemony z 2. gen."
 
 #: View/Pages/species_stats.ctp:149
 msgid "New!"
-msgstr ""
+msgstr "Nowy!"
 
 #: View/Pages/species_stats.ctp:155
 msgid "SORT BY:"
@@ -239,23 +277,23 @@ msgstr "SORTUJ WG:"
 
 #: View/Pages/species_stats.ctp:157
 msgid "Max Potential CP"
-msgstr ""
+msgstr "Maksymalne dostępne CP"
 
 #: View/Pages/species_stats.ctp:158
 msgid "Species Number"
-msgstr ""
+msgstr "Numer gatunku"
 
 #: View/Pages/species_stats.ctp:159
 msgid "Best Attack Stat"
-msgstr "Najlepszy atak"
+msgstr "Najlepsza stat. ataku"
 
 #: View/Pages/species_stats.ctp:160
 msgid "Best Defense Stat"
-msgstr "Najlepsza obrona"
+msgstr "Najlepsza stat. obrony"
 
 #: View/Pages/species_stats.ctp:161
 msgid "Best Stamina Stat"
-msgstr ""
+msgstr "Najlepsza stat. wytrzymałości"
 
 #: View/Pages/species_stats.ctp:162
 msgid "Best Sum of Stats"
@@ -287,7 +325,7 @@ msgstr "Obrona"
 
 #: View/Pages/species_stats.ctp:247
 msgid "Stamina"
-msgstr ""
+msgstr "Wytrzymałość"
 
 #: View/Pages/species_stats.ctp:303
 msgid "<b>Why Ads?</b> Logged-in travelers don't see ads! Join the community at <a href='https://reddit.com/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
@@ -762,7 +800,7 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:3
 msgid "Pokemon GO - Earning XP"
-msgstr "Pokemon GO - Zdobywanie doświadczenia (XP)"
+msgstr "Pokemon GO – Zdobywanie doświadczenia (XP)"
 
 #: View/Pages/xp_earning.ctp:72
 msgid "How to Earn XP in Pokemon GO"
@@ -808,7 +846,7 @@ msgstr "Zakręcenie Pokestopem"
 
 #: View/Pages/xp_earning.ctp:115
 msgid "10<sup>th</sup> Unique Pokestop Bonus"
-msgstr "Bonus za zakręcenie 10 różnymi Pokestopami"
+msgstr "Bonus za zakręcenie 10 różnymi Pokestopami<sup></sup>"
 
 #: View/Pages/xp_earning.ctp:119
 msgid "Successful Pokemon Capture"
@@ -820,7 +858,7 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
-msgstr ""
+msgstr "Bonus za 100. Pokemona danego gatunku"
 
 #: View/Pages/xp_earning.ctp:131
 msgid "Hatch an Egg (2 km)"

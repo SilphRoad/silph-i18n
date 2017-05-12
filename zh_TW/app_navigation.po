@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-10 10:31+0000\n"
+"PO-Revision-Date: 2017-05-11 14:07+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494412260.787717\n"
+"X-POOTLE-MTIME: 1494511620.677616\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -49,7 +49,7 @@ msgstr "參考目錄"
 #: View/Atlas/index.ctp:676;733
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Moves By DPS"
-msgstr "以每秒輸出傷害排序技能"
+msgstr "招式表（以每秒輸出傷害排序）"
 
 #: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:47;116
@@ -64,17 +64,17 @@ msgstr "孵蛋里程數"
 #: View/Atlas/index.ctp:679;736
 #: View/Helper/TopNavHelper.php:49;118
 msgid "Buddy Candy"
-msgstr "夥伴糖果"
+msgstr "夥伴糖果獎勵"
 
 #: View/Atlas/index.ctp:680;737
 #: View/Helper/TopNavHelper.php:50;119
 msgid "Trainer Levels"
-msgstr "訓練家等級"
+msgstr "訓練家等級表"
 
 #: View/Atlas/index.ctp:681;738
 #: View/Helper/TopNavHelper.php:51;120
 msgid "Earning XP"
-msgstr "增加 XP"
+msgstr "獲取 XP"
 
 #: View/Atlas/index.ctp:687;749
 #: View/Helper/TopNavHelper.php:64;131
@@ -84,7 +84,7 @@ msgstr "提示＋新聞"
 #: View/Atlas/index.ctp:688;750
 #: View/Helper/TopNavHelper.php:65;132
 msgid "For Pokemon GO"
-msgstr "針對 Pokemon GO"
+msgstr "關於 Pokemon GO"
 
 #: View/Atlas/index.ctp:694;755
 #: View/Helper/TopNavHelper.php:78;143
@@ -129,12 +129,12 @@ msgstr "該出發囉！"
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:95;156
 msgid "For Travelers"
-msgstr "針對旅行者"
+msgstr "關於旅行者"
 
 #: View/Atlas/index.ctp:743
 #: View/Helper/TopNavHelper.php:57;125
 msgid "Nest Atlas"
-msgstr ""
+msgstr "巢穴地圖集"
 
 #: View/Atlas/index.ctp:744
 #: View/Helper/TopNavHelper.php:58;126
@@ -155,7 +155,7 @@ msgstr "請出示您的文件。"
 
 #: View/Users/login.ctp:17
 msgid "The Silph Road authenticates travelers via their Reddit account.  Click \"Authenticate\" below to access the Silph Road."
-msgstr "The Silph Road 透過旅行者的 Reddit 帳號進行驗證。若要進入 the Silph Road，請點選下方的「驗證」。"
+msgstr "The Silph Road 需透過旅行者的 Reddit 帳號進行驗證。如要進入 the Silph Road，請點選下方的「驗證」。"
 
 #: View/Users/login.ctp:19
 msgid "Authenticate &raquo;"

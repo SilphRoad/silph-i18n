@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-05 17:08-0400\n"
-"PO-Revision-Date: 2017-05-09 20:11+0000\n"
+"PO-Revision-Date: 2017-05-11 14:46+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494360669.041756\n"
+"X-POOTLE-MTIME: 1494513998.667884\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -111,15 +111,15 @@ msgstr ""
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
 msgstr ""
-"Nous avons aussi indiqué les PC minimum et maximum d'un Pokémon à "
-"l'éclosion<em>si votre Niveau de Dresseur est supérieur à 20</em>.  Tous les "
-"oeufs obtenus par un Dresseur de niveau 20 ou plus écloront en un Pokémon de "
+"Nous avons aussi indiqué les PC minimum et maximum d'un Pokémon à l'éclosion "
+"<em>si votre Niveau de Dresseur est supérieur à 20</em>.  Tous les oeufs "
+"obtenus par un Dresseur de niveau 20 ou plus écloront en un Pokémon de "
 "niveau 20.  Cela signifie que la variation des PC que vous pouvez observer à "
 "l’éclosion est le résultat d'IVs différentes.  Des IVs parfaites (15/15/15) "
 "donneront lieu à un PC \"maximum\", alors que la plus petite combinaison "
 "d'IVs possible (10/10/10) donnera le PC \"minimum\" !  (Tous les Pokémons "
-"provenant d'oeufs ont des valeures d'IVs comprisent entre 10 et 15 pour "
-"l'attaque, la défense et les PV.)"
+"provenant d'oeufs ont des valeurs d'IVs qui sont comprises entre 10 et 15 "
+"pour l'attaque, la défense et les PV.)"
 
 #: View/Pages/egg_distances.ctp:105
 msgid "10 KM Eggs"
@@ -131,11 +131,11 @@ msgstr "10km"
 
 #: View/Pages/egg_distances.ctp:135;199;264
 msgid "Perfect:"
-msgstr "Maximum :"
+msgstr "Maximum:"
 
 #: View/Pages/egg_distances.ctp:147;211;276
 msgid "Worst:"
-msgstr "Minimum :"
+msgstr "Minimum:"
 
 #: View/Pages/egg_distances.ctp:169
 msgid "5 KM Eggs"
@@ -353,8 +353,8 @@ msgstr "Expérience Requise par Niveau de Dresseur + Gain"
 #: View/Pages/trainer_levels.ctp:82
 msgid "The following table breaks down the XP requirements and item awards at each Trainer Level in Pokemon GO."
 msgstr ""
-"Le tableau suivant résume l'XP requises et les récompenses pour chaque "
-"Niveau de Dresseur dans Pokémon GO."
+"Le tableau suivant résume l'XP requises et les gains pour chaque Niveau de "
+"Dresseur dans okémon GO."
 
 #: View/Pages/trainer_levels.ctp:92
 msgid "Level"
@@ -848,9 +848,8 @@ msgstr "Comment Gagner de l'XP dans Pokémon GO"
 #: View/Pages/xp_earning.ctp:74
 msgid "The following table and information explain XP-earning events to help you increase your Trainer Level in Pokemon GO."
 msgstr ""
-"Dans le tableau ci-dessous vous trouverez combien d'XP vous pouvez gagner "
-"pour chaque action, et ainsi vous aider à monter votre Niveau de Dresseur "
-"dans Pokémon GO."
+"Le tableau ci-dessous reprend toutes les actions permettant de gagner de "
+"l'XP pour vous aider à monter votre Niveau de Dresseur dans Pokémon GO."
 
 #: View/Pages/xp_earning.ctp:84
 msgid "XP Award"

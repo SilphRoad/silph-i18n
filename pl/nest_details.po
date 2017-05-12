@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-05 18:33+0000\n"
+"PO-Revision-Date: 2017-05-11 10:04+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494009234.475220\n"
+"X-POOTLE-MTIME: 1494497085.901023\n"
 
 #: COMMENT
 msgid "Map"
@@ -61,7 +61,7 @@ msgstr "Moje zgłoszenie"
 
 #: COMMENT
 msgid "You must Authenticate to add your field report:"
-msgstr "Wymagane jest uwierzytelnienie, aby dodać zgłoszenie:"
+msgstr "Dodanie zgłoszenia wymaga uwierzytelnienia:"
 
 #: COMMENT
 msgid "Authenticate"
@@ -69,19 +69,19 @@ msgstr "Uwierzytelnij"
 
 #: COMMENT
 msgid "Scout Report"
-msgstr "Raport Zwiadowczy"
+msgstr "Raport zwiadowcy"
 
 #: COMMENT
 msgid "SAW CLUSTER SPAWN"
-msgstr "WIDZIANO GROMADĘ POKEMONÓW"
+msgstr "GROMADA POKEMONÓW"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN AREA"
-msgstr "WIDZIANO OBSZAR WYSTĘPOWANIA"
+msgstr "OBSZAR WYSTĘPOWANIA"
 
 #: COMMENT
 msgid "SAW FREQUENT SPAWN POINT"
-msgstr "WIDZIANO PUNKT WYSTĘPOWANIA"
+msgstr "PUNKT WYSTĘPOWANIA"
 
 #: COMMENT
 msgid "No Comment"

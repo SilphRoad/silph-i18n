@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-11 17:34+0000\n"
+"PO-Revision-Date: 2017-05-13 13:51+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494524050.709775\n"
+"X-POOTLE-MTIME: 1494683496.685072\n"
 
 #: COMMENT
 msgid "Height:"
@@ -46,7 +46,7 @@ msgstr "目擊紀錄"
 
 #: COMMENT
 msgid "Hold Up:"
-msgstr ""
+msgstr "請稍等："
 
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
@@ -98,15 +98,15 @@ msgstr "集氣招式"
 
 #: COMMENT
 msgid "Moves with the same"
-msgstr ""
+msgstr "招式與寶可夢"
 
 #: COMMENT
 msgid "type"
-msgstr ""
+msgstr "屬性"
 
 #: COMMENT
 msgid "as a Pokemon receive a 25% boost called a Same-Type Attack Bonus (STAB)! These bonuses are already calculated above!"
-msgstr ""
+msgstr "相同時會獲得 25% 加乘，稱作「相同屬性攻擊獎勵」（STAB）！此獎勵已計算於上方！"
 
 #: COMMENT
 msgid "No Known Moves Yet!"

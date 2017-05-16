@@ -6,26 +6,30 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-14 22:28+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1494800894.685698\n"
 
 #: View/Users/registration.ctp:162
 msgid "Hey, stranger!"
-msgstr ""
+msgstr "Hey, onbekende!"
 
 #: View/Users/registration.ctp:163
 msgid "It's <b>%s</b>, right? You're the new traveler."
-msgstr ""
+msgstr "Het is <b>%s</b>, hé? Jij bent de nieuwe reiziger."
 
 #: View/Users/registration.ctp:164
 msgid "The <b>Silph Road Ranger</b> sent me to make sure you're all set up and comfortable."
 msgstr ""
+"De <b>Opziener van de Silph Road</b> heeft me gestuurd om zeker te zijn dat "
+"je goed geïnstalleerd bent.."
 
 #: View/Users/registration.ctp:165
 msgid "What?  You've never heard of the <b>Silph Road</b>?"
@@ -33,7 +37,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:166
 msgid "Well, I'll give you the basics."
-msgstr ""
+msgstr "OK, Ik ga je de basisregels uitleggen."
 
 #: View/Users/registration.ctp:167
 msgid "The <b>Silph Road</b> is the name of a worldwide network of Pokemon trainers who've joined together to help everyone. \n\t\t\t\t\t<b>Travelers</b> on the road help new trainers learn the ropes, coordinate for gym battles, get to know their local players, and even trade exotic Pokemon from near or faraway places."
@@ -45,11 +49,11 @@ msgstr ""
 
 #: View/Users/registration.ctp:170
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: View/Users/registration.ctp:175
 msgid "Hey, you should become an official <b>traveler</b> and help out!"
-msgstr ""
+msgstr "Hé, jij zou een officiële <b>reiziger</b> moeten worden en helpen!"
 
 #: View/Users/registration.ctp:176
 msgid "That would also let <em>you</em> use the Road to get access to Pokemon <em>you're</em> looking for yourself."
@@ -57,15 +61,15 @@ msgstr ""
 
 #: View/Users/registration.ctp:177
 msgid "Wanna come with me and get an official <b>Traveler Card</b>?"
-msgstr ""
+msgstr "Wil je me volgen en een officiële <b>Reizigerskaart</b> ontvangen?"
 
 #: View/Users/registration.ctp:178
 msgid "OK!"
-msgstr ""
+msgstr "OK!"
 
 #: View/Users/registration.ctp:179;211;224;307;373;573
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 #: View/Users/registration.ctp:185
 msgid "Oh, almost forgot! First, you should decide what you want people 'round here to call you. \n\t\t\t\t\t\tIt should be what you're called on the Pokemon GO app!  My <b>Traveler</b> name is <b>Dronpes</b>, by the way."
@@ -74,30 +78,35 @@ msgstr ""
 #: View/Users/registration.ctp:194
 msgid "Letters, underscores, hyphens, and numbers are allowed. Not required to be the same as your Reddit username."
 msgstr ""
+"Letters, liggende streepjes, koppeltekens en cijfers zijn toegelaten. Moet "
+"niet dezelfde zijn als je gebruikersnaam op Reddit."
 
 #: View/Users/registration.ctp:198
 msgid "And while I'm at it, how old are you?  They only let trainers 16 years or older get <b>Traveler Cards</b>. They'll kick you off til you're old enough if you lie.  (Trust me, I know...)"
 msgstr ""
+"En nu we toch bezig zijn, hoe oud ben jij?  Ze laten enkel trainers van 16 "
+"jaar of ouder <b>Reizigerskaarten</b> krijgen. Ze gooien je buiten tot je "
+"oud genoeg bent als je liegt.  (Vertrouw me maar, ik weet het ...)"
 
 #: View/Users/registration.ctp:201
 msgid "Your Age"
-msgstr ""
+msgstr "Je Leeftijd"
 
 #: View/Users/registration.ctp:204
 msgid "Numbers only"
-msgstr ""
+msgstr "Enkel cijfers"
 
 #: View/Users/registration.ctp:210
 msgid "Done!"
-msgstr ""
+msgstr "Klaar!"
 
 #: View/Users/registration.ctp:216
 msgid "Great!"
-msgstr ""
+msgstr "Uitstekend!"
 
 #: View/Users/registration.ctp:217
 msgid "You should also know..."
-msgstr ""
+msgstr "Je zou ook moeten weten..."
 
 #: View/Users/registration.ctp:218
 msgid "Even though trading on the <b>Road</b> is pretty simple, <b>travelers</b> on the <b>Road</b> take their job pretty seriously.  \n\t\t\t\t\tThey have to trust each other to each handle their part of the journey when trading starts up, or to pull their weight in coordinated gym battling.\n\t\t\t\t\tOnly do it if you can commit to not flaking out.  They'll take your <b>Traveler Card</b> \n\t\t\t\t\taway if you screw around with other people's Pokemon en-route to their destination.  Then you can't use the <b>Road</b> anymore!</p>\n\t\t\t\t\t<p>But they're actually really friendly.  On the <b>Road</b> you'll meet new faces from all over the world!  I'll introduce you to some local travelers in a minute!  Come on, let's get you your official <b>Traveler Card</b> first."
@@ -105,7 +114,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:223
 msgid "Begin"
-msgstr ""
+msgstr "Start"
 
 #: View/Users/registration.ctp:288
 msgid "Traveler Card Application: Step 1 of 1"
@@ -121,7 +130,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:297
 msgid "Your Email"
-msgstr ""
+msgstr "Uw e-mailadres"
 
 #: View/Users/registration.ctp:300
 msgid "Used to alert you of trade updates and other important info (no promotions)."
@@ -133,7 +142,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:363
 msgid "Alright, that's it!"
-msgstr ""
+msgstr "Zo, dat is het!"
 
 #: View/Users/registration.ctp:364
 msgid "You'll get an email from the <b>Silph Executive</b> team when your <b>Traveler Card</b> is ready to be issued. (You'll need that to actually trade on the <b>Road</b>)."
@@ -193,15 +202,15 @@ msgstr ""
 
 #: View/Users/registration.ctp:549
 msgid "All Done!"
-msgstr ""
+msgstr "Klaar!"
 
 #: View/Users/registration.ctp:556
 msgid "Silph Global Pokedex"
-msgstr ""
+msgstr "Silph Werelbwijde Pokedex"
 
 #: View/Users/registration.ctp:557
 msgid "Alright, traveler, you're all set!"
-msgstr ""
+msgstr "Oke reiziger, je bent helemaal klaar!"
 
 #: View/Users/registration.ctp:558
 msgid "You can now use the <b>Silph Global Pokedex</b> while you wait for your Traveler card and access to the rest of the Silph Road's tools. This handy companion is a powerful tool that updates global pokemon species information in near real time!"
@@ -233,7 +242,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:572
 msgid "I'm Ready!"
-msgstr ""
+msgstr "Ik ben Klaar!"
 
 #: View/Users/registration.ctp:675;706;737;811;859
 msgid "Your session has expired! Please re-load the page and re-authenticate to continue."
@@ -241,7 +250,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:715
 msgid "You must enter an email address!"
-msgstr ""
+msgstr "Je moet een e-mailadres ingeven!"
 
 #: View/Users/registration.ctp:749
 msgid "You must accept the Traveler's Code and the Silph Road Terms of Use to continue!"
@@ -253,4 +262,4 @@ msgstr ""
 
 #: View/Users/registration.ctp:831
 msgid "You must specify a radius, even if it is ZERO!"
-msgstr ""
+msgstr "Je moet een radius ingeven, ook al is die NUL!"

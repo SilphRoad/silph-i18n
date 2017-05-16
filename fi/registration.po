@@ -6,14 +6,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-14 22:31+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1494801094.122459\n"
 
 #: View/Users/registration.ctp:162
 msgid "Hey, stranger!"
@@ -35,6 +37,7 @@ msgstr ""
 msgid "Well, I'll give you the basics."
 msgstr ""
 
+# "on the road" tarkoittanee Silph Roadia, vaikka "road" ei alakaan isolla kirjaimella?
 #: View/Users/registration.ctp:167
 msgid "The <b>Silph Road</b> is the name of a worldwide network of Pokemon trainers who've joined together to help everyone. \n\t\t\t\t\t<b>Travelers</b> on the road help new trainers learn the ropes, coordinate for gym battles, get to know their local players, and even trade exotic Pokemon from near or faraway places."
 msgstr ""
@@ -105,7 +108,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:223
 msgid "Begin"
-msgstr ""
+msgstr "Aloita"
 
 #: View/Users/registration.ctp:288
 msgid "Traveler Card Application: Step 1 of 1"
@@ -142,7 +145,11 @@ msgstr ""
 #: View/Users/registration.ctp:367
 msgid "Nobody really seems to know much about the executives... but the <b>Silph Road</b> system they built is fantastic.  Rumor has it they're based in New York City!"
 msgstr ""
+"Kukaan ei vaikuta tietävän hirveästi johtajista... mutta heidän rakentamansa "
+"<b>Silph Road</b> -järjestelmä on mahtava. Huhut kertovat, että he toimivat "
+"New Yorkin kaupungista!"
 
+# "maailmanlaajuinen Pokédex" ei vielä varma käännös
 #: View/Users/registration.ctp:369
 msgid "Anyway, you can still get started using the <b>Road</b> while you wait for them to verify you. You'll be able to use the <b>Global Pokedex</b> and report <b>Sightings</b>"
 msgstr ""
@@ -166,6 +173,9 @@ msgstr ""
 #: View/Users/registration.ctp:525
 msgid "You're gonna love this!  The Silph Global Pokedex allows you to see sighting locations reported by other travelers! But that means that they can see <em>your</em> reports, too."
 msgstr ""
+"Tulet rakastamaan tätä! Silphin maailmanlaajuisella Pokédexillä voit nähdä "
+"muiden matkaajien ilmoittamia havaintoja! Mutta he voivat myös nähdä "
+"<em>sinun</em> ilmoituksesi."
 
 #: View/Users/registration.ctp:526
 msgid "A dense pocket of sightings at or near your home may give away your location - and you don't want that.  You can <b>hide</b> sightings from your home by marking a location to obscure below!"
@@ -186,6 +196,8 @@ msgstr ""
 #: View/Users/registration.ctp:539
 msgid "And finally, how many city blocks' radius from that point would you like to obscure from others' maps? (We recommend 3 or 4)"
 msgstr ""
+"Ja vielä viimeiseksi, kuinka monen korttelin kantaman verran haluat "
+"piilottaa asettamastasi pisteestä? (Suosittelemme kolmea tai neljää) "
 
 #: View/Users/registration.ctp:542
 msgid "City Blocks Radius to Hide"
@@ -195,6 +207,7 @@ msgstr ""
 msgid "All Done!"
 msgstr ""
 
+# "maailmanlaajuinen Pokédex" ei varma käännös
 #: View/Users/registration.ctp:556
 msgid "Silph Global Pokedex"
 msgstr ""
@@ -211,6 +224,7 @@ msgstr ""
 msgid "In case you were interested, Silph is also <b>researching nests!"
 msgstr ""
 
+# "maailmanlaajuinen Pokédex" ei varma käännös
 #: View/Users/registration.ctp:561
 msgid "If you see a Pokemon nest, report in and help Silph create the global <b>Nest Atlas</b>, which integrates into the Global Pokedex."
 msgstr ""
@@ -247,6 +261,7 @@ msgstr ""
 msgid "You must accept the Traveler's Code and the Silph Road Terms of Use to continue!"
 msgstr ""
 
+# Leiri...?
 #: View/Users/registration.ctp:827
 msgid "You must place a marker (even if you wish to specify a radius of ZERO blocks) so you can be placed in a Camp! (Try a non-Internet Explorer browser!)"
 msgstr ""

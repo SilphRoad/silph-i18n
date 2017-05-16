@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-05 21:35+0000\n"
+"PO-Revision-Date: 2017-05-12 21:41+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494020100.766038\n"
+"X-POOTLE-MTIME: 1494625264.192621\n"
 
 #: View/Helper/PostSidebarHelper.php:10
 msgid "Trending"
@@ -35,10 +35,12 @@ msgstr "Novità:"
 #: View/Helper/PostSidebarHelper.php:52
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Perché la Pubblicità?</b> Gli strumenti di ricerca di TheSilphRoad.com "
+"generano molto traffico - e servono soldi per mantenere il sito online!"
 
 #: View/Helper/PostSidebarHelper.php:55
 msgid "Loading Last Tweet..."
-msgstr ""
+msgstr "Ultimo Tweet in caricamento..."
 
 #: View/Pages/blog.ctp:2;11
 msgid "Grassroots Pokemon GO Network"
@@ -109,4 +111,4 @@ msgid "The Silph Research Group has been recently re-organized and will be publi
 msgstr ""
 "Il Gruppo di Ricercatori della Silph si è da poco ri-organizzato e "
 "pubblicherà risultati ufficiali su questo argomento.  Rimanete connessi per "
-"ancor più deliziosa scienza, viaggiatori!"
+"altra deliziosa scienza, viaggiatori!"

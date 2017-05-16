@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-11 12:03+0000\n"
+"PO-Revision-Date: 2017-05-14 13:48+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494504230.698029\n"
+"X-POOTLE-MTIME: 1494769705.421953\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -43,7 +43,7 @@ msgstr "Pokemon GO – potrzebne cukierki"
 #: View/Pages/xp_earning.ctp:61;217
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
-"<b>Dlaczego reklamy?</b> Narzędzia badawcze TheSilphRoad.com generują "
+"<b>Po co te reklamy?</b> Narzędzia badawcze TheSilphRoad.com generują "
 "ogromny ruch, więc pieniądze są potrzebne, aby wszystko mogło działać!"
 
 #: View/Pages/buddy_candy.ctp:81
@@ -105,8 +105,8 @@ msgstr "Lista dystansów jajek w Pokemon GO"
 #: View/Pages/egg_distances.ctp:82
 msgid "Listed below are all hatchable species in Pokemon GO arranged by egg distance."
 msgstr ""
-"Poniżej znajdują się wszystkie gatunki, które można wykluć w Pokemon GO, "
-"posortowane wg. dystansu."
+"Poniżej znajdują się wszystkie gatunki, które można wykluć w Pokemon GO "
+"posortowane wg dystansu."
 
 #: View/Pages/egg_distances.ctp:85
 msgid "We have also listed the 'best' and 'worst' CP an egg may hatch at <em>if your Trainer Level is above 20</em>.  All eggs acquired after Trainer Level 20 will hatch at Pokemon Level 20.  This means that the variation in CP upon hatching is a result of differing IVs.  Perfect IVs (15/15/15) will give the 'perfect' CP, while all the lowest possible IVs (10/10/10) will give the 'worst' CP!  (All egg hatches have a value from 10-15 for attack, defense, and stamina Individual Values.)"
@@ -330,7 +330,7 @@ msgstr "Wytrzymałość"
 #: View/Pages/species_stats.ctp:303
 msgid "<b>Why Ads?</b> Logged-in travelers don't see ads! Join the community at <a href='https://reddit.com/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad</a>!<br> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
-"<b>Dlaczego reklamy?</b> Zalogowani podróżnicy nie widzą reklam! Dołącz do "
+"<b>Po co te reklamy?</b> Zalogowani podróżnicy nie widzą reklam! Dołącz do "
 "nas na <a href='https://reddit.com/r/TheSilphRoad' "
 "target='_blank'>/r/TheSilphRoad</a>!<br> Narzędzia badawcze TheSilphRoad.com "
 "generują ogromny ruch, więc pieniądze są potrzebne, aby wszystko mogło "
@@ -826,7 +826,7 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:95
 msgid "Nice! throw bonus"
-msgstr ""
+msgstr "Bonus za rzut „Nice!”"
 
 #: View/Pages/xp_earning.ctp:99
 msgid "Pokemon Ran Away"
@@ -834,11 +834,11 @@ msgstr ""
 
 #: View/Pages/xp_earning.ctp:103
 msgid "Great! throw bonus"
-msgstr ""
+msgstr "Bonus za rzut „Great!”"
 
 #: View/Pages/xp_earning.ctp:107
 msgid "First Throw Bonus for Catching Pokemon in One Ball"
-msgstr ""
+msgstr "Bonus za złapanie Pokemona pierwszym Pokeballem"
 
 #: View/Pages/xp_earning.ctp:111
 msgid "Pokestop interaction"
@@ -854,7 +854,7 @@ msgstr "Złapanie Pokemona"
 
 #: View/Pages/xp_earning.ctp:123
 msgid "Excellent! throw bonus"
-msgstr ""
+msgstr "Bonus za rzut „Excellent!”"
 
 #: View/Pages/xp_earning.ctp:127
 msgid "Catch your 100th Pokemon of a species"
@@ -886,11 +886,11 @@ msgstr "Użycie przedmiotu do ewolucji"
 
 #: View/Pages/xp_earning.ctp:155
 msgid "First Pokestop Spin of the Day"
-msgstr ""
+msgstr "Pierwszy Pokestop danego dnia"
 
 #: View/Pages/xp_earning.ctp:159
 msgid "First Pokemon Catch of the Day"
-msgstr ""
+msgstr "Pierwszy złapany Pokemon danego dnia"
 
 #: View/Pages/xp_earning.ctp:162;166
 msgid "2,500"
@@ -898,11 +898,11 @@ msgstr "2500"
 
 #: View/Pages/xp_earning.ctp:163
 msgid "Streak Bonus for 7 Consecutive Daily Pokemon Catches"
-msgstr ""
+msgstr "Bonus za złapanie Pokemona w kolejnych 7. dniach"
 
 #: View/Pages/xp_earning.ctp:167
 msgid "Streak Bonus for 7 Consecutive Daily Pokestop Spins"
-msgstr ""
+msgstr "Bonus za zakręcenie Pokestopem w kolejnych 7. dniach"
 
 #: View/Pages/xp_earning.ctp:171
 msgid "Train at a Gym (Less for using an overpowered 'mon)"

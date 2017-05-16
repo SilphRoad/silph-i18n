@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-11 10:58+0000\n"
+"PO-Revision-Date: 2017-05-14 11:47+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494500312.949328\n"
+"X-POOTLE-MTIME: 1494762434.239421\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -32,6 +32,9 @@ msgstr ""
 #: View/Atlas/index.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
 msgstr ""
+"Światowy Atlas Gniazd stworzony przez The Silph Road jest największym na "
+"świecie zbiorem gniazd w Pokemon GO zawierającym informacje od podróżników z "
+"całego świata."
 
 #: View/Atlas/index.ctp:583
 msgid "&laquo; More"
@@ -59,7 +62,7 @@ msgstr ""
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
-"<b>Dlaczego reklamy?</b> Narzędzia badawcze TheSilphRoad.com generują "
+"<b>Po co te reklamy?</b> Narzędzia badawcze TheSilphRoad.com generują "
 "ogromny ruch, więc pieniądze są potrzebne, aby wszystko mogło działać!"
 
 #: View/Atlas/index.ctp:627
@@ -214,8 +217,8 @@ msgstr "<em>Obszar</em> występowania"
 #: View/Atlas/index.ctp:950;1143
 msgid "Semi-frequent spawning over a small area (typically non-concurrent) <br>Examples: riverbanks/piers, a large golfcourse, 3-5 city blocks, etc"
 msgstr ""
-"Umiarkowane występowanie na małym obszarze (zazwyczaj nie jednocześnie) <br> "
-"Przykłady: nabrzeża/molo, duże pole golfowe, 3-5 bloków mieszkalnych itd."
+"Umiarkowane występowanie na małym obszarze (zazwyczaj nie jednocześnie). <br>"
+" Przykłady: nabrzeża/molo, duże pole golfowe, 3-5 bloków mieszkalnych itd."
 
 #: View/Atlas/index.ctp:960;1153
 msgid "Frequent Spawn <em>Point</em>"
@@ -284,7 +287,7 @@ msgstr "Wyszukaj"
 
 #: View/Atlas/index.ctp:1065
 msgid "what have you found, traveler?"
-msgstr ""
+msgstr "Jakiego Pokemona znalazłeś?"
 
 #: View/Atlas/index.ctp:1067
 msgid "Sighting Report &raquo;"
@@ -301,8 +304,8 @@ msgstr "Raporty z obserwacji"
 #: View/Atlas/index.ctp:1070
 msgid "are normal spawn reports - i.e. when you encounter a Pokemon in your travels, submit a Sighting Report!"
 msgstr ""
-"są normalnymi zgłoszeniami występowania – np. kiedy zauważysz Pokemona w "
-"trakcie podróży, zdaj raport z obserwacji!"
+"To normalne zgłoszenia występowania – np. kiedy zauważysz Pokemona w trakcie "
+"podróży, zdaj raport z obserwacji!"
 
 #: View/Atlas/index.ctp:1071
 msgid "Nests"
@@ -311,7 +314,7 @@ msgstr "Gniazda"
 #: View/Atlas/index.ctp:1072
 msgid "are our term for <em>repeat spawns</em> or <em>clustered spawns</em> of the same species. Only report a 'Nest' if you see multiples of an uncommon species at once (or a consistently spawning rare 'mon)!"
 msgstr ""
-"oznaczają <em>powtarzające się występowania</em> lub <em>gromadę</em> tego "
+"Oznaczają <em>powtarzające się występowania</em> lub <em>gromadę</em> tego "
 "samego gatunku. Zgłoś „Gniazdo” tylko, jeśli zaobserwujesz wiele rzadkich "
 "Pokemonów jednego gatunku (albo stale pojawiającego się bardzo rzadkiego "
 "Pokemona)!"
@@ -332,7 +335,7 @@ msgstr "Wczytywanie mapy"
 
 #: View/Atlas/index.ctp:1087;1179;1205
 msgid "Search Box"
-msgstr ""
+msgstr "Szukaj"
 
 #: View/Atlas/index.ctp:1093;1186
 msgid "No Sighting Reports Yet!"
@@ -361,7 +364,7 @@ msgstr "Jaki to typ gniazda?"
 msgid "Multiple appear on the map <span style='text-decoration: underline;'>at once</span> within a single hour (at the same time)"
 msgstr ""
 "Kilka pojawia się na mapie <span style='text-decoration: underline;'>w tym "
-"samym czasie</span> w ciągu jednej godziny (jednocześnie)"
+"samym czasie</span> w ciągu jednej godziny (jednocześnie)."
 
 #: View/Atlas/index.ctp:1155
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
@@ -421,11 +424,11 @@ msgstr "Wpisz CP..."
 
 #: View/Atlas/index.ctp:1242
 msgid "Incense"
-msgstr ""
+msgstr "Incense"
 
 #: View/Atlas/index.ctp:1247
 msgid "Using Incense or Lure Patch"
-msgstr ""
+msgstr "Z użyciem Incense lub Lure"
 
 #: View/Atlas/index.ctp:1257
 msgid "Select Quick Move..."
@@ -620,7 +623,7 @@ msgstr "Włącz lokalizację, aby przejść do swojego położenia."
 
 #: View/Atlas/index.ctp:1888
 msgid "Select All"
-msgstr ""
+msgstr "Zaznacz wszystko"
 
 #: View/Atlas/index.ctp:1889
 msgid "All Species"

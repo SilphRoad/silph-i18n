@@ -6,251 +6,343 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-13 19:51+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1494705115.664200\n"
 
 #: View/Users/registration.ctp:162
 msgid "Hey, stranger!"
-msgstr ""
+msgstr "Ciao, straniero!"
 
 #: View/Users/registration.ctp:163
 msgid "It's <b>%s</b>, right? You're the new traveler."
-msgstr ""
+msgstr "È  <b>%s</b>, corretto? Sei il nuovo viaggiatore?"
 
 #: View/Users/registration.ctp:164
 msgid "The <b>Silph Road Ranger</b> sent me to make sure you're all set up and comfortable."
 msgstr ""
+"Il <b>Ranger della Silph Road</b> mi ha mandato per assicurarmi che tu sia "
+"pronto e a tuo agio."
 
 #: View/Users/registration.ctp:165
 msgid "What?  You've never heard of the <b>Silph Road</b>?"
-msgstr ""
+msgstr "Come?  Non hai mai sentito parlare di The <b>Silph Road</b>?"
 
 #: View/Users/registration.ctp:166
 msgid "Well, I'll give you the basics."
-msgstr ""
+msgstr "Beh, ti spiegheremo l'essenziale."
 
 #: View/Users/registration.ctp:167
 msgid "The <b>Silph Road</b> is the name of a worldwide network of Pokemon trainers who've joined together to help everyone. \n\t\t\t\t\t<b>Travelers</b> on the road help new trainers learn the ropes, coordinate for gym battles, get to know their local players, and even trade exotic Pokemon from near or faraway places."
 msgstr ""
+"The <b>Silph Road</b> è il nome di una rete mondiale di allenatori di "
+"Pokemon che si sono riuniti per aiutarsi a vicenda. \n"
+"\t\t\t\t\t<b>Viaggiatori</b> della strada aiutano nuovi allenatori ad "
+"imparare le basi, a coordinare le battaglie nelle palestre, a conoscere i "
+"giocatori locali e persino a scambiare Pokémon esotici provenienti da posti "
+"vicini e lontani."
 
 #: View/Users/registration.ctp:169
 msgid "So even if you live in a desert, you can get a squirtle! Pretty cool, huh."
 msgstr ""
+"Quindi anche se vivi nel deserto, puoi avere uno squirtle! Interessante, eh."
 
 #: View/Users/registration.ctp:170
 msgid "Next"
-msgstr ""
+msgstr "Avanti"
 
 #: View/Users/registration.ctp:175
 msgid "Hey, you should become an official <b>traveler</b> and help out!"
 msgstr ""
+"Hey, dovresti diventare un <b>viaggiatore</b> ufficiale e dare una mano!"
 
 #: View/Users/registration.ctp:176
 msgid "That would also let <em>you</em> use the Road to get access to Pokemon <em>you're</em> looking for yourself."
 msgstr ""
+"In questo modo potrai anche <em>tu</em> usare The Road per ottenere Pokemon "
+"che <em>tu stai</em> cercando."
 
 #: View/Users/registration.ctp:177
 msgid "Wanna come with me and get an official <b>Traveler Card</b>?"
-msgstr ""
+msgstr "Vuoi seguirmi per avere una <b>Carta del Viaggiatore</b>ufficiale?"
 
 #: View/Users/registration.ctp:178
 msgid "OK!"
-msgstr ""
+msgstr "OK!"
 
 #: View/Users/registration.ctp:179;211;224;307;373;573
 msgid "Back"
-msgstr ""
+msgstr "Indietro"
 
 #: View/Users/registration.ctp:185
 msgid "Oh, almost forgot! First, you should decide what you want people 'round here to call you. \n\t\t\t\t\t\tIt should be what you're called on the Pokemon GO app!  My <b>Traveler</b> name is <b>Dronpes</b>, by the way."
 msgstr ""
+"Oh, quasi dimenticavo! Prima dovresti decidere come vuoi farti chiamare "
+"dalla gente \n"
+"\t\t\t\t\t\tDovrebbe essere lo stesso che usi nell'applicazione di Pokemon "
+"Go! Comunque il mio <b>nome</b> da viaggiatore è <b>Dronpes</b>."
 
 #: View/Users/registration.ctp:194
 msgid "Letters, underscores, hyphens, and numbers are allowed. Not required to be the same as your Reddit username."
 msgstr ""
+"Sono permessi lettere, trattini bassi, trattini e numeri. Non deve essere il "
+"tuo stesso nome utente di Reddit."
 
 #: View/Users/registration.ctp:198
 msgid "And while I'm at it, how old are you?  They only let trainers 16 years or older get <b>Traveler Cards</b>. They'll kick you off til you're old enough if you lie.  (Trust me, I know...)"
 msgstr ""
+"E nel frattempo, quanti anni hai?  Soltanto allenatori di 16 anni o più "
+"possono avere una <b>Carta del Viaggiatore</b>. Se menti, ti cacceranno fino "
+"a che raggiungerai la giusta età.  (Fidati, lo so...)"
 
 #: View/Users/registration.ctp:201
 msgid "Your Age"
-msgstr ""
+msgstr "Età"
 
 #: View/Users/registration.ctp:204
 msgid "Numbers only"
-msgstr ""
+msgstr "Solo numeri"
 
 #: View/Users/registration.ctp:210
 msgid "Done!"
-msgstr ""
+msgstr "Fatto!"
 
 #: View/Users/registration.ctp:216
 msgid "Great!"
-msgstr ""
+msgstr "Grandioso!"
 
 #: View/Users/registration.ctp:217
 msgid "You should also know..."
-msgstr ""
+msgstr "Dovresti sapere anche che..."
 
 #: View/Users/registration.ctp:218
 msgid "Even though trading on the <b>Road</b> is pretty simple, <b>travelers</b> on the <b>Road</b> take their job pretty seriously.  \n\t\t\t\t\tThey have to trust each other to each handle their part of the journey when trading starts up, or to pull their weight in coordinated gym battling.\n\t\t\t\t\tOnly do it if you can commit to not flaking out.  They'll take your <b>Traveler Card</b> \n\t\t\t\t\taway if you screw around with other people's Pokemon en-route to their destination.  Then you can't use the <b>Road</b> anymore!</p>\n\t\t\t\t\t<p>But they're actually really friendly.  On the <b>Road</b> you'll meet new faces from all over the world!  I'll introduce you to some local travelers in a minute!  Come on, let's get you your official <b>Traveler Card</b> first."
 msgstr ""
+"Anche se fare scambi su The <b>Road</b> è abbastanza semplice, i "
+"<b>viaggiatori</b> di The <b>Road</b> prendono il proprio lavoro "
+"seriamente.  \n"
+"\t\t\t\t\tDevono fidarsi l'uno dell'altro per affrontare il viaggio quando "
+"lo scambio comincia, o fare la propria parte nelle battaglie in palestra.\n"
+"\t\t\t\t\tFallo solo se puoi garantire di non doverti tirare indietro.  Ti "
+"ritireranno la <b>Carta del viaggiatore</b>\n"
+"\t\t\t\t\tse farai cavolate con i Pokemon di altre persone in viaggio verso "
+"la loro destinazione.  E non potrai più usare The <b>Road</b>!</p>\n"
+"\t\t\t\t\t<p>In realtà sono davvero amichevoli.  Su The <b>Road</b> "
+"incntrearai facce nuove da tutto il mondo!  Ti presenterò alcuni nuovi "
+"viaggiatori tra un minuto!  Andiamo, prima prendiamo la tua <b>Carta del "
+"viaggiatore</b> ufficiale."
 
 #: View/Users/registration.ctp:223
 msgid "Begin"
-msgstr ""
+msgstr "Inizia"
 
 #: View/Users/registration.ctp:288
 msgid "Traveler Card Application: Step 1 of 1"
-msgstr ""
+msgstr "Richiesta Carta del Viaggiatore: Passo 1 di 1."
 
 #: View/Users/registration.ctp:289
 msgid "Now for something important."
-msgstr ""
+msgstr "Ora per qualcosa d'importante."
 
 #: View/Users/registration.ctp:290
 msgid "The Silph Road is run by <b>Silph Executives</b> as a charity.  They keep all <b>travelers'</b> emails on file and use\n\t\t\t\t\tthem to contact you when updates occur with trades you're involved in or other important info.  It keeps things moving swiftly!"
 msgstr ""
+"La Silph Road è gestita dai <b>Silph Executives</b> senza scopi di lucro.  "
+"Gli Executives registrano su file tutte le mail dei <b>viaggiatori</b> e le "
+"usano\n"
+"\t\t\t\t\tper contattarvi quando ci sono aggiornamenti sugli scambi in cui "
+"siete coinvolti o per altre informazioni importanti.  Questo fa sì che le "
+"cose procedano senza intoppi!"
 
 #: View/Users/registration.ctp:297
 msgid "Your Email"
-msgstr ""
+msgstr "La Tua Email"
 
 #: View/Users/registration.ctp:300
 msgid "Used to alert you of trade updates and other important info (no promotions)."
 msgstr ""
+"è utilizzata solo per metterti a conoscenza di aggiornamenti sugli scambi o "
+"di altre informazioni importanti (non per promozioni)."
 
 #: View/Users/registration.ctp:306
 msgid "Sounds Good!"
-msgstr ""
+msgstr "Va Bene!"
 
 #: View/Users/registration.ctp:363
 msgid "Alright, that's it!"
-msgstr ""
+msgstr "D'accordo, eccolo!"
 
 #: View/Users/registration.ctp:364
 msgid "You'll get an email from the <b>Silph Executive</b> team when your <b>Traveler Card</b> is ready to be issued. (You'll need that to actually trade on the <b>Road</b>)."
 msgstr ""
+"Riceverai un'email dal team dei <b>Silph Executive</b> quando la tua <b>"
+"Carta del Viaggiatore</b> sarà pronta per essere emessa. (Ne avrai bisogno "
+"per effettuare scambi sulla <b>Road</b>)."
 
 #: View/Users/registration.ctp:367
 msgid "Nobody really seems to know much about the executives... but the <b>Silph Road</b> system they built is fantastic.  Rumor has it they're based in New York City!"
 msgstr ""
+"Nessuno sembra sapere granché sugli executives... ma il sistema della <b>"
+"Silph Road</b> che hanno creato è fantastico.  Si dice che la loro base sia "
+"a New York!"
 
 #: View/Users/registration.ctp:369
 msgid "Anyway, you can still get started using the <b>Road</b> while you wait for them to verify you. You'll be able to use the <b>Global Pokedex</b> and report <b>Sightings</b>"
 msgstr ""
+"Comunque, puoi iniziare a usare la <b>Road</b> mentre aspetti che il tuo "
+"account sia verificato. Potrai usare il <b>Pokedex Globale</b> e segnalare "
+"<b>Avvistamenti</b>"
 
 #: View/Users/registration.ctp:370
 msgid "I'm glad you're joining the <b>Road</b>.  It's a ton of fun.  Speaking of fun..."
 msgstr ""
+"Sono contento che tu ti stia unendo alla <b>Road</b>.  E' molto divertente.  "
+"A proposito di divertimento..."
 
 #: View/Users/registration.ctp:371
 msgid "Why don't we set up your Silph Pokedex now?"
-msgstr ""
+msgstr "Che ne dici di costruire il tuo Silph Pokédex adesso?"
 
 #: View/Users/registration.ctp:372
 msgid "Let's Do It"
-msgstr ""
+msgstr "Facciamolo"
 
 #: View/Users/registration.ctp:523
 msgid "Your Global Visibility"
-msgstr ""
+msgstr "La tua Visibilità Globale"
 
 #: View/Users/registration.ctp:525
 msgid "You're gonna love this!  The Silph Global Pokedex allows you to see sighting locations reported by other travelers! But that means that they can see <em>your</em> reports, too."
 msgstr ""
+"Lo adorerai!  Il Pokedex Globale Silph ti permette di vedere i luoghi degli "
+"avvistamenti segnalati da altri viaggiatori! Ma questo significa che anche "
+"loro possono vedere le <em>tue</em> segnalazioni."
 
 #: View/Users/registration.ctp:526
 msgid "A dense pocket of sightings at or near your home may give away your location - and you don't want that.  You can <b>hide</b> sightings from your home by marking a location to obscure below!"
 msgstr ""
+"Un denso insieme di avvistamenti presso o vicino alla tua casa potrebbe "
+"rivelare la tua posizione - e non vuoi che ciò succeda.  Puoi "
+"<b>nascondere</b> gli avvistamenti da casa tua indicando qui sotto una "
+"posizione da oscurare!"
 
 #: View/Users/registration.ctp:527
 msgid "Simply place a marker very near your home (preferably on some <b>busy <u>public</u> place</b> nearby). (Do NOT place it exactly on your home address!)"
 msgstr ""
+"Posiziona semplicemente il marcatore molto vicino a casa tua (possibilmente "
+"in un qualche <b>luogo <u>pubblico</u>o affollato</b> nelle vicinanze). (NON "
+"posizionarlo esattamente sul tuo indirizzo di casa!)"
 
 #: View/Users/registration.ctp:528
 msgid "You'll never give any <b>traveler</b> or <b>Executive</b> information about where you actually live.  Got it?  Alright, give it a go!"
 msgstr ""
+"Non darai mai a nessun <b>viaggiatore</b> o <b>Executive</b> informazioni su "
+"dove vivi in realtà.  Capito?  Ok, proviamoci!"
 
 #: View/Users/registration.ctp:537
 msgid "(Tap to place marker! If the map is solid green, zoom all the way out - you're in the ocean!)"
 msgstr ""
+"(Clicca per posizionare il marcatore! Se la mappa è tutta verde, fai uno "
+"zoom all'indietro - sei nell'oceano!)"
 
 #: View/Users/registration.ctp:539
 msgid "And finally, how many city blocks' radius from that point would you like to obscure from others' maps? (We recommend 3 or 4)"
 msgstr ""
+"Infine, di quanti isolati a partire da quel punto vuoi che sia il raggio "
+"dell'area oscurata sulle mappe degli altri? (Suggeriamo 3 o 4)"
 
 #: View/Users/registration.ctp:542
 msgid "City Blocks Radius to Hide"
-msgstr ""
+msgstr "Raggio in Isolati da Nascondere"
 
 #: View/Users/registration.ctp:549
 msgid "All Done!"
-msgstr ""
+msgstr "Fatto!"
 
 #: View/Users/registration.ctp:556
 msgid "Silph Global Pokedex"
-msgstr ""
+msgstr "Silph Pokédex Globale"
 
 #: View/Users/registration.ctp:557
 msgid "Alright, traveler, you're all set!"
-msgstr ""
+msgstr "Ottimo, viaggiatore, sei pronto!"
 
 #: View/Users/registration.ctp:558
 msgid "You can now use the <b>Silph Global Pokedex</b> while you wait for your Traveler card and access to the rest of the Silph Road's tools. This handy companion is a powerful tool that updates global pokemon species information in near real time!"
 msgstr ""
+"Adesso puoi usare il <b>Pokedex Globale Silph</b> mentre attendi la tua "
+"Carta Del Viaggiatore e l'accesso agli altri strumenti della Silph Road. "
+"Questo utile compagno di viaggio è un potente strumento che aggiorna "
+"praticamente in tempo reale le informazioni globali sulle specie Pokémon!"
 
 #: View/Users/registration.ctp:560
 msgid "In case you were interested, Silph is also <b>researching nests!"
 msgstr ""
+"Nel caso ti interessi, la Silph sta anche <b>svolgendo ricerche sui nidi!"
 
 #: View/Users/registration.ctp:561
 msgid "If you see a Pokemon nest, report in and help Silph create the global <b>Nest Atlas</b>, which integrates into the Global Pokedex."
 msgstr ""
+"Se vedi un nido di Pokemon, fai la tua segnalazione e aiuta la Silph a "
+"creare l'<b>Atlante dei Nidi</b> globale, che è integrato al Pokédex Globale."
 
 #: View/Users/registration.ctp:563
 msgid "Finally, if you'd like to help map spawns in your area, report spawns <b>immediately after the spawn</b> and Silph will collect weather and other sensor data from that moment!"
 msgstr ""
+"Infine, se vuoi migliorare le mappe delle apparizioni nella tua zona, "
+"segnala le comparse <b>appena avvengono</b> e la Silph raccoglierà dati sul "
+"meteo e informazioni da ulteriori sensori per quel momento!"
 
 #: View/Users/registration.ctp:565
 msgid "The more people who contribute nest and spawn information, the more we learn about why certain species spawn where they do!  Every little pidgey is important - so <b>don't only report the rare mon's you see!</b>"
 msgstr ""
+"Più persone contribuiranno con informazioni sui nidi e le comparse, più "
+"impareremo sul perché certe specie compaiono in certi posti!  Ogni piccolo "
+"pidgey è importante - quindi <b>non riportare solo i pokemon rari che "
+"vedi!</b>"
 
 #: View/Users/registration.ctp:567
 msgid "Anyway, you don't have to report spawns, but think about it!"
-msgstr ""
+msgstr "In ogni caso, non devi riportare le comparse, però pensaci!"
 
 #: View/Users/registration.ctp:569
 msgid "Ready to get your hands on the Silph Pokedex? Go ahead!"
-msgstr ""
+msgstr "Pronto a mettere le mani sul Silph Pokédex? Avanti!"
 
 #: View/Users/registration.ctp:572
 msgid "I'm Ready!"
-msgstr ""
+msgstr "Sono Pronto!"
 
 #: View/Users/registration.ctp:675;706;737;811;859
 msgid "Your session has expired! Please re-load the page and re-authenticate to continue."
 msgstr ""
+"La tua sessione è scaduta! Per favore ricarica la pagina ed effettua di "
+"nuovo l'accesso per continuare."
 
 #: View/Users/registration.ctp:715
 msgid "You must enter an email address!"
-msgstr ""
+msgstr "Devi inserire un indirizzo email!"
 
 #: View/Users/registration.ctp:749
 msgid "You must accept the Traveler's Code and the Silph Road Terms of Use to continue!"
 msgstr ""
+"Devi accettare il Codice del Viaggiatore e i Termini di Utilizzo della Silph "
+"Road per continuare!"
 
 #: View/Users/registration.ctp:827
 msgid "You must place a marker (even if you wish to specify a radius of ZERO blocks) so you can be placed in a Camp! (Try a non-Internet Explorer browser!)"
 msgstr ""
+"Devi posizionare un marcatore (anche se vuoi indicare un raggio di ZERO "
+"isolati) per essere posizionato in un Campo! (Prova con un browser diverso "
+"da Internet Explorer!)"
 
 #: View/Users/registration.ctp:831
 msgid "You must specify a radius, even if it is ZERO!"
-msgstr ""
+msgstr "Devi indicare un raggio, anche se è ZERO!"

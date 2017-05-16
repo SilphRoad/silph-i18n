@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-05 21:54+0000\n"
+"PO-Revision-Date: 2017-05-13 20:09+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494021276.923333\n"
+"X-POOTLE-MTIME: 1494706142.628611\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -139,15 +139,15 @@ msgstr "Gruppo"
 
 #: View/Atlas/index.ctp:840
 msgid "Frequent Spawn Area"
-msgstr "Zona di Apparizione Frequente"
+msgstr "Zona di Avvistamenti Frequenti"
 
 #: View/Atlas/index.ctp:841
 msgid "Frequent Spawn Point"
-msgstr "Punto di Apparizione Frequente"
+msgstr "Punto di Avvistamenti Frequenti"
 
 #: View/Atlas/index.ctp:842
 msgid "(Unknown Spawn Type)"
-msgstr "(Tipo di Apparizione Sconosciuto)"
+msgstr "(Tipo di Avvistamento Sconosciuto)"
 
 #: View/Atlas/index.ctp:865
 msgid "Loading Nest Data..."
@@ -201,7 +201,7 @@ msgstr "Che Tipo di Nido Hai Trovato Qui?"
 
 #: View/Atlas/index.ctp:936;1129
 msgid "Cluster Spawn"
-msgstr "Apparizioni Multiple"
+msgstr "Apparizioni in Gruppo"
 
 #: View/Atlas/index.ctp:938
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
@@ -406,7 +406,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1211
 msgid "This is a New Nest!"
-msgstr "Questo è un Nuovo Nido!"
+msgstr "Questo è un Nido Nuovo!"
 
 #: View/Atlas/index.ctp:1216
 msgid "Catalogue!"
@@ -422,7 +422,7 @@ msgstr "Punti Lotta (PL)"
 
 #: View/Atlas/index.ctp:1237
 msgid "Enter CP..."
-msgstr "Inserisci PL..."
+msgstr "Inserisci i PL..."
 
 #: View/Atlas/index.ctp:1242
 msgid "Incense"
@@ -430,7 +430,7 @@ msgstr "Aroma"
 
 #: View/Atlas/index.ctp:1247
 msgid "Using Incense or Lure Patch"
-msgstr "Usando Aroma o Moduli Esca"
+msgstr "Usando un Aroma o un Modulo Esca"
 
 #: View/Atlas/index.ctp:1257
 msgid "Select Quick Move..."
@@ -462,8 +462,7 @@ msgstr "Conferma La Tua Posizione!"
 
 #: View/Atlas/index.ctp:1310
 msgid "Drag the map so the marker is on your exact position:"
-msgstr ""
-"Trascina la mappa così che l'indicatore sia esattamente nella tua posizione:"
+msgstr "Trascina la mappa così che l'indicatore sia sulla tua posizione esatta:"
 
 #: View/Atlas/index.ctp:1319
 msgid "Set Location"
@@ -519,7 +518,7 @@ msgstr "Ancora Nessuna Squadra"
 
 #: View/Atlas/index.ctp:1508
 msgid "Time:"
-msgstr "Tempo:"
+msgstr "Ora:"
 
 #: View/Atlas/index.ctp:1513
 msgid "Moon Phase"
@@ -561,7 +560,7 @@ msgstr "La tua sessione è scaduta.  Per favore, esegui nuovamente l'accesso!"
 
 #: View/Atlas/index.ctp:1615
 msgid "Your device/browser does not support geolocation! :("
-msgstr "Il tuo dispositivo/browser non supporta la geolocalizzazione :("
+msgstr "Il tuo dispositivo/browser non supporta la geolocalizzazione! :("
 
 #: View/Atlas/index.ctp:1616
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
@@ -626,7 +625,7 @@ msgstr "Ammirando la Nostra Master Ball..."
 
 #: View/Atlas/index.ctp:1814
 msgid "Enable location services to jump to your location!"
-msgstr "Abilita i servizi di localizzazione per andare alla tua posizione!"
+msgstr "Abilita il servizio di localizzazione per andare alla tua posizione!"
 
 #: View/Atlas/index.ctp:1888
 msgid "Select All"

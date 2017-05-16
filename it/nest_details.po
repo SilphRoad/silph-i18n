@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-04 14:45+0000\n"
+"PO-Revision-Date: 2017-05-13 20:17+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493909124.220994\n"
+"X-POOTLE-MTIME: 1494706661.729780\n"
 
 #: COMMENT
 msgid "Map"
@@ -43,12 +43,12 @@ msgstr "Stato Sconosciuto!"
 #: COMMENT
 msgid "Add your report to help identify this location's new nest species - or if it's not a nest location at all!"
 msgstr ""
-"Aggiungi la tua segnalazione per aiutarci a scoprire se questo è un nuovo "
-"nido di una specie - o se il nido non esiste affatto!"
+"Aggiungi la tua segnalazione per aiutarci ad identificare la posizione di "
+"questo nuovo nido - o se il nido non esiste affatto!"
 
 #: COMMENT
 msgid "Update"
-msgstr "Aggiorna"
+msgstr "Aggiornamento"
 
 #: COMMENT
 msgid "Add"

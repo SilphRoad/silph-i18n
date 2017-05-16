@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-07 17:44+0000\n"
+"PO-Revision-Date: 2017-05-13 02:12+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494179068.369472\n"
+"X-POOTLE-MTIME: 1494641521.459256\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -44,12 +44,12 @@ msgstr "IV-arvioija"
 #: View/Atlas/index.ctp:675;732
 #: View/Helper/TopNavHelper.php:45;114
 msgid "Reference Tables"
-msgstr ""
+msgstr "Taulukot"
 
 #: View/Atlas/index.ctp:676;733
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Moves By DPS"
-msgstr ""
+msgstr "Liikkeiden tehokkuus (DPS)"
 
 #: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:47;116
@@ -163,4 +163,4 @@ msgstr "Tunnistaudu &raquo;"
 
 #: View/Users/login.ctp:21
 msgid "You may create a Reddit account for free at Reddit.com."
-msgstr ""
+msgstr "Voit luoda Reddit-tilin ilmaiseksi osoitteessa Reddit.com."

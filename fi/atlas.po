@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-14 23:12+0000\n"
+"PO-Revision-Date: 2017-05-20 15:08+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494803546.338959\n"
+"X-POOTLE-MTIME: 1495292923.559054\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -47,6 +47,9 @@ msgstr "Pokémon GO -pesät"
 #: View/Atlas/index.ctp:611
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
+"<a href=\"%s\">Liity matkalle</a> ja auta tunnistamaan ja varmistamaan "
+"paikalliset pesäsi!  Maailmanlaajuinen pesäkartasto on kokoelma "
+"kenttäraportteja Silph Road -matkaajilta. "
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
@@ -80,7 +83,7 @@ msgstr "Verkostoidaan käyriä..."
 
 #: View/Atlas/index.ctp:793
 msgid "A Call for Beta Testers"
-msgstr ""
+msgstr "Beta-testaajia kaivataan"
 
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
@@ -513,7 +516,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1527
 msgid "Submit Field Report"
-msgstr ""
+msgstr "Lisää kenttäilmoitus"
 
 #: View/Atlas/index.ctp:1611
 msgid "Oops! Unable to retrieve nest data! You may need try again to re-authenticate!"
@@ -531,11 +534,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1614
 msgid "Your session has expired.  Please log back in!"
-msgstr ""
+msgstr "Istuntosi on vanhentunut.  Ole hyvä ja kirjaudu uudelleen sisään!"
 
 #: View/Atlas/index.ctp:1615
 msgid "Your device/browser does not support geolocation! :("
-msgstr ""
+msgstr "Laitteesi/selaimesi ei tue paikannusta! :("
 
 #: View/Atlas/index.ctp:1616
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
@@ -583,7 +586,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1638
 msgid "Blowing in the Cartridge..."
-msgstr ""
+msgstr "Puhalletaan kasettiin..."
 
 #: View/Atlas/index.ctp:1639
 msgid "Reticulating Splines..."
@@ -603,11 +606,11 @@ msgstr "Ota käyttöön sijaintipalvelut hypätäksesi suoraan sijaintiisi!"
 
 #: View/Atlas/index.ctp:1888
 msgid "Select All"
-msgstr ""
+msgstr "Valitse kaikki"
 
 #: View/Atlas/index.ctp:1889
 msgid "All Species"
-msgstr ""
+msgstr "Kaikki lajit"
 
 #: View/Atlas/index.ctp:1896;1897
 msgid "Species"
@@ -619,11 +622,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1950
 msgid "All Verification Levels"
-msgstr ""
+msgstr "Kaikki vahvistustasot"
 
 #: View/Atlas/index.ctp:1956
 msgid "All Nest Types"
-msgstr ""
+msgstr "Kaikki pesätyypit"
 
 #: View/Atlas/index.ctp:1961;1963
 msgid "Nest Behavior"
@@ -643,7 +646,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2201
 msgid "Sighted!"
-msgstr ""
+msgstr "Havaittu!"
 
 #: View/Atlas/index.ctp:2203
 msgid "Species reportedly common at location"

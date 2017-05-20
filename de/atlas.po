@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-15 19:38+0000\n"
+"PO-Revision-Date: 2017-05-20 13:03+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494877117.427869\n"
+"X-POOTLE-MTIME: 1495285398.597993\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -136,7 +136,7 @@ msgstr "Veraltet"
 
 #: View/Atlas/index.ctp:839
 msgid "Cluster"
-msgstr "Haufen"
+msgstr "Gruppe"
 
 #: View/Atlas/index.ctp:840
 msgid "Frequent Spawn Area"
@@ -203,7 +203,7 @@ msgstr "Welchen Nesttyp hast du hier gefunden?"
 
 #: View/Atlas/index.ctp:936;1129
 msgid "Cluster Spawn"
-msgstr "Gruppen-Spawn"
+msgstr "Gruppenspawn"
 
 #: View/Atlas/index.ctp:938
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
@@ -316,7 +316,7 @@ msgstr "Nester"
 #: View/Atlas/index.ctp:1072
 msgid "are our term for <em>repeat spawns</em> or <em>clustered spawns</em> of the same species. Only report a 'Nest' if you see multiples of an uncommon species at once (or a consistently spawning rare 'mon)!"
 msgstr ""
-"sind unser Begriff für <em>wiederholte Spawns</em> oder <em>gehäufte "
+"sind unser Begriff für <em>wiederholte Spawns</em> oder <em>gruppierte "
 "Spawns</em> derselben Art. Melde nur dann ein 'Nest', wenn du mehrere "
 "Exemplare einer ungewöhnlichen Art auf einmal siehst (oder wenn ein seltenes "
 "Pokemon beständig auftaucht)!"

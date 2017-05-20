@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-14 12:29+0000\n"
+"PO-Revision-Date: 2017-05-19 15:26+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494764968.426678\n"
+"X-POOTLE-MTIME: 1495207567.364617\n"
 
 #: View/Users/registration.ctp:162
 msgid "Hey, stranger!"
@@ -64,6 +64,8 @@ msgstr "Hej, powinieneś zostać <b>podróżnikiem</b> i nam pomóc!"
 #: View/Users/registration.ctp:176
 msgid "That would also let <em>you</em> use the Road to get access to Pokemon <em>you're</em> looking for yourself."
 msgstr ""
+"Teraz również <em>Ty</em> możesz korzystać z Silph Road i znaleźć "
+"poszukiwane Pokemony.<em></em>"
 
 #: View/Users/registration.ctp:177
 msgid "Wanna come with me and get an official <b>Traveler Card</b>?"
@@ -149,6 +151,10 @@ msgstr "Teraz coś ważnego."
 #: View/Users/registration.ctp:290
 msgid "The Silph Road is run by <b>Silph Executives</b> as a charity.  They keep all <b>travelers'</b> emails on file and use\n\t\t\t\t\tthem to contact you when updates occur with trades you're involved in or other important info.  It keeps things moving swiftly!"
 msgstr ""
+"<b>Szefowie Silph</b> prowadzą The Silph Road charytatywnie. Dysponują oni e-"
+"mailami wszystkich <b>podróżników</b> i za ich pomocą\n"
+"\t\t\t\t\tkontaktują się, gdy pojawią się aktualizacje lub dzieje się coś "
+"ważnego. Więc wszystko działa całkiem nieźle."
 
 #: View/Users/registration.ctp:297
 msgid "Your Email"
@@ -178,6 +184,8 @@ msgstr ""
 #: View/Users/registration.ctp:367
 msgid "Nobody really seems to know much about the executives... but the <b>Silph Road</b> system they built is fantastic.  Rumor has it they're based in New York City!"
 msgstr ""
+"Nikt nie wie za wiele o szefach... ale ich system <b>Silph Road</b> jest "
+"fenomenalny. Mówi się, że mieszkają oni w Nowym Jorku!"
 
 #: View/Users/registration.ctp:369
 msgid "Anyway, you can still get started using the <b>Road</b> while you wait for them to verify you. You'll be able to use the <b>Global Pokedex</b> and report <b>Sightings</b>"
@@ -202,7 +210,7 @@ msgstr "Jasne"
 
 #: View/Users/registration.ctp:523
 msgid "Your Global Visibility"
-msgstr ""
+msgstr "Dostępność ogólna"
 
 #: View/Users/registration.ctp:525
 msgid "You're gonna love this!  The Silph Global Pokedex allows you to see sighting locations reported by other travelers! But that means that they can see <em>your</em> reports, too."
@@ -214,6 +222,9 @@ msgstr ""
 #: View/Users/registration.ctp:526
 msgid "A dense pocket of sightings at or near your home may give away your location - and you don't want that.  You can <b>hide</b> sightings from your home by marking a location to obscure below!"
 msgstr ""
+"Pamiętaj, aby nie zgłaszać zbyt wielu wystąpień w pobliżu swojego domu, bo w "
+"ten sposób można się dowiedzieć, gdzie mieszkasz. Swoje obserwacje możesz "
+"<b>ukryć</b>!"
 
 #: View/Users/registration.ctp:527
 msgid "Simply place a marker very near your home (preferably on some <b>busy <u>public</u> place</b> nearby). (Do NOT place it exactly on your home address!)"
@@ -237,6 +248,8 @@ msgstr ""
 #: View/Users/registration.ctp:539
 msgid "And finally, how many city blocks' radius from that point would you like to obscure from others' maps? (We recommend 3 or 4)"
 msgstr ""
+"No i na koniec określ, w jakiej odległości ukrywać twoje obserwacje na "
+"mapie? (Zalecamy odległość 3 lub 4 przecznic)"
 
 #: View/Users/registration.ctp:542
 msgid "City Blocks Radius to Hide"

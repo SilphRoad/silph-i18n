@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-12 06:19+0000\n"
+"PO-Revision-Date: 2017-07-08 18:06+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494569992.104400\n"
+"X-POOTLE-MTIME: 1499537210.316762\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -98,7 +98,7 @@ msgstr "Llamado para los probadores de beta"
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
 msgstr ""
-"¡Ayúdanos a pilotar el NUEVO sistema de comunicación local del Atlas: la red "
+"Ayúdanos a pilotar el NUEVO sistema de comunicación local del Atlas: ¡la red "
 "<code style=\"padding: 2px 5px; color: #565656;\">Camp</code>! ¡Los viajeros "
 "de Manhattan están invitados!"
 
@@ -165,8 +165,8 @@ msgstr "Informe de nido"
 #: View/Atlas/index.ctp:890
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
 msgstr ""
-"¡Nota! ¡Ocurrió una migración de nidos <b>%s</b>! ¡Añade tus datos "
-"únicamente si tu informe es <b>POSTERIOR</b> a la última migración, viajero!"
+"¡Nota! ¡Ocurrió una migración de nidos <b>%s</b>! ¡Añade tus datos solamente "
+"si tu informe es <b>POSTERIOR</b> a la última migración, viajero!"
 
 #: View/Atlas/index.ctp:892
 msgid "Help update or refute this location! What did you find?"
@@ -246,7 +246,7 @@ msgid "For example, how many did you encounter? How long were you there? What sp
 msgstr ""
 "Por ejemplo, ¿a cuántos te encontraste? ¿Cuánto tiempo estuviste allí? ¿En "
 "qué punto específico viste una aparición? ¿A qué horas exactas observaste "
-"apariciones?  Etc.  ¡Cualquier cosa que pueda ser de utilidad para futuros "
+"apariciones?  Etc.  ¡Cualquier cosa que podría ser de utilidad para futuros "
 "viajeros!"
 
 #: View/Atlas/index.ctp:979
@@ -560,7 +560,7 @@ msgstr "La sesión ha caducado.  ¡Por favor, inicia sesión nuevamente!"
 
 #: View/Atlas/index.ctp:1615
 msgid "Your device/browser does not support geolocation! :("
-msgstr "¡Tu dispositivo/navegador no admite geolocalización! :("
+msgstr "¡Tu dispositivo/navegador no admite la geolocalización! :("
 
 #: View/Atlas/index.ctp:1616
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
@@ -658,7 +658,7 @@ msgstr "Comportamiento de nido"
 
 #: View/Atlas/index.ctp:1962
 msgid "1 Nest Behavior"
-msgstr "1 Comportamiento del nido"
+msgstr "1 comportamiento del nido"
 
 #: View/Atlas/index.ctp:1965
 msgid "Nest Behaviors"

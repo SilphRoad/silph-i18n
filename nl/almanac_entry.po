@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-17 05:31+0000\n"
+"PO-Revision-Date: 2018-02-18 08:51+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494999118.131071\n"
+"X-POOTLE-MTIME: 1518943879.107742\n"
 
 #: COMMENT
 msgid "Height:"
@@ -51,6 +51,8 @@ msgstr "Wacht Even:"
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
+"De nesten zijn wereldwijd aan het wijzigen! Houd de site in de gaten voor "
+"meer info."
 
 #: COMMENT
 msgid "Map Loading"
@@ -74,11 +76,11 @@ msgstr ""
 
 #: COMMENT
 msgid "DPS"
-msgstr "SPS"
+msgstr "DPS (schade per seconde)"
 
 #: COMMENT
 msgid "Pow."
-msgstr ""
+msgstr "Kracht."
 
 #: COMMENT
 msgid "ms"
@@ -130,7 +132,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Candy to Evolve"
-msgstr ""
+msgstr "Candy om te Evolueren"
 
 #: COMMENT
 msgid "Base Capture Rate"
@@ -170,7 +172,7 @@ msgstr "Vooraanstaande onderzoekers"
 
 #: COMMENT
 msgid "Most Sightings"
-msgstr ""
+msgstr "Meeste Waarnemingen"
 
 #: COMMENT
 msgid "Strongest Specimen"

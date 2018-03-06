@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-10 21:02+0000\n"
+"PO-Revision-Date: 2017-05-22 18:28+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494450127.805375\n"
+"X-POOTLE-MTIME: 1495477691.665422\n"
 
 #: COMMENT
 msgid "Map"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: COMMENT
 msgid "Update"
-msgstr "Bijwerken "
+msgstr "Bijwerken"
 
 #: COMMENT
 msgid "Add"
@@ -62,7 +62,7 @@ msgstr "Je moet je Identificeren om je verslag toe te voegen:"
 
 #: COMMENT
 msgid "Authenticate"
-msgstr "Verifiëren"
+msgstr "Identificeer"
 
 #: COMMENT
 msgid "Scout Report"
@@ -94,7 +94,7 @@ msgstr "Op"
 
 #: COMMENT
 msgid "first discovered this location and suspected it was a"
-msgstr ""
+msgstr "heeft als eerste dit nest ondekt: een "
 
 #: COMMENT
 msgid "nest!"

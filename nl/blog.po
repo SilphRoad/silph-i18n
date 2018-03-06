@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-10 20:53+0000\n"
+"PO-Revision-Date: 2017-05-22 22:08+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -14,11 +14,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494449618.196470\n"
+"X-POOTLE-MTIME: 1495490921.557048\n"
 
 #: View/Helper/PostSidebarHelper.php:10
 msgid "Trending"
-msgstr ""
+msgstr "Populair"
 
 #: View/Helper/PostSidebarHelper.php:21
 msgid "Tip:"
@@ -35,10 +35,13 @@ msgstr "Nieuws:"
 #: View/Helper/PostSidebarHelper.php:52
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Waarom Advertenties?</b> TheSilphRoad.com's onderzoeksinstrumenten zorgen "
+"voor veel internetverkeer - en het kost dus geld om de Silph Road online te "
+"houden!"
 
 #: View/Helper/PostSidebarHelper.php:55
 msgid "Loading Last Tweet..."
-msgstr ""
+msgstr "Laatste Tweets aan het laden..."
 
 #: View/Pages/blog.ctp:2;11
 msgid "Grassroots Pokemon GO Network"
@@ -77,7 +80,7 @@ msgstr "Silph Studie"
 
 #: View/Pages/blog.ctp:64
 msgid "Field Update"
-msgstr ""
+msgstr "Veld Update"
 
 #: View/Pages/blog.ctp:85
 msgid "See Full Tip &raquo;"
@@ -89,7 +92,7 @@ msgstr "Volledig Artikel &raquo;"
 
 #: View/Pages/blog.ctp:145
 msgid "Stay Tuned for More Tips!"
-msgstr ""
+msgstr "Blijf op de hoogte voor meer tips!"
 
 #: View/Pages/blog.ctp:146
 msgid "The Silph Road will be publishing a new tips periodically on this feed.  These <code>Trail Pointers</code> will help you on your way to becoming a Pokemon GO master!"
@@ -100,8 +103,11 @@ msgstr ""
 
 #: View/Pages/blog.ctp:151
 msgid "Stay Tuned for More Publications from the Silph Research Group"
-msgstr ""
+msgstr "Blijf op de hoogte voor meer publicaties van de Silph Research Group"
 
 #: View/Pages/blog.ctp:152
 msgid "The Silph Research Group has been recently re-organized and will be publishing formal findings in this feed.  Stay tuned for more delicious science soon, travelers!"
 msgstr ""
+"De Silph Research Group is onlangs opnieuw georganiseerd en publiceert "
+"formele bevindingen in deze feed.  Blijf de pagina bezoeken voor meer "
+"wetenschap, reizigers!"

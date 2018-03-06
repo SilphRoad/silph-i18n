@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-11 14:46+0000\n"
+"PO-Revision-Date: 2018-02-26 19:05+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494513998.667884\n"
+"X-POOTLE-MTIME: 1519671907.478719\n"
 
 #: View/Pages/buddy_candy.ctp:3
 msgid "Pokemon GO Buddy Candy Requirements | The Silph Road"
@@ -291,15 +291,15 @@ msgstr "Numéro du Pokédex"
 
 #: View/Pages/species_stats.ctp:159
 msgid "Best Attack Stat"
-msgstr "Meilleur Stat: Attaque"
+msgstr "Meilleur Stat : Attaque"
 
 #: View/Pages/species_stats.ctp:160
 msgid "Best Defense Stat"
-msgstr "Meilleure Stat: Défense"
+msgstr "Meilleure Stat : Défense"
 
 #: View/Pages/species_stats.ctp:161
 msgid "Best Stamina Stat"
-msgstr "Meilleure Stat: Endurance"
+msgstr "Meilleure Stat : Endurance"
 
 #: View/Pages/species_stats.ctp:162
 msgid "Best Sum of Stats"

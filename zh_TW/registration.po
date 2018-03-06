@@ -6,34 +6,36 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-11-08 05:28+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1510118881.422694\n"
 
 #: View/Users/registration.ctp:162
 msgid "Hey, stranger!"
-msgstr ""
+msgstr "嗨，新面孔！"
 
 #: View/Users/registration.ctp:163
 msgid "It's <b>%s</b>, right? You're the new traveler."
-msgstr ""
+msgstr "您是 <b>%s</b> 對吧？您同時也是新的旅行者。"
 
 #: View/Users/registration.ctp:164
 msgid "The <b>Silph Road Ranger</b> sent me to make sure you're all set up and comfortable."
-msgstr ""
+msgstr "The <b>Silph Road 管理員</b>派我來確保您順利準備齊全。"
 
 #: View/Users/registration.ctp:165
 msgid "What?  You've never heard of the <b>Silph Road</b>?"
-msgstr ""
+msgstr "什麼？  您從沒聽說過 the <b>Silph Road</b>？"
 
 #: View/Users/registration.ctp:166
 msgid "Well, I'll give you the basics."
-msgstr ""
+msgstr "好吧，讓我向您簡介一下。"
 
 #: View/Users/registration.ctp:167
 msgid "The <b>Silph Road</b> is the name of a worldwide network of Pokemon trainers who've joined together to help everyone. \n\t\t\t\t\t<b>Travelers</b> on the road help new trainers learn the ropes, coordinate for gym battles, get to know their local players, and even trade exotic Pokemon from near or faraway places."
@@ -41,31 +43,31 @@ msgstr ""
 
 #: View/Users/registration.ctp:169
 msgid "So even if you live in a desert, you can get a squirtle! Pretty cool, huh."
-msgstr ""
+msgstr "因此就算您住在沙漠，也可以藉此獲得一隻傑尼龜！嗯哼，這很酷吧。"
 
 #: View/Users/registration.ctp:170
 msgid "Next"
-msgstr ""
+msgstr "下一頁"
 
 #: View/Users/registration.ctp:175
 msgid "Hey, you should become an official <b>traveler</b> and help out!"
-msgstr ""
+msgstr "嘿！您應該成為正式的 <b>旅行者</b> 並幫助大家！"
 
 #: View/Users/registration.ctp:176
 msgid "That would also let <em>you</em> use the Road to get access to Pokemon <em>you're</em> looking for yourself."
-msgstr ""
+msgstr "這同時也能讓<em>您</em>使用 Silph Road，以獲取<em>您正在</em>找尋的寶可夢。"
 
 #: View/Users/registration.ctp:177
 msgid "Wanna come with me and get an official <b>Traveler Card</b>?"
-msgstr ""
+msgstr "想跟我一起出發並取得正式的<b>旅行者卡</b>嗎?"
 
 #: View/Users/registration.ctp:178
 msgid "OK!"
-msgstr ""
+msgstr "好的！"
 
 #: View/Users/registration.ctp:179;211;224;307;373;573
 msgid "Back"
-msgstr ""
+msgstr "上一頁"
 
 #: View/Users/registration.ctp:185
 msgid "Oh, almost forgot! First, you should decide what you want people 'round here to call you. \n\t\t\t\t\t\tIt should be what you're called on the Pokemon GO app!  My <b>Traveler</b> name is <b>Dronpes</b>, by the way."
@@ -73,7 +75,7 @@ msgstr ""
 
 #: View/Users/registration.ctp:194
 msgid "Letters, underscores, hyphens, and numbers are allowed. Not required to be the same as your Reddit username."
-msgstr ""
+msgstr "各種字母、底線、連字號及數字都能使用，並且不需要和您的 Reddit 使用者名稱相同。"
 
 #: View/Users/registration.ctp:198
 msgid "And while I'm at it, how old are you?  They only let trainers 16 years or older get <b>Traveler Cards</b>. They'll kick you off til you're old enough if you lie.  (Trust me, I know...)"
@@ -81,23 +83,23 @@ msgstr ""
 
 #: View/Users/registration.ctp:201
 msgid "Your Age"
-msgstr ""
+msgstr "您的年齡"
 
 #: View/Users/registration.ctp:204
 msgid "Numbers only"
-msgstr ""
+msgstr "只能輸入數字"
 
 #: View/Users/registration.ctp:210
 msgid "Done!"
-msgstr ""
+msgstr "完工！"
 
 #: View/Users/registration.ctp:216
 msgid "Great!"
-msgstr ""
+msgstr "太棒了！"
 
 #: View/Users/registration.ctp:217
 msgid "You should also know..."
-msgstr ""
+msgstr "您也必須知道……"
 
 #: View/Users/registration.ctp:218
 msgid "Even though trading on the <b>Road</b> is pretty simple, <b>travelers</b> on the <b>Road</b> take their job pretty seriously.  \n\t\t\t\t\tThey have to trust each other to each handle their part of the journey when trading starts up, or to pull their weight in coordinated gym battling.\n\t\t\t\t\tOnly do it if you can commit to not flaking out.  They'll take your <b>Traveler Card</b> \n\t\t\t\t\taway if you screw around with other people's Pokemon en-route to their destination.  Then you can't use the <b>Road</b> anymore!</p>\n\t\t\t\t\t<p>But they're actually really friendly.  On the <b>Road</b> you'll meet new faces from all over the world!  I'll introduce you to some local travelers in a minute!  Come on, let's get you your official <b>Traveler Card</b> first."

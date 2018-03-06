@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-14 22:31+0000\n"
+"PO-Revision-Date: 2017-07-06 20:26+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -15,96 +15,131 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494801094.122459\n"
+"X-POOTLE-MTIME: 1499372773.016697\n"
 
 #: View/Users/registration.ctp:162
 msgid "Hey, stranger!"
-msgstr ""
+msgstr "Hei, vieras!"
 
 #: View/Users/registration.ctp:163
 msgid "It's <b>%s</b>, right? You're the new traveler."
-msgstr ""
+msgstr "Olet siis <b>%s</b>, uusi matkaajamme?"
 
 #: View/Users/registration.ctp:164
 msgid "The <b>Silph Road Ranger</b> sent me to make sure you're all set up and comfortable."
 msgstr ""
+"<b>The Silph Roadin tienvalvoja</b> lähetti minut varmistamaan, että kaikki "
+"on kunnossa ja olet valmiina matkalle."
 
 #: View/Users/registration.ctp:165
 msgid "What?  You've never heard of the <b>Silph Road</b>?"
-msgstr ""
+msgstr "Mitä?  Etkö ole koskaan kuullut <b>Silph Roadista</b>?"
 
 #: View/Users/registration.ctp:166
 msgid "Well, I'll give you the basics."
-msgstr ""
+msgstr "No, minäpä kerron sinulle perusteet."
 
 # "on the road" tarkoittanee Silph Roadia, vaikka "road" ei alakaan isolla kirjaimella?
 #: View/Users/registration.ctp:167
 msgid "The <b>Silph Road</b> is the name of a worldwide network of Pokemon trainers who've joined together to help everyone. \n\t\t\t\t\t<b>Travelers</b> on the road help new trainers learn the ropes, coordinate for gym battles, get to know their local players, and even trade exotic Pokemon from near or faraway places."
 msgstr ""
+"<b>The Silph Road</b> on maailmanlaajuinen pokémon-kouluttajien verkosto, "
+"jonka jäsenet ovat lyöttäytyneet yhteen voidakseen olla avuksi kaikille. \n"
+"\t\t\t\t\t<b>Matkaajat</b> auttavat uusia kouluttajia oppimaan pelin "
+"tavoille, koordinoimaan salitaisteluja, tutustumaan paikallisiin pelaajin ja "
+"jopa käymään vaihtokauppaa eksoottisilla pokémoneilla läheltä ja kaukaa."
 
+# Pitäisikö tätä muuttaa vähän suomalaisiin oloihin sopivammaksi? Aavikkoa saa näiltä nurkilta hakea melkoisen pitkään...
 #: View/Users/registration.ctp:169
 msgid "So even if you live in a desert, you can get a squirtle! Pretty cool, huh."
 msgstr ""
+"Joten vaikka asuisitkin pohjoisnavalla, voit silti saada charmanderin! Aika "
+"siistiä, eikös."
 
 #: View/Users/registration.ctp:170
 msgid "Next"
-msgstr ""
+msgstr "Seuraava"
 
 #: View/Users/registration.ctp:175
 msgid "Hey, you should become an official <b>traveler</b> and help out!"
 msgstr ""
+"Hei, sinähän voisit ryhtyä viralliseksi <b>matkaajaksi</b> ja auttaa myös!"
 
 #: View/Users/registration.ctp:176
 msgid "That would also let <em>you</em> use the Road to get access to Pokemon <em>you're</em> looking for yourself."
 msgstr ""
+"Silloin myös <em>sinä</em> voit käyttää Roadia päästäksesi käsiksi etsimiisi "
+"pokémoneihin."
 
 #: View/Users/registration.ctp:177
 msgid "Wanna come with me and get an official <b>Traveler Card</b>?"
-msgstr ""
+msgstr "Haluatko tulla mukaani ja saada virallisen <b>matkaajakortin</b>?"
 
 #: View/Users/registration.ctp:178
 msgid "OK!"
-msgstr ""
+msgstr "OK!"
 
 #: View/Users/registration.ctp:179;211;224;307;373;573
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 #: View/Users/registration.ctp:185
 msgid "Oh, almost forgot! First, you should decide what you want people 'round here to call you. \n\t\t\t\t\t\tIt should be what you're called on the Pokemon GO app!  My <b>Traveler</b> name is <b>Dronpes</b>, by the way."
 msgstr ""
+"Hei, melkein unohdin! Ensin sinun pitäisi päättää, miten haluat itseäsi "
+"kutsuttavan täällä. \n"
+"\t\t\t\t\t\tSen tulisi olla sama nimi, jota käytät Pokémon GO -"
+"sovelluksessa!  Oma <b>matkaaja</b>nimeni on muuten <b>Dronpes</b>."
 
 #: View/Users/registration.ctp:194
 msgid "Letters, underscores, hyphens, and numbers are allowed. Not required to be the same as your Reddit username."
 msgstr ""
+"Kirjaimet, alaviivat, yhdysmerkit ja numerot ovat sallittuja. Nimen ei ole "
+"pakko vastata Reddit-käyttäjänimeäsi."
 
 #: View/Users/registration.ctp:198
 msgid "And while I'm at it, how old are you?  They only let trainers 16 years or older get <b>Traveler Cards</b>. They'll kick you off til you're old enough if you lie.  (Trust me, I know...)"
 msgstr ""
+"Kertoisitko muuten samalla, kuinka vanha olet?  Vain 16-vuotiaat tai "
+"vanhemmat voivat saada <b>matkaajakortin</b>. Jos valehtelet, sinut "
+"potkitaan pois, kunnes olet tarpeeksi vanha.  (Usko pois, tiedän kyllä...)"
 
 #: View/Users/registration.ctp:201
 msgid "Your Age"
-msgstr ""
+msgstr "Ikäsi"
 
 #: View/Users/registration.ctp:204
 msgid "Numbers only"
-msgstr ""
+msgstr "Vain numeroita"
 
 #: View/Users/registration.ctp:210
 msgid "Done!"
-msgstr ""
+msgstr "Valmis!"
 
 #: View/Users/registration.ctp:216
 msgid "Great!"
-msgstr ""
+msgstr "Hienoa!"
 
 #: View/Users/registration.ctp:217
 msgid "You should also know..."
-msgstr ""
+msgstr "Sinun olisi myös hyvä tietää..."
 
 #: View/Users/registration.ctp:218
 msgid "Even though trading on the <b>Road</b> is pretty simple, <b>travelers</b> on the <b>Road</b> take their job pretty seriously.  \n\t\t\t\t\tThey have to trust each other to each handle their part of the journey when trading starts up, or to pull their weight in coordinated gym battling.\n\t\t\t\t\tOnly do it if you can commit to not flaking out.  They'll take your <b>Traveler Card</b> \n\t\t\t\t\taway if you screw around with other people's Pokemon en-route to their destination.  Then you can't use the <b>Road</b> anymore!</p>\n\t\t\t\t\t<p>But they're actually really friendly.  On the <b>Road</b> you'll meet new faces from all over the world!  I'll introduce you to some local travelers in a minute!  Come on, let's get you your official <b>Traveler Card</b> first."
 msgstr ""
+"Vaikka vaihtokauppa <b>Roadilla</b> onkin aika yksinkertaista, ottavat "
+"<b>matkaajat</b> tehtävänsä melko tosissaan.<b></b>  \n"
+"\t\t\t\t\tHeidän on luotettava siihen, että jokainen tekee osansa niin "
+"vaihtokaupoissa (kunhan ne tulevat mahdollisiksi) kuin koordinoiduissa "
+"salitaisteluissakin.\n"
+"\t\t\t\t\tRyhdy tehtävään vain, jos voit sitoutua hoitamaan hommasi "
+"kunnolla.  <b>Matkaajakorttisi</b> otetaan \n"
+"\t\t\t\t\tpois, jos pelleilet toisten pokémoneilla, kun he ovat matkalla "
+"määränpäähänsä. Sitten et voi enää käyttää <b>Roadia</b>!</p>\n"
+"\t\t\t\t\t<p>Mutta muut matkaajat ovat oikeasti todella ystävällisiä.  "
+"<b>Roadilla</b> tapaat uusia naamoja ympäri maailmaa!  Esittelen sinut "
+"paikallisille matkaajille pian!  Tulepas, hankitaan sinulle ensin virallinen "
+"<b>matkaajakorttisi</b>. "
 
 #: View/Users/registration.ctp:223
 msgid "Begin"
@@ -112,35 +147,46 @@ msgstr "Aloita"
 
 #: View/Users/registration.ctp:288
 msgid "Traveler Card Application: Step 1 of 1"
-msgstr ""
+msgstr "Matkaajakorttihakemus: Vaihe 1/1"
 
 #: View/Users/registration.ctp:289
 msgid "Now for something important."
-msgstr ""
+msgstr "Nyt jotakin tärkeää."
 
 #: View/Users/registration.ctp:290
 msgid "The Silph Road is run by <b>Silph Executives</b> as a charity.  They keep all <b>travelers'</b> emails on file and use\n\t\t\t\t\tthem to contact you when updates occur with trades you're involved in or other important info.  It keeps things moving swiftly!"
 msgstr ""
+"<b>Silph-johtajat</b> pitävät The Silph Roadia pystyssä "
+"hyväntekeväisyysmielessä.  He keräävät kaikkien <b>matkaajien</b> "
+"sähköpostit talteen,\n"
+"\t\t\t\t\tjotta voivat ottaa sinuun yhteyttä, kun omiin vaihtokauppoihisi "
+"tulee päivityksiä tai on muita tärkeitä asioita kerrottavana. Se auttaa "
+"pitämään asioiden käsittelyn sukkelana!"
 
 #: View/Users/registration.ctp:297
 msgid "Your Email"
-msgstr ""
+msgstr "Sähköpostiosoitteesi"
 
 #: View/Users/registration.ctp:300
 msgid "Used to alert you of trade updates and other important info (no promotions)."
 msgstr ""
+"Tätä käytetään ilmoittamaan sinulle vaihtokauppapäivityksistä ja muista "
+"tärkeistä asioista (ei mainoksia)."
 
 #: View/Users/registration.ctp:306
 msgid "Sounds Good!"
-msgstr ""
+msgstr "Kuulostaa hyvältä!"
 
 #: View/Users/registration.ctp:363
 msgid "Alright, that's it!"
-msgstr ""
+msgstr "Noin, se oli siinä!"
 
 #: View/Users/registration.ctp:364
 msgid "You'll get an email from the <b>Silph Executive</b> team when your <b>Traveler Card</b> is ready to be issued. (You'll need that to actually trade on the <b>Road</b>)."
 msgstr ""
+"Saat sähköpostin <b>Silph-johtajilta</b>, kun <b>matkaajakorttisi</b> on "
+"valmis myönnettäväksi. (Tarvitset sitä voidaksesi käydä vaihtokauppaa "
+"<b>Roadin</b> kautta.)"
 
 #: View/Users/registration.ctp:367
 msgid "Nobody really seems to know much about the executives... but the <b>Silph Road</b> system they built is fantastic.  Rumor has it they're based in New York City!"
@@ -153,22 +199,27 @@ msgstr ""
 #: View/Users/registration.ctp:369
 msgid "Anyway, you can still get started using the <b>Road</b> while you wait for them to verify you. You'll be able to use the <b>Global Pokedex</b> and report <b>Sightings</b>"
 msgstr ""
+"Voit kuitenkin alkaa jo käyttää <b>Roadia</b> vahvistusta odotellessasi. "
+"Voit käyttää <b>maailmanlaajuista Pokédexiä</b> ja ilmoittaa "
+"<b>havainnoistasi</b>"
 
 #: View/Users/registration.ctp:370
 msgid "I'm glad you're joining the <b>Road</b>.  It's a ton of fun.  Speaking of fun..."
 msgstr ""
+"Olen iloinen, että liityt <b>Roadille</b>.  Siellä on todella hauskaa.  Ja "
+"hauskuudesta puheen ollen..."
 
 #: View/Users/registration.ctp:371
 msgid "Why don't we set up your Silph Pokedex now?"
-msgstr ""
+msgstr "Ottaisimmeko heti käyttöön Silph-Pokédexisi?"
 
 #: View/Users/registration.ctp:372
 msgid "Let's Do It"
-msgstr ""
+msgstr "Tehdään niin"
 
 #: View/Users/registration.ctp:523
 msgid "Your Global Visibility"
-msgstr ""
+msgstr "Maailmanlaajuinen näkyvyytesi"
 
 #: View/Users/registration.ctp:525
 msgid "You're gonna love this!  The Silph Global Pokedex allows you to see sighting locations reported by other travelers! But that means that they can see <em>your</em> reports, too."
@@ -180,18 +231,29 @@ msgstr ""
 #: View/Users/registration.ctp:526
 msgid "A dense pocket of sightings at or near your home may give away your location - and you don't want that.  You can <b>hide</b> sightings from your home by marking a location to obscure below!"
 msgstr ""
+"Havaintojen paljous kotisi lähellä voi paljastaa sijaintisi – etkä varmasti "
+"halua sitä. Voit <b>piilottaa</b> havainnot kotisi läheltä merkitsemällä "
+"alle sijainnin, joka piilotetaan!"
 
 #: View/Users/registration.ctp:527
 msgid "Simply place a marker very near your home (preferably on some <b>busy <u>public</u> place</b> nearby). (Do NOT place it exactly on your home address!)"
 msgstr ""
+"Aseta vain merkki melko lähelle kotiasi (mielellään johonkin lähellä olevaan "
+"<b>vilkkaaseen, <u>julkiseen</u> paikkaan</b>). (ÄLÄ aseta merkkiä "
+"täsmälleen kotiosoitteesesi!)"
 
 #: View/Users/registration.ctp:528
 msgid "You'll never give any <b>traveler</b> or <b>Executive</b> information about where you actually live.  Got it?  Alright, give it a go!"
 msgstr ""
+"Et tule koskaan antamaan todellisesta asuinpaikastasi tietoja muille "
+"<b>matkaajille</b> tai <b>johtajille</b>.  Onko selvä?  No niin, kokeilehan!"
 
+# Parempi sanoa "paina", koska ei tiedetä lukijan käyttämää laitetta.
 #: View/Users/registration.ctp:537
 msgid "(Tap to place marker! If the map is solid green, zoom all the way out - you're in the ocean!)"
 msgstr ""
+"(Paina karttaa asettaaksesi merkin! Jos kartta on täysin vihreä, loitonna "
+"sitä – olet meressä!)"
 
 #: View/Users/registration.ctp:539
 msgid "And finally, how many city blocks' radius from that point would you like to obscure from others' maps? (We recommend 3 or 4)"
@@ -201,71 +263,94 @@ msgstr ""
 
 #: View/Users/registration.ctp:542
 msgid "City Blocks Radius to Hide"
-msgstr ""
+msgstr "Kuinka monen korttelin kantaman haluat piilottaa"
 
 #: View/Users/registration.ctp:549
 msgid "All Done!"
-msgstr ""
+msgstr "Kaikki valmista!"
 
 # "maailmanlaajuinen Pokédex" ei varma käännös
 #: View/Users/registration.ctp:556
 msgid "Silph Global Pokedex"
-msgstr ""
+msgstr "Silphin maailmanlaajuinen Pokédex"
 
 #: View/Users/registration.ctp:557
 msgid "Alright, traveler, you're all set!"
-msgstr ""
+msgstr "No niin, matkaaja, olet valmis aloittamaan!"
 
 #: View/Users/registration.ctp:558
 msgid "You can now use the <b>Silph Global Pokedex</b> while you wait for your Traveler card and access to the rest of the Silph Road's tools. This handy companion is a powerful tool that updates global pokemon species information in near real time!"
 msgstr ""
+"Voit nyt käyttää <b>Silphin maailmanlaajuista Pokédexiä</b> ja muita The "
+"Silph Roadin työkaluja matkaajakorttia odotellessasi. Kyseessä on tehokas "
+"apuväline, joka päivittää pokémonlajien tiedot lähes reaaliajassa "
+"maailmanlaajuisesti!"
 
 #: View/Users/registration.ctp:560
 msgid "In case you were interested, Silph is also <b>researching nests!"
-msgstr ""
+msgstr "Jos olet kiinnostunut, Silph <b>tutkii myös pesiä!"
 
 # "maailmanlaajuinen Pokédex" ei varma käännös
 #: View/Users/registration.ctp:561
 msgid "If you see a Pokemon nest, report in and help Silph create the global <b>Nest Atlas</b>, which integrates into the Global Pokedex."
 msgstr ""
+"Jos havaitset pokémonpesän, ilmoita se. Silphin tavoitteena on luoda "
+"maailmanlaajuinen <b>pesäkartasto</b>, joka yhdistyy maailmanlaajuiseen "
+"Pokédexiin."
 
 #: View/Users/registration.ctp:563
 msgid "Finally, if you'd like to help map spawns in your area, report spawns <b>immediately after the spawn</b> and Silph will collect weather and other sensor data from that moment!"
 msgstr ""
+"Lopuksi, jos haluat auttaa pokémonien esiintymiskohtien kartoittamisessa, "
+"ilmoita niistä <b>välittömästi pókemonin ilmestyttyä</b>, niin Silph kerää "
+"sää- ja muut olosuhdetiedot siltä hetkeltä!"
 
 #: View/Users/registration.ctp:565
 msgid "The more people who contribute nest and spawn information, the more we learn about why certain species spawn where they do!  Every little pidgey is important - so <b>don't only report the rare mon's you see!</b>"
 msgstr ""
+"Mitä useampi ihminen kantaa kortensa kekoon pesä- ja ilmestymiskohtien "
+"ilmoittamisessa, sitä enemmän opimme, miksi tietyt lajit esiintyvät "
+"tietyissä paikoissa! Joka ikinen pidgey on tärkeä – joten <b>älä ilmoita "
+"pelkästään harvinaisia näkemiäsi pokémoneja!</b>"
 
 #: View/Users/registration.ctp:567
 msgid "Anyway, you don't have to report spawns, but think about it!"
 msgstr ""
+"Esiintymiskohtien ilmoittaminen ei toki ole pakollista, mutta pidä se "
+"mielessä!"
 
 #: View/Users/registration.ctp:569
 msgid "Ready to get your hands on the Silph Pokedex? Go ahead!"
-msgstr ""
+msgstr "Valmiina käyttämään Silphin Pokédexiä? Siitä vain!"
 
 #: View/Users/registration.ctp:572
 msgid "I'm Ready!"
-msgstr ""
+msgstr "Olen valmis!"
 
 #: View/Users/registration.ctp:675;706;737;811;859
 msgid "Your session has expired! Please re-load the page and re-authenticate to continue."
 msgstr ""
+"Istuntosi on vahentunut! Lataa sivu uudelleen ja tunnistaudu uudelleen "
+"jatkaaksesi."
 
 #: View/Users/registration.ctp:715
 msgid "You must enter an email address!"
-msgstr ""
+msgstr "Sähköpostiosoite on pakollinen tieto!"
 
 #: View/Users/registration.ctp:749
 msgid "You must accept the Traveler's Code and the Silph Road Terms of Use to continue!"
 msgstr ""
+"Sinun on hyväksyttävä matkaajan säännöt sekä The Silph Road -käyttäjäehdot "
+"jatkaaksesi!"
 
 # Leiri...?
 #: View/Users/registration.ctp:827
 msgid "You must place a marker (even if you wish to specify a radius of ZERO blocks) so you can be placed in a Camp! (Try a non-Internet Explorer browser!)"
 msgstr ""
+"Sinun on asetettava merkki (vaikka haluaisitkin asettaa etäisyydeksi NOLLA "
+"korttelia), jotta sinut voidaan sijoittaa leiriin! (Kokeile jotakin muuta "
+"selainta kuin Internet Exploreria!)"
 
 #: View/Users/registration.ctp:831
 msgid "You must specify a radius, even if it is ZERO!"
-msgstr ""
+msgstr "Sinun on asetettava etäisyys, vaikka se olisi NOLLA!"

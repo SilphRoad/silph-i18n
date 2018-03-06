@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-10 21:55+0000\n"
+"PO-Revision-Date: 2017-05-22 22:01+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494453302.648735\n"
+"X-POOTLE-MTIME: 1495490517.247819\n"
 
 #: View/Atlas/index.ctp:642
 #: View/Helper/TopNavHelper.php:17
@@ -24,7 +24,7 @@ msgstr "Navigatie wisselen"
 #: View/Atlas/index.ctp:668;672;725;729
 #: View/Helper/TopNavHelper.php:38;42;107;111
 msgid "Tools"
-msgstr ""
+msgstr "Hulpmiddelen"
 
 #: View/Atlas/index.ctp:669;726
 #: View/Helper/TopNavHelper.php:39;108
@@ -39,32 +39,32 @@ msgstr "Wereldwijde Pokedex "
 #: View/Atlas/index.ctp:674;731
 #: View/Helper/TopNavHelper.php:44;113
 msgid "IV Rater"
-msgstr ""
+msgstr "IV Meter"
 
 #: View/Atlas/index.ctp:675;732
 #: View/Helper/TopNavHelper.php:45;114
 msgid "Reference Tables"
-msgstr ""
+msgstr "Referentie Tabellen"
 
 #: View/Atlas/index.ctp:676;733
 #: View/Helper/TopNavHelper.php:46;115
 msgid "Moves By DPS"
-msgstr ""
+msgstr "Aanvallen gesorteerd op Schade Per Seconde (DPS)"
 
 #: View/Atlas/index.ctp:677;734
 #: View/Helper/TopNavHelper.php:47;116
 msgid "Species Base Stats"
-msgstr ""
+msgstr "Basis Statistieken Per Soort"
 
 #: View/Atlas/index.ctp:678;735
 #: View/Helper/TopNavHelper.php:48;117
 msgid "Egg Distances"
-msgstr ""
+msgstr "Ei Afstanden"
 
 #: View/Atlas/index.ctp:679;736
 #: View/Helper/TopNavHelper.php:49;118
 msgid "Buddy Candy"
-msgstr ""
+msgstr "Buddy Candy"
 
 #: View/Atlas/index.ctp:680;737
 #: View/Helper/TopNavHelper.php:50;119
@@ -99,7 +99,7 @@ msgstr "Nieuw Onderzoek"
 #: View/Atlas/index.ctp:701;761
 #: View/Helper/TopNavHelper.php:149
 msgid "Field Manual"
-msgstr ""
+msgstr "Handleiding voor Onderweg"
 
 #: View/Atlas/index.ctp:702;762
 #: View/Helper/TopNavHelper.php:150
@@ -124,7 +124,7 @@ msgstr "Aanmelden"
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:95;156
 msgid "Time to GO!"
-msgstr ""
+msgstr "Tijd om te gaan!"
 
 #: View/Atlas/index.ctp:709;768
 #: View/Helper/TopNavHelper.php:95;156
@@ -139,15 +139,15 @@ msgstr "Nest Atlas"
 #: View/Atlas/index.ctp:744
 #: View/Helper/TopNavHelper.php:58;126
 msgid "Known Nest Map"
-msgstr ""
+msgstr "Gekende Nest Kaart "
 
 #: View/Helper/TopNavHelper.php:71;137
 msgid "Pursue"
-msgstr ""
+msgstr "Achtervolg"
 
 #: View/Helper/TopNavHelper.php:72;138
 msgid "Tracking Aide"
-msgstr ""
+msgstr "Opsporingshulp"
 
 #: View/Users/login.ctp:15
 msgid "Your Papers, Please."
@@ -156,6 +156,8 @@ msgstr "Uw Papieren, Alstublieft."
 #: View/Users/login.ctp:17
 msgid "The Silph Road authenticates travelers via their Reddit account.  Click \"Authenticate\" below to access the Silph Road."
 msgstr ""
+"The Silph Road identificeert reizigers via hun Reddit account.  Klik "
+"hieronder op \"Identificeer\" om The Silph Road te bezoeken."
 
 #: View/Users/login.ctp:19
 msgid "Authenticate &raquo;"

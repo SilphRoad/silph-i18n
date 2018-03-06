@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-20 15:08+0000\n"
+"PO-Revision-Date: 2017-07-08 18:22+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1495292923.559054\n"
+"X-POOTLE-MTIME: 1499538177.078145\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -23,10 +23,17 @@ msgstr "Maailmanlaajuinen pesäkartasto"
 #: View/Atlas/index.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
 msgstr ""
+"The Silph Roadin maailmanlaajuinen pesäkartasto on suurin tunnettujen "
+"Pokémon GO -pesäsijaintien kokoelma.  Matkaajat ympäri maailmaa pitävät "
+"kartastoa ajan tasalla, ja kullekin pesälle ylläpidetään selventävää "
+"ilmoitus- ja havaintohistoriaa..."
 
 #: View/Atlas/index.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
 msgstr ""
+"The Silph Roadin maailmanlaajuinen pesäkartasto on maailman suurin "
+"tunnettujen Pokémon GO -pesäsijaintien kokoelma, joka sisältää myös "
+"matkaajien tarinoita ympäri maailman..."
 
 #: View/Atlas/index.ctp:583
 msgid "&laquo; More"
@@ -54,6 +61,8 @@ msgstr ""
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Miksi mainoksia?</b> TheSilphRoad.comin tutkimustyökalut luovat valtavan "
+"määrän tietoliikennettä, eikä Silph Roadin pystyssä pitäminen ole ilmaista!"
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
@@ -61,7 +70,7 @@ msgstr "Tietoja Silph Roadin pesäluokitteluista:"
 
 #: View/Atlas/index.ctp:628
 msgid "Video Explanation"
-msgstr ""
+msgstr "Ohjevideo"
 
 #: View/Atlas/index.ctp:662
 msgid "Add Report"
@@ -74,8 +83,8 @@ msgstr "Ilmoita havainto/pesä"
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
 msgstr ""
-"Oho, matkaaja - Tällä korkeudella on liikaa pesiä näytettäväksi. Näet "
-"enemmän yksityiskohtia, kun menet lähemmäksi."
+"Oho, matkaaja – Tällä korkeudella on liikaa pesiä näytettäväksi. Näet "
+"enemmän yksityiskohtia, kun lähennät karttaa."
 
 #: View/Atlas/index.ctp:785
 msgid "Reticulating splines..."
@@ -83,7 +92,7 @@ msgstr "Verkostoidaan käyriä..."
 
 #: View/Atlas/index.ctp:793
 msgid "A Call for Beta Testers"
-msgstr "Beta-testaajia kaivataan"
+msgstr "Beetatestaajia kaivataan"
 
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
@@ -102,7 +111,7 @@ msgstr "Lisätietoja »"
 
 #: View/Atlas/index.ctp:804
 msgid "Predictable Nests"
-msgstr ""
+msgstr "Säännölliset pesät"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
@@ -138,7 +147,7 @@ msgstr "Yleinen esiintymispiste"
 
 #: View/Atlas/index.ctp:842
 msgid "(Unknown Spawn Type)"
-msgstr ""
+msgstr "(Esiintymistyyppi tuntematon)"
 
 #: View/Atlas/index.ctp:865
 msgid "Loading Nest Data..."
@@ -152,6 +161,7 @@ msgstr "Ladataan leiritietoja..."
 msgid "Nest Report"
 msgstr "Pesäilmoitus"
 
+# muuttivat = vaihtuivat?
 #: View/Atlas/index.ctp:890
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
 msgstr ""
@@ -165,6 +175,8 @@ msgstr "Auta päivittämään tai kumoamaan tämä sijainti! Mitä löysit?"
 #: View/Atlas/index.ctp:897
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
+"Huomio: Grass-tyyppisiä pokémoneja ei tarvitse ilmoittaa Grass-tapahtuman "
+"aikana!"
 
 #: View/Atlas/index.ctp:902
 msgid "Nothing out of the ordinary! :("
@@ -194,7 +206,7 @@ msgstr "Rypäsesiintymä"
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
 msgstr ""
 "Kartalla esiintyy useita yksilöitä <span style=\"text-decoration: underline;"
-"\">yhtä aikaa</span> yhden tunnin sisällä"
+"\">yhtä aikaa</span> yhden tunnin sisällä (samaan kellonaikaan)"
 
 #: View/Atlas/index.ctp:948;1141
 msgid "Frequent Spawn <em>Area</em>"
@@ -204,7 +216,7 @@ msgstr "Yleinen esiintymis<em>alue</em>"
 msgid "Semi-frequent spawning over a small area (typically non-concurrent) <br>Examples: riverbanks/piers, a large golfcourse, 3-5 city blocks, etc"
 msgstr ""
 "Melko yleisiä esiintymiä pienen alueen sisällä (yleensä ei "
-"samanaikaisesti)<br>Esimerkkejä: jokivarret/laiturit, suuri golfkenttä, 3-5 "
+"samanaikaisesti)<br>Esimerkkejä: jokivarret/laiturit, suuri golfkenttä, 3–5 "
 "korttelia, jne."
 
 #: View/Atlas/index.ctp:960;1153
@@ -234,7 +246,7 @@ msgid "For example, how many did you encounter? How long were you there? What sp
 msgstr ""
 "Esimerkiksi, montako kohtasit? Kauanko olit siellä? Missä kohdassa "
 "tarkalleen havaitsit yksilön? Minä aikoina tarkalleen teit havaintosi?  "
-"Jne.  Mitä tahansa mistä saattaisi olla hyötyä tuleville matkaajille!"
+"Jne.  Mitä tahansa, mistä saattaisi olla hyötyä tuleville matkaajille!"
 
 #: View/Atlas/index.ctp:979
 msgid "Helpful comments for future travelers..."
@@ -258,7 +270,7 @@ msgstr "Vahvistamaton pesä!"
 
 #: View/Atlas/index.ctp:1024;2203
 msgid "Click Marker to See Field Reports"
-msgstr ""
+msgstr "Paina merkkiä nähdäksesi kenttäilmoitukset"
 
 #: View/Atlas/index.ctp:1037
 msgid "Report a Sighting!"
@@ -270,7 +282,7 @@ msgstr "Valitse havaitsemasi pokémon:"
 
 #: View/Atlas/index.ctp:1042
 msgid "Search"
-msgstr ""
+msgstr "Etsi"
 
 #: View/Atlas/index.ctp:1065
 msgid "what have you found, traveler?"
@@ -291,8 +303,8 @@ msgstr "Havaintoilmoitukset"
 #: View/Atlas/index.ctp:1070
 msgid "are normal spawn reports - i.e. when you encounter a Pokemon in your travels, submit a Sighting Report!"
 msgstr ""
-"ovat tavallisia esiintymisilmoituksia - eli kun kohtaat matkoillasi "
-"pokémonin, tee Havaintoilmoitus!"
+"ovat tavallisia esiintymisilmoituksia – eli kun kohtaat matkoillasi "
+"pokémonin, tee havaintoilmoitus!"
 
 #: View/Atlas/index.ctp:1071
 msgid "Nests"
@@ -301,8 +313,8 @@ msgstr "Pesät"
 #: View/Atlas/index.ctp:1072
 msgid "are our term for <em>repeat spawns</em> or <em>clustered spawns</em> of the same species. Only report a 'Nest' if you see multiples of an uncommon species at once (or a consistently spawning rare 'mon)!"
 msgstr ""
-"ovat mitä kutsumme saman lajin <em>toistuviksi esiintymiksi</em> tai "
-"<em>rypäsesiintymiksi</em>. Ilmoita 'pesä' ainoastaan, jos näet useita "
+"ovat kohteita, joita kutsumme saman lajin <em>toistuviksi esiintymiksi</em> "
+"tai <em>rypäsesiintymiksi</em>. Ilmoita \"pesä\" ainoastaan, jos näet useita "
 "epätavallisen lajin edustajia samaan aikaan (tai jos harvinainen laji "
 "esiintyy toistuvasti)!"
 
@@ -333,9 +345,9 @@ msgstr "Ei vielä havaintoilmoituksia!"
 #: View/Atlas/index.ctp:1097
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! <b>If there is no existing nest in this location, click below</b>:"
 msgstr ""
-"Vinkki: Raahaa karttaa tai paina '<b>Oma sijainti</b>'-nappia siirtääksesi "
+"Vinkki: Raahaa karttaa tai paina '<b>Oma sijainti</b>' -nappia siirtääksesi "
 "kartan omaan sijaintiinsi! <b>Jos sieltä ei löydy olemassaolevaa "
-"pesämerkintää, paina allaolevaa</b>:"
+"pesämerkintää, paina alla olevaa</b>:"
 
 #: View/Atlas/index.ctp:1098
 msgid "Nope! It's a New Nest!"
@@ -353,11 +365,14 @@ msgstr "Minkä tyyppisen pesän löysit?"
 msgid "Multiple appear on the map <span style='text-decoration: underline;'>at once</span> within a single hour (at the same time)"
 msgstr ""
 "Useita yksilöitä on havaittavissa kartalla <span style='text-decoration: "
-"underline;'>samanaikaisesti</span> tunnin sisällä."
+"underline;'>samanaikaisesti</span> tunnin sisällä (samaan kellonaikaan)"
 
 #: View/Atlas/index.ctp:1155
 msgid "A single location that spawns a rare/uncommon species at <span style='text-decoration:underline'>the same time(s) every day"
 msgstr ""
+"Yksittäinen sijainti, jossa esiintyy harvinaista/epätavallista lajia <span "
+"style='text-decoration:underline'>yksi kerrallaan samalla kellonlyömällä "
+"useita kertoja päivässä"
 
 #: View/Atlas/index.ctp:1165;1304;1426
 msgid "Next"
@@ -376,7 +391,7 @@ msgstr ""
 #: View/Atlas/index.ctp:1190
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location!"
 msgstr ""
-"Vinkki: Raahaa karttaa tai paina '<b>Oma sijainti</b>'-nappia siirtääksesi "
+"Vinkki: Raahaa karttaa tai paina '<b>Oma sijainti</b>' -nappia siirtääksesi "
 "kartan omaan sijaintiisi!"
 
 #: View/Atlas/index.ctp:1191
@@ -386,7 +401,7 @@ msgstr "Ilmoita pesä!"
 #: View/Atlas/index.ctp:1210
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! If there is no existing nest, click below:"
 msgstr ""
-"Vinkki: raahaa karttaa tai paina '<b>Oma sijainti</b>'-nappia siirtääksesi "
+"Vinkki: raahaa karttaa tai paina '<b>Oma sijainti</b>' -nappia siirtääksesi "
 "kartan omaan sijaintiisi! Jos siinä ei ole vielä olemassaolevaa "
 "pesämerkintää, paina allaolevaa:"
 
@@ -404,7 +419,7 @@ msgstr "Luetteloi kohtaamistietosi:"
 
 #: View/Atlas/index.ctp:1235
 msgid "Combat Points (CP)"
-msgstr "Taistelupisteet (CP, engl. Combat Points)"
+msgstr "Taistelupisteet (CP eli Combat Points)"
 
 #: View/Atlas/index.ctp:1237
 msgid "Enter CP..."
@@ -412,11 +427,11 @@ msgstr "Syötä CP..."
 
 #: View/Atlas/index.ctp:1242
 msgid "Incense"
-msgstr ""
+msgstr "Suitsuke (incense)"
 
 #: View/Atlas/index.ctp:1247
 msgid "Using Incense or Lure Patch"
-msgstr ""
+msgstr "Käytin hajustetta (incense) tai houkutinta (lure)"
 
 #: View/Atlas/index.ctp:1257
 msgid "Select Quick Move..."
@@ -424,7 +439,7 @@ msgstr "Valitse pikaliike..."
 
 #: View/Atlas/index.ctp:1258;1271
 msgid "Unknown"
-msgstr ""
+msgstr "Tuntematon"
 
 #: View/Atlas/index.ctp:1270
 msgid "Select Charge Move..."
@@ -432,11 +447,11 @@ msgstr "Valitse latausliike..."
 
 #: View/Atlas/index.ctp:1285
 msgid "Successful Capture"
-msgstr ""
+msgstr "Onnistunut nappaus"
 
 #: View/Atlas/index.ctp:1291
 msgid "Un-successful Capture"
-msgstr ""
+msgstr "Epäonnistunut nappaus"
 
 #: View/Atlas/index.ctp:1297
 msgid "Did Not Throw Ball"
@@ -452,7 +467,7 @@ msgstr "Raahaa karttaa niin, että merkki on tarkalleen omassa sijainnissasi:"
 
 #: View/Atlas/index.ctp:1319
 msgid "Set Location"
-msgstr ""
+msgstr "Määritä sijainti"
 
 #: View/Atlas/index.ctp:1324
 msgid "Describe The Terrain!"
@@ -464,11 +479,11 @@ msgstr "Valitse <b>KAIKKI</b> soveltuvat maastotyypit. Ole yksityiskohtainen!:"
 
 #: View/Atlas/index.ctp:1331
 msgid "Land Type"
-msgstr ""
+msgstr "Alueen tyyppi"
 
 #: View/Atlas/index.ctp:1432
 msgid "Confirm & Record"
-msgstr ""
+msgstr "Vahvista ja tallenna"
 
 #: View/Atlas/index.ctp:1433
 msgid "Verify that this information is correct:"
@@ -484,23 +499,23 @@ msgstr "Kouluttajataso %n"
 
 #: View/Atlas/index.ctp:1494
 msgid "Select Team..."
-msgstr ""
+msgstr "Valitse joukkue..."
 
 #: View/Atlas/index.ctp:1495
 msgid "Red Team"
-msgstr ""
+msgstr "Punainen joukkue"
 
 #: View/Atlas/index.ctp:1496
 msgid "Yellow Team"
-msgstr ""
+msgstr "Keltainen joukkue"
 
 #: View/Atlas/index.ctp:1497
 msgid "Blue Team"
-msgstr ""
+msgstr "Sininen joukkue"
 
 #: View/Atlas/index.ctp:1498
 msgid "No Team Yet"
-msgstr ""
+msgstr "Ei valittua joukkuetta"
 
 #: View/Atlas/index.ctp:1508
 msgid "Time:"
@@ -508,11 +523,16 @@ msgstr "Aika:"
 
 #: View/Atlas/index.ctp:1513
 msgid "Moon Phase"
-msgstr ""
+msgstr "Kuun vaihe"
 
 #: View/Atlas/index.ctp:1522
 msgid "<i>If any information is incorrectly displayed, message <a href='https://reddit.com/u/dronpes' target='_blank'>/u/dronpes</a> or the <a href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad moderators</a> and we'll sort it out!</i>"
 msgstr ""
+"<i>Jos jokin tieto on esitetty virheellisesti, lähetä viesti <a "
+"href='https://reddit.com/u/dronpes' target='_blank'>/u/dronpes</a>ille tai <"
+"a href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' "
+"target='_blank'>/r/TheSilphRoad-moderaattoreille</a>, niin selvitämme "
+"tilanteen!</i>"
 
 #: View/Atlas/index.ctp:1527
 msgid "Submit Field Report"
@@ -521,6 +541,7 @@ msgstr "Lisää kenttäilmoitus"
 #: View/Atlas/index.ctp:1611
 msgid "Oops! Unable to retrieve nest data! You may need try again to re-authenticate!"
 msgstr ""
+"Hups! Pesätietojen haku epäonnistui. Voit joutua tunnistautumaan uudelleen."
 
 #: View/Atlas/index.ctp:1612;2825;2848
 msgid "Oops! There was an error submitting your report, traveler."
@@ -543,46 +564,48 @@ msgstr "Laitteesi/selaimesi ei tue paikannusta! :("
 #: View/Atlas/index.ctp:1616
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
-"Hoi, matkaaja - Liian monta havaintoa näytettäväksi tältä korkeudelta. "
+"Hoi, matkaaja – Liian monta havaintoa näytettäväksi tältä korkeudelta. "
 "Lähennä nähdäksesi enemmän yksityiskohtia."
 
 #: View/Atlas/index.ctp:1617;2143
 msgid "Whoa, traveler - There are too many nests to show at this height. Zoom in for more detail."
 msgstr ""
-"Hoi, matkaaja - Liian monta pesää näytettäväksi tältä korkeudelta. Lähennä "
+"Hoi, matkaaja – Liian monta pesää näytettäväksi tältä korkeudelta. Lähennä "
 "nähdäksesi enemmän yksityiskohtia."
 
 #: View/Atlas/index.ctp:1618
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
-msgstr ""
+msgstr "Tarkista päiväys! (Tulevaisuuteen sijoittuvat päivät eivät kelpaa.)"
 
 #: View/Atlas/index.ctp:1632;1633;1634;1635;1637;1639;1640;1641;1642;1643
 msgid "Retrieving Field Reports..."
 msgstr "Haetaan kenttäilmoituksia..."
 
+# Silph Scope on uniikki esine Pokémon Redissä/Bluessa.
 #: View/Atlas/index.ctp:1636
 msgid "Consulting Silph Scope..."
-msgstr ""
+msgstr "Luetaan Silph Scopea..."
 
+# Poké Flute on pokémoneille asetettava esine Pokémon-peleissä.
 #: View/Atlas/index.ctp:1636;1643
 msgid "Learning PokeFlute..."
-msgstr "Opetellaan soittamaan pokéhuilua..."
+msgstr "Opetellaan soittamaan Poké Flutea..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Quitting PokeFlute & Taking Up Drums..."
-msgstr ""
+msgstr "Hylätään Poké Flute & aloitetaan rumpujen soitto..."
 
 #: View/Atlas/index.ctp:1637
 msgid "Reading Trail Pointers..."
-msgstr ""
+msgstr "Luetaan tienviittoja..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Ordering MewTwo Around..."
-msgstr ""
+msgstr "Komennellaan MewTwota..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Rinsing Max Repel Off Shoes..."
-msgstr ""
+msgstr "Huuhdotaan Max Repelit kengistä..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Blowing in the Cartridge..."
@@ -594,11 +617,11 @@ msgstr "Verkostoidaan käyriä..."
 
 #: View/Atlas/index.ctp:1639
 msgid "Surfing to Cinnabar Island..."
-msgstr ""
+msgstr "Lainelautaillaan Cinnabar-saarelle..."
 
 #: View/Atlas/index.ctp:1643
 msgid "Admiring Our Master Ball..."
-msgstr ""
+msgstr "Ihaillaan Master Ballia..."
 
 #: View/Atlas/index.ctp:1814
 msgid "Enable location services to jump to your location!"
@@ -612,13 +635,15 @@ msgstr "Valitse kaikki"
 msgid "All Species"
 msgstr "Kaikki lajit"
 
+# Executive Ceppi confirmed this as singular
 #: View/Atlas/index.ctp:1896;1897
 msgid "Species"
-msgstr ""
+msgstr "laji"
 
+# Executive Ceppi confirmed this as singular
 #: View/Atlas/index.ctp:1898
 msgid "species"
-msgstr ""
+msgstr "laji"
 
 #: View/Atlas/index.ctp:1950
 msgid "All Verification Levels"
@@ -630,19 +655,21 @@ msgstr "Kaikki pesätyypit"
 
 #: View/Atlas/index.ctp:1961;1963
 msgid "Nest Behavior"
-msgstr ""
+msgstr "Pesäkäyttäytyminen"
 
 #: View/Atlas/index.ctp:1962
 msgid "1 Nest Behavior"
-msgstr ""
+msgstr "1 pesätyyppi"
 
 #: View/Atlas/index.ctp:1965
 msgid "Nest Behaviors"
-msgstr ""
+msgstr "pesätyyppiä"
 
 #: View/Atlas/index.ctp:2143
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
+"Hoi, matkaaja – Liian monta havaintoa näytettäväksi tältä korkeudelta. "
+"Lähennä nähdäksesi enemmän yksityiskohtia."
 
 #: View/Atlas/index.ctp:2201
 msgid "Sighted!"
@@ -650,40 +677,49 @@ msgstr "Havaittu!"
 
 #: View/Atlas/index.ctp:2203
 msgid "Species reportedly common at location"
-msgstr ""
+msgstr "Sijainnissa yleisiksi ilmoitetut lajit"
 
 #: View/Atlas/index.ctp:2291;2343
 msgid "Sighting Reports are currently under construction. You may still submit Nest reports, however!"
 msgstr ""
+"Havaintoilmoitukset ovat parhaillaan työn alla. Voit kuitenkin yhä tehdä "
+"pesäilmoituksia!"
 
 #: View/Atlas/index.ctp:2300
 msgid "You must be logged in to submit nests!"
-msgstr ""
+msgstr "Kirjaudu sisään lisätäksesi pesäilmoituksen!"
 
 #: View/Atlas/index.ctp:2450
 msgid "This species is spawning globally for an Event! We'll wait on collecting data on this species until the festivities are over. Happy Festivities!"
 msgstr ""
+"Tämä laji esiintyy nyt yleisemmin maailmanlaajuisesti tapahtuman ajan. "
+"Odotamme, kunnes juhlinta on ohi, ennen kuin keräämme lisää tietoja tähän "
+"lajiin liittyen. Hauskaa tapahtumanviettoa!"
 
 #: View/Atlas/index.ctp:2538;2540
 msgid "Select a Charge Move"
-msgstr ""
+msgstr "Valitse latausliike"
 
 #: View/Atlas/index.ctp:2549;2572
 msgid "Please select a radio button!"
-msgstr ""
+msgstr "Valitse yksi vaihtoehdoista!"
 
 #: View/Atlas/index.ctp:2758;2816;2839;2881
 msgid "Your session has expired.  Please log back in for your security"
 msgstr ""
+"Istuntosi on vanhentunut.  Ole hyvä ja kirjaudu uudelleen sisään "
+"turvallisuussyistä."
 
 #: View/Atlas/index.ctp:2783;2899
 msgid "Unable to save report!  Please check your web connection and try again!"
 msgstr ""
+"Ilmoituksen tallentaminen epäonnistui.  Ole hyvä ja tarkista verkkoyhteytesi "
+"ja yritä uudelleen!"
 
 #: View/Atlas/index.ctp:2857
 msgid "Please select your Trainer level!"
-msgstr ""
+msgstr "Ole hyvä ja valitse kouluttajatasosi!"
 
 #: View/Atlas/index.ctp:2861
 msgid "Please select your Team!"
-msgstr ""
+msgstr "Ole hyvä ja valitse joukkueesi!"

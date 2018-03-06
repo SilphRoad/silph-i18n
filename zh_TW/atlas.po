@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-13 13:58+0000\n"
+"PO-Revision-Date: 2017-05-21 10:22+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494683888.513124\n"
+"X-POOTLE-MTIME: 1495362173.390144\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -28,7 +28,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
-msgstr "The Silph Road 的全球巢穴集收錄全世界最多的 Pokemon GO 已知巢穴地點，是由世界各地的旅行者提供歷史記錄而完成的……"
+msgstr "The Silph Road 的全球巢穴集收錄全世界最多的 Pokemon GO 已知巢穴地點，是由世界各地的旅行者提供歷史記錄而完成……"
 
 #: View/Atlas/index.ctp:583
 msgid "&laquo; More"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
-msgstr "<b>為何有廣告？</b>TheSilphRoad.com 的研究工具會產生大量的流量，故需要資金才能維繫 Silph 的營運！"
+msgstr "<b>為何有廣告？</b> TheSilphRoad.com 的研究工具會產生大量的流量，故需要資金才能維繫 Silph 的營運！"
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
@@ -87,7 +87,7 @@ msgstr "召集 Beta 測試員"
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
 msgstr ""
 "請協助我們引導地圖集的最新區域通訊系統：<code style=\"padding: 2px 5px; color: #565656;\""
-">營地</code> 網絡！我們邀請曼哈頓的旅行者一同參與！"
+">營地</code> 網絡！我們也邀請曼哈頓的旅行者一同參與！"
 
 #: View/Atlas/index.ctp:795
 msgid "No Thanks"
@@ -167,7 +167,7 @@ msgstr "沒有不尋常之處！ :("
 
 #: View/Atlas/index.ctp:903
 msgid "Nothing!"
-msgstr "沒有！"
+msgstr "沒有東西！"
 
 #: View/Atlas/index.ctp:906
 msgid "Yes! I found a species here:"
@@ -649,11 +649,11 @@ msgstr "無法儲存報告！  請檢查您的網路連線並且重試！"
 
 #: View/Atlas/index.ctp:2857
 msgid "Please select your Trainer level!"
-msgstr "請選擇您的訓練家等級！"
+msgstr "請選取您的訓練家等級！"
 
 #: View/Atlas/index.ctp:2861
 msgid "Please select your Team!"
-msgstr "請選擇您的隊伍！"
+msgstr "請選取您的隊伍！"
 
 msgid "nests"
 msgstr "巢穴"

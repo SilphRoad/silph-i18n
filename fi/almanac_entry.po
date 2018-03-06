@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-13 00:32+0000\n"
+"PO-Revision-Date: 2017-06-04 11:29+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494635531.701865\n"
+"X-POOTLE-MTIME: 1496575757.263737\n"
 
 #: COMMENT
 msgid "Height:"
@@ -51,8 +51,8 @@ msgstr "Odota:"
 #: COMMENT
 msgid "Nests are currently undergoing worldwide changes! Stay tuned for more information."
 msgstr ""
-"Pesiä päivitetään parhaillaan maailmanlaajuisesti! Pysy kuulolla saadaksesi "
-"lisätietoja."
+"Pesiä päivitetään parhaillaan maailmanlaajuisesti! Pysy kuulolla "
+"lisätietojen varalta."
 
 #: COMMENT
 msgid "Map Loading"
@@ -63,9 +63,10 @@ msgstr "Kartta latautuu"
 msgid "Search Box"
 msgstr "Hae"
 
+# Executive Ceppi sanoi näin: "that text isn't readily available anymore, it's part of the sightings code path, but it's instructing the user that they can use the full screen button or move/zoom the map to see more entries" ja "You need to expand the map to either pan or zoom"
 #: COMMENT
 msgid "Expand Map to Pan Or Zoom"
-msgstr ""
+msgstr "Laajenna kartta vierittääksesi tai lähentääksesi/loitontaaksesi sitä."
 
 #: COMMENT
 msgid "No Sighting Reports Yet!"
@@ -126,7 +127,7 @@ msgstr "Yksikään Silph-tutkija ei ole vielä saanut kiinni pokémonia"
 
 #: COMMENT
 msgid "specimen has been captured by Silph Researchers yet!"
-msgstr " "
+msgstr " !"
 
 #: COMMENT
 msgid "Go be the first!"
@@ -142,7 +143,7 @@ msgstr "Kehittämiseen tarvittavat karkit"
 
 #: COMMENT
 msgid "Base Capture Rate"
-msgstr ""
+msgstr "Lähtökohtainen kiinnijääntitodennäköisyys"
 
 #: COMMENT
 msgid "Advantage Over"
@@ -186,4 +187,4 @@ msgstr "Vahvin yksilö"
 
 #: COMMENT
 msgid "- No Sightings -"
-msgstr "- Ei havaintoja -"
+msgstr "– Ei havaintoja –"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 09:37:09\n"
-"PO-Revision-Date: 2017-05-03 18:47+0000\n"
+"PO-Revision-Date: 2017-05-21 10:27+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: zh_TW\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1493837260.564584\n"
+"X-POOTLE-MTIME: 1495362466.099101\n"
 
 #: COMMENT
 msgid "Map"
@@ -90,12 +90,12 @@ msgstr "未發現巢穴！"
 
 #: COMMENT
 msgid "On"
-msgstr ""
+msgstr "最先"
 
 #: COMMENT
 msgid "first discovered this location and suspected it was a"
-msgstr ""
+msgstr "發現此地點，並懷疑是個"
 
 #: COMMENT
 msgid "nest!"
-msgstr ""
+msgstr "巢穴！"

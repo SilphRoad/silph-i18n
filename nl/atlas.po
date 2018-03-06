@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 13:48-0400\n"
-"PO-Revision-Date: 2017-05-10 21:51+0000\n"
+"PO-Revision-Date: 2017-06-14 17:05+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1494453064.605783\n"
+"X-POOTLE-MTIME: 1497459920.832634\n"
 
 #: View/Atlas/index.ctp:2;11;610
 msgid "The Global Nest Atlas"
@@ -23,35 +23,47 @@ msgstr "De Wereldwijde Nest Atlas"
 #: View/Atlas/index.ctp:5
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world.  Kept up-to-date by travelers all around the world, nests are tracked and explained with a history for each nest location..."
 msgstr ""
+"De Wereldwijde Nest Atlas van The Silph Road is de grootste verzameling van "
+"Pokemon GO nest locaties ter wereld.  Het wordt actueel gehouden door "
+"reizigers over de gehele wereld, en nesten worden bijgehouden en uitgelegd "
+"met een geschiedenis voor elke nest locatie..."
 
 #: View/Atlas/index.ctp:12
 msgid "The Silph Road's Global Nest Atlas is the largest collection of known Pokemon GO nest locations in the world, complete with histories from travelers around the world..."
 msgstr ""
+"De Wereldwijde Nest Atlas van The Silph Road is de grootste verzameling van "
+"Pokemon GO nest locaties ter wereld, volledig met geschiedenis van reizigers "
+"over de gehele wereld..."
 
 #: View/Atlas/index.ctp:583
 msgid "&laquo; More"
-msgstr ""
+msgstr "&laquo; Meer"
 
 #: View/Atlas/index.ctp:599
-#, fuzzy
 msgid "Report Sighting"
-msgstr "Rapporteer een Waarneming!"
+msgstr "Rapporteer Waarneming!"
 
 #: View/Atlas/index.ctp:602
 msgid "Report<br>Nest"
-msgstr ""
+msgstr "Rapporteer<br>Nest"
 
 #: View/Atlas/index.ctp:609
 msgid "Pokemon GO Nests"
-msgstr ""
+msgstr "Pokemon GO Nesten"
 
 #: View/Atlas/index.ctp:611
 msgid "<a href=\"%s\">Join the Road</a> and help verify your local Nests!  The Global Nest Atlas is a collection of field reports from Silph Road travelers. "
 msgstr ""
+"<a href=\"%s\">Meld je aan</a> en help om lokale nesten te verifiëren!  De "
+"Wereldwijde Nest Atlas is een collectie van waarnemingen van Silph Road "
+"Reizigers."
 
 #: View/Atlas/index.ctp:622
 msgid "<b>Why Ads?</b> TheSilphRoad.com's research tools generate massive traffic - and it costs money to keep the Silph lights on!"
 msgstr ""
+"<b>Waarom Advertenties?</b> TheSilphRoad.com's onderzoeksinstrumenten zorgen "
+"voor veel internetverkeer - en het kost dus geld om de Silph Road online te "
+"houden!"
 
 #: View/Atlas/index.ctp:627
 msgid "About the Silph Road's nest classifications:"
@@ -59,27 +71,29 @@ msgstr ""
 
 #: View/Atlas/index.ctp:628
 msgid "Video Explanation"
-msgstr ""
+msgstr "Video Uitleg"
 
 #: View/Atlas/index.ctp:662
 msgid "Add Report"
-msgstr ""
+msgstr "Rapport Toevoegen"
 
 #: View/Atlas/index.ctp:720
 msgid "Report Sighting/Nest"
-msgstr ""
+msgstr "Rapporteer Waarneming/Nest"
 
 #: View/Atlas/index.ctp:779
 msgid "Whoa, traveler - There's too many nests to show at this height. Zoom in for more detail."
 msgstr ""
+"Whoa, reiziger! - Op deze hoogte zijn er te veel nesten om te laten zien. "
+"Zoom in voor meer details."
 
 #: View/Atlas/index.ctp:785
 msgid "Reticulating splines..."
-msgstr ""
+msgstr "Splines reticuleren..."
 
 #: View/Atlas/index.ctp:793
 msgid "A Call for Beta Testers"
-msgstr ""
+msgstr "Een Oproep voor Beta Testers"
 
 #: View/Atlas/index.ctp:794
 msgid "Help us pilot the Atlas' NEW local communication system: the <code style=\"padding: 2px 5px; color: #565656;\">Camp</code> network! Manhattan travelers are invited!"
@@ -87,55 +101,55 @@ msgstr ""
 
 #: View/Atlas/index.ctp:795
 msgid "No Thanks"
-msgstr ""
+msgstr "Nee Bedankt"
 
 #: View/Atlas/index.ctp:796
 msgid "Learn More »"
-msgstr ""
+msgstr "Lees Meer »"
 
 #: View/Atlas/index.ctp:804
 msgid "Predictable Nests"
-msgstr ""
+msgstr "Voorspelbare Nesten"
 
 #: View/Atlas/index.ctp:805
 msgid "Historical Sightings"
-msgstr ""
+msgstr "Vorige Waarnemingen"
 
 #: View/Atlas/index.ctp:833
 msgid "Verified"
-msgstr ""
+msgstr "Geverifieerd"
 
 #: View/Atlas/index.ctp:834
 msgid "Unverified"
-msgstr ""
+msgstr "Niet geverifieerd"
 
 #: View/Atlas/index.ctp:835
 msgid "Refuted"
-msgstr ""
+msgstr "Geweigerd"
 
 #: View/Atlas/index.ctp:836
 msgid "Outdated"
-msgstr ""
+msgstr "Verouderd"
 
 #: View/Atlas/index.ctp:839
 msgid "Cluster"
-msgstr ""
+msgstr "Groep"
 
 #: View/Atlas/index.ctp:840
 msgid "Frequent Spawn Area"
-msgstr ""
+msgstr "Frequent Spawn Gebied"
 
 #: View/Atlas/index.ctp:841
 msgid "Frequent Spawn Point"
-msgstr ""
+msgstr "Frequent Spawn Punt"
 
 #: View/Atlas/index.ctp:842
 msgid "(Unknown Spawn Type)"
-msgstr ""
+msgstr "(Onbekend Spawn Type)"
 
 #: View/Atlas/index.ctp:865
 msgid "Loading Nest Data..."
-msgstr ""
+msgstr "Nest Data Laden..."
 
 #: View/Atlas/index.ctp:874
 msgid "Loading Camp Data..."
@@ -143,87 +157,105 @@ msgstr ""
 
 #: View/Atlas/index.ctp:886
 msgid "Nest Report"
-msgstr ""
+msgstr "Nest Rapport"
 
 #: View/Atlas/index.ctp:890
 msgid "Note! A nest migration happened <b>%s</b>! Only add your data if your report is from <b>AFTER</b> the latest migration, traveler!"
 msgstr ""
+"Opgelet ! Er heeft zich een nest migratie voorgedaan <b>%s</b>! Voeg jouw "
+"data enkel toe indien deze is verkregen <b>NA</b> de laatste migratie, "
+"reiziger!"
 
 #: View/Atlas/index.ctp:892
 msgid "Help update or refute this location! What did you find?"
 msgstr ""
+"Help mee door het nest op deze locatie te bevestigen of te weerleggen. Wat "
+"heb je aangetroffen ?"
 
 #: View/Atlas/index.ctp:897
 msgid "Note: No need to report Grass-Type Pokemon during the Grass-Type Event!"
 msgstr ""
+"Opmerking: Het is niet nodig om Grass-Type Pokémon te rapporteren tijdens "
+"het Grass-Type Evenement!"
 
 #: View/Atlas/index.ctp:902
 msgid "Nothing out of the ordinary! :("
-msgstr ""
+msgstr "Niets bijzonders! :("
 
 #: View/Atlas/index.ctp:903
 msgid "Nothing!"
-msgstr ""
+msgstr "Niets!"
 
 #: View/Atlas/index.ctp:906
 msgid "Yes! I found a species here:"
-msgstr ""
+msgstr "Ja! Ik heb hier een exemplaar gevonden:"
 
 #: View/Atlas/index.ctp:919
 msgid "Report!"
-msgstr ""
+msgstr "Rapporteer!"
 
 #: View/Atlas/index.ctp:928
 msgid "What Type of Nest Did You Find Here?"
-msgstr ""
+msgstr "Welk Type Nest Heb Je Hier Gevonden?"
 
 #: View/Atlas/index.ctp:936;1129
 msgid "Cluster Spawn"
-msgstr ""
+msgstr "Cluster Spawn"
 
 #: View/Atlas/index.ctp:938
 msgid "Multiple appear on the map <span style=\"text-decoration: underline;\">at once</span> within a single hour (at the same time)"
 msgstr ""
+"Meerdere verschijnen <span style=\"text-decoration: underline;\""
+">tegelijkertijd</span> op de kaart, binnen hetzelfde uur (op hetzelfde "
+"tijdstip)"
 
 #: View/Atlas/index.ctp:948;1141
 msgid "Frequent Spawn <em>Area</em>"
-msgstr ""
+msgstr "Frequent Spawn <em>Gebied</em>"
 
 #: View/Atlas/index.ctp:950;1143
 msgid "Semi-frequent spawning over a small area (typically non-concurrent) <br>Examples: riverbanks/piers, a large golfcourse, 3-5 city blocks, etc"
 msgstr ""
+"Regelmatig verschijnen in een klein gebied  (meestal niet "
+"tegelijkertijd)<br>Bijvoorbeeld: rivieroevers/strekdammen, een grote "
+"golfbaan, een kleine woonwijk, etc"
 
 #: View/Atlas/index.ctp:960;1153
 msgid "Frequent Spawn <em>Point</em>"
-msgstr ""
+msgstr "Frequent Spawn <em>Punt</em>"
 
 #: View/Atlas/index.ctp:962
 msgid "A single location that frequently spawns a rare/uncommon species <span style='text-decoration:underline'>multiple times a day"
 msgstr ""
+"Een enkele locatie die geregeld éénzelfde zeldzame/niet veel voorkomende "
+"soort spawnt <span style='text-decoration:underline'>meerdere keren per dag"
 
 #: View/Atlas/index.ctp:968;1006
 msgid "&laquo; Back"
-msgstr ""
+msgstr "&laquo; Terug"
 
 #: View/Atlas/index.ctp:969
 msgid "Continue &raquo;"
-msgstr ""
+msgstr "Ga verder &raquo;"
 
 #: View/Atlas/index.ctp:976
 msgid "Helpful information for future travelers?"
-msgstr ""
+msgstr "Nuttige informatie voor toekomstige reizigers?"
 
 #: View/Atlas/index.ctp:978
 msgid "For example, how many did you encounter? How long were you there? What specific spot did you see a spawn? What exact times did you observe spawns?  Etc.  Anything that might be useful to future travelers!"
 msgstr ""
+"Bijvoorbeeld, hoeveel ben je er tegengekomen? Hoe lang was je daar? Op welke "
+"specifieke plek zag je een spawn? Welk exact tijdstip observeerde je "
+"spawns?  Enz.  Alles wat nuttig zou kunnen zijn voor toekomstige reizigers!"
 
 #: View/Atlas/index.ctp:979
 msgid "Helpful comments for future travelers..."
-msgstr ""
+msgstr "Handige tips voor toekomstige reizigers"
 
 #: View/Atlas/index.ctp:982
 msgid "Finally, confirm the date of your report, traveler:"
-msgstr ""
+msgstr "Tenslotte, bevestig de datum van je rapport, reiziger:"
 
 #: View/Atlas/index.ctp:1005
 msgid "Submit My Report!"
@@ -239,7 +271,7 @@ msgstr "Nest Niet geverifieerd!"
 
 #: View/Atlas/index.ctp:1024;2203
 msgid "Click Marker to See Field Reports"
-msgstr ""
+msgstr "Klik op de Marker om de Veldrapporten te zien."
 
 #: View/Atlas/index.ctp:1037
 msgid "Report a Sighting!"
@@ -336,6 +368,8 @@ msgstr "Rapporteer Een Nest!"
 #: View/Atlas/index.ctp:1172
 msgid "Position the marker to the <em>exact</em> location you believe this species nests at!"
 msgstr ""
+"Plaats de marker op de <em>exacte</em> locatie waar volgens jou deze soort "
+"een nest heeft!"
 
 #: View/Atlas/index.ctp:1190
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location!"
@@ -345,7 +379,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1191
 msgid "Submit Nest!"
-msgstr ""
+msgstr "Dien Nest in!"
 
 #: View/Atlas/index.ctp:1210
 msgid "Tip: Drag the map or click the '<b>My Location</b>' button to pan to your location! If there is no existing nest, click below:"
@@ -365,15 +399,15 @@ msgstr "Registreer info over wat je bent tegengekomen:"
 
 #: View/Atlas/index.ctp:1235
 msgid "Combat Points (CP)"
-msgstr ""
+msgstr "Gevechtspunten (CP)"
 
 #: View/Atlas/index.ctp:1237
 msgid "Enter CP..."
-msgstr ""
+msgstr "Voer CP in..."
 
 #: View/Atlas/index.ctp:1242
 msgid "Incense"
-msgstr ""
+msgstr "Incense"
 
 #: View/Atlas/index.ctp:1247
 msgid "Using Incense or Lure Patch"
@@ -385,7 +419,7 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1258;1271
 msgid "Unknown"
-msgstr ""
+msgstr "Onbekend"
 
 #: View/Atlas/index.ctp:1270
 msgid "Select Charge Move..."
@@ -413,7 +447,7 @@ msgstr "Sleep de kaart zo dat de marker op je exacte locatie staat:"
 
 #: View/Atlas/index.ctp:1319
 msgid "Set Location"
-msgstr ""
+msgstr "Stel Locatie In"
 
 #: View/Atlas/index.ctp:1324
 msgid "Describe The Terrain!"
@@ -469,7 +503,7 @@ msgstr "Tijd:"
 
 #: View/Atlas/index.ctp:1513
 msgid "Moon Phase"
-msgstr ""
+msgstr "Maanfase"
 
 #: View/Atlas/index.ctp:1522
 msgid "<i>If any information is incorrectly displayed, message <a href='https://reddit.com/u/dronpes' target='_blank'>/u/dronpes</a> or the <a href='https://www.reddit.com/message/compose/?to=/r/TheSilphRoad' target='_blank'>/r/TheSilphRoad moderators</a> and we'll sort it out!</i>"
@@ -477,19 +511,23 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1527
 msgid "Submit Field Report"
-msgstr ""
+msgstr "Verstuur Veldrapport"
 
 #: View/Atlas/index.ctp:1611
 msgid "Oops! Unable to retrieve nest data! You may need try again to re-authenticate!"
 msgstr ""
+"Oeps! Het lukt niet om de nest data op te halen! Je moet je waarschijnlijk "
+"opnieuw proberen authenticeren!"
 
 #: View/Atlas/index.ctp:1612;2825;2848
 msgid "Oops! There was an error submitting your report, traveler."
-msgstr ""
+msgstr "Oeps! Er was een fout tijdens het indienen van jouw rapport, reiziger."
 
 #: View/Atlas/index.ctp:1613;2779;2822;2845
 msgid "Your report has been received!  Thanks for contributing your Research, traveler!  The Atlas will update in a few minutes."
 msgstr ""
+"Je rapportage is ontvangen!  Bedankt voor je bijdrage, reiziger!  De Atlas "
+"wordt binnen een paar minuten geüpdatet. "
 
 #: View/Atlas/index.ctp:1614
 msgid "Your session has expired.  Please log back in!"
@@ -502,10 +540,14 @@ msgstr "Jouw apparaat/browser ondersteunt geen geolocatie! :("
 #: View/Atlas/index.ctp:1616
 msgid "Whoa, traveler - There are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
+"Whoa, reiziger - Er zijn te veel waarnemingen om te tonen op deze hoogte. "
+"Zoom in voor meer details."
 
 #: View/Atlas/index.ctp:1617;2143
 msgid "Whoa, traveler - There are too many nests to show at this height. Zoom in for more detail."
 msgstr ""
+"Whoa, reiziger - Er zijn te veel nesten om te tonen op deze hoogte. Zoom in "
+"voor meer details."
 
 #: View/Atlas/index.ctp:1618
 msgid "Please select a valid date! (Dates in the future are not accepted.)"
@@ -513,11 +555,11 @@ msgstr ""
 
 #: View/Atlas/index.ctp:1632;1633;1634;1635;1637;1639;1640;1641;1642;1643
 msgid "Retrieving Field Reports..."
-msgstr ""
+msgstr "Veldrapporten aan het Ophalen..."
 
 #: View/Atlas/index.ctp:1636
 msgid "Consulting Silph Scope..."
-msgstr ""
+msgstr "Silph Scope aan het Raadplegen..."
 
 #: View/Atlas/index.ctp:1636;1643
 msgid "Learning PokeFlute..."
@@ -533,11 +575,11 @@ msgstr "Wegwijzers aan het Lezen..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Ordering MewTwo Around..."
-msgstr ""
+msgstr "MewTwo Taakjes Laten Doen"
 
 #: View/Atlas/index.ctp:1638
 msgid "Rinsing Max Repel Off Shoes..."
-msgstr ""
+msgstr "Max Repel van Schoenen aan het Spoelen..."
 
 #: View/Atlas/index.ctp:1638
 msgid "Blowing in the Cartridge..."
@@ -561,7 +603,7 @@ msgstr "Zet locatieservices aan om naar je locatie te verspringen!"
 
 #: View/Atlas/index.ctp:1888
 msgid "Select All"
-msgstr ""
+msgstr "Selecteer Alles"
 
 #: View/Atlas/index.ctp:1889
 msgid "All Species"
@@ -569,11 +611,11 @@ msgstr "Alle Soorten"
 
 #: View/Atlas/index.ctp:1896;1897
 msgid "Species"
-msgstr ""
+msgstr "Soorten"
 
 #: View/Atlas/index.ctp:1898
 msgid "species"
-msgstr ""
+msgstr "soorten"
 
 #: View/Atlas/index.ctp:1950
 msgid "All Verification Levels"
@@ -585,23 +627,25 @@ msgstr "Alle Nestsoorten"
 
 #: View/Atlas/index.ctp:1961;1963
 msgid "Nest Behavior"
-msgstr ""
+msgstr "Nestgedrag"
 
 #: View/Atlas/index.ctp:1962
 msgid "1 Nest Behavior"
-msgstr ""
+msgstr "1 Nestgedrag"
 
 #: View/Atlas/index.ctp:1965
 msgid "Nest Behaviors"
-msgstr ""
+msgstr "Nest Gedrag"
 
 #: View/Atlas/index.ctp:2143
 msgid "Whoa, traveler - there are too many sightings to show at this height. Zoom in for more detail."
 msgstr ""
+"Ho, reiziger - Er zijn teveel waarnemingen om te tonen op deze hoogte. Zoom "
+"in voor meer details."
 
 #: View/Atlas/index.ctp:2201
 msgid "Sighted!"
-msgstr ""
+msgstr "Gezien!"
 
 #: View/Atlas/index.ctp:2203
 msgid "Species reportedly common at location"
@@ -613,11 +657,14 @@ msgstr ""
 
 #: View/Atlas/index.ctp:2300
 msgid "You must be logged in to submit nests!"
-msgstr ""
+msgstr "Je moet ingelogd zijn om nesten in te dienen!"
 
 #: View/Atlas/index.ctp:2450
 msgid "This species is spawning globally for an Event! We'll wait on collecting data on this species until the festivities are over. Happy Festivities!"
 msgstr ""
+"Deze soort spawnt wereldwijd voor een Event! We zullen wachten om data over "
+"deze soort te verzamelen tot de festiviteiten gedaan zijn. Gelukkige "
+"Festiviteiten!"
 
 #: View/Atlas/index.ctp:2538;2540
 msgid "Select a Charge Move"
@@ -630,10 +677,14 @@ msgstr ""
 #: View/Atlas/index.ctp:2758;2816;2839;2881
 msgid "Your session has expired.  Please log back in for your security"
 msgstr ""
+"Je huidige sessie is verlopen.  Log alstublieft opnieuw in voor uw "
+"veiligheid."
 
 #: View/Atlas/index.ctp:2783;2899
 msgid "Unable to save report!  Please check your web connection and try again!"
 msgstr ""
+"We kunnen je verslag niet opslaan!  Controleer je internetverbinding en "
+"probeer opnieuw!"
 
 #: View/Atlas/index.ctp:2857
 msgid "Please select your Trainer level!"
